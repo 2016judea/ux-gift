@@ -1,7 +1,5 @@
 To: reservations@joesbar.com
-Subject: TODO
-
-I ran UX testing on your website.
+Subject: I ran UX testing on your website.
 
 #1) On your homepage there is a bug where the TICKETS button for Austin Snell (Friday 10/23) goes to a "page not found" screen instead of TicketWeb.
 The link has a stray "/" in front of the TicketWeb address (href="/https://www.ticketweb.com/..."), so the browser treats it as a page on joesbar.com.

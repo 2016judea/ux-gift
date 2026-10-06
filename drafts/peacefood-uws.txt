@@ -1,7 +1,5 @@
 To: hello@peacefoodnyc.com
-Subject: TODO
-
-I ran UX testing on your website.
+Subject: I ran UX testing on your website.
 
 #1) On your homepage there is a bug where the "bakery section" link for custom cake ordering goes to a "page not found" screen.
 The link points to /customed-bakery-orders, which doesn't exist. Your bakery page is at /bakery.

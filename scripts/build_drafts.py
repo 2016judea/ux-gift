@@ -15,7 +15,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-BODY_HEAD = "I ran UX testing on your website.\n\n"
+SUBJECT = "I ran UX testing on your website."  # his subject line, verbatim
+BODY_HEAD = ""
 BODY_TAIL = """Forward this email to your website/developer to have them fix the above.\x20
 
 This was free of charge. No catch. But if interested we do also offer:
@@ -30,7 +31,7 @@ Aidan.
 
 
 def render(v: dict) -> str:
-    hdr = f"To: {v['email']}\nSubject: TODO\n"
+    hdr = f"To: {v['email']}\nSubject: {SUBJECT}\n"
     if v.get("attach"):
         hdr += "Attach: " + ", ".join(f"drafts/{v['slug']}/{a}" for a in v["attach"]) + "\n"
     items = []
