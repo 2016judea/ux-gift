@@ -1,2 +1,89 @@
 FAIL iphone  https://onf.coop/
 FAIL android https://onf.coop/
+FAIL iphone  https://transformationssalonandspa.com/
+FAIL android https://transformationssalonandspa.com/
+WARN iphone  https://centralparkboathouse.com/
+WARN android https://centralparkboathouse.com/
+FAIL iphone  https://centralparkboathouse.com/restaurant-menu/
+WARN android https://centralparkboathouse.com/restaurant-menu/
+FAIL iphone  https://360chicago.com/
+FAIL android https://360chicago.com/
+FAIL iphone  https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf
+FAIL android https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf
+
+== findings (FAIL and WARN) ==
+
+https://onf.coop/  [iphone]
+  FAIL  iOS zoom trap: input#mce-FNAME at 12px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#mce-EMAIL.required at 12px (needs 16px on touch)
+  FAIL  iOS zoom trap: input at 11px (needs 16px on touch)
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  33 of 387 tap targets under 24px: a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 225x22
+
+https://onf.coop/  [android]
+  FAIL  iOS zoom trap: input#mce-FNAME at 12px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#mce-EMAIL.required at 12px (needs 16px on touch)
+  FAIL  iOS zoom trap: input at 13.3333px (needs 16px on touch)
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  32 of 387 tap targets under 24px: a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 225x22
+
+https://transformationssalonandspa.com/  [iphone]
+  FAIL  document locked (overflow hidden) with 7384px of content and no inner scroller
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#pum-1052.pum covers 100% of the screen
+  WARN  2 of 9 tap targets under 24px: a 165x21, a 75x15
+
+https://transformationssalonandspa.com/  [android]
+  FAIL  document locked (overflow hidden) with 7315px of content and no inner scroller
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#pum-1052.pum covers 100% of the screen
+  WARN  2 of 9 tap targets under 24px: a 167x20, a 75x15
+
+https://centralparkboathouse.com/  [iphone]
+  WARN  broken image: https://centralparkboathouse.com/
+  WARN  broken image: https://centralparkboathouse.com/
+  WARN  broken image: https://centralparkboathouse.com/
+  WARN  fixed layer div.modal covers 100% of the screen
+  WARN  25 of 56 tap targets under 24px: a.logo-container 151x18, button.splide__arrow 9x9, button.splide__arrow 9x9, a.slide-link 390x18, a.slide-link 390x18
+  WARN  10 text elements under 12px: p 10px, p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px
+
+https://centralparkboathouse.com/  [android]
+  WARN  broken image: https://centralparkboathouse.com/
+  WARN  broken image: https://centralparkboathouse.com/
+  WARN  broken image: https://centralparkboathouse.com/
+  WARN  fixed layer div.modal covers 100% of the screen
+  WARN  25 of 56 tap targets under 24px: a.logo-container 151x18, button.splide__arrow 9x9, button.splide__arrow 9x9, a.slide-link 393x18, a.slide-link 393x18
+  WARN  10 text elements under 12px: p 10px, p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px
+
+https://centralparkboathouse.com/restaurant-menu/  [iphone]
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  8 of 22 tap targets under 24px: a.logo-container 151x18, a 22x40, a 10x40, a 109x13, a 82x13
+  WARN  9 text elements under 12px: p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px
+
+https://centralparkboathouse.com/restaurant-menu/  [android]
+  WARN  8 of 22 tap targets under 24px: a.logo-container 151x18, a 22x40, a 10x40, a 106x13, a 79x13
+  WARN  9 text elements under 12px: p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px
+
+https://360chicago.com/  [iphone]
+  FAIL  iOS zoom trap: input#input_4_2.large at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  broken image: https://bat.bing.com/action/0?ti=148012077&tm=gtm002&Ver=2&mid=42cfd68e-bbc5-4839-adfd-641828b883d3&bo=2&sid=dabe6e10c1cf11f1a1e47d667f053515&vid=dabe8fd0c1cf11
+  WARN  54 of 84 tap targets under 24px: a#link_text-42-9.ct-link-text 103x14, a 65x20, a 117x20, a 25x20, a 65x20
+
+https://360chicago.com/  [android]
+  FAIL  iOS zoom trap: input#input_4_2.large at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  broken image: https://bat.bing.com/action/0?ti=148012077&tm=gtm002&Ver=2&mid=883e499d-f392-4e0f-b105-01fc767a9776&bo=2&sid=f4ee6ac0c1cf11f1b0f241b21770ab14&vid=f4ee6360c1cf11
+  WARN  54 of 84 tap targets under 24px: a#link_text-42-9.ct-link-text 103x14, a 65x20, a 117x20, a 25x20, a 65x20
+
+https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf  [iphone]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://360chicago.com/wp-content/uploa
+
+https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf  [android]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://360chicago.com/wp-content/uploa
+
+12 page-device rows, 13 FAIL findings

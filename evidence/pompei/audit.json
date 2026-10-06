@@ -1,0 +1,619 @@
+[
+ {
+  "url": "https://www.pompeiusa.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.1,
+  "meta": null,
+  "vw": 980,
+  "vh": 1668,
+  "docH": 3706,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323382910_513.yui3-widget",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 31,
+  "small": 6,
+  "smallList": [
+   "a 103x21",
+   "a 186x21",
+   "a 111x21",
+   "a 186x21",
+   "a.site-email 155x14"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": -20,
+  "headTag": "nav#mainNavigation",
+  "textLen": 3015,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Make a Reservation-HIDDEN",
+    "href": "http://www.pompeiusa.com/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.pompeiusa.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://www.pompeiusa.com/#home-section",
+   "https://www.pompeiusa.com/#location-section",
+   "https://www.pompeiusa.com/#reservation-section",
+   "https://www.pompeiusa.com/",
+   "https://www.pompeiusa.com/menu",
+   "https://www.pompeiusa.com/specials",
+   "https://www.pompeiusa.com/banquets",
+   "https://www.pompeiusa.com/catering",
+   "https://www.pompeiusa.com/order-online",
+   "https://www.pompeiusa.com/our-story",
+   "https://www.google.com/maps/place/1531+W+Taylor+St,+Chicago,+IL+60607/@41.8678933,-87.6736616,15z/data=!4m5!3m4!1s0x880e2d1a54a0dd4d:0x6c35e0e33dda8bba!8m2!3d41.8690112!4d-87.6655732",
+   "https://www.pompeiusa.com/epgaming",
+   "https://www.google.com/maps/place/22+Conti+Pkwy,+Elmwood+Park,+IL+60707/@41.9276554,-87.8211215,16z/data=!3m1!4b1!4m6!3m5!1s0x880fcae3224e7333:0x7143df1fdf2bf804!8m2!3d41.9276514!4d-87.8185466!16s%2Fg%2F11q2x8vjlf!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+   "https://www.pompeiusa.com/join-e-club",
+   "https://www.facebook.com/PompeiTaylor",
+   "https://www.instagram.com/explore/locations/327691/pompei-taylor-street/",
+   "https://www.pompeiusa.com/#header",
+   "https://www.pompeiusa.com/contact-us",
+   "http://www.pompeiusa.com/",
+   "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+   "https://www.pompeiusa.com/gift-cards",
+   "https://www.pompeiusa.com/events",
+   "https://www.psuchydesign.com/"
+  ],
+  "weight": 25715,
+  "title": "Pompei - Seasoned with Love for Generations",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2037,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": -20
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-pompeiusa-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta: missing"
+   ],
+   [
+    "WARN",
+    "header at y=-20 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "6 of 31 tap targets under 24px: a 103x21, a 186x21, a 111x21, a 186x21, a.site-email 155x14"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3706px tall"
+   ]
+  ],
+  "site": "https://www.pompeiusa.com/",
+  "hop": "https://www.pompeiusa.com/menu"
+ },
+ {
+  "url": "https://www.pompeiusa.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.3,
+  "meta": null,
+  "vw": 980,
+  "vh": 1813,
+  "docH": 3708,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323389800_513.yui3-widget",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 31,
+  "small": 6,
+  "smallList": [
+   "a 103x21",
+   "a 186x21",
+   "a 111x21",
+   "a 186x21",
+   "a.site-email 155x14"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": -20,
+  "headTag": "nav#mainNavigation",
+  "textLen": 3014,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Make a Reservation-HIDDEN",
+    "href": "http://www.pompeiusa.com/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.pompeiusa.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://www.pompeiusa.com/#home-section",
+   "https://www.pompeiusa.com/#location-section",
+   "https://www.pompeiusa.com/#reservation-section",
+   "https://www.pompeiusa.com/",
+   "https://www.pompeiusa.com/menu",
+   "https://www.pompeiusa.com/specials",
+   "https://www.pompeiusa.com/banquets",
+   "https://www.pompeiusa.com/catering",
+   "https://www.pompeiusa.com/order-online",
+   "https://www.pompeiusa.com/our-story",
+   "https://www.google.com/maps/place/1531+W+Taylor+St,+Chicago,+IL+60607/@41.8678933,-87.6736616,15z/data=!4m5!3m4!1s0x880e2d1a54a0dd4d:0x6c35e0e33dda8bba!8m2!3d41.8690112!4d-87.6655732",
+   "https://www.pompeiusa.com/epgaming",
+   "https://www.google.com/maps/place/22+Conti+Pkwy,+Elmwood+Park,+IL+60707/@41.9276554,-87.8211215,16z/data=!3m1!4b1!4m6!3m5!1s0x880fcae3224e7333:0x7143df1fdf2bf804!8m2!3d41.9276514!4d-87.8185466!16s%2Fg%2F11q2x8vjlf!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+   "https://www.pompeiusa.com/join-e-club",
+   "https://www.facebook.com/PompeiTaylor",
+   "https://www.instagram.com/explore/locations/327691/pompei-taylor-street/",
+   "https://www.pompeiusa.com/#header",
+   "https://www.pompeiusa.com/contact-us",
+   "http://www.pompeiusa.com/",
+   "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+   "https://www.pompeiusa.com/gift-cards",
+   "https://www.pompeiusa.com/events",
+   "https://www.psuchydesign.com/"
+  ],
+  "weight": 25688,
+  "title": "Pompei - Seasoned with Love for Generations",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1895,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": -20
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta: missing"
+   ],
+   [
+    "WARN",
+    "header at y=-20 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "6 of 31 tap targets under 24px: a 103x21, a 186x21, a 111x21, a 186x21, a.site-email 155x14"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3708px tall"
+   ]
+  ],
+  "site": "https://www.pompeiusa.com/"
+ },
+ {
+  "url": "https://www.pompeiusa.com/menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.3,
+  "meta": null,
+  "vw": 980,
+  "vh": 1668,
+  "docH": 13380,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323392798_269.yui3-widget",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 23,
+  "small": 2,
+  "smallList": [
+   "a.site-email 155x14",
+   "a 143x14"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#mobileNavigation",
+  "textLen": 11016,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Printable menu",
+    "href": "https://www.pompeiusa.com/s/Pompei-MainMenu_bw_June26_2Pg_WEB-c53h.pdf"
+   },
+   {
+    "text": "Make a Reservation-HIDDEN",
+    "href": "http://www.pompeiusa.com/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.pompeiusa.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://www.pompeiusa.com/#home-section",
+   "https://www.pompeiusa.com/#location-section",
+   "https://www.pompeiusa.com/#reservation-section",
+   "https://www.pompeiusa.com/",
+   "https://www.pompeiusa.com/menu",
+   "https://www.pompeiusa.com/specials",
+   "https://www.pompeiusa.com/banquets",
+   "https://www.pompeiusa.com/catering",
+   "https://www.pompeiusa.com/order-online",
+   "https://www.pompeiusa.com/s/Pompei-MainMenu_bw_June26_2Pg_WEB-c53h.pdf",
+   "https://www.facebook.com/PompeiTaylor",
+   "https://www.instagram.com/explore/locations/327691/pompei-taylor-street/",
+   "https://www.pompeiusa.com/menu#header",
+   "https://www.pompeiusa.com/our-story",
+   "https://www.pompeiusa.com/contact-us",
+   "http://www.pompeiusa.com/",
+   "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+   "https://www.pompeiusa.com/join-e-club",
+   "https://www.pompeiusa.com/gift-cards",
+   "https://www.pompeiusa.com/events",
+   "https://www.psuchydesign.com/"
+  ],
+  "weight": 35058,
+  "title": "Menu \u2014 Pompei - Seasoned with Love for Generations",
+  "roundtrip": {
+   "atBottom": {
+    "y": 11712,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-pompeiusa-com-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta: missing"
+   ],
+   [
+    "WARN",
+    "2 of 23 tap targets under 24px: a.site-email 155x14, a 143x14"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 13380px tall"
+   ]
+  ],
+  "site": "https://www.pompeiusa.com/"
+ },
+ {
+  "url": "https://www.pompeiusa.com/menu",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.1,
+  "meta": null,
+  "vw": 980,
+  "vh": 1813,
+  "docH": 13382,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323398570_269.yui3-widget",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 23,
+  "small": 2,
+  "smallList": [
+   "a.site-email 155x14",
+   "a 143x14"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#mobileNavigation",
+  "textLen": 10993,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Printable menu",
+    "href": "https://www.pompeiusa.com/s/Pompei-MainMenu_bw_June26_2Pg_WEB-c53h.pdf"
+   },
+   {
+    "text": "Make a Reservation-HIDDEN",
+    "href": "http://www.pompeiusa.com/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.pompeiusa.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://www.pompeiusa.com/#home-section",
+   "https://www.pompeiusa.com/#location-section",
+   "https://www.pompeiusa.com/#reservation-section",
+   "https://www.pompeiusa.com/",
+   "https://www.pompeiusa.com/menu",
+   "https://www.pompeiusa.com/specials",
+   "https://www.pompeiusa.com/banquets",
+   "https://www.pompeiusa.com/catering",
+   "https://www.pompeiusa.com/order-online",
+   "https://www.pompeiusa.com/s/Pompei-MainMenu_bw_June26_2Pg_WEB-c53h.pdf",
+   "https://www.facebook.com/PompeiTaylor",
+   "https://www.instagram.com/explore/locations/327691/pompei-taylor-street/",
+   "https://www.pompeiusa.com/menu#header",
+   "https://www.pompeiusa.com/our-story",
+   "https://www.pompeiusa.com/contact-us",
+   "http://www.pompeiusa.com/",
+   "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+   "https://www.pompeiusa.com/join-e-club",
+   "https://www.pompeiusa.com/gift-cards",
+   "https://www.pompeiusa.com/events",
+   "https://www.psuchydesign.com/"
+  ],
+  "weight": 35022,
+  "title": "Menu \u2014 Pompei - Seasoned with Love for Generations",
+  "roundtrip": {
+   "atBottom": {
+    "y": 11569,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta: missing"
+   ],
+   [
+    "WARN",
+    "2 of 23 tap targets under 24px: a.site-email 155x14, a 143x14"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 13382px tall"
+   ]
+  ],
+  "site": "https://www.pompeiusa.com/"
+ }
+]

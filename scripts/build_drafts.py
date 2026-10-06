@@ -51,7 +51,8 @@ def main() -> None:
     with open(ROOT / "candidates.csv", "w", newline="") as fh:
         w = csv.writer(fh)
         w.writerow(["name", "city", "website", "email", "email_source", "mx_ok", "reviews", "takes_money", "prior_contact",
-                    "findings_count", "top_severity", "draft"])
+                    "findings_count", "top_severity", "draft", "form", "dev_credit"])
+        enrich = json.load(open(ROOT / "data/enrich.json")) if (ROOT / "data/enrich.json").exists() else {}
         for r in csv.DictReader(open(ROOT / "data/pool.csv")):
             if r["website"] not in audited:
                 continue
@@ -59,7 +60,8 @@ def main() -> None:
             n = len(v["findings"]) if v else 0
             sev = "BIG (verified)" if v else ("candidate, not verified big" if r["website"] in big else "none big")
             w.writerow([r["name"], r["city"], r["website"], v["email"] if v else r["email"], r["email_source"], r["mx_ok"],
-                        r["reviews"], r["takes_money"], r["prior_contact"], n, sev, f"drafts/{v['slug']}.txt" if v else ""])
+                        r["reviews"], r["takes_money"], r["prior_contact"], n, sev, f"drafts/{v['slug']}.txt" if v else "",
+                        enrich.get(r["website"], {}).get("form", ""), enrich.get(r["website"], {}).get("dev_credit", "")])
     lines = ["# UX gift — sweep 1 (2026-10-06)", "",
              "A free UX bug report emailed to a small business about its own website, with Aidan's $100 / $500 upsell.",
              "Drafts only — nothing has been sent. Skill: `~/.claude/skills/ux-gift-sweep/`.", "",

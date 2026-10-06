@@ -1,42 +1,96 @@
 [
- {"slug": "cafe-latte", "name": "Cafe Latte (Saint Paul)", "site": "https://www.cafelatte.com/", "email": "Admin@cafelatte.com",
+ {
+  "slug": "cafe-latte",
+  "name": "Cafe Latte (Saint Paul)",
+  "site": "https://www.cafelatte.com/",
+  "email": "Admin@cafelatte.com",
   "why_pay": "5,233 reviews, takes orders, catering and gift cards online; six dead links incl. order online",
   "attach": [],
   "findings": [
-   {"visitor": "On your homepage there is a bug where the links at the bottom of the page are broken. \"order online\", \"menu\", \"catering\", \"events\", \"about\" and \"contact\" all go to a \"page not found\" screen.",
+   {
+    "visitor": "On your homepage there is a bug where the links at the bottom of the page are broken. \"order online\", \"menu\", \"catering\", \"events\", \"about\" and \"contact\" all go to a \"page not found\" screen.",
     "cause": "Those footer links point at old page addresses (/gift-cards, /new-page, /services, /cafe-events, /about, /contact) that no longer exist. The real pages are live at /orderonline, /dailymenu and /contact-hours.",
-    "fix": "point the footer links at the live pages."}
-  ]},
- {"slug": "hells-kitchen", "name": "Hell's Kitchen (Minneapolis)", "site": "https://hellskitcheninc.com/", "email": "talktous@hellskitcheninc.com",
+    "fix": "point the footer links at the live pages."
+   }
+  ]
+ },
+ {
+  "slug": "pompei",
+  "name": "Pompei (Chicago, Little Italy)",
+  "site": "https://www.pompeiusa.com/",
+  "email": "info@pompeiusa.com",
+  "why_pay": "2,923 reviews, two locations, online ordering + catering + banquets; whole site renders as a shrunk desktop page on phones",
+  "attach": [
+   "1-site-shrunk-on-phone.png"
+  ],
+  "findings": [
+   {
+    "visitor": "On a phone your whole site shows up as the desktop version shrunk down to fit the screen. The hours bar, the menu and the Order Online button are all tiny, so people have to pinch-zoom to read anything or to order.",
+    "cause": "Your pages are missing the mobile viewport tag (<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">), so phones lay them out 980px wide and shrink them. Same on the menu page.",
+    "fix": "add the viewport tag to every page and check the layout once it's on."
+   }
+  ]
+ },
+ {
+  "slug": "hells-kitchen",
+  "name": "Hell's Kitchen (Minneapolis)",
+  "site": "https://hellskitcheninc.com/",
+  "email": "talktous@hellskitcheninc.com",
   "why_pay": "7,188 reviews, sells retail + ships online; the Day Menu PDF button is dead",
   "attach": [],
   "findings": [
-   {"visitor": "On your Day Menu page there is a bug where the \"DAY MENU PDF\" button goes to a \"page not found\" screen.",
+   {
+    "visitor": "On your Day Menu page there is a bug where the \"DAY MENU PDF\" button goes to a \"page not found\" screen.",
     "cause": "The button links to a PDF (/s/2026-Midway-Menu-AM-1-s5td.pdf) that has been removed or renamed.",
-    "fix": "re-upload the menu PDF and re-link the button."}
-  ]},
- {"slug": "peacefood-uws", "name": "Peacefood (Upper West Side)", "site": "https://www.peacefoodnyc.com/", "email": "hello@peacefoodnyc.com",
+    "fix": "re-upload the menu PDF and re-link the button."
+   }
+  ]
+ },
+ {
+  "slug": "peacefood-uws",
+  "name": "Peacefood (Upper West Side)",
+  "site": "https://www.peacefoodnyc.com/",
+  "email": "hello@peacefoodnyc.com",
   "why_pay": "1,662 reviews, sells custom cakes; the custom-cake link is dead",
   "attach": [],
   "findings": [
-   {"visitor": "On your homepage there is a bug where the \"bakery section\" link for custom cake ordering goes to a \"page not found\" screen.",
+   {
+    "visitor": "On your homepage there is a bug where the \"bakery section\" link for custom cake ordering goes to a \"page not found\" screen.",
     "cause": "The link points to /customed-bakery-orders, which doesn't exist. Your bakery page is at /bakery.",
-    "fix": "point that link at /bakery."}
-  ]},
- {"slug": "joes-on-weed-st", "name": "Joe's on Weed St. (Chicago)", "site": "https://www.joesbar.com/", "email": "reservations@joesbar.com",
+    "fix": "point that link at /bakery."
+   }
+  ]
+ },
+ {
+  "slug": "joes-on-weed-st",
+  "name": "Joe's on Weed St. (Chicago)",
+  "site": "https://www.joesbar.com/",
+  "email": "reservations@joesbar.com",
   "why_pay": "1,533 reviews, sells show tickets + party bookings; a TICKETS button is dead for a 10/23 show",
   "attach": [],
   "findings": [
-   {"visitor": "On your homepage there is a bug where the TICKETS button for Austin Snell (Friday 10/23) goes to a \"page not found\" screen instead of TicketWeb.",
+   {
+    "visitor": "On your homepage there is a bug where the TICKETS button for Austin Snell (Friday 10/23) goes to a \"page not found\" screen instead of TicketWeb.",
     "cause": "The link has a stray \"/\" in front of the TicketWeb address (href=\"/https://www.ticketweb.com/...\"), so the browser treats it as a page on joesbar.com.",
-    "fix": "remove the leading \"/\" from that link."}
-  ]},
- {"slug": "one-if-by-land", "name": "One if by Land, Two if by Sea (New York)", "site": "https://www.oneifbyland.com/", "email": "info@oneifbyland.com",
+    "fix": "remove the leading \"/\" from that link."
+   }
+  ]
+ },
+ {
+  "slug": "one-if-by-land",
+  "name": "One if by Land, Two if by Sea (New York)",
+  "site": "https://www.oneifbyland.com/",
+  "email": "info@oneifbyland.com",
   "why_pay": "1,307 reviews, tasting-menu restaurant on OpenTable/Resy + gift cards; menus page breaks on iPhone",
-  "attach": ["1-menus-page-slides-sideways.png"],
+  "attach": [
+   "1-menus-page-slides-sideways.png"
+  ],
   "findings": [
-   {"visitor": "On your Menus page there is a bug on iPhone where the page slides sideways. The menu cards hang off the right edge of the screen and the ones on the left get cut off.",
+   {
+    "visitor": "On your Menus page there is a bug on iPhone where the page slides sideways. The menu cards hang off the right edge of the screen and the ones on the left get cut off.",
     "cause": "The menu card grid (div.collection-item-2) lays out about 560px wide on a 390px-wide phone screen, and nothing clips it.",
-    "fix": "constrain the width of the menu card grid on mobile."}
-  ]}
+    "fix": "constrain the width of the menu card grid on mobile."
+   }
+  ]
+ }
 ]

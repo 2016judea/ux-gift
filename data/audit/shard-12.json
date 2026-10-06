@@ -1,0 +1,2080 @@
+[
+ {
+  "url": "https://onf.coop/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.6,
+  "meta": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 8020,
+  "zoomTrap": [
+   {
+    "el": "input#mce-FNAME",
+    "fs": 12
+   },
+   {
+    "el": "input#mce-EMAIL.required",
+    "fs": 12
+   },
+   {
+    "el": "input",
+    "fs": 11
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "section#header.container",
+    "pos": "fixed",
+    "cover": 13
+   }
+  ],
+  "targets": 387,
+  "small": 33,
+  "smallList": [
+   "a.no-arrow 114x22",
+   "a.no-arrow 114x22",
+   "a.no-arrow 114x22",
+   "a.no-arrow 114x22",
+   "a.no-arrow 225x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 24,
+  "headTag": "header.grid",
+  "textLen": 11208,
+  "fields": [
+   {
+    "el": "input",
+    "type": "text",
+    "name": "q",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search"
+   },
+   {
+    "el": "input#mce-FNAME",
+    "type": "text",
+    "name": "FNAME",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Name"
+   },
+   {
+    "el": "input#mce-EMAIL.required",
+    "type": "email",
+    "name": "EMAIL",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   },
+   {
+    "el": "input",
+    "type": "text",
+    "name": "b_4d887348fb10df1aee1395aa7_d33485ab75",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "b_4d887348fb10df1aee1395aa7_d33485ab75"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Catering Special Order Request",
+    "href": "https://forms.microsoft.com/r/EDJaEDEMGp"
+   },
+   {
+    "text": "Gift Card",
+    "href": "https://ozark-natural-foods.square.site/?shipping=true"
+   },
+   {
+    "text": "Membership Purchase",
+    "href": "https://ozark-natural-foods.square.site/?shipping=true"
+   }
+  ],
+  "allLinks": [
+   "https://onf.coop/",
+   "https://onf.coop/about",
+   "https://onf.coop/about#what-is-a-coop",
+   "https://onf.coop/membership",
+   "https://onf.coop/contact",
+   "https://onf.coop/about#board-of-directors",
+   "https://onf.coop/community",
+   "https://onf.coop/community#farmhand",
+   "https://onf.coop/podcast",
+   "https://onf.coop/donation-request",
+   "https://onf.coop/events",
+   "https://onf.coop/events#calendar",
+   "https://onf.coop/recipes",
+   "https://forms.microsoft.com/r/EDJaEDEMGp",
+   "https://www.facebook.com/ozarknaturalfoods",
+   "https://www.instagram.com/ozarknaturalfoods",
+   "https://www.tiktok.com/@ozarknaturalfoods",
+   "https://onf-coop.zoom.us/j/83893512079",
+   "https://onf.coop/recipes/cranberry-orange-tart",
+   "https://onf.coop/recipes/balsamic-honey-mustard-chicken-and-veggie-sheet-pan",
+   "https://onf.coop/recipes/turnip-au-gratin",
+   "https://onf.coop/search?category=recipes",
+   "https://onf.coop/recipes/parmesan-buttermilk-biscuits",
+   "https://onf.coop/recipes/tomato-tart",
+   "https://onf.coop/recipes/lemon-herb-pasta-salad",
+   "https://onf.coop/recipes/pesto-frittata",
+   "https://onf.coop/recipes/brunch-board",
+   "https://onf.coop/recipes/lemon-pie",
+   "https://onf.coop/recipes/black-eyed-pea-jambalaya",
+   "https://onf.coop/recipes/snowball-cookies",
+   "https://onf.coop/recipes/champagne-doughnuts",
+   "https://onf.coop/recipes/black-eyed-pea-salad",
+   "https://onf.coop/recipes/caramel-apple-nachos",
+   "https://onf.coop/recipes/holiday-sangria",
+   "https://onf.coop/recipes/sparkling-autumn-cider",
+   "https://onf.coop/recipes/tailgate-board",
+   "https://onf.coop/recipes/raspberry-mini-cheesecakes",
+   "https://onf.coop/recipes/strawberry-rose-buttermilk-donuts",
+   "https://onf.coop/recipes/jambalaya",
+   "https://onf.coop/recipes/roasted-caramelized-brussel-sprout-salad",
+   "https://onf.coop/recipes/velvety-autumn-pasta",
+   "https://onf.coop/recipes/spicy-orange-pecan-praline-pumpkin-bread-pudding",
+   "https://onf.coop/recipes/baked-carrot-cake-oatmeal",
+   "https://onf.coop/recipes/roasted-chestnuts",
+   "https://onf.coop/recipes/pickled-turnips",
+   "https://onf.coop/recipes/rose-lemonade-mimosa",
+   "https://onf.coop/recipes/guiness-beer-bread",
+   "https://onf.coop/recipes/pizza-footballs",
+   "https://onf.coop/recipes/stuffed-mushrooms",
+   "https://onf.coop/recipes/pumpkin-donuts",
+   "https://onf.coop/recipes/no-bake-chocolate-chip-granola-bites",
+   "https://onf.coop/recipes/carrot-cake-with-chai-brown-butter-buttercream",
+   "https://onf.coop/recipes/carrot-cake-oatmeal-pie-cream-cookies",
+   "https://onf.coop/recipes/strawberry-rose-scones",
+   "https://onf.coop/recipes/linzer-cookies",
+   "https://onf.coop/recipes/strawberry-rose-meringue-cookies",
+   "https://onf.coop/recipes/vegan-pot-pie",
+   "https://onf.coop/recipes/keto-edible-cookie-dough",
+   "https://onf.coop/recipes/loaded-baked-cauliflower-casserole",
+   "https://onf.coop/recipes/spaghetti-squash-stir-fry",
+   "https://onf.coop/recipes/tempeh-tuna-salad",
+   "https://onf.coop/recipes/keto-brownies",
+   "https://onf.coop/recipes/winter-salad-with-grapefruit-vinaigrette",
+   "https://onf.coop/recipes/tuscan-butter-salmon",
+   "https://onf.coop/recipes/cranberry-cake-with-orange-white-chocolate-glaze",
+   "https://onf.coop/recipes/pumpkin-spice-donuts",
+   "https://onf.coop/recipes/blooming-apples",
+   "https://onf.coop/recipes/autumn-cider",
+   "https://onf.coop/recipes/smore-s-dip-with-cinnamon-sugar-chips",
+   "https://onf.coop/recipes/acorn-squash",
+   "https://onf.coop/recipes/pasta-chips",
+   "https://onf.coop/recipes/spicy-orange-chocolate-chip-pumpkin-bread",
+   "https://onf.coop/recipes/ozark-harvest-salad",
+   "https://onf.coop/recipes/thanksgiving-leftovers-salad",
+   "https://onf.coop/recipes/autumn-beef-stew",
+   "https://onf.coop/recipes/breakfast-tart",
+   "https://onf.coop/recipes/pumpkin-tart",
+   "https://onf.coop/recipes/jalepeno-peach-blueberry-crumble",
+   "https://onf.coop/recipes/dutch-baby",
+   "https://onf.coop/recipes/plant-based-taco-meat"
+  ],
+  "weight": 18833,
+  "title": "Home | Coop",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7356,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 24
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-onf-coop.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 403 (Forbidden)"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#mce-FNAME at 12px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#mce-EMAIL.required at 12px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input at 11px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "33 of 387 tap targets under 24px: a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 225x22"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 8020px tall"
+   ]
+  ],
+  "site": "https://onf.coop/"
+ },
+ {
+  "url": "https://onf.coop/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.7,
+  "meta": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 8016,
+  "zoomTrap": [
+   {
+    "el": "input#mce-FNAME",
+    "fs": 12
+   },
+   {
+    "el": "input#mce-EMAIL.required",
+    "fs": 12
+   },
+   {
+    "el": "input",
+    "fs": 13.3333
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "section#header.container",
+    "pos": "fixed",
+    "cover": 12
+   }
+  ],
+  "targets": 387,
+  "small": 32,
+  "smallList": [
+   "a.no-arrow 114x22",
+   "a.no-arrow 114x22",
+   "a.no-arrow 114x22",
+   "a.no-arrow 114x22",
+   "a.no-arrow 225x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 24,
+  "headTag": "header.grid",
+  "textLen": 11375,
+  "fields": [
+   {
+    "el": "input",
+    "type": "text",
+    "name": "q",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search"
+   },
+   {
+    "el": "input#mce-FNAME",
+    "type": "text",
+    "name": "FNAME",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Name"
+   },
+   {
+    "el": "input#mce-EMAIL.required",
+    "type": "email",
+    "name": "EMAIL",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   },
+   {
+    "el": "input",
+    "type": "text",
+    "name": "b_4d887348fb10df1aee1395aa7_d33485ab75",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "b_4d887348fb10df1aee1395aa7_d33485ab75"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Catering Special Order Request",
+    "href": "https://forms.microsoft.com/r/EDJaEDEMGp"
+   },
+   {
+    "text": "Gift Card",
+    "href": "https://ozark-natural-foods.square.site/?shipping=true"
+   },
+   {
+    "text": "Membership Purchase",
+    "href": "https://ozark-natural-foods.square.site/?shipping=true"
+   }
+  ],
+  "allLinks": [
+   "https://onf.coop/",
+   "https://onf.coop/about",
+   "https://onf.coop/about#what-is-a-coop",
+   "https://onf.coop/membership",
+   "https://onf.coop/contact",
+   "https://onf.coop/about#board-of-directors",
+   "https://onf.coop/community",
+   "https://onf.coop/community#farmhand",
+   "https://onf.coop/podcast",
+   "https://onf.coop/donation-request",
+   "https://onf.coop/events",
+   "https://onf.coop/events#calendar",
+   "https://onf.coop/recipes",
+   "https://forms.microsoft.com/r/EDJaEDEMGp",
+   "https://www.facebook.com/ozarknaturalfoods",
+   "https://www.instagram.com/ozarknaturalfoods",
+   "https://www.tiktok.com/@ozarknaturalfoods",
+   "https://onf-coop.zoom.us/j/83893512079",
+   "https://onf.coop/recipes/cranberry-orange-tart",
+   "https://onf.coop/recipes/balsamic-honey-mustard-chicken-and-veggie-sheet-pan",
+   "https://onf.coop/recipes/turnip-au-gratin",
+   "https://onf.coop/search?category=recipes",
+   "https://onf.coop/recipes/parmesan-buttermilk-biscuits",
+   "https://onf.coop/recipes/tomato-tart",
+   "https://onf.coop/recipes/lemon-herb-pasta-salad",
+   "https://onf.coop/recipes/pesto-frittata",
+   "https://onf.coop/recipes/brunch-board",
+   "https://onf.coop/recipes/lemon-pie",
+   "https://onf.coop/recipes/black-eyed-pea-jambalaya",
+   "https://onf.coop/recipes/snowball-cookies",
+   "https://onf.coop/recipes/champagne-doughnuts",
+   "https://onf.coop/recipes/black-eyed-pea-salad",
+   "https://onf.coop/recipes/caramel-apple-nachos",
+   "https://onf.coop/recipes/holiday-sangria",
+   "https://onf.coop/recipes/sparkling-autumn-cider",
+   "https://onf.coop/recipes/tailgate-board",
+   "https://onf.coop/recipes/raspberry-mini-cheesecakes",
+   "https://onf.coop/recipes/strawberry-rose-buttermilk-donuts",
+   "https://onf.coop/recipes/jambalaya",
+   "https://onf.coop/recipes/roasted-caramelized-brussel-sprout-salad",
+   "https://onf.coop/recipes/velvety-autumn-pasta",
+   "https://onf.coop/recipes/spicy-orange-pecan-praline-pumpkin-bread-pudding",
+   "https://onf.coop/recipes/baked-carrot-cake-oatmeal",
+   "https://onf.coop/recipes/roasted-chestnuts",
+   "https://onf.coop/recipes/pickled-turnips",
+   "https://onf.coop/recipes/rose-lemonade-mimosa",
+   "https://onf.coop/recipes/guiness-beer-bread",
+   "https://onf.coop/recipes/pizza-footballs",
+   "https://onf.coop/recipes/stuffed-mushrooms",
+   "https://onf.coop/recipes/pumpkin-donuts",
+   "https://onf.coop/recipes/no-bake-chocolate-chip-granola-bites",
+   "https://onf.coop/recipes/carrot-cake-with-chai-brown-butter-buttercream",
+   "https://onf.coop/recipes/carrot-cake-oatmeal-pie-cream-cookies",
+   "https://onf.coop/recipes/strawberry-rose-scones",
+   "https://onf.coop/recipes/linzer-cookies",
+   "https://onf.coop/recipes/strawberry-rose-meringue-cookies",
+   "https://onf.coop/recipes/vegan-pot-pie",
+   "https://onf.coop/recipes/keto-edible-cookie-dough",
+   "https://onf.coop/recipes/loaded-baked-cauliflower-casserole",
+   "https://onf.coop/recipes/spaghetti-squash-stir-fry",
+   "https://onf.coop/recipes/tempeh-tuna-salad",
+   "https://onf.coop/recipes/keto-brownies",
+   "https://onf.coop/recipes/winter-salad-with-grapefruit-vinaigrette",
+   "https://onf.coop/recipes/tuscan-butter-salmon",
+   "https://onf.coop/recipes/cranberry-cake-with-orange-white-chocolate-glaze",
+   "https://onf.coop/recipes/pumpkin-spice-donuts",
+   "https://onf.coop/recipes/blooming-apples",
+   "https://onf.coop/recipes/autumn-cider",
+   "https://onf.coop/recipes/smore-s-dip-with-cinnamon-sugar-chips",
+   "https://onf.coop/recipes/acorn-squash",
+   "https://onf.coop/recipes/pasta-chips",
+   "https://onf.coop/recipes/spicy-orange-chocolate-chip-pumpkin-bread",
+   "https://onf.coop/recipes/ozark-harvest-salad",
+   "https://onf.coop/recipes/thanksgiving-leftovers-salad",
+   "https://onf.coop/recipes/autumn-beef-stew",
+   "https://onf.coop/recipes/breakfast-tart",
+   "https://onf.coop/recipes/pumpkin-tart",
+   "https://onf.coop/recipes/jalepeno-peach-blueberry-crumble",
+   "https://onf.coop/recipes/dutch-baby",
+   "https://onf.coop/recipes/plant-based-taco-meat"
+  ],
+  "weight": 18807,
+  "title": "Home | Coop",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7289,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 24
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#mce-FNAME at 12px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#mce-EMAIL.required at 12px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input at 13.3333px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "32 of 387 tap targets under 24px: a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 114x22, a.no-arrow 225x22"
+   ],
+   [
+    "INFO",
+    "document scrolls, 8016px tall"
+   ]
+  ],
+  "site": "https://onf.coop/"
+ },
+ {
+  "url": "https://transformationssalonandspa.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 4.6,
+  "meta": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 7384,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": true,
+  "scrollers": [],
+  "unreachable": true,
+  "layers": [
+   {
+    "el": "div#pum-1052.pum",
+    "pos": "fixed",
+    "cover": 100
+   }
+  ],
+  "targets": 9,
+  "small": 2,
+  "smallList": [
+   "a 165x21",
+   "a 75x15"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.et-l",
+  "textLen": 2149,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "BOOK ONLINE",
+    "href": "https://www.phorest.com/salon/transformationssalonandspa"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://gift-cards.phorest.com/salons/transformationssalonandspa#"
+   },
+   {
+    "text": "SHOP NOW",
+    "href": "https://shop-us.phorest.com/businesses/U2kXe_wf3L_qKy6Dng6Slw/branches/K7uYEmSwgM8jXKwGEGh2qQ/products"
+   },
+   {
+    "text": "BOOK ONLINE",
+    "href": "https://www.phorest.com/salon/transformationssalonandspa"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://gift-cards.phorest.com/salons/transformationssalonandspa#"
+   },
+   {
+    "text": "SHOP NOW",
+    "href": "https://shop-us.phorest.com/businesses/U2kXe_wf3L_qKy6Dng6Slw/branches/K7uYEmSwgM8jXKwGEGh2qQ/products"
+   },
+   {
+    "text": "BOOK NOW",
+    "href": "https://www.phorest.com/salon/transformationssalonandspa"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://gift-cards.phorest.com/salons/transformationssalonandspa#"
+   },
+   {
+    "text": "SHOP NOW",
+    "href": "https://shop-us.phorest.com/businesses/U2kXe_wf3L_qKy6Dng6Slw/branches/K7uYEmSwgM8jXKwGEGh2qQ/products"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://gift-cards.phorest.com/salons/transformationssalonandspa#"
+   },
+   {
+    "text": "SHOP NOW",
+    "href": "https://shop-us.phorest.com/businesses/U2kXe_wf3L_qKy6Dng6Slw/branches/K7uYEmSwgM8jXKwGEGh2qQ/products"
+   }
+  ],
+  "allLinks": [
+   "https://transformationssalonandspa.com/#",
+   "https://transformationssalonandspa.com/",
+   "https://transformationssalonandspa.com/services/",
+   "https://transformationssalonandspa.com/massage-2/",
+   "https://transformationssalonandspa.com/body-treatments/",
+   "https://transformationssalonandspa.com/skin-care-treatments/",
+   "https://transformationssalonandspa.com/hair-removal/",
+   "https://transformationssalonandspa.com/make-up/",
+   "https://transformationssalonandspa.com/eyebrow-treatments/",
+   "https://transformationssalonandspa.com/eyelash-enhancements/",
+   "https://transformationssalonandspa.com/nail-services/",
+   "https://transformationssalonandspa.com/hair-cutting-and-styling/",
+   "https://transformationssalonandspa.com/hair-color/",
+   "https://transformationssalonandspa.com/perms-brazilian-blowout-and-relaxers/",
+   "https://transformationssalonandspa.com/special-occasion-services/",
+   "https://transformationssalonandspa.com/luxury-spa-day-retreats/",
+   "https://www.phorest.com/salon/transformationssalonandspa",
+   "https://gift-cards.phorest.com/salons/transformationssalonandspa#",
+   "https://transformationssalonandspa.com/contact/",
+   "https://transformationssalonandspa.com/seasonal-offers/",
+   "https://shop-us.phorest.com/businesses/U2kXe_wf3L_qKy6Dng6Slw/branches/K7uYEmSwgM8jXKwGEGh2qQ/products",
+   "https://transformationssalonandspa.com/our-team/",
+   "https://transformationssalonandspa.com/join-our-team/",
+   "https://transformationssalonandspa.com/subscribe/",
+   "https://transformationssalonandspa.com/membership/",
+   "https://transformationssalonandspa.com/virtual-tour/",
+   "https://transformationssalonandspa.com/rewards/",
+   "https://www.instagram.com/transformationsindy/",
+   "https://transformationssalonandspa.salonmarketer.io/new-guest-offer"
+  ],
+  "weight": 29012,
+  "title": "HOME - Transformations Salon and Spa",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6720,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-transformationssalonandspa-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "document locked (overflow hidden) with 7384px of content and no inner scroller"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "fixed layer div#pum-1052.pum covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "2 of 9 tap targets under 24px: a 165x21, a 75x15"
+   ],
+   [
+    "INFO",
+    "locked shell, scrollers: "
+   ]
+  ],
+  "site": "https://transformationssalonandspa.com/"
+ },
+ {
+  "url": "https://transformationssalonandspa.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.2,
+  "meta": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 7315,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": true,
+  "scrollers": [],
+  "unreachable": true,
+  "layers": [
+   {
+    "el": "div#pum-1052.pum",
+    "pos": "fixed",
+    "cover": 100
+   }
+  ],
+  "targets": 9,
+  "small": 2,
+  "smallList": [
+   "a 167x20",
+   "a 75x15"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.et-l",
+  "textLen": 2163,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "BOOK ONLINE",
+    "href": "https://www.phorest.com/salon/transformationssalonandspa"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://gift-cards.phorest.com/salons/transformationssalonandspa#"
+   },
+   {
+    "text": "SHOP NOW",
+    "href": "https://shop-us.phorest.com/businesses/U2kXe_wf3L_qKy6Dng6Slw/branches/K7uYEmSwgM8jXKwGEGh2qQ/products"
+   },
+   {
+    "text": "BOOK ONLINE",
+    "href": "https://www.phorest.com/salon/transformationssalonandspa"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://gift-cards.phorest.com/salons/transformationssalonandspa#"
+   },
+   {
+    "text": "SHOP NOW",
+    "href": "https://shop-us.phorest.com/businesses/U2kXe_wf3L_qKy6Dng6Slw/branches/K7uYEmSwgM8jXKwGEGh2qQ/products"
+   },
+   {
+    "text": "BOOK NOW",
+    "href": "https://www.phorest.com/salon/transformationssalonandspa"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://gift-cards.phorest.com/salons/transformationssalonandspa#"
+   },
+   {
+    "text": "SHOP NOW",
+    "href": "https://shop-us.phorest.com/businesses/U2kXe_wf3L_qKy6Dng6Slw/branches/K7uYEmSwgM8jXKwGEGh2qQ/products"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://gift-cards.phorest.com/salons/transformationssalonandspa#"
+   },
+   {
+    "text": "SHOP NOW",
+    "href": "https://shop-us.phorest.com/businesses/U2kXe_wf3L_qKy6Dng6Slw/branches/K7uYEmSwgM8jXKwGEGh2qQ/products"
+   }
+  ],
+  "allLinks": [
+   "https://transformationssalonandspa.com/#",
+   "https://transformationssalonandspa.com/",
+   "https://transformationssalonandspa.com/services/",
+   "https://transformationssalonandspa.com/massage-2/",
+   "https://transformationssalonandspa.com/body-treatments/",
+   "https://transformationssalonandspa.com/skin-care-treatments/",
+   "https://transformationssalonandspa.com/hair-removal/",
+   "https://transformationssalonandspa.com/make-up/",
+   "https://transformationssalonandspa.com/eyebrow-treatments/",
+   "https://transformationssalonandspa.com/eyelash-enhancements/",
+   "https://transformationssalonandspa.com/nail-services/",
+   "https://transformationssalonandspa.com/hair-cutting-and-styling/",
+   "https://transformationssalonandspa.com/hair-color/",
+   "https://transformationssalonandspa.com/perms-brazilian-blowout-and-relaxers/",
+   "https://transformationssalonandspa.com/special-occasion-services/",
+   "https://transformationssalonandspa.com/luxury-spa-day-retreats/",
+   "https://www.phorest.com/salon/transformationssalonandspa",
+   "https://gift-cards.phorest.com/salons/transformationssalonandspa#",
+   "https://transformationssalonandspa.com/contact/",
+   "https://transformationssalonandspa.com/seasonal-offers/",
+   "https://shop-us.phorest.com/businesses/U2kXe_wf3L_qKy6Dng6Slw/branches/K7uYEmSwgM8jXKwGEGh2qQ/products",
+   "https://transformationssalonandspa.com/our-team/",
+   "https://transformationssalonandspa.com/join-our-team/",
+   "https://transformationssalonandspa.com/subscribe/",
+   "https://transformationssalonandspa.com/membership/",
+   "https://transformationssalonandspa.com/virtual-tour/",
+   "https://transformationssalonandspa.com/rewards/",
+   "https://www.instagram.com/transformationsindy/",
+   "https://transformationssalonandspa.salonmarketer.io/new-guest-offer"
+  ],
+  "weight": 28976,
+  "title": "HOME - Transformations Salon and Spa",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6588,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "document locked (overflow hidden) with 7315px of content and no inner scroller"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "fixed layer div#pum-1052.pum covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "2 of 9 tap targets under 24px: a 167x20, a 75x15"
+   ],
+   [
+    "INFO",
+    "locked shell, scrollers: "
+   ]
+  ],
+  "site": "https://transformationssalonandspa.com/"
+ },
+ {
+  "url": "https://centralparkboathouse.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.1,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 8049,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [
+   {
+    "el": "div.form_container",
+    "client": 40,
+    "scroll": 891
+   }
+  ],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.modal",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#truyo-consent-module.sticky-footer",
+    "pos": "fixed",
+    "cover": 21
+   },
+   {
+    "el": "header#header.site-header",
+    "pos": "fixed",
+    "cover": 13
+   }
+  ],
+  "targets": 56,
+  "small": 25,
+  "smallList": [
+   "a.logo-container 151x18",
+   "button.splide__arrow 9x9",
+   "button.splide__arrow 9x9",
+   "a.slide-link 390x18",
+   "a.slide-link 390x18"
+  ],
+  "tiny": 10,
+  "tinyList": [
+   "p 10px",
+   "p.footer-hours 10px",
+   "p.footer-hours 10px",
+   "p.footer-hours 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.site-header",
+  "textLen": 2631,
+  "fields": [
+   {
+    "el": "input#faq-search-input",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Type keywords here"
+   },
+   {
+    "el": "input#wpforms-201-field_1.wpforms-field-large",
+    "type": "text",
+    "name": "wpforms[fields][1]",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First Name"
+   },
+   {
+    "el": "input#wpforms-201-field_2.wpforms-field-large",
+    "type": "text",
+    "name": "wpforms[fields][2]",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last Name"
+   },
+   {
+    "el": "input#wpforms-201-field_5.wpforms-field-large",
+    "type": "email",
+    "name": "wpforms[fields][5]",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email Address"
+   },
+   {
+    "el": "textarea#wpforms-201-field_4.wpforms-field-medium",
+    "type": "textarea",
+    "name": "wpforms[fields][4]",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Message"
+   },
+   {
+    "el": "input.wpforms-recaptcha-hidden",
+    "type": "text",
+    "name": "g-recaptcha-hidden",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "g-recaptcha-hidden"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://centralparkboathouse.com/",
+   "https://centralparkboathouse.com/",
+   "https://centralparkboathouse.com/",
+   "https://centralparkboathouse.com/",
+   "https://centralparkboathouse.com/"
+  ],
+  "moneyLinks": [
+   {
+    "text": "Restaurant Menu",
+    "href": "https://centralparkboathouse.com/restaurant-menu/"
+   },
+   {
+    "text": "Cafe Menu",
+    "href": "https://centralparkboathouse.com/cafe-menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.centralparkboathouse.com/"
+   },
+   {
+    "text": "Restaurant Menu",
+    "href": "https://centralparkboathouse.com/restaurant-menu/"
+   },
+   {
+    "text": "Cafe Menu",
+    "href": "https://centralparkboathouse.com/cafe-menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.centralparkboathouse.com/"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=1294132&restref=1294132&experienceId=808267&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=1294132&restref=1294132&experienceId=808267&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Open Table",
+    "href": "https://www.opentable.com/r/central-park-boathouse-new-york-2"
+   },
+   {
+    "text": "Open Table private dining link.",
+    "href": "https://www.opentable.com/private-dining/restaurant/1294132/spaces/5ef2caf1-b3a0-4250-bdaf-8c384f27b7e4?lang=en-US&correlationId=1066597e-2092-49e3-bfec-c6b284871a8a"
+   }
+  ],
+  "allLinks": [
+   "https://centralparkboathouse.com/about-us/",
+   "https://centralparkboathouse.com/boat/",
+   "https://centralparkboathouse.com/#",
+   "https://centralparkboathouse.com/dining/",
+   "https://centralparkboathouse.com/restaurant-menu/",
+   "https://centralparkboathouse.com/cafe-menu/",
+   "https://centralparkboathouse.com/dockside-menu/",
+   "https://centralparkboathouse.com/event-spaces/",
+   "https://centralparkboathouse.com/corporate-events/",
+   "https://centralparkboathouse.com/weddings/",
+   "https://centralparkboathouse.com/social-events/",
+   "https://shop.centralparkboathouse.com/",
+   "https://centralparkboathouse.com/",
+   "https://centralparkboathouse.com/wp-content/uploads/2026/08/CPBH-Holiday-Packages-2026.pdf",
+   "https://www.opentable.com/booking/experiences-availability?rid=1294132&restref=1294132&experienceId=808267&utm_source=external&utm_medium=referral&utm_campaign=shared",
+   "https://centralparkboathouse.com/event-inquiry/",
+   "https://www.opentable.com/r/central-park-boathouse-new-york-2",
+   "https://www.opentable.com/private-dining/restaurant/1294132/spaces/5ef2caf1-b3a0-4250-bdaf-8c384f27b7e4?lang=en-US&correlationId=1066597e-2092-49e3-bfec-c6b284871a8a",
+   "https://new.mta.info/accessibility/access-a-ride",
+   "https://www.instagram.com/nycboathouse/",
+   "https://www.facebook.com/centralparkboathouse?mibextid=2JQ9oc",
+   "https://centralparkboathouse.com/privacy-notice",
+   "https://centralparkboathouse.com/privacy-notice#ad-choices",
+   "https://centralparkboathouse.com/#cookie-preferences",
+   "https://yourprivacychoices.centralparkboathouse.com/"
+  ],
+  "weight": 18962,
+  "title": "Central Park Boathouse | Dining, Events and Row Boats",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7385,
+    "inner": 851
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/r/central-park-boathouse-new-york-2",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.opentable.com/private-dining/restaurant/1294132/spaces/5ef2caf1-b3a0-4250-bdaf-8c384f27b7e4?lang=en-US&correlationId=1066597e-2092-49e3-bfec-c6b284871a8a",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-centralparkboathouse-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "broken image: https://centralparkboathouse.com/"
+   ],
+   [
+    "WARN",
+    "broken image: https://centralparkboathouse.com/"
+   ],
+   [
+    "WARN",
+    "broken image: https://centralparkboathouse.com/"
+   ],
+   [
+    "WARN",
+    "fixed layer div.modal covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "25 of 56 tap targets under 24px: a.logo-container 151x18, button.splide__arrow 9x9, button.splide__arrow 9x9, a.slide-link 390x18, a.slide-link 390x18"
+   ],
+   [
+    "WARN",
+    "10 text elements under 12px: p 10px, p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 8049px tall"
+   ]
+  ],
+  "site": "https://centralparkboathouse.com/",
+  "hop": "https://centralparkboathouse.com/restaurant-menu/"
+ },
+ {
+  "url": "https://centralparkboathouse.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.2,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 8012,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [
+   {
+    "el": "div.form_container",
+    "client": 40,
+    "scroll": 891
+   }
+  ],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.modal",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#truyo-consent-module.sticky-footer",
+    "pos": "fixed",
+    "cover": 20
+   },
+   {
+    "el": "header#header.site-header",
+    "pos": "fixed",
+    "cover": 12
+   }
+  ],
+  "targets": 56,
+  "small": 25,
+  "smallList": [
+   "a.logo-container 151x18",
+   "button.splide__arrow 9x9",
+   "button.splide__arrow 9x9",
+   "a.slide-link 393x18",
+   "a.slide-link 393x18"
+  ],
+  "tiny": 10,
+  "tinyList": [
+   "p 10px",
+   "p.footer-hours 10px",
+   "p.footer-hours 10px",
+   "p.footer-hours 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.site-header",
+  "textLen": 4625,
+  "fields": [
+   {
+    "el": "input#faq-search-input",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Type keywords here"
+   },
+   {
+    "el": "input#wpforms-201-field_1.wpforms-field-large",
+    "type": "text",
+    "name": "wpforms[fields][1]",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First Name"
+   },
+   {
+    "el": "input#wpforms-201-field_2.wpforms-field-large",
+    "type": "text",
+    "name": "wpforms[fields][2]",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last Name"
+   },
+   {
+    "el": "input#wpforms-201-field_5.wpforms-field-large",
+    "type": "email",
+    "name": "wpforms[fields][5]",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email Address"
+   },
+   {
+    "el": "textarea#wpforms-201-field_4.wpforms-field-medium",
+    "type": "textarea",
+    "name": "wpforms[fields][4]",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Message"
+   },
+   {
+    "el": "input.wpforms-recaptcha-hidden",
+    "type": "text",
+    "name": "g-recaptcha-hidden",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "g-recaptcha-hidden"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://centralparkboathouse.com/",
+   "https://centralparkboathouse.com/",
+   "https://centralparkboathouse.com/",
+   "https://centralparkboathouse.com/",
+   "https://centralparkboathouse.com/"
+  ],
+  "moneyLinks": [
+   {
+    "text": "Restaurant Menu",
+    "href": "https://centralparkboathouse.com/restaurant-menu/"
+   },
+   {
+    "text": "Cafe Menu",
+    "href": "https://centralparkboathouse.com/cafe-menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.centralparkboathouse.com/"
+   },
+   {
+    "text": "Restaurant Menu",
+    "href": "https://centralparkboathouse.com/restaurant-menu/"
+   },
+   {
+    "text": "Cafe Menu",
+    "href": "https://centralparkboathouse.com/cafe-menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.centralparkboathouse.com/"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=1294132&restref=1294132&experienceId=808267&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=1294132&restref=1294132&experienceId=808267&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Open Table",
+    "href": "https://www.opentable.com/r/central-park-boathouse-new-york-2"
+   },
+   {
+    "text": "Open Table private dining link.",
+    "href": "https://www.opentable.com/private-dining/restaurant/1294132/spaces/5ef2caf1-b3a0-4250-bdaf-8c384f27b7e4?lang=en-US&correlationId=1066597e-2092-49e3-bfec-c6b284871a8a"
+   }
+  ],
+  "allLinks": [
+   "https://centralparkboathouse.com/about-us/",
+   "https://centralparkboathouse.com/boat/",
+   "https://centralparkboathouse.com/#",
+   "https://centralparkboathouse.com/dining/",
+   "https://centralparkboathouse.com/restaurant-menu/",
+   "https://centralparkboathouse.com/cafe-menu/",
+   "https://centralparkboathouse.com/dockside-menu/",
+   "https://centralparkboathouse.com/event-spaces/",
+   "https://centralparkboathouse.com/corporate-events/",
+   "https://centralparkboathouse.com/weddings/",
+   "https://centralparkboathouse.com/social-events/",
+   "https://shop.centralparkboathouse.com/",
+   "https://centralparkboathouse.com/",
+   "https://centralparkboathouse.com/wp-content/uploads/2026/08/CPBH-Holiday-Packages-2026.pdf",
+   "https://www.opentable.com/booking/experiences-availability?rid=1294132&restref=1294132&experienceId=808267&utm_source=external&utm_medium=referral&utm_campaign=shared",
+   "https://centralparkboathouse.com/event-inquiry/",
+   "https://www.opentable.com/r/central-park-boathouse-new-york-2",
+   "https://www.opentable.com/private-dining/restaurant/1294132/spaces/5ef2caf1-b3a0-4250-bdaf-8c384f27b7e4?lang=en-US&correlationId=1066597e-2092-49e3-bfec-c6b284871a8a",
+   "https://new.mta.info/accessibility/access-a-ride",
+   "https://www.instagram.com/nycboathouse/",
+   "https://www.facebook.com/centralparkboathouse?mibextid=2JQ9oc",
+   "https://centralparkboathouse.com/privacy-notice",
+   "https://centralparkboathouse.com/privacy-notice#ad-choices",
+   "https://centralparkboathouse.com/#cookie-preferences",
+   "https://yourprivacychoices.centralparkboathouse.com/"
+  ],
+  "weight": 18971,
+  "title": "Central Park Boathouse | Dining, Events and Row Boats",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7285,
+    "inner": 851
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: requestStorageAccess: Permission denied."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "broken image: https://centralparkboathouse.com/"
+   ],
+   [
+    "WARN",
+    "broken image: https://centralparkboathouse.com/"
+   ],
+   [
+    "WARN",
+    "broken image: https://centralparkboathouse.com/"
+   ],
+   [
+    "WARN",
+    "fixed layer div.modal covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "25 of 56 tap targets under 24px: a.logo-container 151x18, button.splide__arrow 9x9, button.splide__arrow 9x9, a.slide-link 393x18, a.slide-link 393x18"
+   ],
+   [
+    "WARN",
+    "10 text elements under 12px: p 10px, p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 8012px tall"
+   ]
+  ],
+  "site": "https://centralparkboathouse.com/"
+ },
+ {
+  "url": "https://centralparkboathouse.com/restaurant-menu/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.4,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 6091,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [
+   {
+    "el": "div.form_container",
+    "client": 40,
+    "scroll": 891
+   }
+  ],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#truyo-consent-module.sticky-footer",
+    "pos": "fixed",
+    "cover": 21
+   }
+  ],
+  "targets": 22,
+  "small": 8,
+  "smallList": [
+   "a.logo-container 151x18",
+   "a 22x40",
+   "a 10x40",
+   "a 109x13",
+   "a 82x13"
+  ],
+  "tiny": 9,
+  "tinyList": [
+   "p.footer-hours 10px",
+   "p.footer-hours 10px",
+   "p.footer-hours 10px",
+   "p.footer-hours 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.site-header",
+  "textLen": 2669,
+  "fields": [
+   {
+    "el": "input#wpforms-201-field_1.wpforms-field-large",
+    "type": "text",
+    "name": "wpforms[fields][1]",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First Name"
+   },
+   {
+    "el": "input#wpforms-201-field_2.wpforms-field-large",
+    "type": "text",
+    "name": "wpforms[fields][2]",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last Name"
+   },
+   {
+    "el": "input#wpforms-201-field_5.wpforms-field-large",
+    "type": "email",
+    "name": "wpforms[fields][5]",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email Address"
+   },
+   {
+    "el": "textarea#wpforms-201-field_4.wpforms-field-medium",
+    "type": "textarea",
+    "name": "wpforms[fields][4]",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Message"
+   },
+   {
+    "el": "input.wpforms-recaptcha-hidden",
+    "type": "text",
+    "name": "g-recaptcha-hidden",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "g-recaptcha-hidden"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Restaurant Menu",
+    "href": "https://centralparkboathouse.com/restaurant-menu/"
+   },
+   {
+    "text": "Cafe Menu",
+    "href": "https://centralparkboathouse.com/cafe-menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.centralparkboathouse.com/"
+   },
+   {
+    "text": "Restaurant Menu",
+    "href": "https://centralparkboathouse.com/restaurant-menu/"
+   },
+   {
+    "text": "Cafe Menu",
+    "href": "https://centralparkboathouse.com/cafe-menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.centralparkboathouse.com/"
+   }
+  ],
+  "allLinks": [
+   "https://centralparkboathouse.com/about-us/",
+   "https://centralparkboathouse.com/boat/",
+   "https://centralparkboathouse.com/restaurant-menu/#",
+   "https://centralparkboathouse.com/dining/",
+   "https://centralparkboathouse.com/restaurant-menu/",
+   "https://centralparkboathouse.com/cafe-menu/",
+   "https://centralparkboathouse.com/dockside-menu/",
+   "https://centralparkboathouse.com/event-spaces/",
+   "https://centralparkboathouse.com/corporate-events/",
+   "https://centralparkboathouse.com/weddings/",
+   "https://centralparkboathouse.com/social-events/",
+   "https://shop.centralparkboathouse.com/",
+   "https://centralparkboathouse.com/",
+   "https://www.instagram.com/nycboathouse/",
+   "https://www.facebook.com/centralparkboathouse?mibextid=2JQ9oc",
+   "https://centralparkboathouse.com/restaurant-menu/privacy-notice",
+   "https://centralparkboathouse.com/restaurant-menu/privacy-notice#ad-choices",
+   "https://centralparkboathouse.com/restaurant-menu/#cookie-preferences",
+   "https://yourprivacychoices.centralparkboathouse.com/"
+  ],
+  "weight": 20805,
+  "title": "Restaurant Menu - Central Park Boathouse",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5341,
+    "inner": 851
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-centralparkboathouse-com-restaurant-menu.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: Not allowed to call enumerateDevices.",
+   "pageerror: /www.opentable.com'."
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "pageerror: /www.opentable.com'."
+   ],
+   [
+    "WARN",
+    "8 of 22 tap targets under 24px: a.logo-container 151x18, a 22x40, a 10x40, a 109x13, a 82x13"
+   ],
+   [
+    "WARN",
+    "9 text elements under 12px: p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 6091px tall"
+   ]
+  ],
+  "site": "https://centralparkboathouse.com/"
+ },
+ {
+  "url": "https://centralparkboathouse.com/restaurant-menu/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.2,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 5784,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [
+   {
+    "el": "div.form_container",
+    "client": 40,
+    "scroll": 891
+   }
+  ],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#truyo-consent-module.sticky-footer",
+    "pos": "fixed",
+    "cover": 20
+   }
+  ],
+  "targets": 22,
+  "small": 8,
+  "smallList": [
+   "a.logo-container 151x18",
+   "a 22x40",
+   "a 10x40",
+   "a 106x13",
+   "a 79x13"
+  ],
+  "tiny": 9,
+  "tinyList": [
+   "p.footer-hours 10px",
+   "p.footer-hours 10px",
+   "p.footer-hours 10px",
+   "p.footer-hours 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.site-header",
+  "textLen": 9078,
+  "fields": [
+   {
+    "el": "input#wpforms-201-field_1.wpforms-field-large",
+    "type": "text",
+    "name": "wpforms[fields][1]",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First Name"
+   },
+   {
+    "el": "input#wpforms-201-field_2.wpforms-field-large",
+    "type": "text",
+    "name": "wpforms[fields][2]",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last Name"
+   },
+   {
+    "el": "input#wpforms-201-field_5.wpforms-field-large",
+    "type": "email",
+    "name": "wpforms[fields][5]",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email Address"
+   },
+   {
+    "el": "textarea#wpforms-201-field_4.wpforms-field-medium",
+    "type": "textarea",
+    "name": "wpforms[fields][4]",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Message"
+   },
+   {
+    "el": "input.wpforms-recaptcha-hidden",
+    "type": "text",
+    "name": "g-recaptcha-hidden",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "g-recaptcha-hidden"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Restaurant Menu",
+    "href": "https://centralparkboathouse.com/restaurant-menu/"
+   },
+   {
+    "text": "Cafe Menu",
+    "href": "https://centralparkboathouse.com/cafe-menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.centralparkboathouse.com/"
+   },
+   {
+    "text": "Restaurant Menu",
+    "href": "https://centralparkboathouse.com/restaurant-menu/"
+   },
+   {
+    "text": "Cafe Menu",
+    "href": "https://centralparkboathouse.com/cafe-menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.centralparkboathouse.com/"
+   }
+  ],
+  "allLinks": [
+   "https://centralparkboathouse.com/about-us/",
+   "https://centralparkboathouse.com/boat/",
+   "https://centralparkboathouse.com/restaurant-menu/#",
+   "https://centralparkboathouse.com/dining/",
+   "https://centralparkboathouse.com/restaurant-menu/",
+   "https://centralparkboathouse.com/cafe-menu/",
+   "https://centralparkboathouse.com/dockside-menu/",
+   "https://centralparkboathouse.com/event-spaces/",
+   "https://centralparkboathouse.com/corporate-events/",
+   "https://centralparkboathouse.com/weddings/",
+   "https://centralparkboathouse.com/social-events/",
+   "https://shop.centralparkboathouse.com/",
+   "https://centralparkboathouse.com/",
+   "https://www.instagram.com/nycboathouse/",
+   "https://www.facebook.com/centralparkboathouse?mibextid=2JQ9oc",
+   "https://centralparkboathouse.com/restaurant-menu/privacy-notice",
+   "https://centralparkboathouse.com/restaurant-menu/privacy-notice#ad-choices",
+   "https://centralparkboathouse.com/restaurant-menu/#cookie-preferences",
+   "https://yourprivacychoices.centralparkboathouse.com/"
+  ],
+  "weight": 20678,
+  "title": "Restaurant Menu - Central Park Boathouse",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4971,
+    "inner": 851
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "8 of 22 tap targets under 24px: a.logo-container 151x18, a 22x40, a 10x40, a 106x13, a 79x13"
+   ],
+   [
+    "WARN",
+    "9 text elements under 12px: p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px, p.footer-hours 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5784px tall"
+   ]
+  ],
+  "site": "https://centralparkboathouse.com/"
+ },
+ {
+  "url": "https://360chicago.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 32.9,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 11032,
+  "zoomTrap": [
+   {
+    "el": "input#input_4_2.large",
+    "fs": 15
+   }
+  ],
+  "leaks": [
+   "div.grecaptcha-badge right=576"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 84,
+  "small": 54,
+  "smallList": [
+   "a#link_text-42-9.ct-link-text 103x14",
+   "a 65x20",
+   "a 117x20",
+   "a 25x20",
+   "a 65x20"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#_header-2-23.oxy-header-wrapper",
+  "textLen": 4271,
+  "fields": [
+   {
+    "el": "input#input_4_2.large",
+    "type": "email",
+    "name": "input_2",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Your Email Address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://bat.bing.com/action/0?ti=148012077&tm=gtm002&Ver=2&mid=42cfd68e-bbc5-4839-adfd-641828b883d3&bo=2&sid=dabe6e10c1cf11f1a1e47d667f053515&vid=dabe8fd0c1cf11"
+  ],
+  "moneyLinks": [
+   {
+    "text": "Sip & View menu",
+    "href": "https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf"
+   },
+   {
+    "text": "Sip & View menu",
+    "href": "https://360chicago.com/wp-content/uploads/2024/06/SIP-VIEW-MENU.pdf"
+   },
+   {
+    "text": "Manage My Booking portal",
+    "href": "https://360chicago.com/manage-my-booking"
+   },
+   {
+    "text": "Buy CityPASS",
+    "href": "https://www.citypass.com/chicago?mv_source=hancock&campaign=home-callout"
+   },
+   {
+    "text": "Group bookings",
+    "href": "https://360chicago.com/groups"
+   },
+   {
+    "text": "Manage My Booking",
+    "href": "https://360chicago.com/manage-my-booking"
+   },
+   {
+    "text": "Gift Shop",
+    "href": "https://www.muzemerch.com/partner/360-chicago-observation-deck"
+   },
+   {
+    "text": "Manage My Booking",
+    "href": "https://360chicago.com/manage-my-booking"
+   },
+   {
+    "text": "Gift Shop",
+    "href": "https://www.muzemerch.com/partner/360-chicago-observation-deck"
+   },
+   {
+    "text": "Manage My Booking",
+    "href": "https://360chicago.com/manage-my-booking"
+   },
+   {
+    "text": "Gift Shop",
+    "href": "https://www.muzemerch.com/partner/360-chicago-observation-deck"
+   }
+  ],
+  "allLinks": [
+   "https://360chicago.com/#div_block-329-23",
+   "https://360chicago.com/",
+   "https://360chicago.com/experience",
+   "https://360chicago.com/tilt",
+   "https://360chicago.com/cloudbar",
+   "https://360chicago.com/plan-your-visit",
+   "https://360chicago.com/package-deal",
+   "https://360chicago.com/#weglot_switcher",
+   "https://360chicago.com/es/",
+   "https://360chicago.com/tickets",
+   "https://360chicago.com/#tickets",
+   "https://360chicago.com/experience#overview",
+   "https://360chicago.com/tilt-at-night",
+   "https://360chicago.com/cloudbar/",
+   "https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf",
+   "https://360chicago.com/tilt/",
+   "https://360chicago.com/wp-content/uploads/2024/06/SIP-VIEW-MENU.pdf",
+   "https://www.citypass.com/chicago?mv_source=hancock&campaign=tickets",
+   "http://",
+   "https://360chicago.com/manage-my-booking",
+   "https://360chicago.com/activities/sky-yoga",
+   "https://360chicago.com/things-to-do/local-art-exhibit-at-cloudwalk-guiding-light",
+   "https://360chicago.com/app",
+   "https://www.citypass.com/chicago?mv_source=hancock&campaign=home-callout",
+   "https://360chicago.com/citypass",
+   "https://360chicago.com/groups",
+   "https://360chicago.com/groups-events",
+   "https://maps.app.goo.gl/25g6Mh9FMYVvxoEA6",
+   "https://360chicago.com/happening-now",
+   "https://360chicago.com/faqs/hours",
+   "https://360chicago.com/plan-your-visit#directions",
+   "https://360chicago.com/faqs/tickets",
+   "https://360chicago.com/accessibility",
+   "https://360chicago.com/our-story",
+   "https://360chicago.com/contact-us",
+   "https://360chicago.com/media-room",
+   "https://360chicago.com/in-the-news",
+   "https://360chicago.com/blog",
+   "https://www.citypass.com/chicago?mv_source=hancock&campaign=footer",
+   "https://360chicago.com/activities/birthday",
+   "https://www.muzemerch.com/partner/360-chicago-observation-deck",
+   "https://storibox.com/webapps/?app=webapp&eName=mapz",
+   "https://agent.360chicago.com/en/login/agent",
+   "https://360chicago.com/community",
+   "https://www.facebook.com/360chicago/",
+   "https://www.instagram.com/360chicago/",
+   "https://www.youtube.com/c/360CHICAGOOfficial/",
+   "https://twitter.com/360chicago",
+   "https://www.tiktok.com/@360chicago",
+   "https://www.magnicity.com/",
+   "https://360chicago.com/privacy-policy",
+   "https://360chicago.com/llms.txt",
+   "https://maps.app.goo.gl/W3G4Bb21F3oSsg2r7"
+  ],
+  "weight": 87913,
+  "title": "360 CHICAGO Observation Deck: John Hancock Observatory",
+  "roundtrip": {
+   "atBottom": {
+    "y": 10368,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-360chicago-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 (Not Found)",
+   "console: Refused to execute https://360chicago.com/5rgQLtZAEkd9ek7XeGYBD-w36rbqrlTVU51sBVW-qdfvhoNIzbguOYWGDCa3cSvSEnQJqkEcePPqMYBVyIOMDLdcd3X3MNZ7YK",
+   "pageerror: /challenges.cloudflare.com\" from accessing a frame with origin \"https://360chicago.com\". Protocols, domains, and ports must match.",
+   "console: %c%d font-size:0;color:transparent VJLyA7: GCJHY5",
+   "console: %c%d font-size:0;color:transparent VJLyA7: GCJHY5"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#input_4_2.large at 15px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576"
+   ],
+   [
+    "WARN",
+    "broken image: https://bat.bing.com/action/0?ti=148012077&tm=gtm002&Ver=2&mid=42cfd68e-bbc5-4839-adfd-641828b883d3&bo=2&sid=dabe6e10c1cf11f1a1e47d667f053515&vid=dabe8fd0c1cf11"
+   ],
+   [
+    "WARN",
+    "54 of 84 tap targets under 24px: a#link_text-42-9.ct-link-text 103x14, a 65x20, a 117x20, a 25x20, a 65x20"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 (Not Found)"
+   ],
+   [
+    "INFO",
+    "document scrolls, 11032px tall"
+   ]
+  ],
+  "site": "https://360chicago.com/",
+  "hop": "https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf"
+ },
+ {
+  "url": "https://360chicago.com/",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.3,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 10288,
+  "zoomTrap": [
+   {
+    "el": "input#input_4_2.large",
+    "fs": 15
+   }
+  ],
+  "leaks": [
+   "div.grecaptcha-badge right=579"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 84,
+  "small": 54,
+  "smallList": [
+   "a#link_text-42-9.ct-link-text 103x14",
+   "a 65x20",
+   "a 117x20",
+   "a 25x20",
+   "a 65x20"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#_header-2-23.oxy-header-wrapper",
+  "textLen": 4313,
+  "fields": [
+   {
+    "el": "input#input_4_2.large",
+    "type": "email",
+    "name": "input_2",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Your Email Address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://bat.bing.com/action/0?ti=148012077&tm=gtm002&Ver=2&mid=883e499d-f392-4e0f-b105-01fc767a9776&bo=2&sid=f4ee6ac0c1cf11f1b0f241b21770ab14&vid=f4ee6360c1cf11"
+  ],
+  "moneyLinks": [
+   {
+    "text": "Sip & View menu",
+    "href": "https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf"
+   },
+   {
+    "text": "Sip & View menu",
+    "href": "https://360chicago.com/wp-content/uploads/2024/06/SIP-VIEW-MENU.pdf"
+   },
+   {
+    "text": "Manage My Booking portal",
+    "href": "https://360chicago.com/manage-my-booking"
+   },
+   {
+    "text": "Buy CityPASS",
+    "href": "https://www.citypass.com/chicago?mv_source=hancock&campaign=home-callout"
+   },
+   {
+    "text": "Group bookings",
+    "href": "https://360chicago.com/groups"
+   },
+   {
+    "text": "Manage My Booking",
+    "href": "https://360chicago.com/manage-my-booking"
+   },
+   {
+    "text": "Gift Shop",
+    "href": "https://www.muzemerch.com/partner/360-chicago-observation-deck"
+   },
+   {
+    "text": "Manage My Booking",
+    "href": "https://360chicago.com/manage-my-booking"
+   },
+   {
+    "text": "Gift Shop",
+    "href": "https://www.muzemerch.com/partner/360-chicago-observation-deck"
+   },
+   {
+    "text": "Manage My Booking",
+    "href": "https://360chicago.com/manage-my-booking"
+   },
+   {
+    "text": "Gift Shop",
+    "href": "https://www.muzemerch.com/partner/360-chicago-observation-deck"
+   }
+  ],
+  "allLinks": [
+   "https://360chicago.com/#div_block-329-23",
+   "https://360chicago.com/",
+   "https://360chicago.com/experience",
+   "https://360chicago.com/tilt",
+   "https://360chicago.com/cloudbar",
+   "https://360chicago.com/plan-your-visit",
+   "https://360chicago.com/package-deal",
+   "https://360chicago.com/#weglot_switcher",
+   "https://360chicago.com/es/",
+   "https://360chicago.com/tickets",
+   "https://360chicago.com/#tickets",
+   "https://360chicago.com/experience#overview",
+   "https://360chicago.com/tilt-at-night",
+   "https://360chicago.com/cloudbar/",
+   "https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf",
+   "https://360chicago.com/tilt/",
+   "https://360chicago.com/wp-content/uploads/2024/06/SIP-VIEW-MENU.pdf",
+   "https://www.citypass.com/chicago?mv_source=hancock&campaign=tickets",
+   "http://",
+   "https://360chicago.com/manage-my-booking",
+   "https://360chicago.com/activities/sky-yoga",
+   "https://360chicago.com/things-to-do/local-art-exhibit-at-cloudwalk-guiding-light",
+   "https://360chicago.com/app",
+   "https://www.citypass.com/chicago?mv_source=hancock&campaign=home-callout",
+   "https://360chicago.com/citypass",
+   "https://360chicago.com/groups",
+   "https://360chicago.com/groups-events",
+   "https://maps.app.goo.gl/25g6Mh9FMYVvxoEA6",
+   "https://360chicago.com/happening-now",
+   "https://360chicago.com/faqs/hours",
+   "https://360chicago.com/plan-your-visit#directions",
+   "https://360chicago.com/faqs/tickets",
+   "https://360chicago.com/accessibility",
+   "https://360chicago.com/our-story",
+   "https://360chicago.com/contact-us",
+   "https://360chicago.com/media-room",
+   "https://360chicago.com/in-the-news",
+   "https://360chicago.com/blog",
+   "https://www.citypass.com/chicago?mv_source=hancock&campaign=footer",
+   "https://360chicago.com/activities/birthday",
+   "https://www.muzemerch.com/partner/360-chicago-observation-deck",
+   "https://storibox.com/webapps/?app=webapp&eName=mapz",
+   "https://agent.360chicago.com/en/login/agent",
+   "https://360chicago.com/community",
+   "https://www.facebook.com/360chicago/",
+   "https://www.instagram.com/360chicago/",
+   "https://www.youtube.com/c/360CHICAGOOfficial/",
+   "https://twitter.com/360chicago",
+   "https://www.tiktok.com/@360chicago",
+   "https://www.magnicity.com/",
+   "https://360chicago.com/privacy-policy",
+   "https://360chicago.com/llms.txt",
+   "https://maps.app.goo.gl/W3G4Bb21F3oSsg2r7"
+  ],
+  "weight": 300,
+  "title": "360 CHICAGO Observation Deck: John Hancock Observatory",
+  "roundtrip": {
+   "atBottom": {
+    "y": 9562,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Refused to execute script from 'https://360chicago.com/5rgQLtZAEkd9ek7XeGYBD-w36rbqrlTVU51sBVW-qdfvhoNIzbguOYWGDCa3cSvSEnQJqkEcePPqMYBVyIOMD",
+   "console: %c%d font-size:0;color:transparent NaN",
+   "console: %c%d font-size:0;color:transparent NaN",
+   "console: requestStorageAccess: Permission denied."
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#input_4_2.large at 15px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579"
+   ],
+   [
+    "WARN",
+    "broken image: https://bat.bing.com/action/0?ti=148012077&tm=gtm002&Ver=2&mid=883e499d-f392-4e0f-b105-01fc767a9776&bo=2&sid=f4ee6ac0c1cf11f1b0f241b21770ab14&vid=f4ee6360c1cf11"
+   ],
+   [
+    "WARN",
+    "54 of 84 tap targets under 24px: a#link_text-42-9.ct-link-text 103x14, a 65x20, a 117x20, a 25x20, a 65x20"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10288px tall"
+   ]
+  ],
+  "site": "https://360chicago.com/"
+ },
+ {
+  "url": "https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf",
+  "device": "iphone",
+  "status": null,
+  "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf\", waiting until \"load\"\n",
+  "findings": [
+   [
+    "FAIL",
+    "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://360chicago.com/wp-content/uploa"
+   ]
+  ],
+  "site": "https://360chicago.com/"
+ },
+ {
+  "url": "https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf",
+  "device": "android",
+  "status": null,
+  "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf\", waiting until \"load\"\n",
+  "findings": [
+   [
+    "FAIL",
+    "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://360chicago.com/wp-content/uploa"
+   ]
+  ],
+  "site": "https://360chicago.com/"
+ }
+]

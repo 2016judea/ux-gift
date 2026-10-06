@@ -1,0 +1,131 @@
+FAIL iphone  https://www.indacorestaurant.com/location/indaco-charleston/
+FAIL android https://www.indacorestaurant.com/location/indaco-charleston/
+FAIL iphone  https://www.indacorestaurant.com/alys-beach-menu/
+WARN android https://www.indacorestaurant.com/alys-beach-menu/
+FAIL iphone  https://crustwoodfiredpizza.com/
+FAIL android https://crustwoodfiredpizza.com/
+FAIL iphone  https://crustwoodfiredpizza.com/wp-content/uploads/2026/05/CrustJI_Menu_2026.pdf
+FAIL android https://crustwoodfiredpizza.com/wp-content/uploads/2026/05/CrustJI_Menu_2026.pdf
+WARN iphone  https://www.sakurastpaul.com/
+WARN android https://www.sakurastpaul.com/
+WARN iphone  https://www.sakurastpaul.com/gift-cards
+WARN android https://www.sakurastpaul.com/gift-cards
+WARN iphone  https://www.laurelhardware.com/
+WARN android https://www.laurelhardware.com/
+WARN iphone  https://www.laurelhardware.com/reservations
+WARN android https://www.laurelhardware.com/reservations
+FAIL iphone  https://rasushi.com/
+FAIL android https://rasushi.com/
+FAIL iphone  https://rasushi.com/menu/
+FAIL android https://rasushi.com/menu/
+
+== findings (FAIL and WARN) ==
+
+https://www.indacorestaurant.com/location/indaco-charleston/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  dead link: https://www.indacorestaurant.com/type= answers 404
+  FAIL  document locked (overflow hidden) with 4300px of content and no inner scroller
+  FAIL  pageerror: Unexpected token ':'
+  WARN  fixed layer div.mfp-bg covers 100% of the screen
+  WARN  fixed layer div.mfp-wrap covers 100% of the screen
+  WARN  5 of 25 tap targets under 24px: a 67x20, a 100x20, a 190x20, a 9x20, a 14x20
+
+https://www.indacorestaurant.com/location/indaco-charleston/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  FAIL  document locked (overflow hidden) with 4352px of content and no inner scroller
+  WARN  fixed layer div.mfp-bg covers 100% of the screen
+  WARN  fixed layer div.mfp-wrap covers 100% of the screen
+  WARN  5 of 25 tap targets under 24px: a 67x20, a 100x20, a 190x20, a 9x20, a 14x20
+
+https://www.indacorestaurant.com/alys-beach-menu/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  dead link: https://www.indacorestaurant.com/type= answers 404
+  FAIL  pageerror: Unexpected token ':'
+
+https://www.indacorestaurant.com/alys-beach-menu/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+
+https://crustwoodfiredpizza.com/  [iphone]
+  FAIL  pageerror: null is not an object (evaluating 'button.innerHTML = '<div class="box"><div class="line"></div><div class="line"></div><div class="line"></
+  WARN  6 of 15 tap targets under 24px: div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, a 84x16, a 194x16, a 111x19
+
+https://crustwoodfiredpizza.com/  [android]
+  FAIL  pageerror: Cannot set properties of null (setting 'innerHTML')
+  WARN  header at y=-356 after scrolling down and back up
+  WARN  6 of 15 tap targets under 24px: div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, a 84x16, a 194x16, a 111x19
+
+https://crustwoodfiredpizza.com/wp-content/uploads/2026/05/CrustJI_Menu_2026.pdf  [iphone]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://crustwoodfiredpizza.com/wp-cont
+
+https://crustwoodfiredpizza.com/wp-content/uploads/2026/05/CrustJI_Menu_2026.pdf  [android]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://crustwoodfiredpizza.com/wp-cont
+
+https://www.sakurastpaul.com/  [iphone]
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.sakurastpaul.com/  [android]
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.sakurastpaul.com/gift-cards  [iphone]
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.sakurastpaul.com/gift-cards  [android]
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.laurelhardware.com/  [iphone]
+  WARN  viewport meta: initial-scale=1
+  WARN  4 of 24 tap targets under 24px: a 122x17, a 83x20, a 145x21, a 74x21
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.laurelhardware.com/  [android]
+  WARN  viewport meta: initial-scale=1
+  WARN  4 of 24 tap targets under 24px: a 122x16, a 83x20, a 145x21, a 74x21
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.laurelhardware.com/reservations  [iphone]
+  WARN  viewport meta: initial-scale=1
+  WARN  3 of 23 tap targets under 24px: a 122x17, a 145x21, a 74x21
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.laurelhardware.com/reservations  [android]
+  WARN  viewport meta: initial-scale=1
+  WARN  4 of 23 tap targets under 24px: a 122x16, a 60x21, a 145x21, a 74x21
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://rasushi.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650, div.grecaptcha-badge right=576
+  FAIL  dead link: https://www.ezcater.com/brand/pvt/ra-sushi-bar-restaurant answers 406
+  FAIL  dead link: https://rasushi.com/?post_type=menu&p=335 answers 404
+  FAIL  pageerror: Can't find variable: map
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  22 of 45 tap targets under 24px: a.sr-only 29x14, button#motionControlsBtn.motion-link 110x16, a.no-underline 16x16, a.no-underline 16x16, a.no-underline 16x16
+
+https://rasushi.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649, div.grecaptcha-badge right=579
+  FAIL  pageerror: map is not defined
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 47% of the screen
+  WARN  7 of 45 tap targets under 24px: a.sr-only 29x14, button#motionControlsBtn.motion-link 110x16, a.no-underline 16x16, a.no-underline 16x16, a.no-underline 16x16
+
+https://rasushi.com/menu/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650, div.grecaptcha-badge right=576
+  FAIL  dead link: https://www.ezcater.com/brand/pvt/ra-sushi-bar-restaurant answers 406
+  FAIL  dead link: https://rasushi.com/?post_type=menu&p=335 answers 404
+  FAIL  pageerror: Can't find variable: map
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  25 of 53 tap targets under 24px: a.sr-only 29x14, button#motionControlsBtn.motion-link 110x16, a.uppercase 93x24, a.uppercase 43x24, a.uppercase 79x24
+
+https://rasushi.com/menu/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649, div.grecaptcha-badge right=579
+  FAIL  pageerror: map is not defined
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 47% of the screen
+  WARN  7 of 53 tap targets under 24px: a.sr-only 29x14, button#motionControlsBtn.motion-link 110x16, a.no-underline 16x16, a.no-underline 16x16, a.no-underline 16x16
+
+20 page-device rows, 18 FAIL findings

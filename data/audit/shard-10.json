@@ -1,0 +1,2711 @@
+[
+ {
+  "url": "https://tommycondons.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 7672,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=405"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 11
+   },
+   {
+    "el": "button#sh-generic-form-bubble.tw-fixed",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 61,
+  "small": 14,
+  "smallList": [
+   "a 22x22",
+   "a 22x22",
+   "a 22x22",
+   "button 15x15",
+   "button 15x15"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#navbar.navbar",
+  "textLen": 4774,
+  "fields": [
+   {
+    "el": "input#sph-newsletter-input-209ca82ff3eb4686b80a2ce7413ac35b.sph-email-input",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "e.g. email@example.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st?source=pop_up&spot_id=15882&destination=order&promotion=order_online"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st#"
+   },
+   {
+    "text": "Buffet Menu",
+    "href": "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st#"
+   },
+   {
+    "text": "Buffet Menu",
+    "href": "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf"
+   },
+   {
+    "text": "book now a party",
+    "href": "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/"
+   },
+   {
+    "text": "order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st"
+   },
+   {
+    "text": "Our Menu",
+    "href": "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st"
+   }
+  ],
+  "allLinks": [
+   "https://order.toasttab.com/online/tommy-condon-s-160-church-st?source=pop_up&spot_id=15882&destination=order&promotion=order_online",
+   "https://tommycondons.com/#content",
+   "https://tommycondons.com/#",
+   "https://tommycondons.com/",
+   "https://tommycondons.com/#map-v3-container",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-drink-menu",
+   "https://order.toasttab.com/online/tommy-condon-s-160-church-st#",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-events",
+   "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf",
+   "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/#",
+   "https://tmt.spotapps.co/catering?spot_id=15882&callback_url=http://tommycondons.com/#",
+   "https://tmt.spotapps.co/job-listings?spot_id=15882&callback_url=http://tommycondons.com/#",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-calendar",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-about",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-contact-us",
+   "https://www.facebook.com/106547559379256",
+   "https://www.instagram.com/tommycondons_chs",
+   "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/",
+   "https://order.toasttab.com/online/tommy-condon-s-160-church-st",
+   "https://tmt.spotapps.co/catering?spot_id=15882&callback_url=http://tommycondons.com/",
+   "https://static.spotapps.co/spots/82/eca1d69ed1477c8304a94f8bcce2d5/full",
+   "https://static.spotapps.co/spots/74/e9205a44e74b7d917be42763c98c5a/full",
+   "https://static.spotapps.co/spots/68/bc71f4dd3e4c81aaf0fa82b137dc18/full",
+   "https://static.spotapps.co/spots/03/96ddaf08104c51a712ea8d60f13667/full",
+   "https://static.spotapps.co/spots/57/2407b40ed146dbb3fea1af179e7210/full",
+   "https://static.spotapps.co/spots/63/8e90a5ef4b481cb4fd3bec1ffe21f6/full",
+   "https://static.spotapps.co/spots/48/71664fe92a4a7c916fa375a2c09d7e/full",
+   "https://static.spotapps.co/spots/26/653c07d4ea4e23ad4bbaaaf14f2949/full",
+   "https://static.spotapps.co/spots/f9/cc61ff0e07473f9c7dc10f9b099cba/full",
+   "https://static.spotapps.co/spots/62/61799d92824ba59f23e0e637b7abfd/full",
+   "https://static.spotapps.co/spots/08/d2a7b88c14429b9de42131197e684d/full",
+   "https://static.spotapps.co/spots/c7/4c6def0a5f4096821bdea9937cc248/full",
+   "https://static.spotapps.co/spots/27/2445838ef7491daaf47ab6d5eddd93/full",
+   "https://static.spotapps.co/spots/f7/324379bc4245ca84600bb83e1cd0d1/full",
+   "https://static.spotapps.co/spots/64/7d2e7bcde3427bb47643e000d17795/full",
+   "https://static.spotapps.co/spots/26/9bbe0ec07d47baaf64e530dfcda2dd/full",
+   "http://leafletjs.com/",
+   "http://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps/dir/?api=1&destination=Tommy%20Condon%27s&destination_place_id=ChIJt-1p5g16_ogR_ssdJWOGkCQ",
+   "https://www.spothopperapp.com/",
+   "https://www.spothopperapp.com/contact-us?contact_reason=demo",
+   "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/&source=footer",
+   "https://tmt.spotapps.co/catering?spot_id=15882&callback_url=http://tommycondons.com/&source=footer",
+   "https://tmt.spotapps.co/job-listings?spot_id=15882&callback_url=http://tommycondons.com/&source=footer",
+   "https://www.spothopperapp.com/spots/15882/privacy_policy",
+   "https://www.spothopperapp.com/spots/15882/terms_and_conditions",
+   "https://tommycondons.com/accessibility-page-01"
+  ],
+  "weight": 36058,
+  "title": "Must-Visit Irish Pub in Charleston, SC | Tommy Condon's",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7008,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st?source=pop_up&spot_id=15882&destination=order&promotion=order_online",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-tommycondons-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405"
+   ],
+   [
+    "WARN",
+    "14 of 61 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7672px tall"
+   ]
+  ],
+  "site": "https://tommycondons.com/",
+  "hop": "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu"
+ },
+ {
+  "url": "https://tommycondons.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 26.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 7695,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=408"
+  ],
+  "docWider": false,
+  "docLocked": true,
+  "scrollers": [],
+  "unreachable": true,
+  "layers": [
+   {
+    "el": "div#promotion-pop-up.modal",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div.modal-backdrop",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 10
+   },
+   {
+    "el": "nav#bottom-navbar.navbar-fixed-bottom",
+    "pos": "fixed",
+    "cover": 7
+   },
+   {
+    "el": "button#sh-generic-form-bubble.tw-fixed",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 63,
+  "small": 14,
+  "smallList": [
+   "a 22x22",
+   "a 22x22",
+   "a 22x22",
+   "button 15x15",
+   "button 15x15"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#navbar.navbar",
+  "textLen": 4829,
+  "fields": [
+   {
+    "el": "input#sph-newsletter-input-eba95fe3b90eac4d0095d23e7695a27a.sph-email-input",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "e.g. email@example.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st?source=pop_up&spot_id=15882&destination=order&promotion=order_online"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st#"
+   },
+   {
+    "text": "Buffet Menu",
+    "href": "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st#"
+   },
+   {
+    "text": "Buffet Menu",
+    "href": "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf"
+   },
+   {
+    "text": "book now a party",
+    "href": "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/"
+   },
+   {
+    "text": "order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st"
+   },
+   {
+    "text": "Our Menu",
+    "href": "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st"
+   }
+  ],
+  "allLinks": [
+   "https://order.toasttab.com/online/tommy-condon-s-160-church-st?source=pop_up&spot_id=15882&destination=order&promotion=order_online",
+   "https://tommycondons.com/#content",
+   "https://tommycondons.com/#",
+   "https://tommycondons.com/",
+   "https://tommycondons.com/#map-v3-container",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-drink-menu",
+   "https://order.toasttab.com/online/tommy-condon-s-160-church-st#",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-events",
+   "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf",
+   "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/#",
+   "https://tmt.spotapps.co/catering?spot_id=15882&callback_url=http://tommycondons.com/#",
+   "https://tmt.spotapps.co/job-listings?spot_id=15882&callback_url=http://tommycondons.com/#",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-calendar",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-about",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-contact-us",
+   "https://www.facebook.com/106547559379256",
+   "https://www.instagram.com/tommycondons_chs",
+   "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/",
+   "https://order.toasttab.com/online/tommy-condon-s-160-church-st",
+   "https://tmt.spotapps.co/catering?spot_id=15882&callback_url=http://tommycondons.com/",
+   "https://static.spotapps.co/spots/82/eca1d69ed1477c8304a94f8bcce2d5/full",
+   "https://static.spotapps.co/spots/74/e9205a44e74b7d917be42763c98c5a/full",
+   "https://static.spotapps.co/spots/68/bc71f4dd3e4c81aaf0fa82b137dc18/full",
+   "https://static.spotapps.co/spots/03/96ddaf08104c51a712ea8d60f13667/full",
+   "https://static.spotapps.co/spots/57/2407b40ed146dbb3fea1af179e7210/full",
+   "https://static.spotapps.co/spots/63/8e90a5ef4b481cb4fd3bec1ffe21f6/full",
+   "https://static.spotapps.co/spots/48/71664fe92a4a7c916fa375a2c09d7e/full",
+   "https://static.spotapps.co/spots/26/653c07d4ea4e23ad4bbaaaf14f2949/full",
+   "https://static.spotapps.co/spots/f9/cc61ff0e07473f9c7dc10f9b099cba/full",
+   "https://static.spotapps.co/spots/62/61799d92824ba59f23e0e637b7abfd/full",
+   "https://static.spotapps.co/spots/08/d2a7b88c14429b9de42131197e684d/full",
+   "https://static.spotapps.co/spots/c7/4c6def0a5f4096821bdea9937cc248/full",
+   "https://static.spotapps.co/spots/27/2445838ef7491daaf47ab6d5eddd93/full",
+   "https://static.spotapps.co/spots/f7/324379bc4245ca84600bb83e1cd0d1/full",
+   "https://static.spotapps.co/spots/64/7d2e7bcde3427bb47643e000d17795/full",
+   "https://static.spotapps.co/spots/26/9bbe0ec07d47baaf64e530dfcda2dd/full",
+   "http://leafletjs.com/",
+   "http://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps/dir/?api=1&destination=Tommy%20Condon%27s&destination_place_id=ChIJt-1p5g16_ogR_ssdJWOGkCQ",
+   "https://www.spothopperapp.com/",
+   "https://www.spothopperapp.com/contact-us?contact_reason=demo",
+   "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/&source=footer",
+   "https://tmt.spotapps.co/catering?spot_id=15882&callback_url=http://tommycondons.com/&source=footer",
+   "https://tmt.spotapps.co/job-listings?spot_id=15882&callback_url=http://tommycondons.com/&source=footer",
+   "https://www.spothopperapp.com/spots/15882/privacy_policy",
+   "https://www.spothopperapp.com/spots/15882/terms_and_conditions",
+   "https://tommycondons.com/accessibility-page-01"
+  ],
+  "weight": 36039,
+  "title": "Must-Visit Irish Pub in Charleston, SC | Tommy Condon's",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6968,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408"
+   ],
+   [
+    "FAIL",
+    "document locked (overflow hidden) with 7695px of content and no inner scroller"
+   ],
+   [
+    "WARN",
+    "fixed layer div#promotion-pop-up.modal covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "fixed layer div.modal-backdrop covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "14 of 63 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "locked shell, scrollers: "
+   ]
+  ],
+  "site": "https://tommycondons.com/"
+ },
+ {
+  "url": "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.1,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 7694,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=405"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 10,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 4765,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st#"
+   },
+   {
+    "text": "Buffet Menu",
+    "href": "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st#"
+   },
+   {
+    "text": "Buffet Menu",
+    "href": "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st"
+   }
+  ],
+  "allLinks": [
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu#content",
+   "https://tommycondons.com/#",
+   "https://tommycondons.com/",
+   "https://tommycondons.com/#map-v3-container",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu#",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-drink-menu",
+   "https://order.toasttab.com/online/tommy-condon-s-160-church-st#",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-events",
+   "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf",
+   "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu#",
+   "https://tmt.spotapps.co/catering?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu#",
+   "https://tmt.spotapps.co/job-listings?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu#",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-calendar",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-about",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-contact-us",
+   "https://www.facebook.com/106547559379256",
+   "https://www.instagram.com/tommycondons_chs",
+   "https://tommycondons.com/4456",
+   "https://order.toasttab.com/online/tommy-condon-s-160-church-st",
+   "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu&source=footer",
+   "https://tmt.spotapps.co/catering?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu&source=footer",
+   "https://tmt.spotapps.co/job-listings?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu&source=footer"
+  ],
+  "weight": 22295,
+  "title": "Tommy Condon's - Food Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7030,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://tommycondons.com/4456",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-tommycondons-com-charleston-downtown-tommy-condon-s-food-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405"
+   ],
+   [
+    "FAIL",
+    "dead link: https://tommycondons.com/4456 answers 404"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7694px tall"
+   ]
+  ],
+  "site": "https://tommycondons.com/"
+ },
+ {
+  "url": "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 7691,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=408"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 10,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 4764,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st#"
+   },
+   {
+    "text": "Buffet Menu",
+    "href": "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st#"
+   },
+   {
+    "text": "Buffet Menu",
+    "href": "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/tommy-condon-s-160-church-st"
+   }
+  ],
+  "allLinks": [
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu#content",
+   "https://tommycondons.com/#",
+   "https://tommycondons.com/",
+   "https://tommycondons.com/#map-v3-container",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu#",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-drink-menu",
+   "https://order.toasttab.com/online/tommy-condon-s-160-church-st#",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-events",
+   "https://static.spotapps.co/website_images/ab_websites/15882_website/buffet_menu_2026_v2.pdf",
+   "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu#",
+   "https://tmt.spotapps.co/catering?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu#",
+   "https://tmt.spotapps.co/job-listings?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu#",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-calendar",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-about",
+   "https://tommycondons.com/charleston-downtown-tommy-condon-s-contact-us",
+   "https://www.facebook.com/106547559379256",
+   "https://www.instagram.com/tommycondons_chs",
+   "https://tommycondons.com/4456",
+   "https://order.toasttab.com/online/tommy-condon-s-160-church-st",
+   "https://tmt.spotapps.co/private-parties?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu&source=footer",
+   "https://tmt.spotapps.co/catering?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu&source=footer",
+   "https://tmt.spotapps.co/job-listings?spot_id=15882&callback_url=http://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu&source=footer"
+  ],
+  "weight": 22284,
+  "title": "Tommy Condon's - Food Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6964,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7691px tall"
+   ]
+  ],
+  "site": "https://tommycondons.com/"
+ },
+ {
+  "url": "https://www.stellasbrasserie.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.5,
+  "meta": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4160,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 14,
+  "small": 7,
+  "smallList": [
+   "a 83x14",
+   "a 71x14",
+   "a 135x14",
+   "a 67x14",
+   "a 120x14"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.et-l",
+  "textLen": 1523,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lunch Menu",
+    "href": "https://www.stellasbrasserie.com/lunch-menu/"
+   },
+   {
+    "text": "Mid-Day Menu",
+    "href": "https://www.stellasbrasserie.com/mid-day-menu/"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://www.stellasbrasserie.com/dinner-menu/"
+   },
+   {
+    "text": "Happy Hour Menu",
+    "href": "https://www.stellasbrasserie.com/happy-hour-menu/"
+   },
+   {
+    "text": "Brunch Menu",
+    "href": "https://www.stellasbrasserie.com/brunch-menu/"
+   },
+   {
+    "text": "Beverage Menu",
+    "href": "https://www.stellasbrasserie.com/beverage-menu/"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://www.stellasbrasserie.com/dessert-menu/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.opentable.com/r/stellas-southern-brasserie-greenville-reservations-greenville?restref=346558"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.stellasbrasserie.com/gift-cards/"
+   },
+   {
+    "text": "Lunch Menu",
+    "href": "https://www.stellasbrasserie.com/lunch-menu/"
+   },
+   {
+    "text": "Mid-Day Menu",
+    "href": "https://www.stellasbrasserie.com/mid-day-menu/"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://www.stellasbrasserie.com/dinner-menu/"
+   }
+  ],
+  "allLinks": [
+   "https://www.stellasbrasserie.com/",
+   "https://www.stellasbrasserie.com/#",
+   "https://www.stellasbrasserie.com/lunch-menu/",
+   "https://www.stellasbrasserie.com/mid-day-menu/",
+   "https://www.stellasbrasserie.com/dinner-menu/",
+   "https://www.stellasbrasserie.com/happy-hour-menu/",
+   "https://www.stellasbrasserie.com/brunch-menu/",
+   "https://www.stellasbrasserie.com/beverage-menu/",
+   "https://www.stellasbrasserie.com/dessert-menu/",
+   "https://www.stellasbrasserie.com/about-us/",
+   "https://www.stellasbrasserie.com/private-dining/",
+   "https://www.stellasbistro.com/",
+   "https://rotiebystellas.com/",
+   "https://www.stellasbrasserie.com/contact-us/",
+   "https://www.opentable.com/r/stellas-southern-brasserie-greenville-reservations-greenville?restref=346558",
+   "https://www.stellasbrasserie.com/donation-requests/",
+   "https://www.stellasbrasserie.com/gift-cards/",
+   "https://www.stellasbrasserie.com/mailing-list/",
+   "https://www.stellasbrasserie.com/directions/",
+   "https://www.facebook.com/stellasbrasserie/",
+   "https://www.instagram.com/stellas_brasserie/",
+   "https://premierepc.com/?utm_source=brasserie&utm_medium=referral&utm_campaign=footer_link"
+  ],
+  "weight": 37778,
+  "title": "Stella's Southern Brasserie - Greenville, SC Restaurant",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3496,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/r/stellas-southern-brasserie-greenville-reservations-greenville?restref=346558",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-stellasbrasserie-com.png",
+  "errors": [
+   "pageerror: /www.opentable.com'.",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: Not allowed to call enumerateDevices.",
+   "console: Failed to load resource: The operation couldn\u2019t be completed. (WebKitBlobResource error 1.)"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "pageerror: /www.opentable.com'."
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "7 of 14 tap targets under 24px: a 83x14, a 71x14, a 135x14, a 67x14, a 120x14"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4160px tall"
+   ]
+  ],
+  "site": "https://www.stellasbrasserie.com/",
+  "hop": "https://www.stellasbrasserie.com/lunch-menu/"
+ },
+ {
+  "url": "https://www.stellasbrasserie.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.1,
+  "meta": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4048,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 14,
+  "small": 7,
+  "smallList": [
+   "a 83x15",
+   "a 71x15",
+   "a 135x15",
+   "a 67x15",
+   "a 120x15"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.et-l",
+  "textLen": 1543,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lunch Menu",
+    "href": "https://www.stellasbrasserie.com/lunch-menu/"
+   },
+   {
+    "text": "Mid-Day Menu",
+    "href": "https://www.stellasbrasserie.com/mid-day-menu/"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://www.stellasbrasserie.com/dinner-menu/"
+   },
+   {
+    "text": "Happy Hour Menu",
+    "href": "https://www.stellasbrasserie.com/happy-hour-menu/"
+   },
+   {
+    "text": "Brunch Menu",
+    "href": "https://www.stellasbrasserie.com/brunch-menu/"
+   },
+   {
+    "text": "Beverage Menu",
+    "href": "https://www.stellasbrasserie.com/beverage-menu/"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://www.stellasbrasserie.com/dessert-menu/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.opentable.com/r/stellas-southern-brasserie-greenville-reservations-greenville?restref=346558"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.stellasbrasserie.com/gift-cards/"
+   },
+   {
+    "text": "Lunch Menu",
+    "href": "https://www.stellasbrasserie.com/lunch-menu/"
+   },
+   {
+    "text": "Mid-Day Menu",
+    "href": "https://www.stellasbrasserie.com/mid-day-menu/"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://www.stellasbrasserie.com/dinner-menu/"
+   }
+  ],
+  "allLinks": [
+   "https://www.stellasbrasserie.com/",
+   "https://www.stellasbrasserie.com/#",
+   "https://www.stellasbrasserie.com/lunch-menu/",
+   "https://www.stellasbrasserie.com/mid-day-menu/",
+   "https://www.stellasbrasserie.com/dinner-menu/",
+   "https://www.stellasbrasserie.com/happy-hour-menu/",
+   "https://www.stellasbrasserie.com/brunch-menu/",
+   "https://www.stellasbrasserie.com/beverage-menu/",
+   "https://www.stellasbrasserie.com/dessert-menu/",
+   "https://www.stellasbrasserie.com/about-us/",
+   "https://www.stellasbrasserie.com/private-dining/",
+   "https://www.stellasbistro.com/",
+   "https://rotiebystellas.com/",
+   "https://www.stellasbrasserie.com/contact-us/",
+   "https://www.opentable.com/r/stellas-southern-brasserie-greenville-reservations-greenville?restref=346558",
+   "https://www.stellasbrasserie.com/donation-requests/",
+   "https://www.stellasbrasserie.com/gift-cards/",
+   "https://www.stellasbrasserie.com/mailing-list/",
+   "https://www.stellasbrasserie.com/directions/",
+   "https://www.facebook.com/stellasbrasserie/",
+   "https://www.instagram.com/stellas_brasserie/",
+   "https://premierepc.com/?utm_source=brasserie&utm_medium=referral&utm_campaign=footer_link"
+  ],
+  "weight": 37730,
+  "title": "Stella's Southern Brasserie - Greenville, SC Restaurant",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3381,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "7 of 14 tap targets under 24px: a 83x15, a 71x15, a 135x15, a 67x15, a 120x15"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4048px tall"
+   ]
+  ],
+  "site": "https://www.stellasbrasserie.com/"
+ },
+ {
+  "url": "https://www.stellasbrasserie.com/lunch-menu/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 1.8,
+  "meta": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 5338,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 17,
+  "small": 14,
+  "smallList": [
+   "a 39x22",
+   "a 55x22",
+   "a 79x22",
+   "a 43x22",
+   "a 60x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.et-l",
+  "textLen": 3530,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lunch Menu",
+    "href": "https://www.stellasbrasserie.com/lunch-menu/"
+   },
+   {
+    "text": "Mid-Day Menu",
+    "href": "https://www.stellasbrasserie.com/mid-day-menu/"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://www.stellasbrasserie.com/dinner-menu/"
+   },
+   {
+    "text": "Happy Hour Menu",
+    "href": "https://www.stellasbrasserie.com/happy-hour-menu/"
+   },
+   {
+    "text": "Brunch Menu",
+    "href": "https://www.stellasbrasserie.com/brunch-menu/"
+   },
+   {
+    "text": "Beverage Menu",
+    "href": "https://www.stellasbrasserie.com/beverage-menu/"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://www.stellasbrasserie.com/dessert-menu/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.opentable.com/r/stellas-southern-brasserie-greenville-reservations-greenville?restref=346558"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.stellasbrasserie.com/gift-cards/"
+   },
+   {
+    "text": "Lunch Menu",
+    "href": "https://www.stellasbrasserie.com/lunch-menu/"
+   },
+   {
+    "text": "Mid-Day Menu",
+    "href": "https://www.stellasbrasserie.com/mid-day-menu/"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://www.stellasbrasserie.com/dinner-menu/"
+   }
+  ],
+  "allLinks": [
+   "https://www.stellasbrasserie.com/",
+   "https://www.stellasbrasserie.com/lunch-menu/#",
+   "https://www.stellasbrasserie.com/lunch-menu/",
+   "https://www.stellasbrasserie.com/mid-day-menu/",
+   "https://www.stellasbrasserie.com/dinner-menu/",
+   "https://www.stellasbrasserie.com/happy-hour-menu/",
+   "https://www.stellasbrasserie.com/brunch-menu/",
+   "https://www.stellasbrasserie.com/beverage-menu/",
+   "https://www.stellasbrasserie.com/dessert-menu/",
+   "https://www.stellasbrasserie.com/about-us/",
+   "https://www.stellasbrasserie.com/private-dining/",
+   "https://www.stellasbistro.com/",
+   "https://rotiebystellas.com/",
+   "https://www.stellasbrasserie.com/contact-us/",
+   "https://www.opentable.com/r/stellas-southern-brasserie-greenville-reservations-greenville?restref=346558",
+   "https://www.stellasbrasserie.com/donation-requests/",
+   "https://www.stellasbrasserie.com/gift-cards/",
+   "https://www.stellasbrasserie.com/mailing-list/",
+   "https://www.stellasbrasserie.com/directions/",
+   "https://www.facebook.com/stellasbrasserie/",
+   "https://www.instagram.com/stellas_brasserie/",
+   "https://premierepc.com/?utm_source=brasserie&utm_medium=referral&utm_campaign=footer_link"
+  ],
+  "weight": 27695,
+  "title": "Lunch Menu - Stella's Southern Brasserie",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4674,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/r/stellas-southern-brasserie-greenville-reservations-greenville?restref=346558",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-stellasbrasserie-com-lunch-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "14 of 17 tap targets under 24px: a 39x22, a 55x22, a 79x22, a 43x22, a 60x22"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5338px tall"
+   ]
+  ],
+  "site": "https://www.stellasbrasserie.com/"
+ },
+ {
+  "url": "https://www.stellasbrasserie.com/lunch-menu/",
+  "device": "android",
+  "status": 200,
+  "load_s": 1.8,
+  "meta": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 5309,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 17,
+  "small": 14,
+  "smallList": [
+   "a 39x22",
+   "a 55x22",
+   "a 79x22",
+   "a 43x22",
+   "a 60x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.et-l",
+  "textLen": 3594,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lunch Menu",
+    "href": "https://www.stellasbrasserie.com/lunch-menu/"
+   },
+   {
+    "text": "Mid-Day Menu",
+    "href": "https://www.stellasbrasserie.com/mid-day-menu/"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://www.stellasbrasserie.com/dinner-menu/"
+   },
+   {
+    "text": "Happy Hour Menu",
+    "href": "https://www.stellasbrasserie.com/happy-hour-menu/"
+   },
+   {
+    "text": "Brunch Menu",
+    "href": "https://www.stellasbrasserie.com/brunch-menu/"
+   },
+   {
+    "text": "Beverage Menu",
+    "href": "https://www.stellasbrasserie.com/beverage-menu/"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://www.stellasbrasserie.com/dessert-menu/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.opentable.com/r/stellas-southern-brasserie-greenville-reservations-greenville?restref=346558"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.stellasbrasserie.com/gift-cards/"
+   },
+   {
+    "text": "Lunch Menu",
+    "href": "https://www.stellasbrasserie.com/lunch-menu/"
+   },
+   {
+    "text": "Mid-Day Menu",
+    "href": "https://www.stellasbrasserie.com/mid-day-menu/"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://www.stellasbrasserie.com/dinner-menu/"
+   }
+  ],
+  "allLinks": [
+   "https://www.stellasbrasserie.com/",
+   "https://www.stellasbrasserie.com/lunch-menu/#",
+   "https://www.stellasbrasserie.com/lunch-menu/",
+   "https://www.stellasbrasserie.com/mid-day-menu/",
+   "https://www.stellasbrasserie.com/dinner-menu/",
+   "https://www.stellasbrasserie.com/happy-hour-menu/",
+   "https://www.stellasbrasserie.com/brunch-menu/",
+   "https://www.stellasbrasserie.com/beverage-menu/",
+   "https://www.stellasbrasserie.com/dessert-menu/",
+   "https://www.stellasbrasserie.com/about-us/",
+   "https://www.stellasbrasserie.com/private-dining/",
+   "https://www.stellasbistro.com/",
+   "https://rotiebystellas.com/",
+   "https://www.stellasbrasserie.com/contact-us/",
+   "https://www.opentable.com/r/stellas-southern-brasserie-greenville-reservations-greenville?restref=346558",
+   "https://www.stellasbrasserie.com/donation-requests/",
+   "https://www.stellasbrasserie.com/gift-cards/",
+   "https://www.stellasbrasserie.com/mailing-list/",
+   "https://www.stellasbrasserie.com/directions/",
+   "https://www.facebook.com/stellasbrasserie/",
+   "https://www.instagram.com/stellas_brasserie/",
+   "https://premierepc.com/?utm_source=brasserie&utm_medium=referral&utm_campaign=footer_link"
+  ],
+  "weight": 27656,
+  "title": "Lunch Menu - Stella's Southern Brasserie",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4642,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "14 of 17 tap targets under 24px: a 39x22, a 55x22, a 79x22, a 43x22, a 60x22"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5309px tall"
+   ]
+  ],
+  "site": "https://www.stellasbrasserie.com/"
+ },
+ {
+  "url": "https://www.thegnomepub.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4461,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323356397_191.yui3-widget",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 15,
+  "small": 2,
+  "smallList": [
+   "button 14x14",
+   "a 33x12"
+  ],
+  "tiny": 5,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.white",
+  "textLen": 3378,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [],
+  "allLinks": [
+   "https://www.thegnomepub.com/cart",
+   "https://www.thegnomepub.com/#page",
+   "https://www.thegnomepub.com/",
+   "https://goo.gl/maps/u529Wu99eYbfEBgn6",
+   "https://maps.google.com/maps?ll=44.946365,-93.121007&z=12&t=m&hl=en&gl=US&mapclient=apiv3",
+   "https://www.google.com/intl/en_US/help/terms_maps.html",
+   "https://www.google.com/maps/@44.9463654,-93.1210071,12z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3",
+   "https://www.velvetantlerlounge.com/",
+   "http://instagram.com/thegnomepub",
+   "http://facebook.com/thegnomepub"
+  ],
+  "weight": 35378,
+  "title": "The Gnome Craft Pub",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3797,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-www-thegnomepub-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 410 ()",
+   "console: Refused to execute https://js.hs-scripts.com/8793181.js as script because \"X-Content-Type-Options: nosniff\" was given and its Content-Type i"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "2 of 15 tap targets under 24px: button 14x14, a 33x12"
+   ],
+   [
+    "WARN",
+    "5 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 410 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4461px tall"
+   ]
+  ],
+  "site": "https://www.thegnomepub.com/"
+ },
+ {
+  "url": "https://www.thegnomepub.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4455,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323360824_191.yui3-widget",
+    "pos": "fixed",
+    "cover": 9
+   }
+  ],
+  "targets": 11,
+  "small": 0,
+  "smallList": [],
+  "tiny": 3,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.white",
+  "textLen": 3351,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [],
+  "allLinks": [
+   "https://www.thegnomepub.com/cart",
+   "https://www.thegnomepub.com/#page",
+   "https://www.thegnomepub.com/",
+   "https://goo.gl/maps/u529Wu99eYbfEBgn6",
+   "https://www.velvetantlerlounge.com/",
+   "http://instagram.com/thegnomepub",
+   "http://facebook.com/thegnomepub"
+  ],
+  "weight": 35342,
+  "title": "The Gnome Craft Pub",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1453,
+    "inner": null
+   },
+   "backY": 457,
+   "backInner": null,
+   "headTop": -457
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-457 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4455px tall"
+   ]
+  ],
+  "site": "https://www.thegnomepub.com/"
+ },
+ {
+  "url": "https://www.chaanteahouse.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.8,
+  "meta": "initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 664,
+  "zoomTrap": [],
+  "leaks": [
+   "nav#mainNavigation.main-navigation right=708",
+   "div#id5c87f383a4222f3d5a55e4dc.nav-item right=412",
+   "a right=403",
+   "div.subnav right=403",
+   "div.external right=403",
+   "a right=403"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.collection-images",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div.overlay",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#yui_3_17_2_1_1791323363671_115.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   },
+   {
+    "el": "header#siteHeader.site-header",
+    "pos": "fixed",
+    "cover": 6
+   },
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 13,
+  "small": 1,
+  "smallList": [
+   "a 100x21"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 144,
+  "headTag": "nav.main-navigation--overlay",
+  "textLen": 444,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://chaanbonbon.square.site/"
+   },
+   {
+    "text": "e-Gift Card",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "Cart (0)",
+    "href": "https://www.chaanteahouse.com/cart"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://chaanbonbon.square.site/"
+   },
+   {
+    "text": "e-Gift Card",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "Cart (0)",
+    "href": "https://www.chaanteahouse.com/cart"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Gift Certificate",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "RESERVE NOW",
+    "href": "https://www.chaanteahouse.com/afternoon-tea"
+   }
+  ],
+  "allLinks": [
+   "https://www.chaanteahouse.com/#mainContent",
+   "https://www.chaanteahouse.com/menu",
+   "https://www.chaanteahouse.com/afternoon-tea",
+   "https://www.chaanteahouse.com/tea-ceremony",
+   "https://www.chaanteahouse.com/mochiclass",
+   "https://www.chaanteahouse.com/flowerclass",
+   "https://www.chaanteahouse.com/special-collab",
+   "https://chaanbonbon.square.site/",
+   "https://www.chaanteahouse.com/gift-certificate",
+   "https://www.chaanteahouse.com/story",
+   "https://www.chaanteahouse.com/press",
+   "https://www.facebook.com/chaanteahouse/",
+   "https://www.instagram.com/chaanteahouse/",
+   "https://www.chaanteahouse.com/cart",
+   "https://www.chaanteahouse.com/",
+   "https://www.chaanteahouse.com/#"
+  ],
+  "weight": 16930,
+  "title": "Cha-An Teahouse",
+  "roundtrip": {
+   "atBottom": {
+    "y": 0,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 144
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-www-chaanteahouse-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): nav#mainNavigation.main-navigation right=708, div#id5c87f383a4222f3d5a55e4dc.nav-item right=412, a right=403, div.subnav right=403, div.external right=403, a right=403"
+   ],
+   [
+    "WARN",
+    "viewport meta: initial-scale=1"
+   ],
+   [
+    "WARN",
+    "fixed layer div.collection-images covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "fixed layer div.overlay covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791323363671_115.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "1 of 13 tap targets under 24px: a 100x21"
+   ],
+   [
+    "INFO",
+    "document scrolls, 664px tall"
+   ]
+  ],
+  "site": "https://www.chaanteahouse.com/",
+  "hop": "https://www.chaanteahouse.com/menu"
+ },
+ {
+  "url": "https://www.chaanteahouse.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.1,
+  "meta": "initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 727,
+  "zoomTrap": [],
+  "leaks": [
+   "nav#mainNavigation.main-navigation right=711",
+   "div#id5c87f383a4222f3d5a55e4dc.nav-item right=415",
+   "a right=405",
+   "div.subnav right=405",
+   "div.external right=405",
+   "a right=405"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.collection-images",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div.overlay",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#yui_3_17_2_1_1791323368642_115.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   },
+   {
+    "el": "header#siteHeader.site-header",
+    "pos": "fixed",
+    "cover": 6
+   },
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 13,
+  "small": 1,
+  "smallList": [
+   "a 100x21"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 174,
+  "headTag": "nav.main-navigation--overlay",
+  "textLen": 440,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://chaanbonbon.square.site/"
+   },
+   {
+    "text": "e-Gift Card",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "Cart (0)",
+    "href": "https://www.chaanteahouse.com/cart"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://chaanbonbon.square.site/"
+   },
+   {
+    "text": "e-Gift Card",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "Cart (0)",
+    "href": "https://www.chaanteahouse.com/cart"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Gift Certificate",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "RESERVE NOW",
+    "href": "https://www.chaanteahouse.com/afternoon-tea"
+   }
+  ],
+  "allLinks": [
+   "https://www.chaanteahouse.com/#mainContent",
+   "https://www.chaanteahouse.com/menu",
+   "https://www.chaanteahouse.com/afternoon-tea",
+   "https://www.chaanteahouse.com/tea-ceremony",
+   "https://www.chaanteahouse.com/mochiclass",
+   "https://www.chaanteahouse.com/flowerclass",
+   "https://www.chaanteahouse.com/special-collab",
+   "https://chaanbonbon.square.site/",
+   "https://www.chaanteahouse.com/gift-certificate",
+   "https://www.chaanteahouse.com/story",
+   "https://www.chaanteahouse.com/press",
+   "https://www.facebook.com/chaanteahouse/",
+   "https://www.instagram.com/chaanteahouse/",
+   "https://www.chaanteahouse.com/cart",
+   "https://www.chaanteahouse.com/",
+   "https://www.chaanteahouse.com/#"
+  ],
+  "weight": 16903,
+  "title": "Cha-An Teahouse",
+  "roundtrip": {
+   "atBottom": {
+    "y": 0,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 174
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): nav#mainNavigation.main-navigation right=711, div#id5c87f383a4222f3d5a55e4dc.nav-item right=415, a right=405, div.subnav right=405, div.external right=405, a right=405"
+   ],
+   [
+    "WARN",
+    "viewport meta: initial-scale=1"
+   ],
+   [
+    "WARN",
+    "fixed layer div.collection-images covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "fixed layer div.overlay covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791323368642_115.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "1 of 13 tap targets under 24px: a 100x21"
+   ],
+   [
+    "INFO",
+    "document scrolls, 727px tall"
+   ]
+  ],
+  "site": "https://www.chaanteahouse.com/"
+ },
+ {
+  "url": "https://www.chaanteahouse.com/menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.8,
+  "meta": "initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 21509,
+  "zoomTrap": [],
+  "leaks": [
+   "nav#mainNavigation.main-navigation right=708",
+   "div#id5c87f383a4222f3d5a55e4dc.nav-item right=412",
+   "a right=403",
+   "div.subnav right=403",
+   "div.external right=403",
+   "a right=403"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323372516_448.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   },
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 31,
+  "small": 18,
+  "smallList": [
+   "a 111x17",
+   "a 63x17",
+   "a 111x17",
+   "a 28x17",
+   "a 82x17"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 144,
+  "headTag": "nav.main-navigation--overlay",
+  "textLen": 5138,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://chaanbonbon.square.site/"
+   },
+   {
+    "text": "e-Gift Card",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "Cart (0)",
+    "href": "https://www.chaanteahouse.com/cart"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://chaanbonbon.square.site/"
+   },
+   {
+    "text": "e-Gift Card",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "Cart (0)",
+    "href": "https://www.chaanteahouse.com/cart"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Gift Certificate",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "RESERVE NOW",
+    "href": "https://www.chaanteahouse.com/afternoon-tea"
+   }
+  ],
+  "allLinks": [
+   "https://www.chaanteahouse.com/menu#mainContent",
+   "https://www.chaanteahouse.com/menu",
+   "https://www.chaanteahouse.com/afternoon-tea",
+   "https://www.chaanteahouse.com/tea-ceremony",
+   "https://www.chaanteahouse.com/mochiclass",
+   "https://www.chaanteahouse.com/flowerclass",
+   "https://www.chaanteahouse.com/special-collab",
+   "https://chaanbonbon.square.site/",
+   "https://www.chaanteahouse.com/gift-certificate",
+   "https://www.chaanteahouse.com/story",
+   "https://www.chaanteahouse.com/press",
+   "https://www.facebook.com/chaanteahouse/",
+   "https://www.instagram.com/chaanteahouse/",
+   "https://www.chaanteahouse.com/cart",
+   "https://www.chaanteahouse.com/",
+   "https://www.chaanteahouse.com/menu#",
+   "https://www.chaanteahouse.com/menu#toast",
+   "https://www.chaanteahouse.com/menu#dessert",
+   "https://www.chaanteahouse.com/menu#latte",
+   "https://www.chaanteahouse.com/menu#tea",
+   "https://www.chaanteahouse.com/menu#cocktails",
+   "https://www.chaanteahouse.com/menu#TOP",
+   "https://www.yelp.com/biz/cha-an-new-york",
+   "http://www.tic-nyc.com/",
+   "https://www.chaanteahouse.com/accessibility-statement",
+   "https://www.chaanteahouse.com/privacy-policy"
+  ],
+  "weight": 29791,
+  "title": "Cha-An Happy Berry Shortcake \u2014 Cha-An Teahouse",
+  "roundtrip": {
+   "atBottom": {
+    "y": 20845,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 144
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-www-chaanteahouse-com-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): nav#mainNavigation.main-navigation right=708, div#id5c87f383a4222f3d5a55e4dc.nav-item right=412, a right=403, div.subnav right=403, div.external right=403, a right=403"
+   ],
+   [
+    "WARN",
+    "viewport meta: initial-scale=1"
+   ],
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791323372516_448.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "18 of 31 tap targets under 24px: a 111x17, a 63x17, a 111x17, a 28x17, a 82x17"
+   ],
+   [
+    "INFO",
+    "document scrolls, 21509px tall"
+   ]
+  ],
+  "site": "https://www.chaanteahouse.com/"
+ },
+ {
+  "url": "https://www.chaanteahouse.com/menu",
+  "device": "android",
+  "status": 200,
+  "load_s": 4.5,
+  "meta": "initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 21665,
+  "zoomTrap": [],
+  "leaks": [
+   "nav#mainNavigation.main-navigation right=711",
+   "div#id5c87f383a4222f3d5a55e4dc.nav-item right=415",
+   "a right=405",
+   "div.subnav right=405",
+   "div.external right=405",
+   "a right=405"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323377542_448.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   },
+   {
+    "el": "header#siteHeader.site-header",
+    "pos": "fixed",
+    "cover": 6
+   },
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 31,
+  "small": 18,
+  "smallList": [
+   "a 111x17",
+   "a 63x17",
+   "a 111x17",
+   "a 28x17",
+   "a 82x17"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 174,
+  "headTag": "nav.main-navigation--overlay",
+  "textLen": 5210,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://chaanbonbon.square.site/"
+   },
+   {
+    "text": "e-Gift Card",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "Cart (0)",
+    "href": "https://www.chaanteahouse.com/cart"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://chaanbonbon.square.site/"
+   },
+   {
+    "text": "e-Gift Card",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "Cart (0)",
+    "href": "https://www.chaanteahouse.com/cart"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.chaanteahouse.com/menu"
+   },
+   {
+    "text": "Gift Certificate",
+    "href": "https://www.chaanteahouse.com/gift-certificate"
+   },
+   {
+    "text": "RESERVE NOW",
+    "href": "https://www.chaanteahouse.com/afternoon-tea"
+   }
+  ],
+  "allLinks": [
+   "https://www.chaanteahouse.com/menu#mainContent",
+   "https://www.chaanteahouse.com/menu",
+   "https://www.chaanteahouse.com/afternoon-tea",
+   "https://www.chaanteahouse.com/tea-ceremony",
+   "https://www.chaanteahouse.com/mochiclass",
+   "https://www.chaanteahouse.com/flowerclass",
+   "https://www.chaanteahouse.com/special-collab",
+   "https://chaanbonbon.square.site/",
+   "https://www.chaanteahouse.com/gift-certificate",
+   "https://www.chaanteahouse.com/story",
+   "https://www.chaanteahouse.com/press",
+   "https://www.facebook.com/chaanteahouse/",
+   "https://www.instagram.com/chaanteahouse/",
+   "https://www.chaanteahouse.com/cart",
+   "https://www.chaanteahouse.com/",
+   "https://www.chaanteahouse.com/menu#",
+   "https://www.chaanteahouse.com/menu#toast",
+   "https://www.chaanteahouse.com/menu#dessert",
+   "https://www.chaanteahouse.com/menu#latte",
+   "https://www.chaanteahouse.com/menu#tea",
+   "https://www.chaanteahouse.com/menu#cocktails",
+   "https://www.chaanteahouse.com/menu#TOP",
+   "https://www.yelp.com/biz/cha-an-new-york",
+   "http://www.tic-nyc.com/",
+   "https://www.chaanteahouse.com/accessibility-statement",
+   "https://www.chaanteahouse.com/privacy-policy"
+  ],
+  "weight": 29755,
+  "title": "Cha-An Happy Berry Shortcake \u2014 Cha-An Teahouse",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2390,
+    "inner": null
+   },
+   "backY": 1259,
+   "backInner": null,
+   "headTop": 174
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): nav#mainNavigation.main-navigation right=711, div#id5c87f383a4222f3d5a55e4dc.nav-item right=415, a right=405, div.subnav right=405, div.external right=405, a right=405"
+   ],
+   [
+    "WARN",
+    "viewport meta: initial-scale=1"
+   ],
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791323377542_448.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "18 of 31 tap targets under 24px: a 111x17, a 63x17, a 111x17, a 28x17, a 82x17"
+   ],
+   [
+    "INFO",
+    "document scrolls, 21665px tall"
+   ]
+  ],
+  "site": "https://www.chaanteahouse.com/"
+ },
+ {
+  "url": "https://www.pompeiusa.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.1,
+  "meta": null,
+  "vw": 980,
+  "vh": 1668,
+  "docH": 3706,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323382910_513.yui3-widget",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 31,
+  "small": 6,
+  "smallList": [
+   "a 103x21",
+   "a 186x21",
+   "a 111x21",
+   "a 186x21",
+   "a.site-email 155x14"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": -20,
+  "headTag": "nav#mainNavigation",
+  "textLen": 3015,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Make a Reservation-HIDDEN",
+    "href": "http://www.pompeiusa.com/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.pompeiusa.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://www.pompeiusa.com/#home-section",
+   "https://www.pompeiusa.com/#location-section",
+   "https://www.pompeiusa.com/#reservation-section",
+   "https://www.pompeiusa.com/",
+   "https://www.pompeiusa.com/menu",
+   "https://www.pompeiusa.com/specials",
+   "https://www.pompeiusa.com/banquets",
+   "https://www.pompeiusa.com/catering",
+   "https://www.pompeiusa.com/order-online",
+   "https://www.pompeiusa.com/our-story",
+   "https://www.google.com/maps/place/1531+W+Taylor+St,+Chicago,+IL+60607/@41.8678933,-87.6736616,15z/data=!4m5!3m4!1s0x880e2d1a54a0dd4d:0x6c35e0e33dda8bba!8m2!3d41.8690112!4d-87.6655732",
+   "https://www.pompeiusa.com/epgaming",
+   "https://www.google.com/maps/place/22+Conti+Pkwy,+Elmwood+Park,+IL+60707/@41.9276554,-87.8211215,16z/data=!3m1!4b1!4m6!3m5!1s0x880fcae3224e7333:0x7143df1fdf2bf804!8m2!3d41.9276514!4d-87.8185466!16s%2Fg%2F11q2x8vjlf!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+   "https://www.pompeiusa.com/join-e-club",
+   "https://www.facebook.com/PompeiTaylor",
+   "https://www.instagram.com/explore/locations/327691/pompei-taylor-street/",
+   "https://www.pompeiusa.com/#header",
+   "https://www.pompeiusa.com/contact-us",
+   "http://www.pompeiusa.com/",
+   "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+   "https://www.pompeiusa.com/gift-cards",
+   "https://www.pompeiusa.com/events",
+   "https://www.psuchydesign.com/"
+  ],
+  "weight": 25715,
+  "title": "Pompei - Seasoned with Love for Generations",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2037,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": -20
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-pompeiusa-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta: missing"
+   ],
+   [
+    "WARN",
+    "header at y=-20 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "6 of 31 tap targets under 24px: a 103x21, a 186x21, a 111x21, a 186x21, a.site-email 155x14"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3706px tall"
+   ]
+  ],
+  "site": "https://www.pompeiusa.com/",
+  "hop": "https://www.pompeiusa.com/menu"
+ },
+ {
+  "url": "https://www.pompeiusa.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.3,
+  "meta": null,
+  "vw": 980,
+  "vh": 1813,
+  "docH": 3708,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323389800_513.yui3-widget",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 31,
+  "small": 6,
+  "smallList": [
+   "a 103x21",
+   "a 186x21",
+   "a 111x21",
+   "a 186x21",
+   "a.site-email 155x14"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": -20,
+  "headTag": "nav#mainNavigation",
+  "textLen": 3014,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Make a Reservation-HIDDEN",
+    "href": "http://www.pompeiusa.com/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.pompeiusa.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://www.pompeiusa.com/#home-section",
+   "https://www.pompeiusa.com/#location-section",
+   "https://www.pompeiusa.com/#reservation-section",
+   "https://www.pompeiusa.com/",
+   "https://www.pompeiusa.com/menu",
+   "https://www.pompeiusa.com/specials",
+   "https://www.pompeiusa.com/banquets",
+   "https://www.pompeiusa.com/catering",
+   "https://www.pompeiusa.com/order-online",
+   "https://www.pompeiusa.com/our-story",
+   "https://www.google.com/maps/place/1531+W+Taylor+St,+Chicago,+IL+60607/@41.8678933,-87.6736616,15z/data=!4m5!3m4!1s0x880e2d1a54a0dd4d:0x6c35e0e33dda8bba!8m2!3d41.8690112!4d-87.6655732",
+   "https://www.pompeiusa.com/epgaming",
+   "https://www.google.com/maps/place/22+Conti+Pkwy,+Elmwood+Park,+IL+60707/@41.9276554,-87.8211215,16z/data=!3m1!4b1!4m6!3m5!1s0x880fcae3224e7333:0x7143df1fdf2bf804!8m2!3d41.9276514!4d-87.8185466!16s%2Fg%2F11q2x8vjlf!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+   "https://www.pompeiusa.com/join-e-club",
+   "https://www.facebook.com/PompeiTaylor",
+   "https://www.instagram.com/explore/locations/327691/pompei-taylor-street/",
+   "https://www.pompeiusa.com/#header",
+   "https://www.pompeiusa.com/contact-us",
+   "http://www.pompeiusa.com/",
+   "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+   "https://www.pompeiusa.com/gift-cards",
+   "https://www.pompeiusa.com/events",
+   "https://www.psuchydesign.com/"
+  ],
+  "weight": 25688,
+  "title": "Pompei - Seasoned with Love for Generations",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1895,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": -20
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta: missing"
+   ],
+   [
+    "WARN",
+    "header at y=-20 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "6 of 31 tap targets under 24px: a 103x21, a 186x21, a 111x21, a 186x21, a.site-email 155x14"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3708px tall"
+   ]
+  ],
+  "site": "https://www.pompeiusa.com/"
+ },
+ {
+  "url": "https://www.pompeiusa.com/menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.3,
+  "meta": null,
+  "vw": 980,
+  "vh": 1668,
+  "docH": 13380,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323392798_269.yui3-widget",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 23,
+  "small": 2,
+  "smallList": [
+   "a.site-email 155x14",
+   "a 143x14"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#mobileNavigation",
+  "textLen": 11016,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Printable menu",
+    "href": "https://www.pompeiusa.com/s/Pompei-MainMenu_bw_June26_2Pg_WEB-c53h.pdf"
+   },
+   {
+    "text": "Make a Reservation-HIDDEN",
+    "href": "http://www.pompeiusa.com/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.pompeiusa.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://www.pompeiusa.com/#home-section",
+   "https://www.pompeiusa.com/#location-section",
+   "https://www.pompeiusa.com/#reservation-section",
+   "https://www.pompeiusa.com/",
+   "https://www.pompeiusa.com/menu",
+   "https://www.pompeiusa.com/specials",
+   "https://www.pompeiusa.com/banquets",
+   "https://www.pompeiusa.com/catering",
+   "https://www.pompeiusa.com/order-online",
+   "https://www.pompeiusa.com/s/Pompei-MainMenu_bw_June26_2Pg_WEB-c53h.pdf",
+   "https://www.facebook.com/PompeiTaylor",
+   "https://www.instagram.com/explore/locations/327691/pompei-taylor-street/",
+   "https://www.pompeiusa.com/menu#header",
+   "https://www.pompeiusa.com/our-story",
+   "https://www.pompeiusa.com/contact-us",
+   "http://www.pompeiusa.com/",
+   "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+   "https://www.pompeiusa.com/join-e-club",
+   "https://www.pompeiusa.com/gift-cards",
+   "https://www.pompeiusa.com/events",
+   "https://www.psuchydesign.com/"
+  ],
+  "weight": 35058,
+  "title": "Menu \u2014 Pompei - Seasoned with Love for Generations",
+  "roundtrip": {
+   "atBottom": {
+    "y": 11712,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-pompeiusa-com-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta: missing"
+   ],
+   [
+    "WARN",
+    "2 of 23 tap targets under 24px: a.site-email 155x14, a 143x14"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 13380px tall"
+   ]
+  ],
+  "site": "https://www.pompeiusa.com/"
+ },
+ {
+  "url": "https://www.pompeiusa.com/menu",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.1,
+  "meta": null,
+  "vw": 980,
+  "vh": 1813,
+  "docH": 13382,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791323398570_269.yui3-widget",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 23,
+  "small": 2,
+  "smallList": [
+   "a.site-email 155x14",
+   "a 143x14"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#mobileNavigation",
+  "textLen": 10993,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Reservation",
+    "href": "https://www.pompeiusa.com/#reservation-section"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.pompeiusa.com/menu"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.pompeiusa.com/order-online"
+   },
+   {
+    "text": "Printable menu",
+    "href": "https://www.pompeiusa.com/s/Pompei-MainMenu_bw_June26_2Pg_WEB-c53h.pdf"
+   },
+   {
+    "text": "Make a Reservation-HIDDEN",
+    "href": "http://www.pompeiusa.com/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.pompeiusa.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://www.pompeiusa.com/#home-section",
+   "https://www.pompeiusa.com/#location-section",
+   "https://www.pompeiusa.com/#reservation-section",
+   "https://www.pompeiusa.com/",
+   "https://www.pompeiusa.com/menu",
+   "https://www.pompeiusa.com/specials",
+   "https://www.pompeiusa.com/banquets",
+   "https://www.pompeiusa.com/catering",
+   "https://www.pompeiusa.com/order-online",
+   "https://www.pompeiusa.com/s/Pompei-MainMenu_bw_June26_2Pg_WEB-c53h.pdf",
+   "https://www.facebook.com/PompeiTaylor",
+   "https://www.instagram.com/explore/locations/327691/pompei-taylor-street/",
+   "https://www.pompeiusa.com/menu#header",
+   "https://www.pompeiusa.com/our-story",
+   "https://www.pompeiusa.com/contact-us",
+   "http://www.pompeiusa.com/",
+   "http://www.opentable.com/rest_profile.aspx?rid=230290&restref=230290",
+   "https://www.pompeiusa.com/join-e-club",
+   "https://www.pompeiusa.com/gift-cards",
+   "https://www.pompeiusa.com/events",
+   "https://www.psuchydesign.com/"
+  ],
+  "weight": 35022,
+  "title": "Menu \u2014 Pompei - Seasoned with Love for Generations",
+  "roundtrip": {
+   "atBottom": {
+    "y": 11569,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta: missing"
+   ],
+   [
+    "WARN",
+    "2 of 23 tap targets under 24px: a.site-email 155x14, a 143x14"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 13382px tall"
+   ]
+  ],
+  "site": "https://www.pompeiusa.com/"
+ }
+]

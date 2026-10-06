@@ -679,6 +679,527 @@
    }
   ]
  },
+ "https://tommycondons.com/": {
+  "name": "Tommy Condon's Irish Pub & Restaurant",
+  "reviews": "2939",
+  "takes_money": "Toast ordering",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://tommycondons.com/",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 7695px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://tommycondons.com/",
+    "dev": "android",
+    "msg": "fixed layer div#promotion-pop-up.modal covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://tommycondons.com/",
+    "dev": "android",
+    "msg": "fixed layer div.modal-backdrop covers 100% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu",
+    "dev": "iphone",
+    "href": "https://tommycondons.com/4456",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.chaanteahouse.com/": {
+  "name": "Cha-An",
+  "reviews": "1309",
+  "takes_money": "Square",
+  "prior": "sent_log 2026-05-16",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.chaanteahouse.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.collection-images covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.chaanteahouse.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.chaanteahouse.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#yui_3_17_2_1_1791323363671_115.yui3-widget covers 50% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.chaanteahouse.com/",
+    "dev": "android",
+    "msg": "fixed layer div.collection-images covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.chaanteahouse.com/",
+    "dev": "android",
+    "msg": "fixed layer div.overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.chaanteahouse.com/",
+    "dev": "android",
+    "msg": "fixed layer div#yui_3_17_2_1_1791323368642_115.yui3-widget covers 50% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.chaanteahouse.com/menu",
+    "dev": "iphone",
+    "msg": "fixed layer div#yui_3_17_2_1_1791323372516_448.yui3-widget covers 50% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.chaanteahouse.com/menu",
+    "dev": "android",
+    "msg": "fixed layer div#yui_3_17_2_1_1791323377542_448.yui3-widget covers 50% of the screen"
+   }
+  ]
+ },
+ "https://www.pompeiusa.com/": {
+  "name": "Pompei Restaurant",
+  "reviews": "2923",
+  "takes_money": "OpenTable reservations; gift cards",
+  "prior": "sent_log 2026-05-16",
+  "findings": [
+   {
+    "kind": "no_viewport",
+    "where": "home",
+    "url": "https://www.pompeiusa.com/",
+    "dev": "iphone",
+    "msg": "viewport meta: missing"
+   },
+   {
+    "kind": "no_viewport",
+    "where": "home",
+    "url": "https://www.pompeiusa.com/",
+    "dev": "android",
+    "msg": "viewport meta: missing"
+   },
+   {
+    "kind": "no_viewport",
+    "where": "hop",
+    "url": "https://www.pompeiusa.com/menu",
+    "dev": "iphone",
+    "msg": "viewport meta: missing"
+   },
+   {
+    "kind": "no_viewport",
+    "where": "hop",
+    "url": "https://www.pompeiusa.com/menu",
+    "dev": "android",
+    "msg": "viewport meta: missing"
+   }
+  ]
+ },
+ "https://www.indacorestaurant.com/location/indaco-charleston/": {
+  "name": "Indaco",
+  "reviews": "1513",
+  "takes_money": "online ordering; OpenTable reservations; Resy reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://www.indacorestaurant.com/location/indaco-charleston/",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 4300px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.indacorestaurant.com/location/indaco-charleston/",
+    "dev": "iphone",
+    "msg": "fixed layer div.mfp-bg covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.indacorestaurant.com/location/indaco-charleston/",
+    "dev": "iphone",
+    "msg": "fixed layer div.mfp-wrap covers 100% of the screen"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://www.indacorestaurant.com/location/indaco-charleston/",
+    "dev": "iphone",
+    "href": "https://www.indacorestaurant.com/type=",
+    "text": "Reservations",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://www.indacorestaurant.com/location/indaco-charleston/",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 4352px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.indacorestaurant.com/location/indaco-charleston/",
+    "dev": "android",
+    "msg": "fixed layer div.mfp-bg covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.indacorestaurant.com/location/indaco-charleston/",
+    "dev": "android",
+    "msg": "fixed layer div.mfp-wrap covers 100% of the screen"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://www.indacorestaurant.com/alys-beach-menu/",
+    "dev": "iphone",
+    "href": "https://www.indacorestaurant.com/type=",
+    "text": "Reservations",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://crustwoodfiredpizza.com/": {
+  "name": "Crust Wood Fired Pizza",
+  "reviews": "811",
+  "takes_money": "Toast ordering; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://crustwoodfiredpizza.com/wp-content/uploads/2026/05/CrustJI_Menu_2026.pdf",
+    "dev": "iphone",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://crustwoodfiredpizza.com/wp-cont"
+   },
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://crustwoodfiredpizza.com/wp-content/uploads/2026/05/CrustJI_Menu_2026.pdf",
+    "dev": "android",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://crustwoodfiredpizza.com/wp-cont"
+   }
+  ]
+ },
+ "https://rasushi.com/": {
+  "name": "RA Sushi - Houston (Highland Village)",
+  "reviews": "5941",
+  "takes_money": "gift cards",
+  "prior": "sent_log 2026-05-16",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://rasushi.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://rasushi.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-consent-container covers 52% of the screen"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://rasushi.com/",
+    "dev": "iphone",
+    "href": "https://www.ezcater.com/brand/pvt/ra-sushi-bar-restaurant",
+    "text": "Order with EzCater",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://rasushi.com/",
+    "dev": "iphone",
+    "href": "https://rasushi.com/?post_type=menu&p=335",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://rasushi.com/",
+    "dev": "android",
+    "msg": "fixed layer div.cky-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://rasushi.com/",
+    "dev": "android",
+    "msg": "fixed layer div.cky-consent-container covers 47% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://rasushi.com/menu/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://rasushi.com/menu/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-consent-container covers 52% of the screen"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://rasushi.com/menu/",
+    "dev": "iphone",
+    "href": "https://www.ezcater.com/brand/pvt/ra-sushi-bar-restaurant",
+    "text": "Order with EzCater",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://rasushi.com/menu/",
+    "dev": "iphone",
+    "href": "https://rasushi.com/?post_type=menu&p=335",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://rasushi.com/menu/",
+    "dev": "android",
+    "msg": "fixed layer div.cky-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://rasushi.com/menu/",
+    "dev": "android",
+    "msg": "fixed layer div.cky-consent-container covers 47% of the screen"
+   }
+  ]
+ },
+ "https://onf.coop/": {
+  "name": "Ozark Natural Foods",
+  "reviews": "1302",
+  "takes_money": "Square",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://onf.coop/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#mce-FNAME at 12px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://onf.coop/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#mce-EMAIL.required at 12px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://onf.coop/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input at 11px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://transformationssalonandspa.com/": {
+  "name": "Transformations Salon and Spa",
+  "reviews": "725",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://transformationssalonandspa.com/",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 7384px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://transformationssalonandspa.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#pum-1052.pum covers 100% of the screen"
+   },
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://transformationssalonandspa.com/",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 7315px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://transformationssalonandspa.com/",
+    "dev": "android",
+    "msg": "fixed layer div#pum-1052.pum covers 100% of the screen"
+   }
+  ]
+ },
+ "https://centralparkboathouse.com/": {
+  "name": "Central Park Boathouse",
+  "reviews": "5105",
+  "takes_money": "OpenTable reservations",
+  "prior": "sent_log 2026-05-16",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://centralparkboathouse.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://centralparkboathouse.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://centralparkboathouse.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://centralparkboathouse.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://centralparkboathouse.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://centralparkboathouse.com/"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://centralparkboathouse.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.modal covers 100% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://centralparkboathouse.com/",
+    "dev": "android",
+    "msg": "broken image: https://centralparkboathouse.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://centralparkboathouse.com/",
+    "dev": "android",
+    "msg": "broken image: https://centralparkboathouse.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://centralparkboathouse.com/",
+    "dev": "android",
+    "msg": "broken image: https://centralparkboathouse.com/"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://centralparkboathouse.com/",
+    "dev": "android",
+    "msg": "fixed layer div.modal covers 100% of the screen"
+   }
+  ]
+ },
+ "https://360chicago.com/": {
+  "name": "360 CHICAGO",
+  "reviews": "20569",
+  "takes_money": "WooCommerce store",
+  "prior": "sent_log 2026-05-16",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://360chicago.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#input_4_2.large at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://360chicago.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=148012077&tm=gtm002&Ver=2&mid=42cfd68e-bbc5-4839-adfd-641828b883d3&bo=2&sid=dabe6e10c1cf11f1a1e47d667f053515&vid=dabe8fd0c1cf11"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://360chicago.com/",
+    "dev": "android",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=148012077&tm=gtm002&Ver=2&mid=883e499d-f392-4e0f-b105-01fc767a9776&bo=2&sid=f4ee6ac0c1cf11f1b0f241b21770ab14&vid=f4ee6360c1cf11"
+   },
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf",
+    "dev": "iphone",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://360chicago.com/wp-content/uploa"
+   },
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://360chicago.com/wp-content/uploads/2025/04/MAY-SIP-VIEW-MENU.pdf",
+    "dev": "android",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://360chicago.com/wp-content/uploa"
+   }
+  ]
+ },
  "https://vickerysshemcreek.com/": {
   "name": "Vickery's Bar & Grill",
   "reviews": "3165",

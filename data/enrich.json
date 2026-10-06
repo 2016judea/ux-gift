@@ -1,0 +1,598 @@
+{
+ "https://www.fiveloavescafe.com/": {
+  "form": "contact-form https://www.fiveloavescafe.com/catering/",
+  "dev_credit": "FU DOG MEDIA https://fudogmedia.net/"
+ },
+ "https://the-windjammer.com/": {
+  "form": "none",
+  "dev_credit": "FDM https://fudogmedia.net/new-visitors/"
+ },
+ "https://www.habitude.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://sparoma.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.hairloftnj.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.gcfb.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://hellskitcheninc.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.neighborhoodcafemn.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.thedutchnyc.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.scarpettarestaurants.com/location/scarpetta-new-york-city/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.becco-nyc.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://joansonthird.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.joesbar.com/": {
+  "form": "contact-form https://www.joesbar.com/",
+  "dev_credit": ""
+ },
+ "https://windycitymassage.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.agorahouston.com/": {
+  "form": "none",
+  "dev_credit": "OTM https://www.onetap.media/"
+ },
+ "https://onf.coop/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://transformationssalonandspa.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://centralparkboathouse.com/": {
+  "form": "contact-form https://centralparkboathouse.com/",
+  "dev_credit": ""
+ },
+ "https://360chicago.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "http://www.griffoncharleston.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://charlestonpourhouse.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://brilliantmassageandskin.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://gerhardscafe.net/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://idolizespa.com/steele-creek/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.bostons.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.cafelatte.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.tareendermatology.com/location/roseville/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://thesmithrestaurant.com/location/midtown/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://mcgeespubny.com/": {
+  "form": "contact-form https://mcgeespubny.com/-party?source=pop_up&spot_id=2451&destination=private_parties&promotion=private_parties",
+  "dev_credit": ""
+ },
+ "https://www.locandaverdenyc.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.beachwoodcafe.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://starofsiamchicago.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.cycloneanaya.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://pappasbros.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://leyla-charleston.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://coastbarandgrill.holycityhospitality.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://luigischophouse.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://phiasalon.com/": {
+  "form": "none",
+  "dev_credit": "Signal Interactive https://signal-interactive.com"
+ },
+ "https://thegrocerycharleston.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://polishedspa.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://portercreek.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.moscowonthehill.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://stksteakhouse.com/en-us/location/nyc-chelsea/": {
+  "form": "none",
+  "dev_credit": "Fanatic https://www.fanatic.co.uk/"
+ },
+ "https://www.redroosterharlem.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://russiantearoomnyc.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.wurstkuche.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.theberghoff.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.whirlyball.com/chicago": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.benihana.com/locations/houston-i-downtown/": {
+  "form": "none",
+  "dev_credit": "Fanatic https://fanatic.co.uk/"
+ },
+ "https://39ruedejean.holycityhospitality.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://virginiasonking.holycityhospitality.com/": {
+  "form": "contact-form https://virginiasonking.holycityhospitality.com/parties?source=pop_up&spot_id=15834&destination=private_parties&promotion=private_parties",
+  "dev_credit": ""
+ },
+ "http://marketplacegrill.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://circa1886.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.redbowlspartanburg.com/mhome": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://exhalespa.com/atlantic-city/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.almampls.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.visitjimmys.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.danielnyc.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://bkbagel.com/": {
+  "form": "none",
+  "dev_credit": "PC3 Digital http://pc3digital.com/"
+ },
+ "http://cafeselectnyc.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.perchla.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://thegagechicago.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.longmanandeagle.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.saintarnold.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://vickerysshemcreek.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://henrysonthemarket.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.kbjacks.com/fayetteville-nc": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://grazecharleston.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.vadaspa.com/": {
+  "form": "none",
+  "dev_credit": "Enhanced Solutions  (opens in a new tab) https://www.enhancedsolutions.com/"
+ },
+ "https://www.sidepocketswichita.com/": {
+  "form": "contact-form https://www.sidepocketswichita.com/sp-reservation-request",
+  "dev_credit": ""
+ },
+ "https://www.5-8club.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://first-avenue.com/venue/turf-club/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.keens.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://e-a-t.nyc/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://thinkcoffee.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://esmdeli.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.haymarketbeer.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://pequodspizza.com/chicago/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.mcgonigels.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://highcottoncharleston.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "http://www.threelittlebirdscafe.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.stonetheatres.com/millstone14cinemas": {
+  "form": "contact-form https://www.stonetheatres.com/Gift-Cards",
+  "dev_credit": ""
+ },
+ "https://reddrumrestaurant.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://latavernaitaliancuisine.org/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://knollas-pizza.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.wafrost.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.memorylanes.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.marearestaurant.com/new-york": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.ticktockdinerny.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.shampooavenueb.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://fathersoffice.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.volarerestaurant.com/": {
+  "form": "contact-form https://www.volarerestaurant.com/gift-card",
+  "dev_credit": ""
+ },
+ "https://www.thepublicanrestaurant.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://kiranshouston.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.theginjoint.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://bubbasbbqandbash.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.blza.com/locations/bearden/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://dosha.org/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://diamondnailsouthlamar.com/": {
+  "form": "none",
+  "dev_credit": "Fidelia MKT https://fideliamarketing.com"
+ },
+ "https://poundsfargo.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.jaxcafe.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "http://www.happynailsmn.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.gramercytavern.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.peacefoodnyc.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.watergrill.com/la": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.laphil.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.ginoseast.com/": {
+  "form": "contact-form https://www.ginoseast.com/",
+  "dev_credit": ""
+ },
+ "https://trulucks.com/locations/houston-texas/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.chamagaucha.com/houston/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://tommycondons.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.stellasbrasserie.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.thegnomepub.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.chaanteahouse.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.pompeiusa.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.indacorestaurant.com/location/indaco-charleston/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://crustwoodfiredpizza.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.sakurastpaul.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.laurelhardware.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://rasushi.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://waters-edge-restaurant.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://lapazmexicanrestaurantgrill.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://aesthetic-solutions.com/": {
+  "form": "none",
+  "dev_credit": "SageMG http://sagemg.com"
+ },
+ "https://houseofdearhairsalon.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://limonsalon.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://doolittles.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.elburritomercado.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://pianosnyc.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.dominiqueanselny.com/": {
+  "form": "contact-form https://www.dominiqueanselny.com/",
+  "dev_credit": ""
+ },
+ "https://www.goldenunicornrestaurant.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.chateaumarmont.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://thepurplepigrestaurantgroup.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.fronteragrill.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.thewhitehallhouston.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.cococrepes.com/location/coco-crepes-midtown/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://snobcharleston.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.prohibitioncharleston.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://therapyhairsalons.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://ansonrestaurant.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.gratefulbrewgvl.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.milkfloat.com/": {
+  "form": "none",
+  "dev_credit": "Theodorem.Design https://theodorem.design"
+ },
+ "https://midtownglobalmarket.org/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.elsies.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.eastsidefood.coop/": {
+  "form": "contact-form https://www.eastsidefood.coop/",
+  "dev_credit": ""
+ },
+ "https://www.oneifbyland.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.venieros.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.farbarla.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://firecakesdonuts.com/": {
+  "form": "none",
+  "dev_credit": "Boys from Jupiter http://www.boysfromjupiter.com"
+ },
+ "https://www.lulacafe.com/": {
+  "form": "none",
+  "dev_credit": ""
+ },
+ "https://www.rudyardshtx.com/": {
+  "form": "none",
+  "dev_credit": "Chowly https://www.chowly.com"
+ }
+}

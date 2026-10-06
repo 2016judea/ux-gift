@@ -1,1 +1,117 @@
 WARN iphone  https://tommycondons.com/
+FAIL android https://tommycondons.com/
+FAIL iphone  https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu
+WARN android https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu
+FAIL iphone  https://www.stellasbrasserie.com/
+WARN android https://www.stellasbrasserie.com/
+WARN iphone  https://www.stellasbrasserie.com/lunch-menu/
+WARN android https://www.stellasbrasserie.com/lunch-menu/
+WARN iphone  https://www.thegnomepub.com/
+WARN android https://www.thegnomepub.com/
+WARN iphone  https://www.chaanteahouse.com/
+WARN android https://www.chaanteahouse.com/
+WARN iphone  https://www.chaanteahouse.com/menu
+WARN android https://www.chaanteahouse.com/menu
+WARN iphone  https://www.pompeiusa.com/
+WARN android https://www.pompeiusa.com/
+WARN iphone  https://www.pompeiusa.com/menu
+WARN android https://www.pompeiusa.com/menu
+
+== findings (FAIL and WARN) ==
+
+https://tommycondons.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  14 of 61 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://tommycondons.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 7695px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  14 of 63 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://tommycondons.com/4456 answers 404
+
+https://tommycondons.com/charleston-downtown-tommy-condon-s-food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://www.stellasbrasserie.com/  [iphone]
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 14 tap targets under 24px: a 83x14, a 71x14, a 135x14, a 67x14, a 120x14
+
+https://www.stellasbrasserie.com/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 14 tap targets under 24px: a 83x15, a 71x15, a 135x15, a 67x15, a 120x15
+
+https://www.stellasbrasserie.com/lunch-menu/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  14 of 17 tap targets under 24px: a 39x22, a 55x22, a 79x22, a 43x22, a 60x22
+
+https://www.stellasbrasserie.com/lunch-menu/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  14 of 17 tap targets under 24px: a 39x22, a 55x22, a 79x22, a 43x22, a 60x22
+
+https://www.thegnomepub.com/  [iphone]
+  WARN  2 of 15 tap targets under 24px: button 14x14, a 33x12
+  WARN  5 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span 10px
+
+https://www.thegnomepub.com/  [android]
+  WARN  header at y=-457 after scrolling down and back up
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.chaanteahouse.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav#mainNavigation.main-navigation right=708, div#id5c87f383a4222f3d5a55e4dc.nav-item right=412, a right=403, div.subnav right=403, div.external right=403, a right=403
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div.collection-images covers 100% of the screen
+  WARN  fixed layer div.overlay covers 100% of the screen
+  WARN  fixed layer div#yui_3_17_2_1_1791323363671_115.yui3-widget covers 50% of the screen
+  WARN  1 of 13 tap targets under 24px: a 100x21
+
+https://www.chaanteahouse.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav#mainNavigation.main-navigation right=711, div#id5c87f383a4222f3d5a55e4dc.nav-item right=415, a right=405, div.subnav right=405, div.external right=405, a right=405
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div.collection-images covers 100% of the screen
+  WARN  fixed layer div.overlay covers 100% of the screen
+  WARN  fixed layer div#yui_3_17_2_1_1791323368642_115.yui3-widget covers 50% of the screen
+  WARN  1 of 13 tap targets under 24px: a 100x21
+
+https://www.chaanteahouse.com/menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav#mainNavigation.main-navigation right=708, div#id5c87f383a4222f3d5a55e4dc.nav-item right=412, a right=403, div.subnav right=403, div.external right=403, a right=403
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div#yui_3_17_2_1_1791323372516_448.yui3-widget covers 50% of the screen
+  WARN  18 of 31 tap targets under 24px: a 111x17, a 63x17, a 111x17, a 28x17, a 82x17
+
+https://www.chaanteahouse.com/menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav#mainNavigation.main-navigation right=711, div#id5c87f383a4222f3d5a55e4dc.nav-item right=415, a right=405, div.subnav right=405, div.external right=405, a right=405
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div#yui_3_17_2_1_1791323377542_448.yui3-widget covers 50% of the screen
+  WARN  18 of 31 tap targets under 24px: a 111x17, a 63x17, a 111x17, a 28x17, a 82x17
+
+https://www.pompeiusa.com/  [iphone]
+  WARN  viewport meta: missing
+  WARN  header at y=-20 after scrolling down and back up
+  WARN  6 of 31 tap targets under 24px: a 103x21, a 186x21, a 111x21, a 186x21, a.site-email 155x14
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.pompeiusa.com/  [android]
+  WARN  viewport meta: missing
+  WARN  header at y=-20 after scrolling down and back up
+  WARN  6 of 31 tap targets under 24px: a 103x21, a 186x21, a 111x21, a 186x21, a.site-email 155x14
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.pompeiusa.com/menu  [iphone]
+  WARN  viewport meta: missing
+  WARN  2 of 23 tap targets under 24px: a.site-email 155x14, a 143x14
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.pompeiusa.com/menu  [android]
+  WARN  viewport meta: missing
+  WARN  2 of 23 tap targets under 24px: a.site-email 155x14, a 143x14
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+18 page-device rows, 3 FAIL findings
