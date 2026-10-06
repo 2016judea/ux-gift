@@ -1,6 +1,5 @@
 To: info@pompeiusa.com
 Subject: I ran UX testing on your website.
-Attach: drafts/pompei/1-site-shrunk-on-phone.png
 
 #1) On a phone your whole site shows up as the desktop version shrunk down to fit the screen. The hours bar, the menu and the Order Online button are all tiny, so people have to pinch-zoom to read anything or to order.
 Your pages are missing the mobile viewport tag (<meta name="viewport" content="width=device-width, initial-scale=1">), so phones lay them out 980px wide and shrink them. Same on the menu page.
