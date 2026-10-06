@@ -1,0 +1,5994 @@
+[
+ {
+  "url": "https://bookloft.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.6,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 5699,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#klaro-cookie-notice.cookie-notice",
+    "pos": "fixed",
+    "cover": 23
+   }
+  ],
+  "targets": 116,
+  "small": 15,
+  "smallList": [
+   "a 37x22",
+   "a 120x22",
+   "a 120x22",
+   "button.slick-autoplay-toggle-button 21x20",
+   "button 8x8"
+  ],
+  "tiny": 6,
+  "tinyList": [
+   "span.visually-hidden 0px",
+   "div.visually-hidden 0px",
+   "div.visually-hidden 0px",
+   "div.visually-hidden 0px"
+  ],
+  "headTop": 154,
+  "headTag": "header.aba-header",
+  "textLen": 4143,
+  "fields": [
+   {
+    "el": "select#search-pane-type.form-select",
+    "type": "select-one",
+    "name": "type",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search type"
+   },
+   {
+    "el": "input#search-pane-search.aba-search-form__text-input",
+    "type": "search",
+    "name": "search",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search for your next favorite book"
+   },
+   {
+    "el": "input#footer-first-name.form-text",
+    "type": "text",
+    "name": "first_name",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First Name"
+   },
+   {
+    "el": "input#footer-last-name.form-text",
+    "type": "text",
+    "name": "last_name",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last Name"
+   },
+   {
+    "el": "input#footer-email.form-email",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Tour the Store",
+    "href": "https://bookloft.com/tour-store"
+   },
+   {
+    "text": "Store Map",
+    "href": "https://bookloft.com/store-map-0"
+   },
+   {
+    "text": "Gifts + Merch",
+    "href": "https://bookloft.com/gifts-merch"
+   },
+   {
+    "text": "Cart",
+    "href": "https://bookloft.com/cart"
+   },
+   {
+    "text": "VIEW OUR ITEMS for GIFTS & MERCH",
+    "href": "https://bookloft.com/gifts-merch"
+   },
+   {
+    "text": "TOUR OUR STORE for TAKE A VIRTUAL TOUR A",
+    "href": "https://bookloft.com/tour-store"
+   },
+   {
+    "text": "BOOK LOFT INSTAGRAM for NEW RELEASES",
+    "href": "https://www.instagram.com/thebookloft/#"
+   },
+   {
+    "text": "Pre-Order Notable Upcoming Titles",
+    "href": "https://bookloft.com/list/pre-order-notable-upcoming-titles"
+   },
+   {
+    "text": "BROWSE BOOKS",
+    "href": "https://bookloft.com/books"
+   },
+   {
+    "text": "AUDIO BOOKS",
+    "href": "https://libro.fm/bookloft"
+   }
+  ],
+  "allLinks": [
+   "https://bookloft.com/#main-content",
+   "https://bookloft.com/user/password",
+   "https://bookloft.com/",
+   "https://bookloft.com/contact-us",
+   "https://bookloft.com/events/list/upcoming-events",
+   "https://bookloft.com/tour-store",
+   "https://bookloft.com/store-map-0",
+   "https://bookloft.com/gifts-merch",
+   "https://bookloft.com/loyalty-club-coupons",
+   "https://libro.fm/bookloft",
+   "https://bookloft.com/user/login?current=/",
+   "https://bookloft.com/wishlist",
+   "https://bookloft.com/cart",
+   "https://bookloft.com/book/9780593702369",
+   "https://bookloft.com/book/9781668090220",
+   "https://bookloft.com/upcoming-events",
+   "https://bookloft.com/event/2026-11-22/roddy-bottum-w-rob-harvilla-bexley-public-library",
+   "https://www.facebook.com/events/1316364983691169",
+   "https://bookloft.com/event/2026-10-08/jason-m-bucklew-helixandra",
+   "https://www.facebook.com/share/1BYPbh5iMx/",
+   "https://bookloft.com/event/2026-10-15/lisa-m-stulberg-how-win-culture-war",
+   "https://www.facebook.com/share/1EHEV5ELn1/",
+   "https://bookloft.com/event/2026-10-20/dm-pulley-stone-mad",
+   "https://www.facebook.com/share/1EJ8uGbK87/",
+   "https://bookloft.com/event/2026-10-28/matthew-erman-lisa-sterle-long-lost",
+   "https://www.facebook.com/share/19C2H9Mrnu/",
+   "https://bookloft.com/event/2026-11-01/mindy-mcginnis-what-rough-beast",
+   "https://www.facebook.com/share/19H7WWjYuG/",
+   "https://bookloft.com/event/2026-11-03/stacey-gordon-pearl-farmers",
+   "https://www.facebook.com/share/1Jsbqc5WhF/",
+   "https://bookloft.com/aboutfaq",
+   "https://www.instagram.com/thebookloft/#",
+   "https://bookloft.com/list/pre-order-notable-upcoming-titles",
+   "https://bookloft.com/book/9780593595053",
+   "https://bookloft.com/book/9798217192359",
+   "https://bookloft.com/book/9781464249648",
+   "https://bookloft.com/book/9781668251065",
+   "https://bookloft.com/book/9781538780046",
+   "https://bookloft.com/book/9781419782701",
+   "https://bookloft.com/book/9780593234174",
+   "https://bookloft.com/book/9781324147435",
+   "https://bookloft.com/book/9780593975121",
+   "https://bookloft.com/book/9781538774236",
+   "https://bookloft.com/book/9781250481801",
+   "https://bookloft.com/book/9780593820322",
+   "https://bookloft.com/book/9798217208975",
+   "https://bookloft.com/book/9781250388223",
+   "https://bookloft.com/books",
+   "https://bookloft.com/latest-staff-picks",
+   "https://bookloft.com/product/book-loft-special-edition-t-shirt",
+   "https://live-bookloftgv1753691746.pantheonsite.io/aboutfaq",
+   "https://live-bookloftgv1753691746.pantheonsite.io/contact-us",
+   "https://live-bookloftgv1753691746.pantheonsite.io/shipping-policy",
+   "https://live-bookloftgv1753691746.pantheonsite.io/return-policy",
+   "https://live-bookloftgv1753691746.pantheonsite.io/our-partners",
+   "https://www.facebook.com/bookloftcolumbus",
+   "https://www.instagram.com/thebookloft",
+   "https://www.x.com/TheBookLoftGV",
+   "https://bookloft.com/privacy-policy",
+   "https://bookloft.com/terms-and-conditions",
+   "https://bookloft.com/accessibility-statement",
+   "https://www.indiecommerce.org/",
+   "https://bookloft.com/#"
+  ],
+  "weight": 19858,
+  "title": "Home Page | The Book Loft of German Village",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5035,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 154
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-bookloft-com.png",
+  "errors": [
+   "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2 because it does not app",
+   "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.ttf because it does not appea",
+   "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-regular-400.woff2 because it does not ap",
+   "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-regular-400.ttf because it does not appe",
+   "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-solid-900.woff2 because it does not appe"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "15 of 116 tap targets under 24px: a 37x22, a 120x22, a 120x22, button.slick-autoplay-toggle-button 21x20, button 8x8"
+   ],
+   [
+    "WARN",
+    "6 text elements under 12px: span.visually-hidden 0px, div.visually-hidden 0px, div.visually-hidden 0px, div.visually-hidden 0px"
+   ],
+   [
+    "INFO",
+    "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2 because it does not app"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5699px tall"
+   ]
+  ],
+  "site": "https://bookloft.com/",
+  "hop": "https://bookloft.com/tour-store"
+ },
+ {
+  "url": "https://bookloft.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 1.7,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 5664,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#klaro-cookie-notice.cookie-notice",
+    "pos": "fixed",
+    "cover": 21
+   }
+  ],
+  "targets": 116,
+  "small": 15,
+  "smallList": [
+   "a 37x23",
+   "a 120x23",
+   "a 120x23",
+   "button.slick-autoplay-toggle-button 21x20",
+   "button 8x8"
+  ],
+  "tiny": 6,
+  "tinyList": [
+   "span.visually-hidden 0px",
+   "div.visually-hidden 0px",
+   "div.visually-hidden 0px",
+   "div.visually-hidden 0px"
+  ],
+  "headTop": 154,
+  "headTag": "header.aba-header",
+  "textLen": 4151,
+  "fields": [
+   {
+    "el": "select#search-pane-type.form-select",
+    "type": "select-one",
+    "name": "type",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search type"
+   },
+   {
+    "el": "input#search-pane-search.aba-search-form__text-input",
+    "type": "search",
+    "name": "search",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search for your next favorite book"
+   },
+   {
+    "el": "input#footer-first-name.form-text",
+    "type": "text",
+    "name": "first_name",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First Name"
+   },
+   {
+    "el": "input#footer-last-name.form-text",
+    "type": "text",
+    "name": "last_name",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last Name"
+   },
+   {
+    "el": "input#footer-email.form-email",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Tour the Store",
+    "href": "https://bookloft.com/tour-store"
+   },
+   {
+    "text": "Store Map",
+    "href": "https://bookloft.com/store-map-0"
+   },
+   {
+    "text": "Gifts + Merch",
+    "href": "https://bookloft.com/gifts-merch"
+   },
+   {
+    "text": "Cart",
+    "href": "https://bookloft.com/cart"
+   },
+   {
+    "text": "VIEW OUR ITEMS for GIFTS & MERCH",
+    "href": "https://bookloft.com/gifts-merch"
+   },
+   {
+    "text": "TOUR OUR STORE for TAKE A VIRTUAL TOUR A",
+    "href": "https://bookloft.com/tour-store"
+   },
+   {
+    "text": "BOOK LOFT INSTAGRAM for NEW RELEASES",
+    "href": "https://www.instagram.com/thebookloft/#"
+   },
+   {
+    "text": "Pre-Order Notable Upcoming Titles",
+    "href": "https://bookloft.com/list/pre-order-notable-upcoming-titles"
+   },
+   {
+    "text": "BROWSE BOOKS",
+    "href": "https://bookloft.com/books"
+   },
+   {
+    "text": "AUDIO BOOKS",
+    "href": "https://libro.fm/bookloft"
+   }
+  ],
+  "allLinks": [
+   "https://bookloft.com/#main-content",
+   "https://bookloft.com/user/password",
+   "https://bookloft.com/",
+   "https://bookloft.com/contact-us",
+   "https://bookloft.com/events/list/upcoming-events",
+   "https://bookloft.com/tour-store",
+   "https://bookloft.com/store-map-0",
+   "https://bookloft.com/gifts-merch",
+   "https://bookloft.com/loyalty-club-coupons",
+   "https://libro.fm/bookloft",
+   "https://bookloft.com/user/login?current=/",
+   "https://bookloft.com/wishlist",
+   "https://bookloft.com/cart",
+   "https://bookloft.com/book/9780593702369",
+   "https://bookloft.com/book/9781668090220",
+   "https://bookloft.com/upcoming-events",
+   "https://bookloft.com/event/2026-11-22/roddy-bottum-w-rob-harvilla-bexley-public-library",
+   "https://www.facebook.com/events/1316364983691169",
+   "https://bookloft.com/event/2026-10-08/jason-m-bucklew-helixandra",
+   "https://www.facebook.com/share/1BYPbh5iMx/",
+   "https://bookloft.com/event/2026-10-15/lisa-m-stulberg-how-win-culture-war",
+   "https://www.facebook.com/share/1EHEV5ELn1/",
+   "https://bookloft.com/event/2026-10-20/dm-pulley-stone-mad",
+   "https://www.facebook.com/share/1EJ8uGbK87/",
+   "https://bookloft.com/event/2026-10-28/matthew-erman-lisa-sterle-long-lost",
+   "https://www.facebook.com/share/19C2H9Mrnu/",
+   "https://bookloft.com/event/2026-11-01/mindy-mcginnis-what-rough-beast",
+   "https://www.facebook.com/share/19H7WWjYuG/",
+   "https://bookloft.com/event/2026-11-03/stacey-gordon-pearl-farmers",
+   "https://www.facebook.com/share/1Jsbqc5WhF/",
+   "https://bookloft.com/aboutfaq",
+   "https://www.instagram.com/thebookloft/#",
+   "https://bookloft.com/list/pre-order-notable-upcoming-titles",
+   "https://bookloft.com/book/9780593595053",
+   "https://bookloft.com/book/9798217192359",
+   "https://bookloft.com/book/9781464249648",
+   "https://bookloft.com/book/9781668251065",
+   "https://bookloft.com/book/9781538780046",
+   "https://bookloft.com/book/9781419782701",
+   "https://bookloft.com/book/9780593234174",
+   "https://bookloft.com/book/9781324147435",
+   "https://bookloft.com/book/9780593975121",
+   "https://bookloft.com/book/9781538774236",
+   "https://bookloft.com/book/9781250481801",
+   "https://bookloft.com/book/9780593820322",
+   "https://bookloft.com/book/9798217208975",
+   "https://bookloft.com/book/9781250388223",
+   "https://bookloft.com/books",
+   "https://bookloft.com/latest-staff-picks",
+   "https://bookloft.com/product/book-loft-special-edition-t-shirt",
+   "https://live-bookloftgv1753691746.pantheonsite.io/aboutfaq",
+   "https://live-bookloftgv1753691746.pantheonsite.io/contact-us",
+   "https://live-bookloftgv1753691746.pantheonsite.io/shipping-policy",
+   "https://live-bookloftgv1753691746.pantheonsite.io/return-policy",
+   "https://live-bookloftgv1753691746.pantheonsite.io/our-partners",
+   "https://www.facebook.com/bookloftcolumbus",
+   "https://www.instagram.com/thebookloft",
+   "https://www.x.com/TheBookLoftGV",
+   "https://bookloft.com/privacy-policy",
+   "https://bookloft.com/terms-and-conditions",
+   "https://bookloft.com/accessibility-statement",
+   "https://www.indiecommerce.org/",
+   "https://bookloft.com/#"
+  ],
+  "weight": 19839,
+  "title": "Home Page | The Book Loft of German Village",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4937,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 154
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "15 of 116 tap targets under 24px: a 37x23, a 120x23, a 120x23, button.slick-autoplay-toggle-button 21x20, button 8x8"
+   ],
+   [
+    "WARN",
+    "6 text elements under 12px: span.visually-hidden 0px, div.visually-hidden 0px, div.visually-hidden 0px, div.visually-hidden 0px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5664px tall"
+   ]
+  ],
+  "site": "https://bookloft.com/"
+ },
+ {
+  "url": "https://bookloft.com/tour-store",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.4,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 22162,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#klaro-cookie-notice.cookie-notice",
+    "pos": "fixed",
+    "cover": 23
+   }
+  ],
+  "targets": 30,
+  "small": 10,
+  "smallList": [
+   "a 37x22",
+   "a 71x22",
+   "a 88x22",
+   "a 121x22",
+   "a 102x22"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "span.visually-hidden 0px"
+  ],
+  "headTop": 154,
+  "headTag": "header.aba-header",
+  "textLen": 6276,
+  "fields": [
+   {
+    "el": "input#footer-first-name.form-text",
+    "type": "text",
+    "name": "first_name",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First Name"
+   },
+   {
+    "el": "input#footer-last-name.form-text",
+    "type": "text",
+    "name": "last_name",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last Name"
+   },
+   {
+    "el": "input#footer-email.form-email",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Tour the Store",
+    "href": "https://bookloft.com/tour-store"
+   },
+   {
+    "text": "Store Map",
+    "href": "https://bookloft.com/store-map-0"
+   },
+   {
+    "text": "Gifts + Merch",
+    "href": "https://bookloft.com/gifts-merch"
+   },
+   {
+    "text": "Cart",
+    "href": "https://bookloft.com/cart"
+   }
+  ],
+  "allLinks": [
+   "https://bookloft.com/tour-store#main-content",
+   "https://bookloft.com/user/password",
+   "https://bookloft.com/",
+   "https://bookloft.com/contact-us",
+   "https://bookloft.com/events/list/upcoming-events",
+   "https://bookloft.com/tour-store",
+   "https://bookloft.com/store-map-0",
+   "https://bookloft.com/gifts-merch",
+   "https://bookloft.com/loyalty-club-coupons",
+   "https://libro.fm/bookloft",
+   "https://bookloft.com/user/login?current=/tour-store",
+   "https://bookloft.com/wishlist",
+   "https://bookloft.com/cart",
+   "https://bookloft.com/book-loft-behind-bricks-john-m-clark",
+   "https://bookloft.com/event/2026-10-08/jason-m-bucklew-helixandra",
+   "https://live-bookloftgv1753691746.pantheonsite.io/aboutfaq",
+   "https://live-bookloftgv1753691746.pantheonsite.io/contact-us",
+   "https://live-bookloftgv1753691746.pantheonsite.io/shipping-policy",
+   "https://live-bookloftgv1753691746.pantheonsite.io/return-policy",
+   "https://live-bookloftgv1753691746.pantheonsite.io/our-partners",
+   "https://www.facebook.com/bookloftcolumbus",
+   "https://www.instagram.com/thebookloft",
+   "https://www.x.com/TheBookLoftGV",
+   "https://bookloft.com/privacy-policy",
+   "https://bookloft.com/terms-and-conditions",
+   "https://bookloft.com/accessibility-statement",
+   "https://www.indiecommerce.org/",
+   "https://bookloft.com/tour-store#"
+  ],
+  "weight": 16243,
+  "title": "Tour the Store | The Book Loft of German Village",
+  "roundtrip": {
+   "atBottom": {
+    "y": 21498,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 154
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.indiecommerce.org/",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-bookloft-com-tour-store.png",
+  "errors": [
+   "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2 because it does not app",
+   "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.ttf because it does not appea",
+   "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-regular-400.woff2 because it does not ap",
+   "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-regular-400.ttf because it does not appe",
+   "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-solid-900.woff2 because it does not appe"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "10 of 30 tap targets under 24px: a 37x22, a 71x22, a 88x22, a 121x22, a 102x22"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: span.visually-hidden 0px"
+   ],
+   [
+    "INFO",
+    "console: [Report Only] Refused to load https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-brands-400.woff2 because it does not app"
+   ],
+   [
+    "INFO",
+    "document scrolls, 22162px tall"
+   ]
+  ],
+  "site": "https://bookloft.com/"
+ },
+ {
+  "url": "https://bookloft.com/tour-store",
+  "device": "android",
+  "status": 200,
+  "load_s": 1.9,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 22208,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#klaro-cookie-notice.cookie-notice",
+    "pos": "fixed",
+    "cover": 21
+   }
+  ],
+  "targets": 30,
+  "small": 10,
+  "smallList": [
+   "a 37x23",
+   "a 71x23",
+   "a 88x23",
+   "a 121x23",
+   "a 102x23"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "span.visually-hidden 0px"
+  ],
+  "headTop": 154,
+  "headTag": "header.aba-header",
+  "textLen": 6182,
+  "fields": [
+   {
+    "el": "input#footer-first-name.form-text",
+    "type": "text",
+    "name": "first_name",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First Name"
+   },
+   {
+    "el": "input#footer-last-name.form-text",
+    "type": "text",
+    "name": "last_name",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last Name"
+   },
+   {
+    "el": "input#footer-email.form-email",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Tour the Store",
+    "href": "https://bookloft.com/tour-store"
+   },
+   {
+    "text": "Store Map",
+    "href": "https://bookloft.com/store-map-0"
+   },
+   {
+    "text": "Gifts + Merch",
+    "href": "https://bookloft.com/gifts-merch"
+   },
+   {
+    "text": "Cart",
+    "href": "https://bookloft.com/cart"
+   }
+  ],
+  "allLinks": [
+   "https://bookloft.com/tour-store#main-content",
+   "https://bookloft.com/user/password",
+   "https://bookloft.com/",
+   "https://bookloft.com/contact-us",
+   "https://bookloft.com/events/list/upcoming-events",
+   "https://bookloft.com/tour-store",
+   "https://bookloft.com/store-map-0",
+   "https://bookloft.com/gifts-merch",
+   "https://bookloft.com/loyalty-club-coupons",
+   "https://libro.fm/bookloft",
+   "https://bookloft.com/user/login?current=/tour-store",
+   "https://bookloft.com/wishlist",
+   "https://bookloft.com/cart",
+   "https://bookloft.com/book-loft-behind-bricks-john-m-clark",
+   "https://bookloft.com/event/2026-10-08/jason-m-bucklew-helixandra",
+   "https://live-bookloftgv1753691746.pantheonsite.io/aboutfaq",
+   "https://live-bookloftgv1753691746.pantheonsite.io/contact-us",
+   "https://live-bookloftgv1753691746.pantheonsite.io/shipping-policy",
+   "https://live-bookloftgv1753691746.pantheonsite.io/return-policy",
+   "https://live-bookloftgv1753691746.pantheonsite.io/our-partners",
+   "https://www.facebook.com/bookloftcolumbus",
+   "https://www.instagram.com/thebookloft",
+   "https://www.x.com/TheBookLoftGV",
+   "https://bookloft.com/privacy-policy",
+   "https://bookloft.com/terms-and-conditions",
+   "https://bookloft.com/accessibility-statement",
+   "https://www.indiecommerce.org/",
+   "https://bookloft.com/tour-store#"
+  ],
+  "weight": 16225,
+  "title": "Tour the Store | The Book Loft of German Village",
+  "roundtrip": {
+   "atBottom": {
+    "y": 21481,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 154
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "10 of 30 tap targets under 24px: a 37x23, a 71x23, a 88x23, a 121x23, a 102x23"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: span.visually-hidden 0px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 22208px tall"
+   ]
+  ],
+  "site": "https://bookloft.com/"
+ },
+ {
+  "url": "https://houston.houseofblues.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 5.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4261,
+  "zoomTrap": [],
+  "leaks": [
+   "div.grecaptcha-badge right=576"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "iframe#embeddedMessagingFrame.embeddedMessagingFrame",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 137,
+  "small": 36,
+  "smallList": [
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20"
+  ],
+  "tiny": 7,
+  "tinyList": [
+   "p.chakra-text 10px",
+   "p.chakra-text 10px",
+   "a.chakra-link 10px",
+   "a.chakra-link 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.css-1lzzn4f",
+  "textLen": 3918,
+  "fields": [
+   {
+    "el": "input#field-_R_n6cqlf6brb_.chakra-input",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lounge Menu",
+    "href": "https://houston.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/cupcakke-houston-texas-10-20-2026/event/3A0064FDD45ADC20"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/claire-rosinkranz-houston-texas-10-06-2026/event/3A0064F4C7F0C552"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-houston-texas-10-06-2026/event/3A0064D1C621E973"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-houston-texas-10-07-2026/event/3A00650DF83B44D4"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/joe-jordan-the-heart-sessions-tour-houston-texas-10-07-2026/event/3A0064D105D18262"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/bad-nerves-houston-texas-10-08-2026/event/3A0064D3375CE994"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/laundry-day-presents-the-larger-than-houston-texas-10-09-2026/event/3A0064ADA6F3AB60"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/xavier-wulf-presents-the-cool-world-houston-texas-10-09-2026/event/3A0064F4F4291BAD"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/paris-paloma-the-fatal-flaw-tour-houston-texas-10-10-2026/event/3A00650BC412C8EF"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/akeem-ali-the-texture-tour-houston-texas-10-11-2026/event/3A00647E7E443856"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/ivri-houston-texas-10-11-2026/event/3A0064CD9D326BF8"
+   }
+  ],
+  "allLinks": [
+   "https://houston.houseofblues.com/#chakra-skip-nav",
+   "https://houston.houseofblues.com/shows",
+   "https://houston.houseofblues.com/shows/rooms/music-hall",
+   "https://houston.houseofblues.com/shows/rooms/the-bronze-peacock",
+   "https://houston.houseofblues.com/shows/rooms/foundation-room",
+   "https://houston.houseofblues.com/upgrades",
+   "https://houston.houseofblues.com/foundation-room",
+   "https://houston.houseofblues.com/foundation-room/nightlife",
+   "https://houston.houseofblues.com/foundation-room/lounge-menu",
+   "https://houston.houseofblues.com/private-events",
+   "https://anaheim.houseofblues.com/",
+   "https://boston.houseofblues.com/",
+   "https://chicago.houseofblues.com/",
+   "https://cleveland.houseofblues.com/",
+   "https://dallas.houseofblues.com/",
+   "https://lasvegas.houseofblues.com/",
+   "https://myrtlebeach.houseofblues.com/",
+   "https://neworleans.houseofblues.com/",
+   "https://orlando.houseofblues.com/",
+   "https://sandiego.houseofblues.com/",
+   "https://www.facebook.com/HOBHouston",
+   "https://www.x.com/HOBHouston",
+   "https://www.instagram.com/hobhouston/",
+   "https://www.ticketmaster.com/cupcakke-houston-texas-10-20-2026/event/3A0064FDD45ADC20",
+   "https://www.ticketmaster.com/claire-rosinkranz-houston-texas-10-06-2026/event/3A0064F4C7F0C552",
+   "https://www.ticketmaster.com/jose-madero-usa-tour-2026-houston-texas-10-06-2026/event/3A0064D1C621E973",
+   "https://www.ticketmaster.com/lp-all-is-not-lost-tour-houston-texas-10-07-2026/event/3A00650DF83B44D4",
+   "https://www.ticketmaster.com/joe-jordan-the-heart-sessions-tour-houston-texas-10-07-2026/event/3A0064D105D18262",
+   "https://www.ticketmaster.com/bad-nerves-houston-texas-10-08-2026/event/3A0064D3375CE994",
+   "https://www.ticketmaster.com/laundry-day-presents-the-larger-than-houston-texas-10-09-2026/event/3A0064ADA6F3AB60",
+   "https://www.ticketmaster.com/xavier-wulf-presents-the-cool-world-houston-texas-10-09-2026/event/3A0064F4F4291BAD",
+   "https://www.ticketmaster.com/paris-paloma-the-fatal-flaw-tour-houston-texas-10-10-2026/event/3A00650BC412C8EF",
+   "https://www.ticketmaster.com/akeem-ali-the-texture-tour-houston-texas-10-11-2026/event/3A00647E7E443856",
+   "https://www.ticketmaster.com/ivri-houston-texas-10-11-2026/event/3A0064CD9D326BF8",
+   "https://www.ticketmaster.com/arch-enemy-the-black-dahlia-murder-houston-texas-10-12-2026/event/3A0064B2B5AC9727",
+   "https://www.ticketmaster.com/president-north-american-campaign-2026-houston-texas-10-13-2026/event/3A00647B15FFD278",
+   "https://www.ticketmaster.com/lilyisthatyou-the-flowers-have-feelings-tour-houston-texas-10-13-2026/event/3A006497AD24EEAA",
+   "https://www.ticketmaster.com/arrows-in-action-i-think-weve-houston-texas-10-14-2026/event/3A0064A5BFD1ED63",
+   "https://www.ticketmaster.com/l7-the-last-hurrah-tour-2026-houston-texas-10-14-2026/event/3A0064A289C16D7B",
+   "https://www.ticketmaster.com/the-paradox-houston-texas-10-15-2026/event/3A0064CAB895DEF5",
+   "https://www.ticketmaster.com/taste-of-chaos-houston-texas-10-16-2026/event/3A0064BBF3016398",
+   "https://www.ticketmaster.com/ll-god-forbid-a-girl-goes-houston-texas-10-16-2026/event/3A0064A9BB719F43",
+   "https://www.ticketmaster.com/dying-fetus-sanguisugabogg-houston-texas-10-17-2026/event/3A006497EA917B7A",
+   "https://www.ticketmaster.com/maddie-zahm-everything-all-the-time-houston-texas-10-17-2026/event/3A0064C3F5C030B5",
+   "https://www.ticketmaster.com/rainao-houston-texas-10-18-2026/event/3A006503C971C1E9",
+   "https://www.ticketmaster.com/k-michelle-houston-texas-10-18-2026/event/3A00650BB8C3B7C9",
+   "https://www.ticketmaster.com/the-wldlfe-houston-texas-10-19-2026/event/3A0064CFB7A5B3D2",
+   "https://citientertainment.com/",
+   "https://www.lyft.com/ride-with-lyft?invite=HOBHOU",
+   "https://owensmixers.com/",
+   "https://www.parkwhiz.com/house-of-blues-houston-parking?pwa=pa-1269&utm_medium=LiveNation&utm_source=1269&utm_campaign=Web_LN_ParkWhizLogo_VenueLink",
+   "https://www.verizon.com/",
+   "https://athleticbrewing.com/",
+   "https://www.chargefuze.com/",
+   "https://www.heinz.com/",
+   "https://www.pepsi.com/",
+   "https://www.lays.com/",
+   "https://unplugshearing.com/",
+   "https://houston.houseofblues.com/",
+   "https://houston.houseofblues.com/accessibility",
+   "https://gearshop.houseofblues.com/?_gl=1*1kc7p93*_gcl_au*MTIyNTQ0NzQxOS4xNzI3MTA1ODg3&_ga=2.146651443.603091694.1727105887-392035273.1727105887",
+   "https://houston.houseofblues.com/faq",
+   "https://houston.houseofblues.com/contact",
+   "https://livenation.wd503.myworkdayjobs.com/LNExternalSite?q=house%20of%20blues%20houston",
+   "https://livenationforbrands.com/",
+   "https://maps.google.com/?q=1204%20Caroline%20Street%20Houston%2C%20TX%2077002",
+   "https://help.livenation.com/hc/en-us/articles/10468828916113-Terms-of-Use?_gl=1*1d6d6t9*_ga*ODE3NjUxNjgxLjE3NjE4NTc0NzA.*_ga_H1KKSGW33X*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA..*_ga_C1T806G4DF*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA",
+   "https://privacy.livenation.com/us-venues-privacy-policy",
+   "https://privacy.livenation.com/cookie-policy",
+   "https://privacy.livenation.com/visitor-policy",
+   "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/50f1d690-e1dd-44f4-9713-db66fe03185a"
+  ],
+  "weight": 48943,
+  "title": "House of Blues Houston | 2026 Concert Schedule, Restaurant & Venue Info",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3597,
+    "inner": 3597
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.ticketmaster.com/cupcakke-houston-texas-10-20-2026/event/3A0064FDD45ADC20",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/claire-rosinkranz-houston-texas-10-06-2026/event/3A0064F4C7F0C552",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-houston-texas-10-06-2026/event/3A0064D1C621E973",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-houston-texas-10-07-2026/event/3A00650DF83B44D4",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/joe-jordan-the-heart-sessions-tour-houston-texas-10-07-2026/event/3A0064D105D18262",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/bad-nerves-houston-texas-10-08-2026/event/3A0064D3375CE994",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/laundry-day-presents-the-larger-than-houston-texas-10-09-2026/event/3A0064ADA6F3AB60",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/xavier-wulf-presents-the-cool-world-houston-texas-10-09-2026/event/3A0064F4F4291BAD",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/paris-paloma-the-fatal-flaw-tour-houston-texas-10-10-2026/event/3A00650BC412C8EF",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/akeem-ali-the-texture-tour-houston-texas-10-11-2026/event/3A00647E7E443856",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/ivri-houston-texas-10-11-2026/event/3A0064CD9D326BF8",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/arch-enemy-the-black-dahlia-murder-houston-texas-10-12-2026/event/3A0064B2B5AC9727",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/president-north-american-campaign-2026-houston-texas-10-13-2026/event/3A00647B15FFD278",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/lilyisthatyou-the-flowers-have-feelings-tour-houston-texas-10-13-2026/event/3A006497AD24EEAA",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/arrows-in-action-i-think-weve-houston-texas-10-14-2026/event/3A0064A5BFD1ED63",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/l7-the-last-hurrah-tour-2026-houston-texas-10-14-2026/event/3A0064A289C16D7B",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/the-paradox-houston-texas-10-15-2026/event/3A0064CAB895DEF5",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-houston-houseofblues-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "pageerror: /houston.houseofblues.com\" from accessing a frame with origin \"https://www.google.com\". Protocols, domains, and ports must match."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576"
+   ],
+   [
+    "WARN",
+    "36 of 137 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20"
+   ],
+   [
+    "WARN",
+    "7 text elements under 12px: p.chakra-text 10px, p.chakra-text 10px, a.chakra-link 10px, a.chakra-link 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 429 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4261px tall"
+   ]
+  ],
+  "site": "https://houston.houseofblues.com/",
+  "hop": "https://houston.houseofblues.com/foundation-room/lounge-menu"
+ },
+ {
+  "url": "https://houston.houseofblues.com/",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.7,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4324,
+  "zoomTrap": [],
+  "leaks": [
+   "div.grecaptcha-badge right=579"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "iframe#embeddedMessagingFrame.embeddedMessagingFrame",
+    "pos": "fixed",
+    "cover": 2
+   }
+  ],
+  "targets": 137,
+  "small": 36,
+  "smallList": [
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20"
+  ],
+  "tiny": 7,
+  "tinyList": [
+   "p.chakra-text 10px",
+   "p.chakra-text 10px",
+   "a.chakra-link 10px",
+   "a.chakra-link 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.css-1lzzn4f",
+  "textLen": 4065,
+  "fields": [
+   {
+    "el": "input#field-_R_n6cqlf6brb_.chakra-input",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lounge Menu",
+    "href": "https://houston.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/cupcakke-houston-texas-10-20-2026/event/3A0064FDD45ADC20"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/claire-rosinkranz-houston-texas-10-06-2026/event/3A0064F4C7F0C552"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-houston-texas-10-06-2026/event/3A0064D1C621E973"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/lp-all-is-not-lost-tour-houston-texas-10-07-2026/event/3A00650DF83B44D4"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/joe-jordan-the-heart-sessions-tour-houston-texas-10-07-2026/event/3A0064D105D18262"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/bad-nerves-houston-texas-10-08-2026/event/3A0064D3375CE994"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/laundry-day-presents-the-larger-than-houston-texas-10-09-2026/event/3A0064ADA6F3AB60"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/xavier-wulf-presents-the-cool-world-houston-texas-10-09-2026/event/3A0064F4F4291BAD"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/paris-paloma-the-fatal-flaw-tour-houston-texas-10-10-2026/event/3A00650BC412C8EF"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/akeem-ali-the-texture-tour-houston-texas-10-11-2026/event/3A00647E7E443856"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/ivri-houston-texas-10-11-2026/event/3A0064CD9D326BF8"
+   }
+  ],
+  "allLinks": [
+   "https://houston.houseofblues.com/#chakra-skip-nav",
+   "https://houston.houseofblues.com/shows",
+   "https://houston.houseofblues.com/shows/rooms/music-hall",
+   "https://houston.houseofblues.com/shows/rooms/the-bronze-peacock",
+   "https://houston.houseofblues.com/shows/rooms/foundation-room",
+   "https://houston.houseofblues.com/upgrades",
+   "https://houston.houseofblues.com/foundation-room",
+   "https://houston.houseofblues.com/foundation-room/nightlife",
+   "https://houston.houseofblues.com/foundation-room/lounge-menu",
+   "https://houston.houseofblues.com/private-events",
+   "https://anaheim.houseofblues.com/",
+   "https://boston.houseofblues.com/",
+   "https://chicago.houseofblues.com/",
+   "https://cleveland.houseofblues.com/",
+   "https://dallas.houseofblues.com/",
+   "https://lasvegas.houseofblues.com/",
+   "https://myrtlebeach.houseofblues.com/",
+   "https://neworleans.houseofblues.com/",
+   "https://orlando.houseofblues.com/",
+   "https://sandiego.houseofblues.com/",
+   "https://www.facebook.com/HOBHouston",
+   "https://www.x.com/HOBHouston",
+   "https://www.instagram.com/hobhouston/",
+   "https://www.ticketmaster.com/cupcakke-houston-texas-10-20-2026/event/3A0064FDD45ADC20",
+   "https://www.ticketmaster.com/claire-rosinkranz-houston-texas-10-06-2026/event/3A0064F4C7F0C552",
+   "https://www.ticketmaster.com/jose-madero-usa-tour-2026-houston-texas-10-06-2026/event/3A0064D1C621E973",
+   "https://www.ticketmaster.com/lp-all-is-not-lost-tour-houston-texas-10-07-2026/event/3A00650DF83B44D4",
+   "https://www.ticketmaster.com/joe-jordan-the-heart-sessions-tour-houston-texas-10-07-2026/event/3A0064D105D18262",
+   "https://www.ticketmaster.com/bad-nerves-houston-texas-10-08-2026/event/3A0064D3375CE994",
+   "https://www.ticketmaster.com/laundry-day-presents-the-larger-than-houston-texas-10-09-2026/event/3A0064ADA6F3AB60",
+   "https://www.ticketmaster.com/xavier-wulf-presents-the-cool-world-houston-texas-10-09-2026/event/3A0064F4F4291BAD",
+   "https://www.ticketmaster.com/paris-paloma-the-fatal-flaw-tour-houston-texas-10-10-2026/event/3A00650BC412C8EF",
+   "https://www.ticketmaster.com/akeem-ali-the-texture-tour-houston-texas-10-11-2026/event/3A00647E7E443856",
+   "https://www.ticketmaster.com/ivri-houston-texas-10-11-2026/event/3A0064CD9D326BF8",
+   "https://www.ticketmaster.com/arch-enemy-the-black-dahlia-murder-houston-texas-10-12-2026/event/3A0064B2B5AC9727",
+   "https://www.ticketmaster.com/president-north-american-campaign-2026-houston-texas-10-13-2026/event/3A00647B15FFD278",
+   "https://www.ticketmaster.com/lilyisthatyou-the-flowers-have-feelings-tour-houston-texas-10-13-2026/event/3A006497AD24EEAA",
+   "https://www.ticketmaster.com/arrows-in-action-i-think-weve-houston-texas-10-14-2026/event/3A0064A5BFD1ED63",
+   "https://www.ticketmaster.com/l7-the-last-hurrah-tour-2026-houston-texas-10-14-2026/event/3A0064A289C16D7B",
+   "https://www.ticketmaster.com/the-paradox-houston-texas-10-15-2026/event/3A0064CAB895DEF5",
+   "https://www.ticketmaster.com/taste-of-chaos-houston-texas-10-16-2026/event/3A0064BBF3016398",
+   "https://www.ticketmaster.com/ll-god-forbid-a-girl-goes-houston-texas-10-16-2026/event/3A0064A9BB719F43",
+   "https://www.ticketmaster.com/dying-fetus-sanguisugabogg-houston-texas-10-17-2026/event/3A006497EA917B7A",
+   "https://www.ticketmaster.com/maddie-zahm-everything-all-the-time-houston-texas-10-17-2026/event/3A0064C3F5C030B5",
+   "https://www.ticketmaster.com/rainao-houston-texas-10-18-2026/event/3A006503C971C1E9",
+   "https://www.ticketmaster.com/k-michelle-houston-texas-10-18-2026/event/3A00650BB8C3B7C9",
+   "https://www.ticketmaster.com/the-wldlfe-houston-texas-10-19-2026/event/3A0064CFB7A5B3D2",
+   "https://citientertainment.com/",
+   "https://www.lyft.com/ride-with-lyft?invite=HOBHOU",
+   "https://owensmixers.com/",
+   "https://www.parkwhiz.com/house-of-blues-houston-parking?pwa=pa-1269&utm_medium=LiveNation&utm_source=1269&utm_campaign=Web_LN_ParkWhizLogo_VenueLink",
+   "https://www.verizon.com/",
+   "https://athleticbrewing.com/",
+   "https://www.chargefuze.com/",
+   "https://www.heinz.com/",
+   "https://www.pepsi.com/",
+   "https://www.lays.com/",
+   "https://unplugshearing.com/",
+   "https://houston.houseofblues.com/",
+   "https://houston.houseofblues.com/accessibility",
+   "https://gearshop.houseofblues.com/?_gl=1*1kc7p93*_gcl_au*MTIyNTQ0NzQxOS4xNzI3MTA1ODg3&_ga=2.146651443.603091694.1727105887-392035273.1727105887",
+   "https://houston.houseofblues.com/faq",
+   "https://houston.houseofblues.com/contact",
+   "https://livenation.wd503.myworkdayjobs.com/LNExternalSite?q=house%20of%20blues%20houston",
+   "https://livenationforbrands.com/",
+   "https://maps.google.com/?q=1204%20Caroline%20Street%20Houston%2C%20TX%2077002",
+   "https://help.livenation.com/hc/en-us/articles/10468828916113-Terms-of-Use?_gl=1*1d6d6t9*_ga*ODE3NjUxNjgxLjE3NjE4NTc0NzA.*_ga_H1KKSGW33X*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA..*_ga_C1T806G4DF*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA",
+   "https://privacy.livenation.com/us-venues-privacy-policy",
+   "https://privacy.livenation.com/cookie-policy",
+   "https://privacy.livenation.com/visitor-policy",
+   "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/50f1d690-e1dd-44f4-9713-db66fe03185a"
+  ],
+  "weight": 48810,
+  "title": "House of Blues Houston | 2026 Concert Schedule, Restaurant & Venue Info",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3597,
+    "inner": 3597
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: requestStorageAccess: Permission denied.",
+   "console: Error: no matches found for one or more requested services\n    at https://customer-site-969.my.site.com/ESWVenueNationAgent21777305798789/we",
+   "console: Failed to load resource: the server responded with a status of 429 ()"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579"
+   ],
+   [
+    "WARN",
+    "36 of 137 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20"
+   ],
+   [
+    "WARN",
+    "7 text elements under 12px: p.chakra-text 10px, p.chakra-text 10px, a.chakra-link 10px, a.chakra-link 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 429 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4324px tall"
+   ]
+  ],
+  "site": "https://houston.houseofblues.com/"
+ },
+ {
+  "url": "https://houston.houseofblues.com/foundation-room/lounge-menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 7.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 3846,
+  "zoomTrap": [],
+  "leaks": [
+   "div.grecaptcha-badge right=576"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "iframe#embeddedMessagingFrame.embeddedMessagingFrame",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 60,
+  "small": 25,
+  "smallList": [
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20"
+  ],
+  "tiny": 10,
+  "tinyList": [
+   "button.chakra-button 10px",
+   "p 10px",
+   "p 10px",
+   "p.chakra-text 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.css-1lzzn4f",
+  "textLen": 3233,
+  "fields": [
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "input#field-_R_n6cqlf6brb_.chakra-input",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lounge Menu",
+    "href": "https://houston.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Lounge Menu",
+    "href": "https://houston.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://sevn.ly/x3O28uFA"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://posh.vip/e/province-8-fall-mega-showcase?u=province8&_t=mueylw50&os=ios&src=event_page"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.eventbrite.com/e/iidfl90srnb-costume-party-tickets-2002382649407"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://facebook.com/events/s/echoes-from-the-crypt-featurin/1317560147480602/"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://sevn.ly/xUPXZDps"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://posh.vip/e/halloween-after-dark-live-at-the-house-of-blues?utm_source=chatgpt.com"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.eventbrite.com/e/davy-knowles-live-at-the-foundation-room-at-house-of-blues-houston-tickets-2002829530039"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://sevn.ly/x3O28uFA"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://posh.vip/e/province-8-fall-mega-showcase?u=province8&_t=mueylw50&os=ios&src=event_page"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.eventbrite.com/e/iidfl90srnb-costume-party-tickets-2002382649407"
+   }
+  ],
+  "allLinks": [
+   "https://houston.houseofblues.com/foundation-room/lounge-menu#chakra-skip-nav",
+   "https://houston.houseofblues.com/",
+   "https://houston.houseofblues.com/shows",
+   "https://houston.houseofblues.com/shows/rooms/music-hall",
+   "https://houston.houseofblues.com/shows/rooms/the-bronze-peacock",
+   "https://houston.houseofblues.com/shows/rooms/foundation-room",
+   "https://houston.houseofblues.com/upgrades",
+   "https://houston.houseofblues.com/foundation-room",
+   "https://houston.houseofblues.com/foundation-room/nightlife",
+   "https://houston.houseofblues.com/foundation-room/lounge-menu",
+   "https://houston.houseofblues.com/private-events",
+   "https://anaheim.houseofblues.com/",
+   "https://boston.houseofblues.com/",
+   "https://chicago.houseofblues.com/",
+   "https://cleveland.houseofblues.com/",
+   "https://dallas.houseofblues.com/",
+   "https://lasvegas.houseofblues.com/",
+   "https://myrtlebeach.houseofblues.com/",
+   "https://neworleans.houseofblues.com/",
+   "https://orlando.houseofblues.com/",
+   "https://sandiego.houseofblues.com/",
+   "https://www.facebook.com/HOBHouston",
+   "https://www.x.com/HOBHouston",
+   "https://www.instagram.com/hobhouston/",
+   "https://sevn.ly/x3O28uFA",
+   "https://posh.vip/e/province-8-fall-mega-showcase?u=province8&_t=mueylw50&os=ios&src=event_page",
+   "https://www.eventbrite.com/e/iidfl90srnb-costume-party-tickets-2002382649407",
+   "https://facebook.com/events/s/echoes-from-the-crypt-featurin/1317560147480602/",
+   "https://sevn.ly/xUPXZDps",
+   "https://posh.vip/e/halloween-after-dark-live-at-the-house-of-blues?utm_source=chatgpt.com",
+   "https://www.eventbrite.com/e/davy-knowles-live-at-the-foundation-room-at-house-of-blues-houston-tickets-2002829530039",
+   "https://houston.houseofblues.com/accessibility",
+   "https://gearshop.houseofblues.com/?_gl=1*1kc7p93*_gcl_au*MTIyNTQ0NzQxOS4xNzI3MTA1ODg3&_ga=2.146651443.603091694.1727105887-392035273.1727105887",
+   "https://houston.houseofblues.com/faq",
+   "https://houston.houseofblues.com/contact",
+   "https://livenation.wd503.myworkdayjobs.com/LNExternalSite?q=house%20of%20blues%20houston",
+   "https://livenationforbrands.com/",
+   "https://maps.google.com/?q=1204%20Caroline%20Street%20Houston%2C%20TX%2077002",
+   "https://help.livenation.com/hc/en-us/articles/10468828916113-Terms-of-Use?_gl=1*1d6d6t9*_ga*ODE3NjUxNjgxLjE3NjE4NTc0NzA.*_ga_H1KKSGW33X*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA..*_ga_C1T806G4DF*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA",
+   "https://privacy.livenation.com/us-venues-privacy-policy",
+   "https://privacy.livenation.com/cookie-policy",
+   "https://privacy.livenation.com/visitor-policy",
+   "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/50f1d690-e1dd-44f4-9713-db66fe03185a"
+  ],
+  "weight": 35907,
+  "title": "House of Blues Houston Foundation Room VIP Lounge",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3182,
+    "inner": 3182
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://help.livenation.com/hc/en-us/articles/10468828916113-Terms-of-Use?_gl=1*1d6d6t9*_ga*ODE3NjUxNjgxLjE3NjE4NTc0NzA.*_ga_H1KKSGW33X*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA..*_ga_C1T806G4DF*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-houston-houseofblues-com-foundation-room-lounge-menu.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "pageerror: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environme",
+   "console: Error: no matches found for one or more requested services"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576"
+   ],
+   [
+    "FAIL",
+    "pageerror: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environme"
+   ],
+   [
+    "WARN",
+    "25 of 60 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20"
+   ],
+   [
+    "WARN",
+    "10 text elements under 12px: button.chakra-button 10px, p 10px, p 10px, p.chakra-text 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3846px tall"
+   ]
+  ],
+  "site": "https://houston.houseofblues.com/"
+ },
+ {
+  "url": "https://houston.houseofblues.com/foundation-room/lounge-menu",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.2,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3846,
+  "zoomTrap": [],
+  "leaks": [
+   "div.grecaptcha-badge right=579"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 60,
+  "small": 25,
+  "smallList": [
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20"
+  ],
+  "tiny": 10,
+  "tinyList": [
+   "button.chakra-button 10px",
+   "p 10px",
+   "p 10px",
+   "p.chakra-text 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.css-1lzzn4f",
+  "textLen": 3960,
+  "fields": [
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "input#field-_R_n6cqlf6brb_.chakra-input",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lounge Menu",
+    "href": "https://houston.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Lounge Menu",
+    "href": "https://houston.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://sevn.ly/x3O28uFA"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://posh.vip/e/province-8-fall-mega-showcase?u=province8&_t=mueylw50&os=ios&src=event_page"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.eventbrite.com/e/iidfl90srnb-costume-party-tickets-2002382649407"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://facebook.com/events/s/echoes-from-the-crypt-featurin/1317560147480602/"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://sevn.ly/xUPXZDps"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://posh.vip/e/halloween-after-dark-live-at-the-house-of-blues?utm_source=chatgpt.com"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.eventbrite.com/e/davy-knowles-live-at-the-foundation-room-at-house-of-blues-houston-tickets-2002829530039"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://sevn.ly/x3O28uFA"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://posh.vip/e/province-8-fall-mega-showcase?u=province8&_t=mueylw50&os=ios&src=event_page"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.eventbrite.com/e/iidfl90srnb-costume-party-tickets-2002382649407"
+   }
+  ],
+  "allLinks": [
+   "https://houston.houseofblues.com/foundation-room/lounge-menu#chakra-skip-nav",
+   "https://houston.houseofblues.com/",
+   "https://houston.houseofblues.com/shows",
+   "https://houston.houseofblues.com/shows/rooms/music-hall",
+   "https://houston.houseofblues.com/shows/rooms/the-bronze-peacock",
+   "https://houston.houseofblues.com/shows/rooms/foundation-room",
+   "https://houston.houseofblues.com/upgrades",
+   "https://houston.houseofblues.com/foundation-room",
+   "https://houston.houseofblues.com/foundation-room/nightlife",
+   "https://houston.houseofblues.com/foundation-room/lounge-menu",
+   "https://houston.houseofblues.com/private-events",
+   "https://anaheim.houseofblues.com/",
+   "https://boston.houseofblues.com/",
+   "https://chicago.houseofblues.com/",
+   "https://cleveland.houseofblues.com/",
+   "https://dallas.houseofblues.com/",
+   "https://lasvegas.houseofblues.com/",
+   "https://myrtlebeach.houseofblues.com/",
+   "https://neworleans.houseofblues.com/",
+   "https://orlando.houseofblues.com/",
+   "https://sandiego.houseofblues.com/",
+   "https://www.facebook.com/HOBHouston",
+   "https://www.x.com/HOBHouston",
+   "https://www.instagram.com/hobhouston/",
+   "https://sevn.ly/x3O28uFA",
+   "https://posh.vip/e/province-8-fall-mega-showcase?u=province8&_t=mueylw50&os=ios&src=event_page",
+   "https://www.eventbrite.com/e/iidfl90srnb-costume-party-tickets-2002382649407",
+   "https://facebook.com/events/s/echoes-from-the-crypt-featurin/1317560147480602/",
+   "https://sevn.ly/xUPXZDps",
+   "https://posh.vip/e/halloween-after-dark-live-at-the-house-of-blues?utm_source=chatgpt.com",
+   "https://www.eventbrite.com/e/davy-knowles-live-at-the-foundation-room-at-house-of-blues-houston-tickets-2002829530039",
+   "https://houston.houseofblues.com/accessibility",
+   "https://gearshop.houseofblues.com/?_gl=1*1kc7p93*_gcl_au*MTIyNTQ0NzQxOS4xNzI3MTA1ODg3&_ga=2.146651443.603091694.1727105887-392035273.1727105887",
+   "https://houston.houseofblues.com/faq",
+   "https://houston.houseofblues.com/contact",
+   "https://livenation.wd503.myworkdayjobs.com/LNExternalSite?q=house%20of%20blues%20houston",
+   "https://livenationforbrands.com/",
+   "https://maps.google.com/?q=1204%20Caroline%20Street%20Houston%2C%20TX%2077002",
+   "https://help.livenation.com/hc/en-us/articles/10468828916113-Terms-of-Use?_gl=1*1d6d6t9*_ga*ODE3NjUxNjgxLjE3NjE4NTc0NzA.*_ga_H1KKSGW33X*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA..*_ga_C1T806G4DF*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA",
+   "https://privacy.livenation.com/us-venues-privacy-policy",
+   "https://privacy.livenation.com/cookie-policy",
+   "https://privacy.livenation.com/visitor-policy",
+   "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/50f1d690-e1dd-44f4-9713-db66fe03185a"
+  ],
+  "weight": 35773,
+  "title": "House of Blues Houston Foundation Room VIP Lounge",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3119,
+    "inner": 3119
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "pageerror: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environme",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Error: no matches found for one or more requested services\n    at https://customer-site-969.my.site.com/ESWVenueNationAgent21777305798789/we"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579"
+   ],
+   [
+    "FAIL",
+    "pageerror: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environme"
+   ],
+   [
+    "WARN",
+    "25 of 60 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20"
+   ],
+   [
+    "WARN",
+    "10 text elements under 12px: button.chakra-button 10px, p 10px, p 10px, p.chakra-text 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3846px tall"
+   ]
+  ],
+  "site": "https://houston.houseofblues.com/"
+ },
+ {
+  "url": "https://bricktownbrewery.com/location/downtown-okc/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 5.7,
+  "meta": "width=device-width, initial-scale=1, maximum-scale=5",
+  "vw": 390,
+  "vh": 664,
+  "docH": 5236,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [
+   {
+    "el": "div#CybotCookiebotDialogBody.CybotCookiebotDialogTabPanel",
+    "client": 393,
+    "scroll": 603
+   },
+   {
+    "el": "div#CybotCookiebotDialogBodyContent.CybotCookiebotScrollArea",
+    "client": 258,
+    "scroll": 272
+   }
+  ],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#CybotCookiebotDialog.CybotEdge",
+    "pos": "fixed",
+    "cover": 94
+   },
+   {
+    "el": "div#header-outer",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 44,
+  "small": 19,
+  "smallList": [
+   "a 24x17",
+   "a.closed 22x20",
+   "div.leaflet-marker-icon 12x12",
+   "a 48x13",
+   "a 78x13"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.nectar-skip-to-content-wrap",
+  "textLen": 1456,
+  "fields": [
+   {
+    "el": "input",
+    "type": "text",
+    "name": "s",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://m813.orderexperience.net/locations"
+   },
+   {
+    "text": "gift cards",
+    "href": "https://onelink.quickgifts.com/merchant/bricktown-brewery"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://m813.orderexperience.net/locations"
+   },
+   {
+    "text": "Food & Bar Menu",
+    "href": "https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://m813.orderexperience.net/6215538ee7de1f678f7b1e7f/menu"
+   },
+   {
+    "text": "Book an Event",
+    "href": "https://app.perfectvenue.com/venues/bricktown-brewery-2/hello"
+   },
+   {
+    "text": "Large Party Platter Menu",
+    "href": "https://bricktownbrewery.com/wp-content/uploads/2024/10/Party-Platters.pdf"
+   },
+   {
+    "text": "SEASONAL MENU",
+    "href": "https://bricktownbrewery.com/seasonal-menu/"
+   },
+   {
+    "text": "Buy Gift Cards",
+    "href": "https://onelink.quickgifts.com/merchant/bricktown-brewery"
+   },
+   {
+    "text": "Buy Gift Cards",
+    "href": "https://onelink.quickgifts.com/merchant/bricktown-brewery"
+   },
+   {
+    "text": "gift cards",
+    "href": "https://onelink.quickgifts.com/merchant/bricktown-brewery"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2",
+   "https://bricktownbrewery.com/location/downtown-okc/#",
+   "https://bricktownbrewery.com/location/downtown-okc/[#DSR_FORM_URL#]",
+   "https://www.cookiebot.com/goto/privacy-policy/",
+   "https://business.safety.google/privacy/",
+   "https://stripe.com/privacy",
+   "https://untappd.com/privacy",
+   "https://segment.com/docs/legal/privacy/",
+   "https://www.cookiebot.com/",
+   "https://bricktownbrewery.com/cookie-declaration",
+   "https://bricktownbrewery.com/privacy-policy",
+   "https://bricktownbrewery.com/location/downtown-okc/#ajax-content-wrap",
+   "https://bricktownbrewery.com/",
+   "https://m813.orderexperience.net/locations",
+   "https://bricktownbrewery.com/location/downtown-okc/#search-box",
+   "https://bricktownbrewery.com/location/downtown-okc/#slide-out-widget-area",
+   "https://bricktownbrewery.com/menu/",
+   "https://bricktownbrewery.com/brewery/",
+   "https://bricktownbrewery.com/location/",
+   "https://bricktownbrewery.com/careers/",
+   "https://bricktownbrewery.com/rewards/",
+   "https://onelink.quickgifts.com/merchant/bricktown-brewery",
+   "https://leafletjs.com/",
+   "https://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps?saddr=My+Location&daddr=%20%20%20%2035.4666028,-97.5106363",
+   "https://www.facebook.com/BricktownBreweryOKC/",
+   "https://twitter.com/btbrewery",
+   "https://www.instagram.com/bricktownbrewery/",
+   "https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf",
+   "https://bricktownbrewery.com/locations/downtown-okc/downtown-okc-tap-hunter-beer-list/",
+   "https://m813.orderexperience.net/6215538ee7de1f678f7b1e7f/menu",
+   "https://app.perfectvenue.com/venues/bricktown-brewery-2/hello",
+   "https://bricktownbrewery.com/wp-content/uploads/2024/10/Party-Platters.pdf",
+   "https://bricktownbrewery.com/seasonal-menu/",
+   "https://bricktownbrewery.com/wp-content/uploads/2023/08/BRICKTOWN-CARNIVORE-PIZZA-071018-scaled.jpg",
+   "https://bricktownbrewery.com/wp-content/uploads/2023/08/Green-Chile-Mac-Cheese-Burger-scaled.jpg",
+   "https://bricktownbrewery.com/wp-content/uploads/2023/08/BRICKTOWN-COBB-SALAD-071018-scaled.jpg",
+   "https://bricktownbrewery.com/wp-content/uploads/2023/08/8X9A7284-scaled.jpg",
+   "https://bricktownbrewery.com/contact",
+   "https://bricktownbrewery.com/wp-content/uploads/2026/03/Bricktown-Nutrition-Guide-2.13.26.pdf",
+   "https://bricktownbrewery.com/terms-conditions",
+   "https://apps.apple.com/us/app/id1613424359",
+   "https://play.google.com/store/apps/details?id=com.paytronix.client.android.app.bricktownbrew",
+   "https://bricktownbrewery.com/accessibility-statement",
+   "https://bricktownbrewery.com/privacy-policy/",
+   "https://bricktownbrewery.com/terms-conditions/",
+   "https://bricktownbrewery.com/cookie-declaration/",
+   "https://bricktownbrewery.com/accessibility-statement/",
+   "https://www.facebook.com/BricktownBreweryRestaurants/",
+   "https://www.youtube.com/@bricktownbrewery2773"
+  ],
+  "weight": 24139,
+  "title": "Downtown OKC - Bricktown Brewery",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4572,
+    "inner": 4572
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://bricktownbrewery.com/location/downtown-okc/[",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-bricktownbrewery-com-location-downtown-okc.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://bricktownbrewery.com/location/downtown-okc/[ answers 404"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "fixed layer div#CybotCookiebotDialog.CybotEdge covers 94% of the screen"
+   ],
+   [
+    "WARN",
+    "19 of 44 tap targets under 24px: a 24x17, a.closed 22x20, div.leaflet-marker-icon 12x12, a 48x13, a 78x13"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5236px tall"
+   ]
+  ],
+  "site": "https://bricktownbrewery.com/location/downtown-okc/",
+  "hop": "https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf"
+ },
+ {
+  "url": "https://bricktownbrewery.com/location/downtown-okc/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.1,
+  "meta": "width=device-width, initial-scale=1, maximum-scale=5",
+  "vw": 393,
+  "vh": 727,
+  "docH": 5254,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [
+   {
+    "el": "div#CybotCookiebotDialogBody.CybotCookiebotDialogTabPanel",
+    "client": 456,
+    "scroll": 603
+   },
+   {
+    "el": "div#CybotCookiebotDialogBodyContent.CybotCookiebotScrollArea",
+    "client": 258,
+    "scroll": 272
+   }
+  ],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#CybotCookiebotDialog.CybotEdge",
+    "pos": "fixed",
+    "cover": 94
+   },
+   {
+    "el": "div#header-outer",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 44,
+  "small": 19,
+  "smallList": [
+   "a 24x17",
+   "a.closed 22x20",
+   "div.leaflet-marker-icon 12x12",
+   "a 48x12",
+   "a 78x12"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.nectar-skip-to-content-wrap",
+  "textLen": 1455,
+  "fields": [
+   {
+    "el": "input",
+    "type": "text",
+    "name": "s",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://m813.orderexperience.net/locations"
+   },
+   {
+    "text": "gift cards",
+    "href": "https://onelink.quickgifts.com/merchant/bricktown-brewery"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://m813.orderexperience.net/locations"
+   },
+   {
+    "text": "Food & Bar Menu",
+    "href": "https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://m813.orderexperience.net/6215538ee7de1f678f7b1e7f/menu"
+   },
+   {
+    "text": "Book an Event",
+    "href": "https://app.perfectvenue.com/venues/bricktown-brewery-2/hello"
+   },
+   {
+    "text": "Large Party Platter Menu",
+    "href": "https://bricktownbrewery.com/wp-content/uploads/2024/10/Party-Platters.pdf"
+   },
+   {
+    "text": "SEASONAL MENU",
+    "href": "https://bricktownbrewery.com/seasonal-menu/"
+   },
+   {
+    "text": "Buy Gift Cards",
+    "href": "https://onelink.quickgifts.com/merchant/bricktown-brewery"
+   },
+   {
+    "text": "Buy Gift Cards",
+    "href": "https://onelink.quickgifts.com/merchant/bricktown-brewery"
+   },
+   {
+    "text": "gift cards",
+    "href": "https://onelink.quickgifts.com/merchant/bricktown-brewery"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot/?utm_source=banner_cb&utm_medium=referral&utm_content=v2",
+   "https://bricktownbrewery.com/location/downtown-okc/#",
+   "https://bricktownbrewery.com/location/downtown-okc/[#DSR_FORM_URL#]",
+   "https://www.cookiebot.com/goto/privacy-policy/",
+   "https://business.safety.google/privacy/",
+   "https://stripe.com/privacy",
+   "https://untappd.com/privacy",
+   "https://segment.com/docs/legal/privacy/",
+   "https://www.cookiebot.com/",
+   "https://bricktownbrewery.com/cookie-declaration",
+   "https://bricktownbrewery.com/privacy-policy",
+   "https://bricktownbrewery.com/location/downtown-okc/#ajax-content-wrap",
+   "https://bricktownbrewery.com/",
+   "https://m813.orderexperience.net/locations",
+   "https://bricktownbrewery.com/location/downtown-okc/#search-box",
+   "https://bricktownbrewery.com/location/downtown-okc/#slide-out-widget-area",
+   "https://bricktownbrewery.com/menu/",
+   "https://bricktownbrewery.com/brewery/",
+   "https://bricktownbrewery.com/location/",
+   "https://bricktownbrewery.com/careers/",
+   "https://bricktownbrewery.com/rewards/",
+   "https://onelink.quickgifts.com/merchant/bricktown-brewery",
+   "https://leafletjs.com/",
+   "https://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps?saddr=My+Location&daddr=%20%20%20%2035.4666028,-97.5106363",
+   "https://www.facebook.com/BricktownBreweryOKC/",
+   "https://twitter.com/btbrewery",
+   "https://www.instagram.com/bricktownbrewery/",
+   "https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf",
+   "https://bricktownbrewery.com/locations/downtown-okc/downtown-okc-tap-hunter-beer-list/",
+   "https://m813.orderexperience.net/6215538ee7de1f678f7b1e7f/menu",
+   "https://app.perfectvenue.com/venues/bricktown-brewery-2/hello",
+   "https://bricktownbrewery.com/wp-content/uploads/2024/10/Party-Platters.pdf",
+   "https://bricktownbrewery.com/seasonal-menu/",
+   "https://bricktownbrewery.com/wp-content/uploads/2023/08/BRICKTOWN-CARNIVORE-PIZZA-071018-scaled.jpg",
+   "https://bricktownbrewery.com/wp-content/uploads/2023/08/Green-Chile-Mac-Cheese-Burger-scaled.jpg",
+   "https://bricktownbrewery.com/wp-content/uploads/2023/08/BRICKTOWN-COBB-SALAD-071018-scaled.jpg",
+   "https://bricktownbrewery.com/wp-content/uploads/2023/08/8X9A7284-scaled.jpg",
+   "https://bricktownbrewery.com/contact",
+   "https://bricktownbrewery.com/wp-content/uploads/2026/03/Bricktown-Nutrition-Guide-2.13.26.pdf",
+   "https://bricktownbrewery.com/terms-conditions",
+   "https://apps.apple.com/us/app/id1613424359",
+   "https://play.google.com/store/apps/details?id=com.paytronix.client.android.app.bricktownbrew",
+   "https://bricktownbrewery.com/accessibility-statement",
+   "https://bricktownbrewery.com/privacy-policy/",
+   "https://bricktownbrewery.com/terms-conditions/",
+   "https://bricktownbrewery.com/cookie-declaration/",
+   "https://bricktownbrewery.com/accessibility-statement/",
+   "https://www.facebook.com/BricktownBreweryRestaurants/",
+   "https://www.youtube.com/@bricktownbrewery2773"
+  ],
+  "weight": 24057,
+  "title": "Downtown OKC - Bricktown Brewery",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4527,
+    "inner": 4527
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "fixed layer div#CybotCookiebotDialog.CybotEdge covers 94% of the screen"
+   ],
+   [
+    "WARN",
+    "19 of 44 tap targets under 24px: a 24x17, a.closed 22x20, div.leaflet-marker-icon 12x12, a 48x12, a 78x12"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5254px tall"
+   ]
+  ],
+  "site": "https://bricktownbrewery.com/location/downtown-okc/"
+ },
+ {
+  "url": "https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf",
+  "device": "iphone",
+  "status": null,
+  "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf\", waiting until \"load",
+  "findings": [
+   [
+    "FAIL",
+    "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://bricktownbrewery.com/wp-content"
+   ]
+  ],
+  "site": "https://bricktownbrewery.com/location/downtown-okc/"
+ },
+ {
+  "url": "https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf",
+  "device": "android",
+  "status": null,
+  "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf\", waiting until \"load",
+  "findings": [
+   [
+    "FAIL",
+    "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://bricktownbrewery.com/wp-content"
+   ]
+  ],
+  "site": "https://bricktownbrewery.com/location/downtown-okc/"
+ },
+ {
+  "url": "https://www.thegrovesf.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 1.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4556,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.navbar1_component",
+    "pos": "fixed",
+    "cover": 11
+   },
+   {
+    "el": "div.navbar1_component",
+    "pos": "fixed",
+    "cover": 11
+   },
+   {
+    "el": "div.navbar1_component",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 39,
+  "small": 17,
+  "smallList": [
+   "div.w-slider-dot 12x12",
+   "div.w-slider-dot 12x12",
+   "div.w-slider-dot 12x12",
+   "div.w-slider-dot 12x12",
+   "a.paragraph-link 40x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "div.navbar1_component",
+  "textLen": 1419,
+  "fields": [
+   {
+    "el": "input#name-2.text-field",
+    "type": "text",
+    "name": "name-2",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First Name"
+   },
+   {
+    "el": "input#Last-Name-2.text-field",
+    "type": "text",
+    "name": "Last-Name-2",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last Name"
+   },
+   {
+    "el": "input#Email-4.text-field",
+    "type": "email",
+    "name": "Email-4",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.thegrovesf.com/menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.thegrovesf.com/menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.thegrovesf.com/menu"
+   },
+   {
+    "text": "catering menu",
+    "href": "https://www.doordash.com/store/26148222/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiIiwidmVydGljYWxfaWQiOjE0OCwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzE0OCwxNzUsMTc2XX0=&pickup=false"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.thegrovesf.com/menu"
+   }
+  ],
+  "allLinks": [
+   "https://www.thegrovesf.com/#",
+   "https://www.thegrovesf.com/",
+   "https://order.online/business/TheGrove-3901",
+   "https://www.thegrovesf.com/menu",
+   "https://www.thegrovesf.com/dining",
+   "https://www.thegrovesf.com/the-bar",
+   "https://www.thegrovesf.com/live-music",
+   "https://www.thegrovesf.com/catering",
+   "https://www.thegrovesf.com/events",
+   "https://www.thegrovesf.com/press",
+   "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true",
+   "https://www.google.com/maps/search/The+Grove+Yerba%20Buena+690+Mission+Street(at+3rd+Street)San+Francisco/",
+   "https://www.instagram.com/thegrovesf/",
+   "https://www.facebook.com/thegrovesf/",
+   "https://maps.app.goo.gl/akaUt72UhdMidx8C8",
+   "https://www.doordash.com/store/26148222/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiIiwidmVydGljYWxfaWQiOjE0OCwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzE0OCwxNzUsMTc2XX0=&pickup=false",
+   "https://www.thegrovesf.com/privacy-policy",
+   "https://www.thegrovesf.com/terms-and-conditions"
+  ],
+  "weight": 11198,
+  "title": "The Grove SF - Thoughtfully Crafted Comfort Food",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3892,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.online/business/TheGrove-3901",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.doordash.com/store/26148222/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiIiwidmVydGljYWxfaWQiOjE0OCwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzE0OCwxNzUsMTc2XX0=&pickup=false",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-thegrovesf-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "17 of 39 tap targets under 24px: div.w-slider-dot 12x12, div.w-slider-dot 12x12, div.w-slider-dot 12x12, div.w-slider-dot 12x12, a.paragraph-link 40x19"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4556px tall"
+   ]
+  ],
+  "site": "https://www.thegrovesf.com/",
+  "hop": "https://www.thegrovesf.com/menu"
+ },
+ {
+  "url": "https://www.thegrovesf.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 5.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 6057,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.navbar1_component",
+    "pos": "fixed",
+    "cover": 10
+   },
+   {
+    "el": "div.navbar1_component",
+    "pos": "fixed",
+    "cover": 10
+   },
+   {
+    "el": "div.navbar1_component",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 39,
+  "small": 17,
+  "smallList": [
+   "div.w-slider-dot 12x12",
+   "div.w-slider-dot 12x12",
+   "div.w-slider-dot 12x12",
+   "div.w-slider-dot 12x12",
+   "a.paragraph-link 40x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "div.navbar1_component",
+  "textLen": 1418,
+  "fields": [
+   {
+    "el": "input#name-2.text-field",
+    "type": "text",
+    "name": "name-2",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First Name"
+   },
+   {
+    "el": "input#Last-Name-2.text-field",
+    "type": "text",
+    "name": "Last-Name-2",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last Name"
+   },
+   {
+    "el": "input#Email-4.text-field",
+    "type": "email",
+    "name": "Email-4",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.thegrovesf.com/menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.thegrovesf.com/menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.thegrovesf.com/menu"
+   },
+   {
+    "text": "catering menu",
+    "href": "https://www.doordash.com/store/26148222/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiIiwidmVydGljYWxfaWQiOjE0OCwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzE0OCwxNzUsMTc2XX0=&pickup=false"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.thegrovesf.com/menu"
+   }
+  ],
+  "allLinks": [
+   "https://www.thegrovesf.com/#",
+   "https://www.thegrovesf.com/",
+   "https://order.online/business/TheGrove-3901",
+   "https://www.thegrovesf.com/menu",
+   "https://www.thegrovesf.com/dining",
+   "https://www.thegrovesf.com/the-bar",
+   "https://www.thegrovesf.com/live-music",
+   "https://www.thegrovesf.com/catering",
+   "https://www.thegrovesf.com/events",
+   "https://www.thegrovesf.com/press",
+   "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true",
+   "https://www.google.com/maps/search/The+Grove+Yerba%20Buena+690+Mission+Street(at+3rd+Street)San+Francisco/",
+   "https://www.instagram.com/thegrovesf/",
+   "https://www.facebook.com/thegrovesf/",
+   "https://maps.app.goo.gl/akaUt72UhdMidx8C8",
+   "https://www.doordash.com/store/26148222/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiIiLCJpdGVtX2lkcyI6W10sInNlYXJjaF90ZXJtIjoiIiwidmVydGljYWxfaWQiOjE0OCwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzE0OCwxNzUsMTc2XX0=&pickup=false",
+   "https://www.thegrovesf.com/privacy-policy",
+   "https://www.thegrovesf.com/terms-and-conditions"
+  ],
+  "weight": 11180,
+  "title": "The Grove SF - Thoughtfully Crafted Comfort Food",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5330,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "17 of 39 tap targets under 24px: div.w-slider-dot 12x12, div.w-slider-dot 12x12, div.w-slider-dot 12x12, div.w-slider-dot 12x12, a.paragraph-link 40x19"
+   ],
+   [
+    "INFO",
+    "document scrolls, 6057px tall"
+   ]
+  ],
+  "site": "https://www.thegrovesf.com/"
+ },
+ {
+  "url": "https://www.thegrovesf.com/menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 4.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 21978,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.navbar1_component",
+    "pos": "fixed",
+    "cover": 11
+   },
+   {
+    "el": "a.up-arrow",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 30,
+  "small": 11,
+  "smallList": [
+   "a.red-link-2 42x19",
+   "a 160x16",
+   "a 230x16",
+   "a 192x16",
+   "a.white-link 101x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "div.navbar1_component",
+  "textLen": 17796,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.thegrovesf.com/menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/business/TheGrove-3901"
+   }
+  ],
+  "allLinks": [
+   "https://www.thegrovesf.com/",
+   "https://order.online/business/TheGrove-3901",
+   "https://www.thegrovesf.com/menu",
+   "https://www.thegrovesf.com/dining",
+   "https://www.thegrovesf.com/the-bar",
+   "https://www.thegrovesf.com/live-music",
+   "https://www.thegrovesf.com/catering",
+   "https://www.thegrovesf.com/events",
+   "https://www.thegrovesf.com/press",
+   "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true",
+   "https://www.thegrovesf.com/menu#",
+   "https://www.google.com/maps/search/The+Grove+Yerba%20Buena+690+Mission+Street(at+3rd+Street)San+Francisco/",
+   "https://www.instagram.com/thegrovesf/",
+   "https://www.facebook.com/thegrovesf/",
+   "https://cdn.prod.website-files.com/66263bb7d395c01e7902106f/6aa9be5608409aba024200f8_Fall%20PDF%20Menu_Main_Bar_HH%202026.pdf",
+   "https://www.thegrovesf.com/menu#breakfast",
+   "https://www.thegrovesf.com/menu#lunch",
+   "https://www.thegrovesf.com/menu#dinner",
+   "https://www.thegrovesf.com/menu#desserts",
+   "https://www.thegrovesf.com/menu#cold",
+   "https://www.thegrovesf.com/menu#hot-drinks",
+   "https://www.thegrovesf.com/menu#beer-wine",
+   "https://www.thegrovesf.com/menu#cocktails",
+   "https://www.p65warnings.ca.gov/",
+   "https://www.p65warnings.ca.gov/restaurant",
+   "https://www.thegrovesf.com/menu#top",
+   "https://www.thegrovesf.com/privacy-policy",
+   "https://www.thegrovesf.com/terms-and-conditions"
+  ],
+  "weight": 26601,
+  "title": "Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 21314,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.online/business/TheGrove-3901",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-thegrovesf-com-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "11 of 30 tap targets under 24px: a.red-link-2 42x19, a 160x16, a 230x16, a 192x16, a.white-link 101x19"
+   ],
+   [
+    "INFO",
+    "document scrolls, 21978px tall"
+   ]
+  ],
+  "site": "https://www.thegrovesf.com/"
+ },
+ {
+  "url": "https://www.thegrovesf.com/menu",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.5,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 21850,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.navbar1_component",
+    "pos": "fixed",
+    "cover": 10
+   },
+   {
+    "el": "a.up-arrow",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 30,
+  "small": 11,
+  "smallList": [
+   "a.red-link-2 42x19",
+   "a 160x16",
+   "a 230x16",
+   "a 192x16",
+   "a.white-link 101x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "div.navbar1_component",
+  "textLen": 18008,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://order.online/business/TheGrove-3901"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.thegrovesf.com/menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.online/business/TheGrove-3901"
+   }
+  ],
+  "allLinks": [
+   "https://www.thegrovesf.com/",
+   "https://order.online/business/TheGrove-3901",
+   "https://www.thegrovesf.com/menu",
+   "https://www.thegrovesf.com/dining",
+   "https://www.thegrovesf.com/the-bar",
+   "https://www.thegrovesf.com/live-music",
+   "https://www.thegrovesf.com/catering",
+   "https://www.thegrovesf.com/events",
+   "https://www.thegrovesf.com/press",
+   "https://order.online/store/the-grove---yerba-buena-san-francisco-25197/?hideModal=true&pickup=true",
+   "https://www.thegrovesf.com/menu#",
+   "https://www.google.com/maps/search/The+Grove+Yerba%20Buena+690+Mission+Street(at+3rd+Street)San+Francisco/",
+   "https://www.instagram.com/thegrovesf/",
+   "https://www.facebook.com/thegrovesf/",
+   "https://cdn.prod.website-files.com/66263bb7d395c01e7902106f/6aa9be5608409aba024200f8_Fall%20PDF%20Menu_Main_Bar_HH%202026.pdf",
+   "https://www.thegrovesf.com/menu#breakfast",
+   "https://www.thegrovesf.com/menu#lunch",
+   "https://www.thegrovesf.com/menu#dinner",
+   "https://www.thegrovesf.com/menu#desserts",
+   "https://www.thegrovesf.com/menu#cold",
+   "https://www.thegrovesf.com/menu#hot-drinks",
+   "https://www.thegrovesf.com/menu#beer-wine",
+   "https://www.thegrovesf.com/menu#cocktails",
+   "https://www.p65warnings.ca.gov/",
+   "https://www.p65warnings.ca.gov/restaurant",
+   "https://www.thegrovesf.com/menu#top",
+   "https://www.thegrovesf.com/privacy-policy",
+   "https://www.thegrovesf.com/terms-and-conditions"
+  ],
+  "weight": 26547,
+  "title": "Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 21316,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "11 of 30 tap targets under 24px: a.red-link-2 42x19, a 160x16, a 230x16, a 192x16, a.white-link 101x19"
+   ],
+   [
+    "INFO",
+    "document scrolls, 21850px tall"
+   ]
+  ],
+  "site": "https://www.thegrovesf.com/"
+ },
+ {
+  "url": "https://hometeambbq.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 7.4,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 7235,
+  "zoomTrap": [],
+  "leaks": [
+   "div.main-nav__inner right=780",
+   "div.menu-close right=753",
+   "svg#Layer_1 right=753",
+   "h6 right=674",
+   "svg#fieryrons right=598",
+   "div.menu-main-menu-container__outer right=674"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#cookie-notice.cookie-revoke-hidden",
+    "pos": "fixed",
+    "cover": 19
+   },
+   {
+    "el": "header#main-header",
+    "pos": "fixed",
+    "cover": 15
+   }
+  ],
+  "targets": 20,
+  "small": 3,
+  "smallList": [
+   "a 299x11",
+   "a 12x26",
+   "a 22x26"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "span.top-bar__text 10px",
+   "h6 11px",
+   "h6.follow 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#main-header",
+  "textLen": 1027,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://hometeambbq.com/"
+  ],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513"
+   },
+   {
+    "text": "Order Online Here",
+    "href": "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513"
+   },
+   {
+    "text": "Seasonal Menus",
+    "href": "https://hometeambbq.com/catering#special_menus"
+   },
+   {
+    "text": "Register your Pig Points",
+    "href": "https://www.toasttab.com/home-team-bbq-downtown/rewardsSignup"
+   },
+   {
+    "text": "Join our email list",
+    "href": "https://www.toasttab.com/home-team-bbq-downtown/marketing-signup"
+   },
+   {
+    "text": "Order your 'Que!",
+    "href": "https://hometeambbq.com/catering/"
+   },
+   {
+    "text": "Loyalty Program",
+    "href": "https://www.toasttab.com/home-team-bbq-downtown/rewardsSignup"
+   }
+  ],
+  "allLinks": [
+   "https://hometeambbq.com/catering/#special_menus",
+   "https://hometeambbq.com/",
+   "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513",
+   "https://hometeambbq.com/merch/",
+   "https://hometeambbq.com/our-story/",
+   "https://hometeambbq.com/happenings/",
+   "https://hometeambbq.com/press/",
+   "https://hometeambbq.com/catering/",
+   "https://www.facebook.com/hometeambbq/",
+   "https://twitter.com/htbbq",
+   "https://www.instagram.com/hometeambbq/",
+   "https://hometeambbq.com/location/aspen/",
+   "https://hometeambbq.com/location/columbia/",
+   "https://hometeambbq.com/location/downtown-charleston/",
+   "https://hometeambbq.com/location/greenvillesc/",
+   "https://hometeambbq.com/location/mount-pleasant-coming-soon/",
+   "https://hometeambbq.com/location/sullivans-island/",
+   "https://hometeambbq.com/location/west-ashley/",
+   "https://hometeambbq.com/catering#large-party",
+   "https://hometeambbq.com/catering#events",
+   "https://hometeambbq.com/catering#special_menus",
+   "https://hometeambbq.com/catering#quote_form",
+   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8a723650-80dc-4cc6-9f23-15d68d0c3110&ccId=19000101_000001&lang=en_US",
+   "https://www.toasttab.com/home-team-bbq-downtown/rewardsSignup",
+   "https://www.toasttab.com/home-team-bbq-downtown/marketing-signup",
+   "https://hometeambbq.com/our-story#givingback",
+   "https://hometeambbq.com/wp-content/uploads/sb-instagram-feed-images/817176727_18629802922062315_1626128239693227211_nfull.webp",
+   "https://www.instagram.com/p/Ddl-VWhP7jB/",
+   "https://hometeambbq.com/wp-content/uploads/sb-instagram-feed-images/819354370_4564509227172232_368717264202229870_nfull.webp",
+   "https://www.instagram.com/reel/DdjmbxROaO6/",
+   "https://hometeambbq.com/wp-content/uploads/sb-instagram-feed-images/818261375_2145328466124739_2679505194660368836_nfull.webp",
+   "https://www.instagram.com/reel/DdhBJomJMPX/",
+   "https://hometeambbq.com/wp-content/uploads/sb-instagram-feed-images/818062263_18628810144062315_4267167637572019651_nfull.webp",
+   "https://www.instagram.com/p/DdeinqClhCf/",
+   "https://www.instagram.com/hometeambbqcola/",
+   "https://www.instagram.com/hometeambbqaspen/",
+   "https://www.instagram.com/hometeambbqgvl/",
+   "https://hometeambbq.com/contact/",
+   "https://hometeambbq.com/community/",
+   "https://hometeambbq.com/privacy-policy",
+   "https://sdcopartners.com/",
+   "https://hometeambbq.com/#",
+   "https://www.instagram.com/"
+  ],
+  "weight": 56361,
+  "title": "Barbecue Restaurant - Home Team BBQ",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6571,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": -75
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-hometeambbq-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.main-nav__inner right=780, div.menu-close right=753, svg#Layer_1 right=753, h6 right=674, svg#fieryrons right=598, div.menu-main-menu-container__outer right=674"
+   ],
+   [
+    "WARN",
+    "broken image: https://hometeambbq.com/"
+   ],
+   [
+    "WARN",
+    "header at y=-75 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "3 of 20 tap targets under 24px: a 299x11, a 12x26, a 22x26"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: span.top-bar__text 10px, h6 11px, h6.follow 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7235px tall"
+   ]
+  ],
+  "site": "https://hometeambbq.com/",
+  "hop": "https://hometeambbq.com/catering"
+ },
+ {
+  "url": "https://hometeambbq.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 10.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 7252,
+  "zoomTrap": [],
+  "leaks": [
+   "div.main-nav__inner right=786",
+   "div.menu-close right=759",
+   "svg#Layer_1 right=759",
+   "h6 right=680",
+   "svg#fieryrons right=601",
+   "div.menu-main-menu-container__outer right=680"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#cookie-notice.cookie-revoke-hidden",
+    "pos": "fixed",
+    "cover": 17
+   },
+   {
+    "el": "header#main-header",
+    "pos": "fixed",
+    "cover": 14
+   }
+  ],
+  "targets": 20,
+  "small": 3,
+  "smallList": [
+   "a 299x11",
+   "a 12x26",
+   "a 22x26"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "span.top-bar__text 10px",
+   "h6 11px",
+   "h6.follow 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#main-header",
+  "textLen": 1028,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://hometeambbq.com/"
+  ],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513"
+   },
+   {
+    "text": "Order Online Here",
+    "href": "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513"
+   },
+   {
+    "text": "Seasonal Menus",
+    "href": "https://hometeambbq.com/catering#special_menus"
+   },
+   {
+    "text": "Register your Pig Points",
+    "href": "https://www.toasttab.com/home-team-bbq-downtown/rewardsSignup"
+   },
+   {
+    "text": "Join our email list",
+    "href": "https://www.toasttab.com/home-team-bbq-downtown/marketing-signup"
+   },
+   {
+    "text": "Order your 'Que!",
+    "href": "https://hometeambbq.com/catering/"
+   },
+   {
+    "text": "Loyalty Program",
+    "href": "https://www.toasttab.com/home-team-bbq-downtown/rewardsSignup"
+   }
+  ],
+  "allLinks": [
+   "https://hometeambbq.com/catering/#special_menus",
+   "https://hometeambbq.com/",
+   "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513",
+   "https://hometeambbq.com/merch/",
+   "https://hometeambbq.com/our-story/",
+   "https://hometeambbq.com/happenings/",
+   "https://hometeambbq.com/press/",
+   "https://hometeambbq.com/catering/",
+   "https://www.facebook.com/hometeambbq/",
+   "https://twitter.com/htbbq",
+   "https://www.instagram.com/hometeambbq/",
+   "https://hometeambbq.com/location/aspen/",
+   "https://hometeambbq.com/location/columbia/",
+   "https://hometeambbq.com/location/downtown-charleston/",
+   "https://hometeambbq.com/location/greenvillesc/",
+   "https://hometeambbq.com/location/mount-pleasant-coming-soon/",
+   "https://hometeambbq.com/location/sullivans-island/",
+   "https://hometeambbq.com/location/west-ashley/",
+   "https://hometeambbq.com/catering#large-party",
+   "https://hometeambbq.com/catering#events",
+   "https://hometeambbq.com/catering#special_menus",
+   "https://hometeambbq.com/catering#quote_form",
+   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8a723650-80dc-4cc6-9f23-15d68d0c3110&ccId=19000101_000001&lang=en_US",
+   "https://www.toasttab.com/home-team-bbq-downtown/rewardsSignup",
+   "https://www.toasttab.com/home-team-bbq-downtown/marketing-signup",
+   "https://hometeambbq.com/our-story#givingback",
+   "https://hometeambbq.com/wp-content/uploads/sb-instagram-feed-images/817176727_18629802922062315_1626128239693227211_nfull.webp",
+   "https://www.instagram.com/p/Ddl-VWhP7jB/",
+   "https://hometeambbq.com/wp-content/uploads/sb-instagram-feed-images/819354370_4564509227172232_368717264202229870_nfull.webp",
+   "https://www.instagram.com/reel/DdjmbxROaO6/",
+   "https://hometeambbq.com/wp-content/uploads/sb-instagram-feed-images/818261375_2145328466124739_2679505194660368836_nfull.webp",
+   "https://www.instagram.com/reel/DdhBJomJMPX/",
+   "https://hometeambbq.com/wp-content/uploads/sb-instagram-feed-images/818062263_18628810144062315_4267167637572019651_nfull.webp",
+   "https://www.instagram.com/p/DdeinqClhCf/",
+   "https://www.instagram.com/hometeambbqcola/",
+   "https://www.instagram.com/hometeambbqaspen/",
+   "https://www.instagram.com/hometeambbqgvl/",
+   "https://hometeambbq.com/contact/",
+   "https://hometeambbq.com/community/",
+   "https://hometeambbq.com/privacy-policy",
+   "https://sdcopartners.com/",
+   "https://hometeambbq.com/#",
+   "https://www.instagram.com/"
+  ],
+  "weight": 56302,
+  "title": "Barbecue Restaurant - Home Team BBQ",
+  "roundtrip": {
+   "atBottom": {
+    "y": 929,
+    "inner": null
+   },
+   "backY": 177,
+   "backInner": null,
+   "headTop": -111
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.main-nav__inner right=786, div.menu-close right=759, svg#Layer_1 right=759, h6 right=680, svg#fieryrons right=601, div.menu-main-menu-container__outer right=680"
+   ],
+   [
+    "WARN",
+    "broken image: https://hometeambbq.com/"
+   ],
+   [
+    "WARN",
+    "header at y=-111 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "3 of 20 tap targets under 24px: a 299x11, a 12x26, a 22x26"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: span.top-bar__text 10px, h6 11px, h6.follow 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7252px tall"
+   ]
+  ],
+  "site": "https://hometeambbq.com/"
+ },
+ {
+  "url": "https://hometeambbq.com/catering",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 15.1,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 10762,
+  "zoomTrap": [],
+  "leaks": [
+   "div.main-nav__inner right=780",
+   "div.menu-close right=753",
+   "svg#Layer_1 right=753",
+   "h6 right=674",
+   "svg#fieryrons right=598",
+   "div.menu-main-menu-container__outer right=674"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#cookie-notice.cookie-revoke-hidden",
+    "pos": "fixed",
+    "cover": 19
+   },
+   {
+    "el": "header#main-header",
+    "pos": "fixed",
+    "cover": 15
+   }
+  ],
+  "targets": 24,
+  "small": 3,
+  "smallList": [
+   "a 299x11",
+   "a 12x26",
+   "a 22x26"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "span.top-bar__text 10px",
+   "h6 11px",
+   "h6.follow 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#main-header",
+  "textLen": 486,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513"
+   },
+   {
+    "text": "Order Online Here",
+    "href": "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513"
+   },
+   {
+    "text": "Seasonal Menus",
+    "href": "https://hometeambbq.com/catering#special_menus"
+   },
+   {
+    "text": "Aspen Full Service Offsite Menu",
+    "href": "https://hometeambbq.com/wp-content/uploads/2025/03/2025-Aspen-Offsite-Full-Service-Catering-Menu-1.pdf"
+   },
+   {
+    "text": "South Carolina Menu",
+    "href": "https://hometeambbq.com/wp-content/uploads/2026/09/2025-Catering-Menu-Pick-upDeliveryCHS.pdf"
+   },
+   {
+    "text": "Aspen, CO Menu",
+    "href": "https://hometeambbq.com/wp-content/uploads/2026/09/2025-Catering-Menu-Pick-upDelivery-Aspen-1-1.pdf"
+   },
+   {
+    "text": "Loyalty Program",
+    "href": "https://www.toasttab.com/home-team-bbq-downtown/rewardsSignup"
+   }
+  ],
+  "allLinks": [
+   "https://hometeambbq.com/catering/#special_menus",
+   "https://hometeambbq.com/",
+   "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513",
+   "https://hometeambbq.com/merch/",
+   "https://hometeambbq.com/our-story/",
+   "https://hometeambbq.com/happenings/",
+   "https://hometeambbq.com/press/",
+   "https://hometeambbq.com/catering/",
+   "https://www.facebook.com/hometeambbq/",
+   "https://twitter.com/htbbq",
+   "https://www.instagram.com/hometeambbq/",
+   "https://hometeambbq.com/location/aspen/",
+   "https://hometeambbq.com/location/columbia/",
+   "https://hometeambbq.com/location/downtown-charleston/",
+   "https://hometeambbq.com/location/greenvillesc/",
+   "https://hometeambbq.com/location/mount-pleasant-coming-soon/",
+   "https://hometeambbq.com/location/sullivans-island/",
+   "https://hometeambbq.com/location/west-ashley/",
+   "https://hometeambbq.com/catering#large-party",
+   "https://hometeambbq.com/catering#events",
+   "https://hometeambbq.com/catering#special_menus",
+   "https://hometeambbq.com/catering#quote_form",
+   "https://hometeambbq.com/catering/#large-party",
+   "https://hometeambbq.com/catering/#events",
+   "https://hometeambbq.com/catering/#quote_form",
+   "https://hometeambbq.com/wp-content/uploads/2017/04/2025-Catering-Menu-Pick-upDelivery-Aspen-1-2.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2017/04/2025-Catering-Menu-Pick-upDeliveryCHS-2.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/05/2025-Catering-Menu-Pick-upDeliveryCOLA-1.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2021/02/2025-Catering-Menu-Pick-upDeliveryGVL-3.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/03/2025-Aspen-onsite-menu-1.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/07/Private-Events-Downtown-CHS.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/07/Private-Events-West-Ashley.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/07/Private-Events-Columbia.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/07/Private-Events-Greenville.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/08/2025-CHS-Full-Service-Catering-Menu.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/08/2025-COLA-Full-Service-Catering-Menu.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/08/2025-GVL-Full-Service-Catering-Menu.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2026/01/2026-Aspen-onsite-menu.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/03/2025-Aspen-Offsite-Full-Service-Catering-Menu-1.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2026/09/2025-Catering-Menu-Pick-upDeliveryCHS.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2026/09/2025-Catering-Menu-Pick-upDelivery-Aspen-1-1.pdf",
+   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8a723650-80dc-4cc6-9f23-15d68d0c3110&ccId=19000101_000001&lang=en_US",
+   "https://hometeambbq.com/contact/",
+   "https://www.toasttab.com/home-team-bbq-downtown/rewardsSignup",
+   "https://hometeambbq.com/community/",
+   "https://hometeambbq.com/privacy-policy",
+   "https://sdcopartners.com/"
+  ],
+  "weight": 52525,
+  "title": "Barbecue Restaurant - Home Team BBQ",
+  "roundtrip": {
+   "atBottom": {
+    "y": 10098,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": -67
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-hometeambbq-com-catering.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.main-nav__inner right=780, div.menu-close right=753, svg#Layer_1 right=753, h6 right=674, svg#fieryrons right=598, div.menu-main-menu-container__outer right=674"
+   ],
+   [
+    "WARN",
+    "header at y=-67 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "3 of 24 tap targets under 24px: a 299x11, a 12x26, a 22x26"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: span.top-bar__text 10px, h6 11px, h6.follow 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10762px tall"
+   ]
+  ],
+  "site": "https://hometeambbq.com/"
+ },
+ {
+  "url": "https://hometeambbq.com/catering",
+  "device": "android",
+  "status": 200,
+  "load_s": 15.3,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 10789,
+  "zoomTrap": [],
+  "leaks": [
+   "div.main-nav__inner right=786",
+   "div.menu-close right=759",
+   "svg#Layer_1 right=759",
+   "h6 right=680",
+   "svg#fieryrons right=601",
+   "div.menu-main-menu-container__outer right=680"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#cookie-notice.cookie-revoke-hidden",
+    "pos": "fixed",
+    "cover": 17
+   },
+   {
+    "el": "header#main-header",
+    "pos": "fixed",
+    "cover": 14
+   }
+  ],
+  "targets": 24,
+  "small": 3,
+  "smallList": [
+   "a 299x11",
+   "a 12x26",
+   "a 22x26"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "span.top-bar__text 10px",
+   "h6 11px",
+   "h6.follow 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#main-header",
+  "textLen": 485,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513"
+   },
+   {
+    "text": "Order Online Here",
+    "href": "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513"
+   },
+   {
+    "text": "Seasonal Menus",
+    "href": "https://hometeambbq.com/catering#special_menus"
+   },
+   {
+    "text": "Aspen Full Service Offsite Menu",
+    "href": "https://hometeambbq.com/wp-content/uploads/2025/03/2025-Aspen-Offsite-Full-Service-Catering-Menu-1.pdf"
+   },
+   {
+    "text": "South Carolina Menu",
+    "href": "https://hometeambbq.com/wp-content/uploads/2026/09/2025-Catering-Menu-Pick-upDeliveryCHS.pdf"
+   },
+   {
+    "text": "Aspen, CO Menu",
+    "href": "https://hometeambbq.com/wp-content/uploads/2026/09/2025-Catering-Menu-Pick-upDelivery-Aspen-1-1.pdf"
+   },
+   {
+    "text": "Loyalty Program",
+    "href": "https://www.toasttab.com/home-team-bbq-downtown/rewardsSignup"
+   }
+  ],
+  "allLinks": [
+   "https://hometeambbq.com/catering/#special_menus",
+   "https://hometeambbq.com/",
+   "https://www.toasttab.com/locations/fb49e09a-15ef-42ca-a749-2c9414b5e513",
+   "https://hometeambbq.com/merch/",
+   "https://hometeambbq.com/our-story/",
+   "https://hometeambbq.com/happenings/",
+   "https://hometeambbq.com/press/",
+   "https://hometeambbq.com/catering/",
+   "https://www.facebook.com/hometeambbq/",
+   "https://twitter.com/htbbq",
+   "https://www.instagram.com/hometeambbq/",
+   "https://hometeambbq.com/location/aspen/",
+   "https://hometeambbq.com/location/columbia/",
+   "https://hometeambbq.com/location/downtown-charleston/",
+   "https://hometeambbq.com/location/greenvillesc/",
+   "https://hometeambbq.com/location/mount-pleasant-coming-soon/",
+   "https://hometeambbq.com/location/sullivans-island/",
+   "https://hometeambbq.com/location/west-ashley/",
+   "https://hometeambbq.com/catering#large-party",
+   "https://hometeambbq.com/catering#events",
+   "https://hometeambbq.com/catering#special_menus",
+   "https://hometeambbq.com/catering#quote_form",
+   "https://hometeambbq.com/catering/#large-party",
+   "https://hometeambbq.com/catering/#events",
+   "https://hometeambbq.com/catering/#quote_form",
+   "https://hometeambbq.com/wp-content/uploads/2017/04/2025-Catering-Menu-Pick-upDelivery-Aspen-1-2.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2017/04/2025-Catering-Menu-Pick-upDeliveryCHS-2.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/05/2025-Catering-Menu-Pick-upDeliveryCOLA-1.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2021/02/2025-Catering-Menu-Pick-upDeliveryGVL-3.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/03/2025-Aspen-onsite-menu-1.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/07/Private-Events-Downtown-CHS.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/07/Private-Events-West-Ashley.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/07/Private-Events-Columbia.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/07/Private-Events-Greenville.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/08/2025-CHS-Full-Service-Catering-Menu.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/08/2025-COLA-Full-Service-Catering-Menu.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/08/2025-GVL-Full-Service-Catering-Menu.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2026/01/2026-Aspen-onsite-menu.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2025/03/2025-Aspen-Offsite-Full-Service-Catering-Menu-1.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2026/09/2025-Catering-Menu-Pick-upDeliveryCHS.pdf",
+   "https://hometeambbq.com/wp-content/uploads/2026/09/2025-Catering-Menu-Pick-upDelivery-Aspen-1-1.pdf",
+   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8a723650-80dc-4cc6-9f23-15d68d0c3110&ccId=19000101_000001&lang=en_US",
+   "https://hometeambbq.com/contact/",
+   "https://www.toasttab.com/home-team-bbq-downtown/rewardsSignup",
+   "https://hometeambbq.com/community/",
+   "https://hometeambbq.com/privacy-policy",
+   "https://sdcopartners.com/"
+  ],
+  "weight": 52525,
+  "title": "Barbecue Restaurant - Home Team BBQ",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1036,
+    "inner": null
+   },
+   "backY": 231,
+   "backInner": null,
+   "headTop": -108
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.main-nav__inner right=786, div.menu-close right=759, svg#Layer_1 right=759, h6 right=680, svg#fieryrons right=601, div.menu-main-menu-container__outer right=680"
+   ],
+   [
+    "WARN",
+    "header at y=-108 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "3 of 24 tap targets under 24px: a 299x11, a 12x26, a 22x26"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: span.top-bar__text 10px, h6 11px, h6.follow 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10789px tall"
+   ]
+  ],
+  "site": "https://hometeambbq.com/"
+ },
+ {
+  "url": "https://www.hounddogspizza.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 10.5,
+  "meta": "width=device-width",
+  "vw": 390,
+  "vh": 664,
+  "docH": 786,
+  "zoomTrap": [],
+  "leaks": [
+   "a right=395",
+   "img right=395"
+  ],
+  "docWider": true,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 8,
+  "small": 2,
+  "smallList": [
+   "a 250x18",
+   "a 200x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": null,
+  "headTag": null,
+  "textLen": 69,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.hounddogspizza.com/menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.hounddogspizza.com/shop/"
+   }
+  ],
+  "allLinks": [
+   "https://www.hounddogspizza.com/",
+   "https://www.hounddogspizza.com/contact",
+   "https://www.hounddogspizza.com/menu/",
+   "https://www.hounddogspizza.com/beer/",
+   "https://www.hounddogspizza.com/contact/",
+   "https://www.hounddogspizza.com/shop/",
+   "https://www.facebook.com/Hounddogs-Pizza-236980889822116/"
+  ],
+  "weight": 8622,
+  "title": "Hounddog's Pizza",
+  "roundtrip": {
+   "atBottom": {
+    "y": 122,
+    "inner": 122
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": null
+  },
+  "panX": 5,
+  "deadLinks": [],
+  "shot": "data/shots/https-www-hounddogspizza-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "sideways overflow (page pans 5px sideways): a right=395, img right=395"
+   ],
+   [
+    "WARN",
+    "2 of 8 tap targets under 24px: a 250x18, a 200x18"
+   ],
+   [
+    "INFO",
+    "document scrolls, 786px tall"
+   ]
+  ],
+  "site": "https://www.hounddogspizza.com/",
+  "hop": "https://www.hounddogspizza.com/menu/"
+ },
+ {
+  "url": "https://www.hounddogspizza.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 5.7,
+  "meta": "width=device-width",
+  "vw": 398,
+  "vh": 737,
+  "docH": 786,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 8,
+  "small": 2,
+  "smallList": [
+   "a 250x18",
+   "a 200x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": null,
+  "headTag": null,
+  "textLen": 72,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.hounddogspizza.com/menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.hounddogspizza.com/shop/"
+   }
+  ],
+  "allLinks": [
+   "https://www.hounddogspizza.com/",
+   "https://www.hounddogspizza.com/contact",
+   "https://www.hounddogspizza.com/menu/",
+   "https://www.hounddogspizza.com/beer/",
+   "https://www.hounddogspizza.com/contact/",
+   "https://www.hounddogspizza.com/shop/",
+   "https://www.facebook.com/Hounddogs-Pizza-236980889822116/"
+  ],
+  "weight": 8604,
+  "title": "Hounddog's Pizza",
+  "roundtrip": {
+   "atBottom": {
+    "y": 49,
+    "inner": 49
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": null
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "2 of 8 tap targets under 24px: a 250x18, a 200x18"
+   ],
+   [
+    "INFO",
+    "document scrolls, 786px tall"
+   ]
+  ],
+  "site": "https://www.hounddogspizza.com/"
+ },
+ {
+  "url": "https://www.hounddogspizza.com/menu/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 6.3,
+  "meta": "width=device-width",
+  "vw": 390,
+  "vh": 664,
+  "docH": 1337,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 13,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": null,
+  "headTag": null,
+  "textLen": 143,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.hounddogspizza.com/menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.hounddogspizza.com/shop/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.hounddogspizza.com/menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.hounddogspizza.com/shop/"
+   }
+  ],
+  "allLinks": [
+   "https://www.hounddogspizza.com/",
+   "https://www.hounddogspizza.com/menu/",
+   "https://www.hounddogspizza.com/beer/",
+   "https://www.hounddogspizza.com/contact/",
+   "https://www.hounddogspizza.com/shop/",
+   "https://www.facebook.com/Hounddogs-Pizza-236980889822116/"
+  ],
+  "weight": 10530,
+  "title": "Menu | Hounddog's Pizza",
+  "roundtrip": {
+   "atBottom": {
+    "y": 673,
+    "inner": 673
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": null
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-www-hounddogspizza-com-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "INFO",
+    "document scrolls, 1337px tall"
+   ]
+  ],
+  "site": "https://www.hounddogspizza.com/"
+ },
+ {
+  "url": "https://www.hounddogspizza.com/menu/",
+  "device": "android",
+  "status": 200,
+  "load_s": 6.6,
+  "meta": "width=device-width",
+  "vw": 393,
+  "vh": 727,
+  "docH": 1343,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 13,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": null,
+  "headTag": null,
+  "textLen": 149,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.hounddogspizza.com/menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.hounddogspizza.com/shop/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.hounddogspizza.com/menu/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.hounddogspizza.com/shop/"
+   }
+  ],
+  "allLinks": [
+   "https://www.hounddogspizza.com/",
+   "https://www.hounddogspizza.com/menu/",
+   "https://www.hounddogspizza.com/beer/",
+   "https://www.hounddogspizza.com/contact/",
+   "https://www.hounddogspizza.com/shop/",
+   "https://www.facebook.com/Hounddogs-Pizza-236980889822116/"
+  ],
+  "weight": 10503,
+  "title": "Menu | Hounddog's Pizza",
+  "roundtrip": {
+   "atBottom": {
+    "y": 616,
+    "inner": 616
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": null
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "INFO",
+    "document scrolls, 1343px tall"
+   ]
+  ],
+  "site": "https://www.hounddogspizza.com/"
+ },
+ {
+  "url": "https://www.themetropolitangrill.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.3,
+  "meta": "initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, width=device-width, user-scalable=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 5977,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.notification",
+    "pos": "fixed",
+    "cover": 37
+   },
+   {
+    "el": "header.masthead",
+    "pos": "fixed",
+    "cover": 28
+   }
+  ],
+  "targets": 29,
+  "small": 19,
+  "smallList": [
+   "a 87x18",
+   "a 103x18",
+   "a 137x18",
+   "a 94x18",
+   "a 96x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.masthead",
+  "textLen": 3708,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "VIEW MENU",
+    "href": "https://www.themetropolitangrill.com/menus/happy-hour/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.themetropolitangrill.com/menus/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.themetropolitangrill.com/the-met-shop/"
+   },
+   {
+    "text": "RESERVATIONS",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "VIEW LUNCH MENU",
+    "href": "https://www.themetropolitangrill.com/menus/lunch/"
+   },
+   {
+    "text": "View Menus",
+    "href": "https://www.themetropolitangrill.com/menus/"
+   },
+   {
+    "text": "View Menu",
+    "href": "https://www.themetropolitangrill.com/menus/wine/"
+   },
+   {
+    "text": "reserve online",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.themetropolitangrill.com/menus/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.themetropolitangrill.com/the-met-shop/"
+   }
+  ],
+  "allLinks": [
+   "https://www.themetropolitangrill.com/#main",
+   "https://www.themetropolitangrill.com/menus/happy-hour/",
+   "https://www.themetropolitangrill.com/",
+   "https://www.themetropolitangrill.com/reservations/",
+   "https://www.themetropolitangrill.com/#",
+   "https://www.themetropolitangrill.com/menus/",
+   "https://www.themetropolitangrill.com/menus/lunch/",
+   "https://www.themetropolitangrill.com/menus/dinner/",
+   "https://www.themetropolitangrill.com/menus/dessert/",
+   "https://www.themetropolitangrill.com/menus/bar/",
+   "https://www.themetropolitangrill.com/menus/wine/",
+   "https://www.themetropolitangrill.com/the-met-shop/",
+   "https://www.themetropolitangrill.com/private-dining/",
+   "https://www.themetropolitangrill.com/#book-an-event",
+   "https://www.themetropolitangrill.com/events-news/",
+   "https://www.themetropolitangrill.com/category/events/",
+   "https://www.themetropolitangrill.com/category/wine/",
+   "https://www.themetropolitangrill.com/category/beef/",
+   "https://www.themetropolitangrill.com/category/cocktail/",
+   "https://www.themetropolitangrill.com/our-story/",
+   "https://www.themetropolitangrill.com/contact-us/",
+   "https://www.themetropolitangrill.com/mailing-list/",
+   "https://www.facebook.com/MetGrill/",
+   "https://www.instagram.com/metropolitangrill/",
+   "https://goo.gl/maps/zP9hheT8Pc22",
+   "https://www.hralliance.net/Apply/FindPosition.aspx?slocationId=8387&sjobId=&search=Search",
+   "https://www.themetropolitangrill.com/Accessibility",
+   "https://www.toasttab.com/the-metropolitan-grill-820-second-avenue/v3/"
+  ],
+  "weight": 10798,
+  "title": "Metropolitan Grill - Voted Best Steak in Town",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5313,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.toasttab.com/the-metropolitan-grill-820-second-avenue/v3/",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-themetropolitangrill-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "19 of 29 tap targets under 24px: a 87x18, a 103x18, a 137x18, a 94x18, a 96x18"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5977px tall"
+   ]
+  ],
+  "site": "https://www.themetropolitangrill.com/",
+  "hop": "https://www.themetropolitangrill.com/menus/happy-hour/"
+ },
+ {
+  "url": "https://www.themetropolitangrill.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.3,
+  "meta": "initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, width=device-width, user-scalable=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 6025,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.notification",
+    "pos": "fixed",
+    "cover": 34
+   },
+   {
+    "el": "header.masthead",
+    "pos": "fixed",
+    "cover": 26
+   }
+  ],
+  "targets": 29,
+  "small": 19,
+  "smallList": [
+   "a 87x19",
+   "a 103x19",
+   "a 137x19",
+   "a 94x19",
+   "a 96x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.masthead",
+  "textLen": 3705,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "VIEW MENU",
+    "href": "https://www.themetropolitangrill.com/menus/happy-hour/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.themetropolitangrill.com/menus/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.themetropolitangrill.com/the-met-shop/"
+   },
+   {
+    "text": "RESERVATIONS",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "VIEW LUNCH MENU",
+    "href": "https://www.themetropolitangrill.com/menus/lunch/"
+   },
+   {
+    "text": "View Menus",
+    "href": "https://www.themetropolitangrill.com/menus/"
+   },
+   {
+    "text": "View Menu",
+    "href": "https://www.themetropolitangrill.com/menus/wine/"
+   },
+   {
+    "text": "reserve online",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.themetropolitangrill.com/menus/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.themetropolitangrill.com/the-met-shop/"
+   }
+  ],
+  "allLinks": [
+   "https://www.themetropolitangrill.com/#main",
+   "https://www.themetropolitangrill.com/menus/happy-hour/",
+   "https://www.themetropolitangrill.com/",
+   "https://www.themetropolitangrill.com/reservations/",
+   "https://www.themetropolitangrill.com/#",
+   "https://www.themetropolitangrill.com/menus/",
+   "https://www.themetropolitangrill.com/menus/lunch/",
+   "https://www.themetropolitangrill.com/menus/dinner/",
+   "https://www.themetropolitangrill.com/menus/dessert/",
+   "https://www.themetropolitangrill.com/menus/bar/",
+   "https://www.themetropolitangrill.com/menus/wine/",
+   "https://www.themetropolitangrill.com/the-met-shop/",
+   "https://www.themetropolitangrill.com/private-dining/",
+   "https://www.themetropolitangrill.com/#book-an-event",
+   "https://www.themetropolitangrill.com/events-news/",
+   "https://www.themetropolitangrill.com/category/events/",
+   "https://www.themetropolitangrill.com/category/wine/",
+   "https://www.themetropolitangrill.com/category/beef/",
+   "https://www.themetropolitangrill.com/category/cocktail/",
+   "https://www.themetropolitangrill.com/our-story/",
+   "https://www.themetropolitangrill.com/contact-us/",
+   "https://www.themetropolitangrill.com/mailing-list/",
+   "https://www.facebook.com/MetGrill/",
+   "https://www.instagram.com/metropolitangrill/",
+   "https://goo.gl/maps/zP9hheT8Pc22",
+   "https://www.hralliance.net/Apply/FindPosition.aspx?slocationId=8387&sjobId=&search=Search",
+   "https://www.themetropolitangrill.com/Accessibility",
+   "https://www.toasttab.com/the-metropolitan-grill-820-second-avenue/v3/"
+  ],
+  "weight": 10789,
+  "title": "Metropolitan Grill - Voted Best Steak in Town",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5298,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "19 of 29 tap targets under 24px: a 87x19, a 103x19, a 137x19, a 94x19, a 96x19"
+   ],
+   [
+    "INFO",
+    "document scrolls, 6025px tall"
+   ]
+  ],
+  "site": "https://www.themetropolitangrill.com/"
+ },
+ {
+  "url": "https://www.themetropolitangrill.com/menus/happy-hour/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.4,
+  "meta": "initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, width=device-width, user-scalable=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 3424,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header.masthead",
+    "pos": "fixed",
+    "cover": 28
+   }
+  ],
+  "targets": 22,
+  "small": 15,
+  "smallList": [
+   "a 87x18",
+   "a 63x17",
+   "a 79x16",
+   "a 88x16",
+   "a 80x16"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.masthead",
+  "textLen": 1138,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "VIEW MENU",
+    "href": "https://www.themetropolitangrill.com/menus/happy-hour/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.themetropolitangrill.com/menus/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.themetropolitangrill.com/the-met-shop/"
+   },
+   {
+    "text": "reserve online",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.themetropolitangrill.com/menus/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.themetropolitangrill.com/the-met-shop/"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/the-metropolitan-grill-820-second-avenue/v3/"
+   }
+  ],
+  "allLinks": [
+   "https://www.themetropolitangrill.com/menus/happy-hour/#main",
+   "https://www.themetropolitangrill.com/menus/happy-hour/",
+   "https://www.themetropolitangrill.com/",
+   "https://www.themetropolitangrill.com/menus/lunch/",
+   "https://www.themetropolitangrill.com/menus/dinner/",
+   "https://www.themetropolitangrill.com/menus/dessert/",
+   "https://www.themetropolitangrill.com/menus/bar/",
+   "https://www.themetropolitangrill.com/menus/wine/",
+   "https://www.themetropolitangrill.com/reservations/",
+   "https://www.themetropolitangrill.com/menus/happy-hour/#",
+   "https://www.themetropolitangrill.com/menus/",
+   "https://www.themetropolitangrill.com/the-met-shop/",
+   "https://www.themetropolitangrill.com/private-dining/",
+   "https://www.themetropolitangrill.com/menus/happy-hour/#book-an-event",
+   "https://www.themetropolitangrill.com/events-news/",
+   "https://www.themetropolitangrill.com/category/events/",
+   "https://www.themetropolitangrill.com/category/wine/",
+   "https://www.themetropolitangrill.com/category/beef/",
+   "https://www.themetropolitangrill.com/category/cocktail/",
+   "https://www.themetropolitangrill.com/our-story/",
+   "https://www.themetropolitangrill.com/contact-us/",
+   "https://www.themetropolitangrill.com/mailing-list/",
+   "https://www.facebook.com/MetGrill/",
+   "https://www.instagram.com/metropolitangrill/",
+   "https://www.themetropolitangrill.com/our-service-charge/",
+   "https://goo.gl/maps/zP9hheT8Pc22",
+   "https://www.hralliance.net/Apply/FindPosition.aspx?slocationId=8387&sjobId=&search=Search",
+   "https://www.themetropolitangrill.com/Accessibility",
+   "https://www.toasttab.com/the-metropolitan-grill-820-second-avenue/v3/"
+  ],
+  "weight": 8281,
+  "title": "Happy Hour - The Metropolitan Grill",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2760,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.toasttab.com/the-metropolitan-grill-820-second-avenue/v3/",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-themetropolitangrill-com-menus-happy-hour.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "15 of 22 tap targets under 24px: a 87x18, a 63x17, a 79x16, a 88x16, a 80x16"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3424px tall"
+   ]
+  ],
+  "site": "https://www.themetropolitangrill.com/"
+ },
+ {
+  "url": "https://www.themetropolitangrill.com/menus/happy-hour/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.4,
+  "meta": "initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, width=device-width, user-scalable=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3403,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header.masthead",
+    "pos": "fixed",
+    "cover": 26
+   }
+  ],
+  "targets": 22,
+  "small": 15,
+  "smallList": [
+   "a 87x19",
+   "a 62x17",
+   "a 79x16",
+   "a 88x16",
+   "a 79x16"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.masthead",
+  "textLen": 1136,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "VIEW MENU",
+    "href": "https://www.themetropolitangrill.com/menus/happy-hour/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.themetropolitangrill.com/menus/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.themetropolitangrill.com/the-met-shop/"
+   },
+   {
+    "text": "reserve online",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.themetropolitangrill.com/reservations/"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.themetropolitangrill.com/menus/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.themetropolitangrill.com/the-met-shop/"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/the-metropolitan-grill-820-second-avenue/v3/"
+   }
+  ],
+  "allLinks": [
+   "https://www.themetropolitangrill.com/menus/happy-hour/#main",
+   "https://www.themetropolitangrill.com/menus/happy-hour/",
+   "https://www.themetropolitangrill.com/",
+   "https://www.themetropolitangrill.com/menus/lunch/",
+   "https://www.themetropolitangrill.com/menus/dinner/",
+   "https://www.themetropolitangrill.com/menus/dessert/",
+   "https://www.themetropolitangrill.com/menus/bar/",
+   "https://www.themetropolitangrill.com/menus/wine/",
+   "https://www.themetropolitangrill.com/reservations/",
+   "https://www.themetropolitangrill.com/menus/happy-hour/#",
+   "https://www.themetropolitangrill.com/menus/",
+   "https://www.themetropolitangrill.com/the-met-shop/",
+   "https://www.themetropolitangrill.com/private-dining/",
+   "https://www.themetropolitangrill.com/menus/happy-hour/#book-an-event",
+   "https://www.themetropolitangrill.com/events-news/",
+   "https://www.themetropolitangrill.com/category/events/",
+   "https://www.themetropolitangrill.com/category/wine/",
+   "https://www.themetropolitangrill.com/category/beef/",
+   "https://www.themetropolitangrill.com/category/cocktail/",
+   "https://www.themetropolitangrill.com/our-story/",
+   "https://www.themetropolitangrill.com/contact-us/",
+   "https://www.themetropolitangrill.com/mailing-list/",
+   "https://www.facebook.com/MetGrill/",
+   "https://www.instagram.com/metropolitangrill/",
+   "https://www.themetropolitangrill.com/our-service-charge/",
+   "https://goo.gl/maps/zP9hheT8Pc22",
+   "https://www.hralliance.net/Apply/FindPosition.aspx?slocationId=8387&sjobId=&search=Search",
+   "https://www.themetropolitangrill.com/Accessibility",
+   "https://www.toasttab.com/the-metropolitan-grill-820-second-avenue/v3/"
+  ],
+  "weight": 8272,
+  "title": "Happy Hour - The Metropolitan Grill",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2676,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "15 of 22 tap targets under 24px: a 87x19, a 62x17, a 79x16, a 88x16, a 79x16"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3403px tall"
+   ]
+  ],
+  "site": "https://www.themetropolitangrill.com/"
+ },
+ {
+  "url": "https://www.johnnyfoleys.com/eat",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 3333,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 17,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.header",
+  "textLen": 838,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [],
+  "allLinks": [
+   "https://www.johnnyfoleys.com/cart",
+   "https://www.johnnyfoleys.com/eat#page",
+   "https://www.johnnyfoleys.com/",
+   "https://www.johnnyfoleys.com/eat",
+   "https://www.johnnyfoleys.com/drink",
+   "https://www.johnnyfoleys.com/new-page",
+   "https://www.johnnyfoleys.com/group-dining",
+   "https://www.johnnyfoleys.com/about",
+   "https://www.johnnyfoleys.com/contact",
+   "https://www.instagram.com//johnnyfoleysirishhouse/",
+   "https://www.facebook.com/johnnyfoleysirishhouse",
+   "https://www.yelp.com/biz/johnny-foleys-san-francisco",
+   "https://indd.adobe.com/view/1f4436b3-19a0-478f-aeeb-342511d1fd94",
+   "https://www.johnnyfoleys.com/s/Johnny-Foleys-BRUNCH-no-prices_-MENU-33125.pdf",
+   "https://www.johnnyfoleys.com/s/Johnny-Foleys-BEER-WINE-no-prices_MENU-33125.pdf",
+   "https://www.johnnyfoleys.com/s/Johnny-Foleys-COCKTAILS-MOCKTAILS-no-prices-MENU-33125.pdf",
+   "https://www.johnnyfoleys.com/s/Johnny-Foleys-GLUTEN-free-LunchDinner_MENU-33125.pdf",
+   "https://www.google.com/maps/dir//243+O'Farrell+St,+San+Francisco,+CA+94102/@38.1088231,-122.8912692,10z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8085808f14ccccb3:0x393534b34ebf4a3a!2m2!1d-122.4086873!2d37.7859931?entry=ttu"
+  ],
+  "weight": 37979,
+  "title": "Menu 1 \u2014 Johnny Foley's",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2669,
+    "inner": 31
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": -127
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-www-johnnyfoleys-com-eat.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-127 after scrolling down and back up"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3333px tall"
+   ]
+  ],
+  "site": "https://www.johnnyfoleys.com/eat"
+ },
+ {
+  "url": "https://www.johnnyfoleys.com/eat",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3421,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 17,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.header",
+  "textLen": 834,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [],
+  "allLinks": [
+   "https://www.johnnyfoleys.com/cart",
+   "https://www.johnnyfoleys.com/eat#page",
+   "https://www.johnnyfoleys.com/",
+   "https://www.johnnyfoleys.com/eat",
+   "https://www.johnnyfoleys.com/drink",
+   "https://www.johnnyfoleys.com/new-page",
+   "https://www.johnnyfoleys.com/group-dining",
+   "https://www.johnnyfoleys.com/about",
+   "https://www.johnnyfoleys.com/contact",
+   "https://www.instagram.com//johnnyfoleysirishhouse/",
+   "https://www.facebook.com/johnnyfoleysirishhouse",
+   "https://www.yelp.com/biz/johnny-foleys-san-francisco",
+   "https://indd.adobe.com/view/1f4436b3-19a0-478f-aeeb-342511d1fd94",
+   "https://www.johnnyfoleys.com/s/Johnny-Foleys-BRUNCH-no-prices_-MENU-33125.pdf",
+   "https://www.johnnyfoleys.com/s/Johnny-Foleys-BEER-WINE-no-prices_MENU-33125.pdf",
+   "https://www.johnnyfoleys.com/s/Johnny-Foleys-COCKTAILS-MOCKTAILS-no-prices-MENU-33125.pdf",
+   "https://www.johnnyfoleys.com/s/Johnny-Foleys-GLUTEN-free-LunchDinner_MENU-33125.pdf",
+   "https://www.google.com/maps/dir//243+O'Farrell+St,+San+Francisco,+CA+94102/@38.1088231,-122.8912692,10z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8085808f14ccccb3:0x393534b34ebf4a3a!2m2!1d-122.4086873!2d37.7859931?entry=ttu"
+  ],
+  "weight": 37943,
+  "title": "Menu 1 \u2014 Johnny Foley's",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1538,
+    "inner": 0
+   },
+   "backY": 466,
+   "backInner": 0,
+   "headTop": -130
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-130 after scrolling down and back up"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3421px tall"
+   ]
+  ],
+  "site": "https://www.johnnyfoleys.com/eat"
+ },
+ {
+  "url": "https://www.rays.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.5,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 10179,
+  "zoomTrap": [],
+  "leaks": [
+   "div.row right=405",
+   "div.col-sm-10 right=405",
+   "div.vc_row right=405",
+   "div.wpb_column right=405",
+   "div.vc_column-inner right=405",
+   "section.vc_section right=405"
+  ],
+  "docWider": true,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.header-top",
+    "pos": "fixed",
+    "cover": 12
+   }
+  ],
+  "targets": 48,
+  "small": 18,
+  "smallList": [
+   "a 95x24",
+   "a 72x24",
+   "a 167x24",
+   "a 123x24",
+   "a 197x24"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 5930,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Boathouse Menu",
+    "href": "https://www.rays.com/boathouse/boathouse-menu/"
+   },
+   {
+    "text": "Boathouse Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Caf\u00e9 Menu",
+    "href": "https://www.rays.com/cafe/cafe-menu/"
+   },
+   {
+    "text": "Cafe Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://raysboathouse.digitalgiftcardmanager.com/landingpage"
+   },
+   {
+    "text": "Boathouse Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Cafe Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "View Boathouse Menu",
+    "href": "https://www.rays.com/boathouse/boathouse-menu/"
+   },
+   {
+    "text": "View Caf\u00e9 Menu",
+    "href": "https://www.rays.com/cafe/cafe-menu/"
+   },
+   {
+    "text": "Order a comforting Dungeness Crab Roll\ud83e\udd80",
+    "href": "https://www.instagram.com/reel/Dd4-81khK1h/"
+   },
+   {
+    "text": "Continue reading \u201cBook Holiday Parties a",
+    "href": "https://www.rays.com/holidayparties/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://raysboathouse.digitalgiftcardmanager.com/landingpage"
+   }
+  ],
+  "allLinks": [
+   "https://www.rays.com/",
+   "https://www.rays.com/boathouse/",
+   "https://www.rays.com/boathouse/boathouse-menu/",
+   "https://www.rays.com/#",
+   "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2",
+   "https://www.rays.com/cafe/",
+   "https://www.rays.com/cafe/cafe-menu/",
+   "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2",
+   "https://www.rays.com/events/",
+   "https://www.rays.com/businessmeetings/",
+   "https://www.rays.com/weddings/",
+   "https://www.rays.com/celebrations/",
+   "https://raysboathouse.digitalgiftcardmanager.com/landingpage",
+   "https://www.rays.com/loyalty-card/",
+   "https://www.rays.com/blog/",
+   "https://www.rays.com/#boathouse",
+   "https://www.rays.com/#cafe",
+   "https://www.rays.com/#events",
+   "https://www.rays.com/boathouse",
+   "https://www.rays.com/cafe",
+   "https://www.rays.com/catering",
+   "https://www.rays.com/about",
+   "https://www.rays.com/catering/",
+   "https://www.rays.com/wp-content/uploads/2025/02/AK-Halibut-2024-Cafe-Boathouse-scaled-e1715126276182_1_.webp",
+   "https://www.rays.com/wp-content/uploads/2025/03/Cafe-Guests-Cheersing-copy_md.jpg",
+   "https://www.rays.com/wp-content/uploads/2025/03/Cafe-Tanner-Crab-Legs_md.jpg",
+   "https://www.rays.com/wp-content/uploads/2025/04/Jack-Sikma-Ray_s-Team-May-20231.jpg",
+   "https://www.instagram.com/raysboathouse/",
+   "https://www.instagram.com/p/Dd-hMl_lDMA/",
+   "https://www.instagram.com/reel/Dd4-81khK1h/",
+   "https://www.instagram.com/reel/DdurBC8vePo/",
+   "https://www.instagram.com/p/Ddp7JlglLdU/",
+   "https://www.instagram.com/reel/DdkVFsBPyjd/",
+   "https://www.instagram.com/p/DdcUALZyYtF/",
+   "https://www.instagram.com/p/DdU_vx4GB6W/",
+   "https://www.instagram.com/reel/DdP_28wh6qz/",
+   "https://www.rays.com/thanksgiving/",
+   "https://www.rays.com/holidayparties/",
+   "https://www.rays.com/weddingsatrays/",
+   "https://www.rays.com/bestofseattletimes2026/",
+   "https://www.google.com/maps/dir//Ray's+Boathouse,+Seaview+Avenue+Northwest,+Seattle,+WA/@47.6734384,-122.4488424,12146m/data=!3m2!1e3!5s0x549015e0a6c142b7:0xa1e97ed1c917390!4m9!4m8!1m0!1m5!1m1!1s0x549015de04ed58b1:0x43c0351360cea090!2m2!1d-122.407643!2d47.673388!3e0!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+   "https://goo.gl/maps/zbgWQTLpPnC2",
+   "https://www.rays.com/cdn-cgi/l/email-protection#ff8d9e868cbf8d9e868cd19c9092",
+   "https://www.rays.com/press",
+   "https://www.rays.com/loyalty-card",
+   "https://www.rays.com/terms-of-use",
+   "https://www.rays.com/privacy-policy",
+   "https://www.facebook.com/RaysBoathouse/",
+   "https://resy.com/cities/sea/rays-boathouse",
+   "https://resy.com/cities/sea/rays-cafe"
+  ],
+  "weight": 70176,
+  "title": "Seattle Seafood Restaurant & Bar in Ballard, WA | Ray's Boathouse",
+  "roundtrip": {
+   "atBottom": {
+    "y": 9515,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 15,
+  "deadLinks": [],
+  "shot": "data/shots/https-www-rays-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "sideways overflow (page pans 15px sideways): div.row right=405, div.col-sm-10 right=405, div.vc_row right=405, div.wpb_column right=405, div.vc_column-inner right=405, section.vc_section right=405"
+   ],
+   [
+    "WARN",
+    "18 of 48 tap targets under 24px: a 95x24, a 72x24, a 167x24, a 123x24, a 197x24"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10179px tall"
+   ]
+  ],
+  "site": "https://www.rays.com/",
+  "hop": "https://www.rays.com/boathouse/boathouse-menu/"
+ },
+ {
+  "url": "https://www.rays.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.7,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 408,
+  "vh": 755,
+  "docH": 10115,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.header-top",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 48,
+  "small": 5,
+  "smallList": [
+   "a 52x21",
+   "a 32x21",
+   "a 72x21",
+   "a 114x21",
+   "a 82x21"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 5938,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Boathouse Menu",
+    "href": "https://www.rays.com/boathouse/boathouse-menu/"
+   },
+   {
+    "text": "Boathouse Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Caf\u00e9 Menu",
+    "href": "https://www.rays.com/cafe/cafe-menu/"
+   },
+   {
+    "text": "Cafe Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://raysboathouse.digitalgiftcardmanager.com/landingpage"
+   },
+   {
+    "text": "Boathouse Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Cafe Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "View Boathouse Menu",
+    "href": "https://www.rays.com/boathouse/boathouse-menu/"
+   },
+   {
+    "text": "View Caf\u00e9 Menu",
+    "href": "https://www.rays.com/cafe/cafe-menu/"
+   },
+   {
+    "text": "Order a comforting Dungeness Crab Roll\ud83e\udd80",
+    "href": "https://www.instagram.com/reel/Dd4-81khK1h/"
+   },
+   {
+    "text": "Continue reading \u201cBook Holiday Parties a",
+    "href": "https://www.rays.com/holidayparties/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://raysboathouse.digitalgiftcardmanager.com/landingpage"
+   }
+  ],
+  "allLinks": [
+   "https://www.rays.com/",
+   "https://www.rays.com/boathouse/",
+   "https://www.rays.com/boathouse/boathouse-menu/",
+   "https://www.rays.com/#",
+   "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2",
+   "https://www.rays.com/cafe/",
+   "https://www.rays.com/cafe/cafe-menu/",
+   "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2",
+   "https://www.rays.com/events/",
+   "https://www.rays.com/businessmeetings/",
+   "https://www.rays.com/weddings/",
+   "https://www.rays.com/celebrations/",
+   "https://raysboathouse.digitalgiftcardmanager.com/landingpage",
+   "https://www.rays.com/loyalty-card/",
+   "https://www.rays.com/blog/",
+   "https://www.rays.com/#boathouse",
+   "https://www.rays.com/#cafe",
+   "https://www.rays.com/#events",
+   "https://www.rays.com/boathouse",
+   "https://www.rays.com/cafe",
+   "https://www.rays.com/catering",
+   "https://www.rays.com/about",
+   "https://www.rays.com/catering/",
+   "https://www.rays.com/wp-content/uploads/2025/02/AK-Halibut-2024-Cafe-Boathouse-scaled-e1715126276182_1_.webp",
+   "https://www.rays.com/wp-content/uploads/2025/03/Cafe-Guests-Cheersing-copy_md.jpg",
+   "https://www.rays.com/wp-content/uploads/2025/03/Cafe-Tanner-Crab-Legs_md.jpg",
+   "https://www.rays.com/wp-content/uploads/2025/04/Jack-Sikma-Ray_s-Team-May-20231.jpg",
+   "https://www.instagram.com/raysboathouse/",
+   "https://www.instagram.com/p/Dd-hMl_lDMA/",
+   "https://www.instagram.com/reel/Dd4-81khK1h/",
+   "https://www.instagram.com/reel/DdurBC8vePo/",
+   "https://www.instagram.com/p/Ddp7JlglLdU/",
+   "https://www.instagram.com/reel/DdkVFsBPyjd/",
+   "https://www.instagram.com/p/DdcUALZyYtF/",
+   "https://www.instagram.com/p/DdU_vx4GB6W/",
+   "https://www.instagram.com/reel/DdP_28wh6qz/",
+   "https://www.rays.com/thanksgiving/",
+   "https://www.rays.com/holidayparties/",
+   "https://www.rays.com/weddingsatrays/",
+   "https://www.rays.com/bestofseattletimes2026/",
+   "https://www.google.com/maps/dir//Ray's+Boathouse,+Seaview+Avenue+Northwest,+Seattle,+WA/@47.6734384,-122.4488424,12146m/data=!3m2!1e3!5s0x549015e0a6c142b7:0xa1e97ed1c917390!4m9!4m8!1m0!1m5!1m1!1s0x549015de04ed58b1:0x43c0351360cea090!2m2!1d-122.407643!2d47.673388!3e0!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+   "https://goo.gl/maps/zbgWQTLpPnC2",
+   "https://www.rays.com/cdn-cgi/l/email-protection#ff8d9e868cbf8d9e868cd19c9092",
+   "https://www.rays.com/press",
+   "https://www.rays.com/loyalty-card",
+   "https://www.rays.com/terms-of-use",
+   "https://www.rays.com/privacy-policy",
+   "https://www.facebook.com/RaysBoathouse/",
+   "https://resy.com/cities/sea/rays-boathouse",
+   "https://resy.com/cities/sea/rays-cafe"
+  ],
+  "weight": 70222,
+  "title": "Seattle Seafood Restaurant & Bar in Ballard, WA | Ray's Boathouse",
+  "roundtrip": {
+   "atBottom": {
+    "y": 871,
+    "inner": null
+   },
+   "backY": 163,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "5 of 48 tap targets under 24px: a 52x21, a 32x21, a 72x21, a 114x21, a 82x21"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10115px tall"
+   ]
+  ],
+  "site": "https://www.rays.com/"
+ },
+ {
+  "url": "https://www.rays.com/boathouse/boathouse-menu/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 1.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 8458,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.header-top",
+    "pos": "fixed",
+    "cover": 12
+   }
+  ],
+  "targets": 30,
+  "small": 14,
+  "smallList": [
+   "a 95x24",
+   "a 76x24",
+   "a 76x24",
+   "a 76x24",
+   "a 76x24"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 4793,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Boathouse Menu",
+    "href": "https://www.rays.com/boathouse/boathouse-menu/"
+   },
+   {
+    "text": "Boathouse Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Caf\u00e9 Menu",
+    "href": "https://www.rays.com/cafe/cafe-menu/"
+   },
+   {
+    "text": "Cafe Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://raysboathouse.digitalgiftcardmanager.com/landingpage"
+   },
+   {
+    "text": "Boathouse Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Cafe Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://www.rays.com/wp-content/uploads/2026/08/Summer-Dessert-Menu.pdf"
+   },
+   {
+    "text": "Kids Menu",
+    "href": "https://www.rays.com/wp-content/uploads/2025/05/BH-Kids-Spring-25-1.pdf"
+   },
+   {
+    "text": "Continue reading \u201cBook Holiday Parties a",
+    "href": "https://www.rays.com/holidayparties/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://raysboathouse.digitalgiftcardmanager.com/landingpage"
+   },
+   {
+    "text": "Book your Ray's Boathouse reservation on",
+    "href": "https://resy.com/cities/sea/rays-boathouse"
+   }
+  ],
+  "allLinks": [
+   "https://www.rays.com/",
+   "https://www.rays.com/boathouse/",
+   "https://www.rays.com/boathouse/boathouse-menu/",
+   "https://www.rays.com/boathouse/boathouse-menu/#",
+   "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2",
+   "https://www.rays.com/cafe/",
+   "https://www.rays.com/cafe/cafe-menu/",
+   "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2",
+   "https://www.rays.com/events/",
+   "https://www.rays.com/businessmeetings/",
+   "https://www.rays.com/weddings/",
+   "https://www.rays.com/celebrations/",
+   "https://raysboathouse.digitalgiftcardmanager.com/landingpage",
+   "https://www.rays.com/loyalty-card/",
+   "https://www.rays.com/blog/",
+   "https://www.rays.com/boathouse/boathouse-menu/#dinner-menu",
+   "https://www.rays.com/boathouse/boathouse-menu/#bh-daily-specials",
+   "https://www.rays.com/wp-content/uploads/2026/08/Drinks-August-1.pdf",
+   "https://www.rays.com/wp-content/uploads/2026/06/July-Wine-List.pdf",
+   "https://www.rays.com/wp-content/uploads/2026/08/Boathouse-Wine-BTG.pdf",
+   "https://www.rays.com/wp-content/uploads/2026/08/Summer-Dessert-Menu.pdf",
+   "https://www.rays.com/wp-content/uploads/2026/08/Spirits-BH-06.25.26.pdf",
+   "https://www.rays.com/wp-content/uploads/2025/05/BH-Happy-Hour-5.17.25.pdf",
+   "https://www.rays.com/wp-content/uploads/2025/05/BH-Kids-Spring-25-1.pdf",
+   "https://www.rays.com/wp-content/uploads/2026/08/BH-Happy-Hour-8.23.26.pdf",
+   "https://www.rays.com/thanksgiving/",
+   "https://www.rays.com/holidayparties/",
+   "https://www.rays.com/weddingsatrays/",
+   "https://www.rays.com/bestofseattletimes2026/",
+   "https://www.google.com/maps/dir//Ray's+Boathouse,+Seaview+Avenue+Northwest,+Seattle,+WA/@47.6734384,-122.4488424,12146m/data=!3m2!1e3!5s0x549015e0a6c142b7:0xa1e97ed1c917390!4m9!4m8!1m0!1m5!1m1!1s0x549015de04ed58b1:0x43c0351360cea090!2m2!1d-122.407643!2d47.673388!3e0!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+   "https://goo.gl/maps/zbgWQTLpPnC2",
+   "https://www.rays.com/cdn-cgi/l/email-protection#1567746c665567746c663b767a78",
+   "https://www.rays.com/about",
+   "https://www.rays.com/press",
+   "https://www.rays.com/loyalty-card",
+   "https://www.rays.com/terms-of-use",
+   "https://www.rays.com/privacy-policy",
+   "https://www.instagram.com/raysboathouse/",
+   "https://www.facebook.com/RaysBoathouse/",
+   "https://resy.com/cities/sea/rays-boathouse",
+   "https://resy.com/cities/sea/rays-cafe"
+  ],
+  "weight": 63342,
+  "title": "Ray's Boathouse Menu - Ray's",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7794,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.rays.com/celebrations/",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/loyalty-card/",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/blog/",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/wp-content/uploads/2026/08/Drinks-August-1.pdf",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/wp-content/uploads/2026/06/July-Wine-List.pdf",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/wp-content/uploads/2026/08/Boathouse-Wine-BTG.pdf",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/wp-content/uploads/2026/08/Spirits-BH-06.25.26.pdf",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/wp-content/uploads/2025/05/BH-Happy-Hour-5.17.25.pdf",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/wp-content/uploads/2026/08/BH-Happy-Hour-8.23.26.pdf",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/thanksgiving/",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/weddingsatrays/",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/bestofseattletimes2026/",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/cdn-cgi/l/email-protection",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.rays.com/about",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/press",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/loyalty-card",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/terms-of-use",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rays.com/privacy-policy",
+    "codes": [
+     429,
+     429
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-rays-com-boathouse-boathouse-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://www.rays.com/cdn-cgi/l/email-protection answers 404"
+   ],
+   [
+    "WARN",
+    "14 of 30 tap targets under 24px: a 95x24, a 76x24, a 76x24, a 76x24, a 76x24"
+   ],
+   [
+    "INFO",
+    "document scrolls, 8458px tall"
+   ]
+  ],
+  "site": "https://www.rays.com/"
+ },
+ {
+  "url": "https://www.rays.com/boathouse/boathouse-menu/",
+  "device": "android",
+  "status": 200,
+  "load_s": 1.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 8415,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.header-top",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 30,
+  "small": 5,
+  "smallList": [
+   "a 52x21",
+   "a 32x21",
+   "a 72x21",
+   "a 114x21",
+   "a 82x21"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 4813,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Boathouse Menu",
+    "href": "https://www.rays.com/boathouse/boathouse-menu/"
+   },
+   {
+    "text": "Boathouse Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Caf\u00e9 Menu",
+    "href": "https://www.rays.com/cafe/cafe-menu/"
+   },
+   {
+    "text": "Cafe Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://raysboathouse.digitalgiftcardmanager.com/landingpage"
+   },
+   {
+    "text": "Boathouse Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Cafe Thanksgiving",
+    "href": "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://www.rays.com/wp-content/uploads/2026/08/Summer-Dessert-Menu.pdf"
+   },
+   {
+    "text": "Kids Menu",
+    "href": "https://www.rays.com/wp-content/uploads/2025/05/BH-Kids-Spring-25-1.pdf"
+   },
+   {
+    "text": "Continue reading \u201cBook Holiday Parties a",
+    "href": "https://www.rays.com/holidayparties/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://raysboathouse.digitalgiftcardmanager.com/landingpage"
+   },
+   {
+    "text": "Book your Ray's Boathouse reservation on",
+    "href": "https://resy.com/cities/sea/rays-boathouse"
+   }
+  ],
+  "allLinks": [
+   "https://www.rays.com/",
+   "https://www.rays.com/boathouse/",
+   "https://www.rays.com/boathouse/boathouse-menu/",
+   "https://www.rays.com/boathouse/boathouse-menu/#",
+   "https://resy.com/cities/seattle-wa/venues/rays-boathouse?date=2026-11-26&seats=2",
+   "https://www.rays.com/cafe/",
+   "https://www.rays.com/cafe/cafe-menu/",
+   "https://resy.com/cities/seattle-wa/venues/rays-cafe?date=2026-11-26&seats=2",
+   "https://www.rays.com/events/",
+   "https://www.rays.com/businessmeetings/",
+   "https://www.rays.com/weddings/",
+   "https://www.rays.com/celebrations/",
+   "https://raysboathouse.digitalgiftcardmanager.com/landingpage",
+   "https://www.rays.com/loyalty-card/",
+   "https://www.rays.com/blog/",
+   "https://www.rays.com/boathouse/boathouse-menu/#dinner-menu",
+   "https://www.rays.com/boathouse/boathouse-menu/#bh-daily-specials",
+   "https://www.rays.com/wp-content/uploads/2026/08/Drinks-August-1.pdf",
+   "https://www.rays.com/wp-content/uploads/2026/06/July-Wine-List.pdf",
+   "https://www.rays.com/wp-content/uploads/2026/08/Boathouse-Wine-BTG.pdf",
+   "https://www.rays.com/wp-content/uploads/2026/08/Summer-Dessert-Menu.pdf",
+   "https://www.rays.com/wp-content/uploads/2026/08/Spirits-BH-06.25.26.pdf",
+   "https://www.rays.com/wp-content/uploads/2025/05/BH-Happy-Hour-5.17.25.pdf",
+   "https://www.rays.com/wp-content/uploads/2025/05/BH-Kids-Spring-25-1.pdf",
+   "https://www.rays.com/wp-content/uploads/2026/08/BH-Happy-Hour-8.23.26.pdf",
+   "https://www.rays.com/thanksgiving/",
+   "https://www.rays.com/holidayparties/",
+   "https://www.rays.com/weddingsatrays/",
+   "https://www.rays.com/bestofseattletimes2026/",
+   "https://www.google.com/maps/dir//Ray's+Boathouse,+Seaview+Avenue+Northwest,+Seattle,+WA/@47.6734384,-122.4488424,12146m/data=!3m2!1e3!5s0x549015e0a6c142b7:0xa1e97ed1c917390!4m9!4m8!1m0!1m5!1m1!1s0x549015de04ed58b1:0x43c0351360cea090!2m2!1d-122.407643!2d47.673388!3e0!5m1!1e1?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D",
+   "https://goo.gl/maps/zbgWQTLpPnC2",
+   "https://www.rays.com/cdn-cgi/l/email-protection#1567746c665567746c663b767a78",
+   "https://www.rays.com/about",
+   "https://www.rays.com/press",
+   "https://www.rays.com/loyalty-card",
+   "https://www.rays.com/terms-of-use",
+   "https://www.rays.com/privacy-policy",
+   "https://www.instagram.com/raysboathouse/",
+   "https://www.facebook.com/RaysBoathouse/",
+   "https://resy.com/cities/sea/rays-boathouse",
+   "https://resy.com/cities/sea/rays-cafe"
+  ],
+  "weight": 63261,
+  "title": "Ray's Boathouse Menu - Ray's",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1052,
+    "inner": null
+   },
+   "backY": 242,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "5 of 30 tap targets under 24px: a 52x21, a 32x21, a 72x21, a 114x21, a 82x21"
+   ],
+   [
+    "INFO",
+    "document scrolls, 8415px tall"
+   ]
+  ],
+  "site": "https://www.rays.com/"
+ },
+ {
+  "url": "https://3littlebirdssalon.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.7,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4758,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 19,
+  "small": 10,
+  "smallList": [
+   "a.fusion-icon 19x20",
+   "a.fusion-flyout-menu-toggle 50x18",
+   "a.fusion-social-network-icon 16x16",
+   "a.fusion-social-network-icon 16x16",
+   "a.fusion-social-network-icon 16x16"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.fusion-header-wrapper",
+  "textLen": 4428,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "BOOKINGS",
+    "href": "https://3littlebirdssalon.com/appointment/"
+   },
+   {
+    "text": "Toggle Shopping Cart",
+    "href": "https://3littlebirdssalon.com/cart/"
+   },
+   {
+    "text": "BOOKINGS",
+    "href": "https://3littlebirdssalon.com/appointment/"
+   },
+   {
+    "text": "Make an Appointment",
+    "href": "https://3littlebirdssalon.comb.works/"
+   },
+   {
+    "text": "Book Appointment",
+    "href": "https://3littlebirdssalon.comb.works/"
+   }
+  ],
+  "allLinks": [
+   "https://3littlebirdssalon.com/#content",
+   "https://3littlebirdssalon.com/#",
+   "https://3littlebirdssalon.com/about/",
+   "https://3littlebirdssalon.com/dreadlock-services/",
+   "https://3littlebirdssalon.com/services/",
+   "https://3littlebirdssalon.com/",
+   "https://3littlebirdssalon.com/salon-hair-stylists/",
+   "https://3littlebirdssalon.com/community/",
+   "https://3littlebirdssalon.com/appointment/",
+   "https://3littlebirdssalon.com/cart/",
+   "https://3littlebirdssalon.com/author/hipowla-com/",
+   "https://3littlebirdssalon.comb.works/",
+   "https://www.facebook.com/3littlebirdsdenver/",
+   "https://twitter.com/3lbsalon",
+   "https://www.instagram.com/3littlebirdssalon/",
+   "https://3littlebirdssalon.com/services",
+   "https://3littlebirdssalon.com/stylists",
+   "https://www.google.com/maps/place/3+Little+Birds+Salon/@39.743491,-104.976579,15z/data=!4m5!3m4!1s0x0:0x90456498d9f41172!8m2!3d39.743491!4d-104.976579",
+   "https://www.google.com/maps/place/3+Little+Birds+Salon/@39.743491,-104.976579,15z/data=!4m2!3m1!1s0x0:0x90456498d9f41172?sa=X&ved=2ahUKEwiW6pO6wdrrAhWB1FkKHdEVDTEQ_BIwEnoECBQQCA",
+   "https://3littlebirdssalon.com/terms-conditions",
+   "https://3littlebirdssalon.com/privacy-policy"
+  ],
+  "weight": 26091,
+  "title": "3 Little Birds Salon I Premium Dreadlocks I Denver, Colorado",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4094,
+    "inner": 48
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://3littlebirdssalon.com/terms-conditions",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://3littlebirdssalon.com/privacy-policy",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-3littlebirdssalon-com.png",
+  "errors": [
+   "console: {message: Invalid OAuth 2.0 Access Token, type: IGApiException, code: 190, error_data: undefined, fbtrace_id: A2647pPsrCoWA3uXqaTriiR}"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://3littlebirdssalon.com/terms-conditions answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://3littlebirdssalon.com/privacy-policy answers 404"
+   ],
+   [
+    "WARN",
+    "10 of 19 tap targets under 24px: a.fusion-icon 19x20, a.fusion-flyout-menu-toggle 50x18, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16"
+   ],
+   [
+    "INFO",
+    "console: {message: Invalid OAuth 2.0 Access Token, type: IGApiException, code: 190, error_data: undefined, fbtrace_id: A2647pPsrCoWA3uXqaTriiR}"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4758px tall"
+   ]
+  ],
+  "site": "https://3littlebirdssalon.com/",
+  "hop": "https://3littlebirdssalon.com/appointment/"
+ },
+ {
+  "url": "https://3littlebirdssalon.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 1.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4738,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 19,
+  "small": 10,
+  "smallList": [
+   "a.fusion-icon 19x21",
+   "a.fusion-flyout-menu-toggle 50x18",
+   "a.fusion-social-network-icon 16x16",
+   "a.fusion-social-network-icon 16x16",
+   "a.fusion-social-network-icon 16x16"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.fusion-header-wrapper",
+  "textLen": 4485,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "BOOKINGS",
+    "href": "https://3littlebirdssalon.com/appointment/"
+   },
+   {
+    "text": "Toggle Shopping Cart",
+    "href": "https://3littlebirdssalon.com/cart/"
+   },
+   {
+    "text": "BOOKINGS",
+    "href": "https://3littlebirdssalon.com/appointment/"
+   },
+   {
+    "text": "Make an Appointment",
+    "href": "https://3littlebirdssalon.comb.works/"
+   },
+   {
+    "text": "Book Appointment",
+    "href": "https://3littlebirdssalon.comb.works/"
+   }
+  ],
+  "allLinks": [
+   "https://3littlebirdssalon.com/#content",
+   "https://3littlebirdssalon.com/#",
+   "https://3littlebirdssalon.com/about/",
+   "https://3littlebirdssalon.com/dreadlock-services/",
+   "https://3littlebirdssalon.com/services/",
+   "https://3littlebirdssalon.com/",
+   "https://3littlebirdssalon.com/salon-hair-stylists/",
+   "https://3littlebirdssalon.com/community/",
+   "https://3littlebirdssalon.com/appointment/",
+   "https://3littlebirdssalon.com/cart/",
+   "https://3littlebirdssalon.com/author/hipowla-com/",
+   "https://3littlebirdssalon.comb.works/",
+   "https://www.facebook.com/3littlebirdsdenver/",
+   "https://twitter.com/3lbsalon",
+   "https://www.instagram.com/3littlebirdssalon/",
+   "https://3littlebirdssalon.com/services",
+   "https://3littlebirdssalon.com/stylists",
+   "https://www.google.com/maps/place/3+Little+Birds+Salon/@39.743491,-104.976579,15z/data=!4m5!3m4!1s0x0:0x90456498d9f41172!8m2!3d39.743491!4d-104.976579",
+   "https://www.google.com/maps/place/3+Little+Birds+Salon/@39.743491,-104.976579,15z/data=!4m2!3m1!1s0x0:0x90456498d9f41172?sa=X&ved=2ahUKEwiW6pO6wdrrAhWB1FkKHdEVDTEQ_BIwEnoECBQQCA",
+   "https://3littlebirdssalon.com/terms-conditions",
+   "https://3littlebirdssalon.com/privacy-policy"
+  ],
+  "weight": 26045,
+  "title": "3 Little Birds Salon I Premium Dreadlocks I Denver, Colorado",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4011,
+    "inner": 48
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: {message: Invalid OAuth 2.0 Access Token, type: IGApiException, code: 190, error_data: Object, fbtrace_id: A2647pPsrCoWA3uXqaTriiR}"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "10 of 19 tap targets under 24px: a.fusion-icon 19x21, a.fusion-flyout-menu-toggle 50x18, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16"
+   ],
+   [
+    "INFO",
+    "console: {message: Invalid OAuth 2.0 Access Token, type: IGApiException, code: 190, error_data: Object, fbtrace_id: A2647pPsrCoWA3uXqaTriiR}"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4738px tall"
+   ]
+  ],
+  "site": "https://3littlebirdssalon.com/"
+ },
+ {
+  "url": "https://3littlebirdssalon.com/appointment/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.1,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4411,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 15,
+  "small": 7,
+  "smallList": [
+   "a.fusion-icon 19x20",
+   "a.fusion-flyout-menu-toggle 50x18",
+   "a 122x16",
+   "a 230x16",
+   "a 200x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.fusion-header-wrapper",
+  "textLen": 1669,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "BOOKINGS",
+    "href": "https://3littlebirdssalon.com/appointment/"
+   },
+   {
+    "text": "Toggle Shopping Cart",
+    "href": "https://3littlebirdssalon.com/cart/"
+   },
+   {
+    "text": "BOOKINGS",
+    "href": "https://3littlebirdssalon.com/appointment/"
+   },
+   {
+    "text": "Book Appointment",
+    "href": "https://dashboard.boulevard.io/booking/businesses/a3b5adc3-b14e-4d55-ad08-fd3042111368/widget#/visit-type"
+   },
+   {
+    "text": "Book Appointment",
+    "href": "https://3littlebirdssalon.comb.works/"
+   },
+   {
+    "text": "Book Appointment",
+    "href": "https://3littlebirdssalon.comb.works/"
+   }
+  ],
+  "allLinks": [
+   "https://3littlebirdssalon.com/appointment/#content",
+   "https://3littlebirdssalon.com/appointment/#",
+   "https://3littlebirdssalon.com/about/",
+   "https://3littlebirdssalon.com/dreadlock-services/",
+   "https://3littlebirdssalon.com/services/",
+   "https://3littlebirdssalon.com/",
+   "https://3littlebirdssalon.com/salon-hair-stylists/",
+   "https://3littlebirdssalon.com/community/",
+   "https://3littlebirdssalon.com/appointment/",
+   "https://3littlebirdssalon.com/cart/",
+   "https://3littlebirdssalon.com/author/hipowla-com/",
+   "https://dashboard.boulevard.io/booking/businesses/a3b5adc3-b14e-4d55-ad08-fd3042111368/widget#/visit-type",
+   "https://3littlebirdssalon.comb.works/",
+   "https://3littlebirdssalon.com/services",
+   "https://www.instagram.com/3littlebirdssalon/",
+   "https://www.google.com/maps/place/3+Little+Birds+Salon/@39.743491,-104.976579,15z/data=!4m5!3m4!1s0x0:0x90456498d9f41172!8m2!3d39.743491!4d-104.976579",
+   "https://www.google.com/maps/place/3+Little+Birds+Salon/@39.743491,-104.976579,15z/data=!4m2!3m1!1s0x0:0x90456498d9f41172?sa=X&ved=2ahUKEwiW6pO6wdrrAhWB1FkKHdEVDTEQ_BIwEnoECBQQCA",
+   "https://3littlebirdssalon.com/terms-conditions",
+   "https://3littlebirdssalon.com/privacy-policy"
+  ],
+  "weight": 23093,
+  "title": "Book Appointment | 3 Little Birds Salon - Uptown Denver Hair Salon & Dreadlocks",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3747,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://3littlebirdssalon.com/terms-conditions",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://3littlebirdssalon.com/privacy-policy",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-3littlebirdssalon-com-appointment.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://3littlebirdssalon.com/terms-conditions answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://3littlebirdssalon.com/privacy-policy answers 404"
+   ],
+   [
+    "WARN",
+    "7 of 15 tap targets under 24px: a.fusion-icon 19x20, a.fusion-flyout-menu-toggle 50x18, a 122x16, a 230x16, a 200x22"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4411px tall"
+   ]
+  ],
+  "site": "https://3littlebirdssalon.com/"
+ },
+ {
+  "url": "https://3littlebirdssalon.com/appointment/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4388,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 15,
+  "small": 7,
+  "smallList": [
+   "a.fusion-icon 19x21",
+   "a.fusion-flyout-menu-toggle 50x18",
+   "a 122x16",
+   "a 230x16",
+   "a 200x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.fusion-header-wrapper",
+  "textLen": 1666,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "BOOKINGS",
+    "href": "https://3littlebirdssalon.com/appointment/"
+   },
+   {
+    "text": "Toggle Shopping Cart",
+    "href": "https://3littlebirdssalon.com/cart/"
+   },
+   {
+    "text": "BOOKINGS",
+    "href": "https://3littlebirdssalon.com/appointment/"
+   },
+   {
+    "text": "Book Appointment",
+    "href": "https://dashboard.boulevard.io/booking/businesses/a3b5adc3-b14e-4d55-ad08-fd3042111368/widget#/visit-type"
+   },
+   {
+    "text": "Book Appointment",
+    "href": "https://3littlebirdssalon.comb.works/"
+   },
+   {
+    "text": "Book Appointment",
+    "href": "https://3littlebirdssalon.comb.works/"
+   }
+  ],
+  "allLinks": [
+   "https://3littlebirdssalon.com/appointment/#content",
+   "https://3littlebirdssalon.com/appointment/#",
+   "https://3littlebirdssalon.com/about/",
+   "https://3littlebirdssalon.com/dreadlock-services/",
+   "https://3littlebirdssalon.com/services/",
+   "https://3littlebirdssalon.com/",
+   "https://3littlebirdssalon.com/salon-hair-stylists/",
+   "https://3littlebirdssalon.com/community/",
+   "https://3littlebirdssalon.com/appointment/",
+   "https://3littlebirdssalon.com/cart/",
+   "https://3littlebirdssalon.com/author/hipowla-com/",
+   "https://dashboard.boulevard.io/booking/businesses/a3b5adc3-b14e-4d55-ad08-fd3042111368/widget#/visit-type",
+   "https://3littlebirdssalon.comb.works/",
+   "https://3littlebirdssalon.com/services",
+   "https://www.instagram.com/3littlebirdssalon/",
+   "https://www.google.com/maps/place/3+Little+Birds+Salon/@39.743491,-104.976579,15z/data=!4m5!3m4!1s0x0:0x90456498d9f41172!8m2!3d39.743491!4d-104.976579",
+   "https://www.google.com/maps/place/3+Little+Birds+Salon/@39.743491,-104.976579,15z/data=!4m2!3m1!1s0x0:0x90456498d9f41172?sa=X&ved=2ahUKEwiW6pO6wdrrAhWB1FkKHdEVDTEQ_BIwEnoECBQQCA",
+   "https://3littlebirdssalon.com/terms-conditions",
+   "https://3littlebirdssalon.com/privacy-policy"
+  ],
+  "weight": 23033,
+  "title": "Book Appointment | 3 Little Birds Salon - Uptown Denver Hair Salon & Dreadlocks",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3661,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "7 of 15 tap targets under 24px: a.fusion-icon 19x21, a.fusion-flyout-menu-toggle 50x18, a 122x16, a 230x16, a 200x22"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4388px tall"
+   ]
+  ],
+  "site": "https://3littlebirdssalon.com/"
+ }
+]

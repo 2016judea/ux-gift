@@ -1,0 +1,272 @@
+FAIL iphone  https://spaghettiwarehouse.com/
+FAIL android https://spaghettiwarehouse.com/
+FAIL iphone  https://spaghettiwarehouse.com/menu/
+FAIL android https://spaghettiwarehouse.com/menu/
+FAIL iphone  https://hallschophousecharleston.com/
+WARN android https://hallschophousecharleston.com/
+FAIL iphone  https://hallschophousecharleston.com/charleston-downtown-halls-chophouse-charleston-food-menu
+WARN android https://hallschophousecharleston.com/charleston-downtown-halls-chophouse-charleston-food-menu
+FAIL iphone  https://cattlemensrestaurant.com/
+FAIL android https://cattlemensrestaurant.com/
+FAIL iphone  https://cattlemensrestaurant.com/beer-menu
+FAIL android https://cattlemensrestaurant.com/beer-menu
+FAIL iphone  https://www.cinemark.com/theatres/ca-los-angeles/cinemark-baldwin-hills-crenshaw-and-xd
+FAIL android https://www.cinemark.com/theatres/ca-los-angeles/cinemark-baldwin-hills-crenshaw-and-xd
+FAIL iphone  https://www.cinemark.com/gift-cards
+FAIL android https://www.cinemark.com/gift-cards
+WARN iphone  https://eatcbq.com/
+WARN android https://eatcbq.com/
+FAIL iphone  https://eatcbq.com/pages/locations
+WARN android https://eatcbq.com/pages/locations
+FAIL iphone  https://owlcafenm.com/
+FAIL android https://owlcafenm.com/
+FAIL iphone  https://owlcafenm.com/-food-menu?source=header&spot_id=105524&destination=food_menu&promotion=taco_day
+WARN android https://owlcafenm.com/-food-menu?source=header&spot_id=105524&destination=food_menu&promotion=taco_day
+WARN iphone  https://sobelmanspubandgrill.com/
+WARN android https://sobelmanspubandgrill.com/
+FAIL iphone  https://sobelmanspubandgrill.com/milwaukee-sobelman-s-food-menu
+WARN android https://sobelmanspubandgrill.com/milwaukee-sobelman-s-food-menu
+FAIL iphone  https://www.beachchalet.com/
+WARN android https://www.beachchalet.com/
+FAIL iphone  https://www.beachchalet.com/reservations
+WARN android https://www.beachchalet.com/reservations
+FAIL iphone  https://www.lotusofsiamlv.com/
+FAIL android https://www.lotusofsiamlv.com/
+WARN iphone  https://www.lotusofsiamlv.com/menu/food
+WARN android https://www.lotusofsiamlv.com/menu/food
+FAIL iphone  https://progressions.com/
+WARN android https://progressions.com/
+FAIL iphone  https://progressions.com/product-lines/
+FAIL android https://progressions.com/product-lines/
+
+== findings (FAIL and WARN) ==
+
+https://spaghettiwarehouse.com/  [iphone]
+  WARN  broken image: https://www.facebook.com/tr/?id=810729440532885&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=MSV6BYA57FAFVEECST6E3A&cd[ar_segment_name]=14a31eb2
+  WARN  broken image: https://www.facebook.com/tr/?id=810729440532885&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=MSV6BYA57FAFVEECST6E3A&cd[ar_segment_name]=14a31eb2
+  FAIL  pageerror: jQuery(document).magnificPopup is not a function. (In 'jQuery(document).magnificPopup({
+            delegate: '.image-link',
+            typ
+  WARN  fixed layer div.sw-custom-popup-overlay covers 100% of the screen
+  WARN  13 of 39 tap targets under 24px: a.text-red 93x24, a.text-cream 22x30, a#menuToggleAction.text-cream 20x22, button#slick-slide-control00 20x20, button#slick-slide-control01 20x20
+
+https://spaghettiwarehouse.com/  [android]
+  WARN  broken image: https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=b1cbc9ce3ad5fbbcbf7b273628890ec8-1791324368595&pv=29331472793.000317&arrfrr=https%3A%2F%2Fspaghettiwareh
+  WARN  broken image: https://d.adroll.com/cm/l/out?af0=af47dabf&adroll_fpc=b1cbc9ce3ad5fbbcbf7b273628890ec8-1791324368595&pv=29331472793.000317&arrfrr=https%3A%2F%2Fspaghettiwarehou
+  WARN  broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=b1cbc9ce3ad5fbbcbf7b273628890ec8-1791324368595&pv=29331472793.000317&arrfrr=https%3A%2F%2Fspaghetti
+  FAIL  pageerror: jQuery(...).magnificPopup is not a function
+  WARN  fixed layer div.sw-custom-popup-overlay covers 100% of the screen
+  WARN  header at y=-184 after scrolling down and back up
+  WARN  12 of 39 tap targets under 24px: a.text-cream 22x30, a#menuToggleAction.text-cream 20x22, button#slick-slide-control00 20x20, button#slick-slide-control01 20x20, button#slick-slide-control02 20x20
+
+https://spaghettiwarehouse.com/menu/  [iphone]
+  WARN  broken image: https://www.facebook.com/tr/?id=810729440532885&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=MSV6BYA57FAFVEECST6E3A&cd[ar_segment_name]=14a31eb2
+  WARN  broken image: https://www.facebook.com/tr/?id=810729440532885&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=MSV6BYA57FAFVEECST6E3A&cd[ar_segment_name]=14a31eb2
+  FAIL  pageerror: jQuery(document).magnificPopup is not a function. (In 'jQuery(document).magnificPopup({
+            delegate: '.image-link',
+            typ
+  WARN  8 of 23 tap targets under 24px: a.text-cream 22x30, a#menuToggleAction.text-cream 20x22, button#slick-slide-control00 20x20, a 38x19, a 45x19
+
+https://spaghettiwarehouse.com/menu/  [android]
+  WARN  broken image: https://d.adroll.com/cm/l/out?af0=af47dabf&adroll_fpc=37729fd72c1e495c97981477a0a92234-1791324382537&pv=12840682604.277576&arrfrr=https%3A%2F%2Fspaghettiwarehou
+  WARN  broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=37729fd72c1e495c97981477a0a92234-1791324382537&pv=12840682604.277576&arrfrr=https%3A%2F%2Fspaghetti
+  WARN  broken image: https://d.adroll.com/cm/taboola/out?af0=af47dabf&adroll_fpc=37729fd72c1e495c97981477a0a92234-1791324382537&pv=12840682604.277576&arrfrr=https%3A%2F%2Fspaghettiw
+  FAIL  pageerror: jQuery(...).magnificPopup is not a function
+  WARN  8 of 23 tap targets under 24px: a.text-cream 22x30, a#menuToggleAction.text-cream 20x22, button#slick-slide-control00 20x20, a 38x19, a 45x19
+
+https://hallschophousecharleston.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://www.hallmanagementgroup.com/store/gift-cards/ answers 404
+  WARN  14 of 60 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://hallschophousecharleston.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  14 of 60 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://hallschophousecharleston.com/charleston-downtown-halls-chophouse-charleston-food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://hallschophousecharleston.com/6926 answers 404
+  FAIL  dead link: https://www.hallmanagementgroup.com/store/gift-cards/ answers 404
+  FAIL  dead link: https://hallschophousecharleston.com/6922 answers 404
+  FAIL  dead link: https://hallschophousecharleston.com/6923 answers 404
+  FAIL  dead link: https://hallschophousecharleston.com/197491 answers 404
+  FAIL  dead link: https://hallschophousecharleston.com/6925 answers 404
+
+https://hallschophousecharleston.com/charleston-downtown-halls-chophouse-charleston-food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://cattlemensrestaurant.com/  [iphone]
+  FAIL  pageerror: null is not an object (evaluating 'fontSize.addEventListener')
+  WARN  fixed layer div#cookieFloatingBar covers 41% of the screen
+  WARN  13 of 26 tap targets under 24px: button.slick-prev 20x30, button.slick-next 20x30, a 360x18, a 360x18, a 360x18
+  WARN  3 text elements under 12px: button.slick-prev 0px, button.slick-next 0px, em 10px
+
+https://cattlemensrestaurant.com/  [android]
+  FAIL  pageerror: Cannot read properties of null (reading 'addEventListener')
+  WARN  13 of 26 tap targets under 24px: button.slick-prev 19x30, button.slick-next 19x30, a 363x18, a 363x18, a 363x18
+  WARN  3 text elements under 12px: button.slick-prev 0px, button.slick-next 0px, em 10px
+
+https://cattlemensrestaurant.com/beer-menu  [iphone]
+  FAIL  pageerror: null is not an object (evaluating 'fontSize.addEventListener')
+  WARN  fixed layer div#cookieFloatingBar covers 41% of the screen
+  WARN  7 of 13 tap targets under 24px: a 107x18, a 237x18, a 14x18, a 27x18, a 33x18
+  WARN  1 text elements under 12px: em 10px
+
+https://cattlemensrestaurant.com/beer-menu  [android]
+  FAIL  pageerror: Cannot read properties of null (reading 'addEventListener')
+  WARN  7 of 13 tap targets under 24px: a 107x18, a 237x18, a 14x18, a 27x18, a 33x18
+  WARN  1 text elements under 12px: em 10px
+
+https://www.cinemark.com/theatres/ca-los-angeles/cinemark-baldwin-hills-crenshaw-and-xd  [iphone]
+  FAIL  pageerror: undefined is not an object (evaluating 'e.addEventListener')
+  WARN  12 of 235 tap targets under 24px: button.justify-center 239x20, a.flex 37x20, div.flex 21x60, a.font-normal 91x20, a.font-normal 91x20
+  WARN  3 text elements under 12px: span.text-xs 11px, span.text-primary 11px, p.text-xs 11px
+
+https://www.cinemark.com/theatres/ca-los-angeles/cinemark-baldwin-hills-crenshaw-and-xd  [android]
+  FAIL  pageerror: Cannot read properties of undefined (reading 'addEventListener')
+  WARN  13 of 235 tap targets under 24px: button.justify-center 239x20, a.flex 37x20, div.flex 21x60, a.font-normal 91x20, a.font-normal 91x20
+  WARN  3 text elements under 12px: span.text-xs 11px, span.text-primary 11px, p.text-xs 11px
+
+https://www.cinemark.com/gift-cards  [iphone]
+  FAIL  pageerror: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environme
+  WARN  1 of 68 tap targets under 24px: a.flex 37x20
+  WARN  3 text elements under 12px: span.text-primary 11px, span.text-primary 11px, p.text-xs 11px
+
+https://www.cinemark.com/gift-cards  [android]
+  FAIL  pageerror: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environme
+  WARN  1 of 70 tap targets under 24px: a.flex 37x20
+  WARN  3 text elements under 12px: span.text-primary 11px, span.text-primary 11px, p.text-xs 11px
+
+https://eatcbq.com/  [iphone]
+  WARN  broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?adroll_tpc=lx3%3Dlex-9d456e07-fec4-4bd5-acef-f9da46059494&af0=3dcece8e&adroll_fpc=7c7f83
+  WARN  broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?adroll_tpc=lx3%3Dlex-9d456e07-fec4-4bd5-acef-f9da46059494&af0=3dcece8e&adroll_fpc=7c7f83
+  WARN  broken image: https://d.adroll.com/uat/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?adroll_tpc=lx3%3Dlex-9d456e07-fec4-4bd5-acef-f9da46059494&af0=3dcece8e&adroll_fpc=7c7f83
+  WARN  7 of 28 tap targets under 24px: button.btn--link 12x5, a#ui-id-5.ui-tabs-anchor 30x12, a#ui-id-6.ui-tabs-anchor 57x12, a#ui-id-7.ui-tabs-anchor 24x12, a#ui-id-8.ui-tabs-anchor 53x12
+  WARN  10 text elements under 12px: span.searching 7.84px, span.icon__fallback-text 11.2px, h3 9.6px, a#ui-id-5.ui-tabs-anchor 8.24px
+
+https://eatcbq.com/  [android]
+  WARN  broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?af0=af47dabf&adroll_fpc=b6e61117f927f09cb67adb095d7ba944-1791324645003&pv=13481796764.25
+  WARN  broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?af0=af47dabf&adroll_fpc=b6e61117f927f09cb67adb095d7ba944-1791324645003&pv=13481796764.25
+  WARN  broken image: https://d.adroll.com/uat/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?af0=af47dabf&adroll_fpc=b6e61117f927f09cb67adb095d7ba944-1791324645003&pv=13481796764.25
+  WARN  6 of 28 tap targets under 24px: a#ui-id-5.ui-tabs-anchor 30x13, a#ui-id-6.ui-tabs-anchor 57x13, a#ui-id-7.ui-tabs-anchor 24x13, a#ui-id-8.ui-tabs-anchor 53x13, a#ui-id-9.ui-tabs-anchor 27x13
+  WARN  10 text elements under 12px: span.searching 7.84px, span.icon__fallback-text 11.2px, h3 9.6px, a#ui-id-5.ui-tabs-anchor 8.264px
+
+https://eatcbq.com/pages/locations  [iphone]
+  WARN  broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?adroll_tpc=lx3%3Dlex-9d456e07-fec4-4bd5-acef-f9da46059494&af0=3dcece8e&adroll_fpc=eca24a
+  WARN  broken image: https://d.adroll.com/uat/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?adroll_tpc=lx3%3Dlex-9d456e07-fec4-4bd5-acef-f9da46059494&af0=3dcece8e&adroll_fpc=eca24a
+  FAIL  pageerror: Can't find variable: google
+  WARN  1 of 38 tap targets under 24px: button.btn--link 12x5
+  WARN  3 text elements under 12px: span.searching 7.84px, span.icon__fallback-text 11.2px, h3 9.6px
+
+https://eatcbq.com/pages/locations  [android]
+  WARN  broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?af0=af47dabf&adroll_fpc=97feccffc080c38caab76c2113b20071-1791324690771&pv=28708823825.50
+  WARN  broken image: https://d.adroll.com/uat/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?af0=af47dabf&adroll_fpc=97feccffc080c38caab76c2113b20071-1791324690771&pv=28708823825.50
+  WARN  1 of 38 tap targets under 24px: a 143x21
+  WARN  3 text elements under 12px: span.searching 7.84px, span.icon__fallback-text 11.2px, h3 9.6px
+
+https://owlcafenm.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  document locked (overflow hidden) with 7657px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  16 of 62 tap targets under 24px: button.close 20x34, a 22x22, a 22x22, a 22x22, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://owlcafenm.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 7647px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  16 of 62 tap targets under 24px: button.close 20x34, a 22x22, a 22x22, a 22x22, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://owlcafenm.com/-food-menu?source=header&spot_id=105524&destination=food_menu&promotion=taco_day  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://owlcafenm.com/671392 answers 404
+  FAIL  dead link: https://owlcafenm.com/671418 answers 404
+  FAIL  dead link: https://owlcafenm.com/667074 answers 404
+  FAIL  dead link: https://owlcafenm.com/782244 answers 404
+
+https://owlcafenm.com/-food-menu?source=header&spot_id=105524&destination=food_menu&promotion=taco_day  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://sobelmanspubandgrill.com/  [iphone]
+  WARN  8 of 54 tap targets under 24px: button 15x15, button 15x15, button 15x15, a 33x13, a 78x13
+  WARN  7 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px, a.bottom-link 11px
+
+https://sobelmanspubandgrill.com/  [android]
+  WARN  8 of 53 tap targets under 24px: button 15x15, button 15x15, button 15x15, a 33x12, a 78x12
+  WARN  7 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px, a.bottom-link 11px
+
+https://sobelmanspubandgrill.com/milwaukee-sobelman-s-food-menu  [iphone]
+  FAIL  dead link: https://sobelmanspubandgrill.com/42521 answers 404
+  FAIL  dead link: https://sobelmanspubandgrill.com/42532 answers 404
+  FAIL  dead link: https://sobelmanspubandgrill.com/42528 answers 404
+  WARN  4 text elements under 12px: a.bottom-link 11px, a.bottom-link 11px, a.bottom-link 11px, a.bottom-link 11px
+
+https://sobelmanspubandgrill.com/milwaukee-sobelman-s-food-menu  [android]
+  WARN  4 text elements under 12px: a.bottom-link 11px, a.bottom-link 11px, a.bottom-link 11px, a.bottom-link 11px
+
+https://www.beachchalet.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780
+  FAIL  dead link: https://order.ubereats.com/san-francisco/food-delivery/Park%20Chalet%20Coastal%20Beer%20Garden/uw_zZsJbTyyzB65EDR89IA/?utm_source=web-restaurant-manager answers 404
+  FAIL  dead link: https://www.beachchalet.com/troublemaker-wine-dinner answers 404
+  FAIL  dead link: https://www.beachchalet.com/jeffersons-bourbon-dinner answers 404
+  WARN  4 of 38 tap targets under 24px: a 107x17, a 77x17, a 167x17, a 313x17
+
+https://www.beachchalet.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786
+  WARN  header at y=-439 after scrolling down and back up
+  WARN  4 of 38 tap targets under 24px: a 107x17, a 77x17, a 166x17, a 311x17
+
+https://www.beachchalet.com/reservations  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780
+  FAIL  dead link: https://order.ubereats.com/san-francisco/food-delivery/Park%20Chalet%20Coastal%20Beer%20Garden/uw_zZsJbTyyzB65EDR89IA/?utm_source=web-restaurant-manager answers 404
+  WARN  2 of 21 tap targets under 24px: button 87x14, a 28x12
+  WARN  3 text elements under 12px: button 10px, span 10px, a 10px
+
+https://www.beachchalet.com/reservations  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786
+  WARN  header at y=-469 after scrolling down and back up
+  WARN  2 of 21 tap targets under 24px: button 87x14, a 28x11
+  WARN  3 text elements under 12px: button 10px, span 10px, a 10px
+
+https://www.lotusofsiamlv.com/  [iphone]
+  FAIL  iOS zoom trap: input at 14px (needs 16px on touch)
+  WARN  16 of 41 tap targets under 24px: a.gallery-lightbox 17x351, a.gallery-lightbox 17x351, a.gallery-lightbox 17x351, a.gallery-lightbox 17x351, a.gallery-lightbox 17x351
+  WARN  3 text elements under 12px: div.heading-style-h6 11.441422px, div.heading-style-h6 11.441422px, div.heading-style-h6 11.441422px
+
+https://www.lotusofsiamlv.com/  [android]
+  FAIL  iOS zoom trap: input at 14px (needs 16px on touch)
+  WARN  16 of 41 tap targets under 24px: a.gallery-lightbox 17x351, a.gallery-lightbox 17x351, a.gallery-lightbox 17x351, a.gallery-lightbox 17x351, a.gallery-lightbox 17x351
+  WARN  3 text elements under 12px: div.heading-style-h6 11.4603px, div.heading-style-h6 11.4603px, div.heading-style-h6 11.4603px
+
+https://www.lotusofsiamlv.com/menu/food  [iphone]
+  WARN  9 of 13 tap targets under 24px: a.footer_link 103x18, a.footer_link 186x18, a.link 55x18, a.footer_link 45x18, a.footer_link 68x18
+
+https://www.lotusofsiamlv.com/menu/food  [android]
+  WARN  9 of 13 tap targets under 24px: a.footer_link 103x18, a.footer_link 187x18, a.link 55x18, a.footer_link 45x18, a.footer_link 68x18
+
+https://progressions.com/  [iphone]
+  FAIL  sideways overflow (page pans 20px sideways): div.header_text right=410, div.header_text right=410, div.ob-widget-container right=780, div.ob-widget-container-frame-container right=780
+  WARN  broken image: https://progressions.com/
+  WARN  7 of 118 tap targets under 24px: a 190x18, a 73x23, a 80x23, a 120x18, a 132x19
+
+https://progressions.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.ob-widget-container right=826, div.ob-widget-container-frame-container right=826
+  WARN  broken image: https://progressions.com/
+  WARN  7 of 118 tap targets under 24px: a 192x18, a 73x23, a 80x23, a 121x18, a 132x19
+
+https://progressions.com/product-lines/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.ob-widget-container right=780, div.ob-widget-container-frame-container right=780
+  FAIL  pageerror: $.cookie is not a function. (In '$.cookie('welcomeintro')', '$.cookie' is undefined)
+  WARN  6 of 37 tap targets under 24px: a 190x18, a 73x23, a 80x23, a 132x19, a 84x19
+
+https://progressions.com/product-lines/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.ob-widget-container right=786, div.ob-widget-container-frame-container right=786
+  FAIL  pageerror: $.cookie is not a function
+  WARN  6 of 37 tap targets under 24px: a 192x18, a 73x23, a 80x23, a 132x19, a 84x19
+
+40 page-device rows, 38 FAIL findings

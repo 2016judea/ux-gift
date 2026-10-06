@@ -1,0 +1,2 @@
+uploads/2020 [{'text': 'Wine List', 'y': 15890, 'w': 91, 'h': 22, 'ctx': 'Wine List', 'in': 'SECTION.'}, {'text': 'Bar Menu', 'y': 15945, 'w': 95, 'h': 22, 'ctx': 'Bar Menu', 'in': 'SECTION.'}]
+docH 18572

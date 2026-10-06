@@ -1,0 +1,6 @@
+PASS reggies-chicago <Info@reggieslive.com>
+   ok  https://www.reggieslive.com/ -> 200, /id="page" class="hfeed"/ still there
+   ok  MX reggieslive.com: 1 smtp.google.com.
+   ok  mailgun bounces: not listed
+   ok  mailgun complaints: not listed
+   ok  mailgun unsubscribes: not listed

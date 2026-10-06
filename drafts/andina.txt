@@ -1,0 +1,17 @@
+To: info@andinarestaurant.com
+Subject: I ran UX testing on your website.
+
+#1) On your site there is a bug where the "sunday brunch" link at the bottom of every page goes to a "page not found" screen.
+The footer link points to /brunch, and that page doesn't exist.
+Recommend to your developer that they point the link at the current brunch page, or take it out if brunch is off the menu.
+
+Forward this email to your website/developer to have them fix the above. 
+
+This was free of charge. No catch. But if interested we do also offer:
+ 
+  - More thorough testing -- $100
+  - Brand / website re-designs -- $500
+  - Anything else you can think of -- Ask me for a quote
+
+Thank you,
+Aidan.

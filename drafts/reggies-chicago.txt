@@ -1,0 +1,18 @@
+To: Info@reggieslive.com
+Subject: I ran UX testing on your website.
+Attach: drafts/reggies-chicago/1-site-cut-off-on-the-right.png
+
+#1) On a phone your site is cut off on the right. The logo, the menu and the show listings run off the edge of the screen, and people have to drag the page sideways to read what's playing.
+The page is a fixed 960px-wide layout (div#page) on a 390px-wide phone screen, so everything past the first 390px hangs off the side.
+Recommend to your developer that they make the layout responsive so it fits the phone screen.
+
+Forward this email to your website/developer to have them fix the above. 
+
+This was free of charge. No catch. But if interested we do also offer:
+ 
+  - More thorough testing -- $100
+  - Brand / website re-designs -- $500
+  - Anything else you can think of -- Ask me for a quote
+
+Thank you,
+Aidan.

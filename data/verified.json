@@ -1,94 +1,204 @@
 [
-  {
-    "slug": "cafe-latte",
-    "name": "Cafe Latte (Saint Paul)",
-    "site": "https://www.cafelatte.com/",
-    "email": "Admin@cafelatte.com",
-    "why_pay": "5,233 reviews, takes orders, catering and gift cards online; six dead links incl. order online",
-    "attach": [],
-    "findings": [
-      {
-        "visitor": "On your homepage there is a bug where the links at the bottom of the page are broken. \"order online\", \"menu\", \"catering\", \"events\", \"about\" and \"contact\" all go to a \"page not found\" screen.",
-        "cause": "Those footer links point at old page addresses (/gift-cards, /new-page, /services, /cafe-events, /about, /contact) that no longer exist. The real pages are live at /orderonline, /dailymenu and /contact-hours.",
-        "fix": "point the footer links at the live pages."
-      }
-    ]
-  },
-  {
-    "slug": "pompei",
-    "name": "Pompei (Chicago, Little Italy)",
-    "site": "https://www.pompeiusa.com/",
-    "email": "info@pompeiusa.com",
-    "why_pay": "2,923 reviews, two locations, online ordering + catering + banquets; whole site renders as a shrunk desktop page on phones",
-    "attach": [],
-    "findings": [
-      {
-        "visitor": "On a phone your whole site shows up as the desktop version shrunk down to fit the screen. The hours bar, the menu and the Order Online button are all tiny, so people have to pinch-zoom to read anything or to order.",
-        "cause": "Your pages are missing the mobile viewport tag (<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">), so phones lay them out 980px wide and shrink them. Same on the menu page.",
-        "fix": "add the viewport tag to every page and check the layout once it's on."
-      }
-    ]
-  },
-  {
-    "slug": "hells-kitchen",
-    "name": "Hell's Kitchen (Minneapolis)",
-    "site": "https://hellskitcheninc.com/",
-    "email": "talktous@hellskitcheninc.com",
-    "why_pay": "7,188 reviews, sells retail + ships online; the Day Menu PDF button is dead",
-    "attach": [],
-    "findings": [
-      {
-        "visitor": "On your Day Menu page there is a bug where the \"DAY MENU PDF\" button goes to a \"page not found\" screen.",
-        "cause": "The button links to a PDF (/s/2026-Midway-Menu-AM-1-s5td.pdf) that has been removed or renamed.",
-        "fix": "re-upload the menu PDF and re-link the button."
-      }
-    ]
-  },
-  {
-    "slug": "peacefood-uws",
-    "name": "Peacefood (Upper West Side)",
-    "site": "https://www.peacefoodnyc.com/",
-    "email": "hello@peacefoodnyc.com",
-    "why_pay": "1,662 reviews, sells custom cakes; the custom-cake link is dead",
-    "attach": [],
-    "findings": [
-      {
-        "visitor": "On your homepage there is a bug where the \"bakery section\" link for custom cake ordering goes to a \"page not found\" screen.",
-        "cause": "The link points to /customed-bakery-orders, which doesn't exist. Your bakery page is at /bakery.",
-        "fix": "point that link at /bakery."
-      }
-    ]
-  },
-  {
-    "slug": "joes-on-weed-st",
-    "name": "Joe's on Weed St. (Chicago)",
-    "site": "https://www.joesbar.com/",
-    "email": "reservations@joesbar.com",
-    "why_pay": "1,533 reviews, sells show tickets + party bookings; a TICKETS button is dead for a 10/23 show",
-    "attach": [],
-    "findings": [
-      {
-        "visitor": "On your homepage there is a bug where the TICKETS button for Austin Snell (Friday 10/23) goes to a \"page not found\" screen instead of TicketWeb.",
-        "cause": "The link has a stray \"/\" in front of the TicketWeb address (href=\"/https://www.ticketweb.com/...\"), so the browser treats it as a page on joesbar.com.",
-        "fix": "remove the leading \"/\" from that link."
-      }
-    ]
-  },
-  {
-    "slug": "one-if-by-land",
-    "name": "One if by Land, Two if by Sea (New York)",
-    "site": "https://www.oneifbyland.com/",
-    "email": "info@oneifbyland.com",
-    "why_pay": "1,307 reviews, tasting-menu restaurant on OpenTable/Resy + gift cards; menus page breaks on iPhone",
-    "attach": [
-      "1-menus-page-slides-sideways.png"
-    ],
-    "findings": [
-      {
-        "visitor": "On your Menus page there is a bug on iPhone where the page slides sideways. The menu cards hang off the right edge of the screen and the ones on the left get cut off.",
-        "cause": "The menu card grid (div.collection-item-2) lays out about 560px wide on a 390px-wide phone screen, and nothing clips it.",
-        "fix": "constrain the width of the menu card grid on mobile."
-      }
-    ]
-  }
+ {
+  "slug": "cafe-latte",
+  "name": "Cafe Latte (Saint Paul)",
+  "site": "https://www.cafelatte.com/",
+  "email": "Admin@cafelatte.com",
+  "why_pay": "5,233 reviews, takes orders, catering and gift cards online; six dead links incl. order online",
+  "attach": [],
+  "findings": [
+   {
+    "visitor": "On your homepage there is a bug where the links at the bottom of the page are broken. \"order online\", \"menu\", \"catering\", \"events\", \"about\" and \"contact\" all go to a \"page not found\" screen.",
+    "cause": "Those footer links point at old page addresses (/gift-cards, /new-page, /services, /cafe-events, /about, /contact) that no longer exist. The real pages are live at /orderonline, /dailymenu and /contact-hours.",
+    "fix": "point the footer links at the live pages."
+   }
+  ]
+ },
+ {
+  "slug": "pompei",
+  "name": "Pompei (Chicago, Little Italy)",
+  "site": "https://www.pompeiusa.com/",
+  "email": "info@pompeiusa.com",
+  "why_pay": "2,923 reviews, two locations, online ordering + catering + banquets; whole site renders as a shrunk desktop page on phones",
+  "attach": [],
+  "findings": [
+   {
+    "visitor": "On a phone your whole site shows up as the desktop version shrunk down to fit the screen. The hours bar, the menu and the Order Online button are all tiny, so people have to pinch-zoom to read anything or to order.",
+    "cause": "Your pages are missing the mobile viewport tag (<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">), so phones lay them out 980px wide and shrink them. Same on the menu page.",
+    "fix": "add the viewport tag to every page and check the layout once it's on."
+   }
+  ]
+ },
+ {
+  "slug": "hells-kitchen",
+  "name": "Hell's Kitchen (Minneapolis)",
+  "site": "https://hellskitcheninc.com/",
+  "email": "talktous@hellskitcheninc.com",
+  "why_pay": "7,188 reviews, sells retail + ships online; the Day Menu PDF button is dead",
+  "attach": [],
+  "findings": [
+   {
+    "visitor": "On your Day Menu page there is a bug where the \"DAY MENU PDF\" button goes to a \"page not found\" screen.",
+    "cause": "The button links to a PDF (/s/2026-Midway-Menu-AM-1-s5td.pdf) that has been removed or renamed.",
+    "fix": "re-upload the menu PDF and re-link the button."
+   }
+  ]
+ },
+ {
+  "slug": "peacefood-uws",
+  "name": "Peacefood (Upper West Side)",
+  "site": "https://www.peacefoodnyc.com/",
+  "email": "hello@peacefoodnyc.com",
+  "why_pay": "1,662 reviews, sells custom cakes; the custom-cake link is dead",
+  "attach": [],
+  "findings": [
+   {
+    "visitor": "On your homepage there is a bug where the \"bakery section\" link for custom cake ordering goes to a \"page not found\" screen.",
+    "cause": "The link points to /customed-bakery-orders, which doesn't exist. Your bakery page is at /bakery.",
+    "fix": "point that link at /bakery."
+   }
+  ]
+ },
+ {
+  "slug": "joes-on-weed-st",
+  "name": "Joe's on Weed St. (Chicago)",
+  "site": "https://www.joesbar.com/",
+  "email": "reservations@joesbar.com",
+  "why_pay": "1,533 reviews, sells show tickets + party bookings; a TICKETS button is dead for a 10/23 show",
+  "attach": [],
+  "findings": [
+   {
+    "visitor": "On your homepage there is a bug where the TICKETS button for Austin Snell (Friday 10/23) goes to a \"page not found\" screen instead of TicketWeb.",
+    "cause": "The link has a stray \"/\" in front of the TicketWeb address (href=\"/https://www.ticketweb.com/...\"), so the browser treats it as a page on joesbar.com.",
+    "fix": "remove the leading \"/\" from that link."
+   }
+  ]
+ },
+ {
+  "slug": "one-if-by-land",
+  "name": "One if by Land, Two if by Sea (New York)",
+  "site": "https://www.oneifbyland.com/",
+  "email": "info@oneifbyland.com",
+  "why_pay": "1,307 reviews, tasting-menu restaurant on OpenTable/Resy + gift cards; menus page breaks on iPhone",
+  "attach": [
+   "1-menus-page-slides-sideways.png"
+  ],
+  "findings": [
+   {
+    "visitor": "On your Menus page there is a bug on iPhone where the page slides sideways. The menu cards hang off the right edge of the screen and the ones on the left get cut off.",
+    "cause": "The menu card grid (div.collection-item-2) lays out about 560px wide on a 390px-wide phone screen, and nothing clips it.",
+    "fix": "constrain the width of the menu card grid on mobile."
+   }
+  ]
+ },
+ {
+  "slug": "filomena",
+  "sweep": 2,
+  "name": "Filomena Ristorante (Washington DC)",
+  "site": "https://filomena.com/",
+  "email": "info@filomena.com",
+  "why_pay": "5,782 reviews, sells gift cards online; gift card + all four menu buttons go to a dead staging site",
+  "attach": [],
+  "verify": [
+   {
+    "url": "https://filomena.wpengine.com/gift-cards/",
+    "expect": 404
+   },
+   {
+    "url": "https://filomena.wpengine.com/dinner/",
+    "expect": 404
+   },
+   {
+    "url": "https://filomena.com/",
+    "expect_present": "filomena\\.wpengine\\.com/gift-cards"
+   },
+   {
+    "url": "https://filomena.com/menu/",
+    "expect_present": "filomena\\.wpengine\\.com/dinner"
+   }
+  ],
+  "findings": [
+   {
+    "visitor": "On your homepage there is a bug where the \"Gift Cards\" link at the bottom of the page goes to an error screen that says \"Site is not available\". Same on your Menu page: the Dinner, Lunch, Desserts and Wine buttons all go to that error screen.",
+    "cause": "Those links point at filomena.wpengine.com, an old staging address that is no longer active. The real pages are live on filomena.com (filomena.com/gift-cards/ and filomena.com/dinner/ both load).",
+    "fix": "change every filomena.wpengine.com link to filomena.com."
+   }
+  ]
+ },
+ {
+  "slug": "reggies-chicago",
+  "sweep": 2,
+  "name": "Reggies (Chicago)",
+  "site": "https://www.reggieslive.com/",
+  "email": "Info@reggieslive.com",
+  "why_pay": "4,863 reviews, live-music venue selling show tickets; on a phone the whole site is cut off on the right",
+  "attach": [
+   "1-site-cut-off-on-the-right.png"
+  ],
+  "verify": [
+   {
+    "url": "https://www.reggieslive.com/",
+    "expect_present": "id=\"page\" class=\"hfeed\""
+   }
+  ],
+  "findings": [
+   {
+    "visitor": "On a phone your site is cut off on the right. The logo, the menu and the show listings run off the edge of the screen, and people have to drag the page sideways to read what's playing.",
+    "cause": "The page is a fixed 960px-wide layout (div#page) on a 390px-wide phone screen, so everything past the first 390px hangs off the side.",
+    "fix": "make the layout responsive so it fits the phone screen."
+   }
+  ]
+ },
+ {
+  "slug": "rasika",
+  "sweep": 2,
+  "name": "Rasika (Penn Quarter, Washington DC)",
+  "site": "https://www.rasikarestaurant.com/",
+  "email": "rasika@rasikarestaurant.com",
+  "why_pay": "3,946 reviews, takes reservations and sells gift cards; Wine List and Bar Menu buttons are dead",
+  "attach": [],
+  "verify": [
+   {
+    "url": "http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Winelist-02.24.20.pdf",
+    "expect": 404
+   },
+   {
+    "url": "http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Rasika-PQ-Bar-Menu-02.22.20.pdf",
+    "expect": 404
+   }
+  ],
+  "findings": [
+   {
+    "visitor": "On your Penn Quarter menu page there is a bug where the \"Wine List\" and \"Bar Menu\" buttons at the bottom both go to a \"page not found\" screen.",
+    "cause": "They link to two PDFs from 2020 (Winelist-02.24.20.pdf and Rasika-PQ-Bar-Menu-02.22.20.pdf) that are no longer on the server.",
+    "fix": "upload the current wine list and bar menu and re-link both buttons."
+   }
+  ]
+ },
+ {
+  "slug": "andina",
+  "sweep": 2,
+  "name": "Andina (Portland)",
+  "site": "https://www.andinarestaurant.com/",
+  "email": "info@andinarestaurant.com",
+  "why_pay": "3,537 reviews, books tables, weddings and private dining and sells gift cards; the footer's Sunday Brunch link is dead",
+  "attach": [],
+  "verify": [
+   {
+    "url": "https://www.andinarestaurant.com/brunch",
+    "expect": 404
+   },
+   {
+    "url": "https://www.andinarestaurant.com/",
+    "expect_present": "href=\"/brunch\""
+   }
+  ],
+  "findings": [
+   {
+    "visitor": "On your site there is a bug where the \"sunday brunch\" link at the bottom of every page goes to a \"page not found\" screen.",
+    "cause": "The footer link points to /brunch, and that page doesn't exist.",
+    "fix": "point the link at the current brunch page, or take it out if brunch is off the menu."
+   }
+  ]
+ }
 ]

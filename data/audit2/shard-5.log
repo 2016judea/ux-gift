@@ -1,0 +1,212 @@
+WARN iphone  https://dallas.houseofblues.com/
+WARN android https://dallas.houseofblues.com/
+WARN iphone  https://dallas.houseofblues.com/foundation-room/lounge-menu
+FAIL android https://dallas.houseofblues.com/foundation-room/lounge-menu
+WARN iphone  https://gibsonssteakhouse.com/gibsons-chicago/
+WARN android https://gibsonssteakhouse.com/gibsons-chicago/
+WARN iphone  https://gibsonssteakhouse.com/reservations
+WARN android https://gibsonssteakhouse.com/reservations
+WARN iphone  https://juaninamillion.com/
+WARN android https://juaninamillion.com/
+WARN iphone  https://juaninamillion.com/food-menu
+WARN android https://juaninamillion.com/food-menu
+FAIL iphone  https://esquiretavern-sa.com/
+WARN android https://esquiretavern-sa.com/
+FAIL iphone  https://esquiretavern-sa.com/fare-libations/
+FAIL android https://esquiretavern-sa.com/fare-libations/
+FAIL iphone  https://mertscharlotte.com/
+FAIL android https://mertscharlotte.com/
+FAIL iphone  https://mertscharlotte.com/menu/
+FAIL android https://mertscharlotte.com/menu/
+WARN iphone  https://www.alhambrapalacechicago.com/
+WARN android https://www.alhambrapalacechicago.com/
+FAIL iphone  https://www.alhambrapalacechicago.com/reservation-840038
+WARN android https://www.alhambrapalacechicago.com/reservation-840038
+FAIL iphone  https://nick-sams.com/
+WARN android https://nick-sams.com/
+WARN iphone  https://nick-sams.com/food-menu
+WARN android https://nick-sams.com/food-menu
+FAIL iphone  https://www.themarketplaceatsteamtown.com/
+WARN android https://www.themarketplaceatsteamtown.com/
+WARN iphone  https://continentalmidtown.com/
+WARN android https://continentalmidtown.com/
+WARN iphone  https://belltowersalonspa.com/
+WARN android https://belltowersalonspa.com/
+
+== findings (FAIL and WARN) ==
+
+https://dallas.houseofblues.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  38 of 138 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20
+  WARN  7 text elements under 12px: p.chakra-text 10px, p.chakra-text 10px, a.chakra-link 10px, a.chakra-link 10px
+
+https://dallas.houseofblues.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  38 of 138 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20
+  WARN  7 text elements under 12px: p.chakra-text 10px, p.chakra-text 10px, a.chakra-link 10px, a.chakra-link 10px
+
+https://dallas.houseofblues.com/foundation-room/lounge-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  16 of 35 tap targets under 24px: a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18
+  WARN  10 text elements under 12px: button.chakra-button 10px, p 10px, p 10px, p.chakra-text 10px
+
+https://dallas.houseofblues.com/foundation-room/lounge-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  FAIL  pageerror: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environme
+  WARN  16 of 35 tap targets under 24px: a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18
+  WARN  10 text elements under 12px: button.chakra-button 10px, p 10px, p 10px, p.chakra-text 10px
+
+https://gibsonssteakhouse.com/gibsons-chicago/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  24 of 48 tap targets under 24px: a 142x23, a 139x20, a 32x16, a 154x18, a 32x16
+
+https://gibsonssteakhouse.com/gibsons-chicago/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  24 of 48 tap targets under 24px: a 142x23, a 139x20, a 32x16, a 154x18, a 32x16
+
+https://gibsonssteakhouse.com/reservations  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  23 of 39 tap targets under 24px: a 142x23, a 32x16, a 154x18, a 32x16, a 170x18
+
+https://gibsonssteakhouse.com/reservations  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  23 of 39 tap targets under 24px: a 142x23, a 32x16, a 154x18, a 32x16, a 170x18
+
+https://juaninamillion.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  12 of 63 tap targets under 24px: a.banner-pin 20x18, button 15x15, button 15x15, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://juaninamillion.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  12 of 63 tap targets under 24px: a.banner-pin 20x18, button 15x15, button 15x15, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://juaninamillion.com/food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://juaninamillion.com/food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://esquiretavern-sa.com/  [iphone]
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  4 of 11 tap targets under 24px: a#header-logo-desktop.logo 237x10, a 96x18, a 230x18, a 248x13
+  WARN  2 text elements under 12px: a#header-logo-mobile.logo 9px, video 9px
+
+https://esquiretavern-sa.com/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  4 of 11 tap targets under 24px: a#header-logo-desktop.logo 237x9, a 96x18, a 230x18, a 248x13
+  WARN  2 text elements under 12px: a#header-logo-mobile.logo 7.84px, video 7.84px
+
+https://esquiretavern-sa.com/fare-libations/  [iphone]
+  FAIL  iOS zoom trap: input.selectric-input at 9px (needs 16px on touch)
+  FAIL  iOS zoom trap: input.selectric-input at 9px (needs 16px on touch)
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  4 of 12 tap targets under 24px: a#header-logo-desktop.logo 237x10, a 96x18, a 230x18, a 248x13
+  WARN  1 text elements under 12px: a#header-logo-mobile.logo 9px
+
+https://esquiretavern-sa.com/fare-libations/  [android]
+  FAIL  iOS zoom trap: input.selectric-input at 7.84px (needs 16px on touch)
+  FAIL  iOS zoom trap: input.selectric-input at 7.84px (needs 16px on touch)
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  4 of 12 tap targets under 24px: a#header-logo-desktop.logo 237x9, a 96x18, a 230x18, a 248x13
+  WARN  1 text elements under 12px: a#header-logo-mobile.logo 7.84px
+
+https://mertscharlotte.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): section.edgtf-side-menu right=840
+  FAIL  pageerror: Unexpected token '<'
+  WARN  6 of 15 tap targets under 24px: a 231x19, a.edgtf-social-icon-widget-holder 9x26, a.edgtf-social-icon-widget-holder 15x26, a.edgtf-social-icon-widget-holder 17x26, a.edgtf-social-icon-widget-holder 10x26
+
+https://mertscharlotte.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): section.edgtf-side-menu right=843
+  FAIL  pageerror: Unexpected token '<'
+  WARN  6 of 15 tap targets under 24px: a 231x19, a.edgtf-social-icon-widget-holder 9x26, a.edgtf-social-icon-widget-holder 15x27, a.edgtf-social-icon-widget-holder 17x27, a.edgtf-social-icon-widget-holder 10x27
+
+https://mertscharlotte.com/menu/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): section.edgtf-side-menu right=840
+  FAIL  pageerror: Unexpected token '<'
+  WARN  5 of 8 tap targets under 24px: a.edgtf-social-icon-widget-holder 9x26, a.edgtf-social-icon-widget-holder 15x26, a.edgtf-social-icon-widget-holder 17x26, a.edgtf-social-icon-widget-holder 10x26, a.edgtf-social-icon-widget-holder 23x26
+
+https://mertscharlotte.com/menu/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): section.edgtf-side-menu right=843
+  FAIL  pageerror: Unexpected token '<'
+  WARN  5 of 8 tap targets under 24px: a.edgtf-social-icon-widget-holder 9x26, a.edgtf-social-icon-widget-holder 15x27, a.edgtf-social-icon-widget-holder 17x27, a.edgtf-social-icon-widget-holder 10x27, a.edgtf-social-icon-widget-holder 23x27
+
+https://www.alhambrapalacechicago.com/  [iphone]
+  WARN  fixed layer div.bgCover covers 100% of the screen
+  WARN  3 of 19 tap targets under 24px: div.py-2 19x37, a 350x18, a 88x15
+  WARN  1 text elements under 12px: p 10px
+
+https://www.alhambrapalacechicago.com/  [android]
+  WARN  fixed layer div.bgCover covers 100% of the screen
+  WARN  3 of 19 tap targets under 24px: div.py-2 19x37, a 353x18, a 88x15
+  WARN  1 text elements under 12px: p 10px
+
+https://www.alhambrapalacechicago.com/reservation-840038  [iphone]
+  FAIL  dead link: https://alhambrapalacechicago.com/foodanddrink answers 404
+  FAIL  dead link: https://alhambrapalacechicago.com/reservation answers 404
+  FAIL  dead link: https://alhambrapalacechicago.com/happenings answers 404
+  FAIL  dead link: https://alhambrapalacechicago.com/privatedining answers 404
+  WARN  fixed layer div.bgCover covers 100% of the screen
+  WARN  4 of 17 tap targets under 24px: div.py-2 19x37, a 61x15, a 56x15, a 88x15
+  WARN  1 text elements under 12px: p 10px
+
+https://www.alhambrapalacechicago.com/reservation-840038  [android]
+  WARN  fixed layer div.bgCover covers 100% of the screen
+  WARN  4 of 17 tap targets under 24px: div.py-2 19x37, a 61x15, a 56x15, a 88x15
+  WARN  1 text elements under 12px: p 10px
+
+https://nick-sams.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  13 of 115 tap targets under 24px: button 15x15, button 15x15, button 15x15, button 15x15, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://nick-sams.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  13 of 115 tap targets under 24px: button 15x15, button 15x15, button 15x15, button 15x15, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://nick-sams.com/food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  2 of 16 tap targets under 24px: a#contact_us_v4_section_phone_link 101x18, a 146x18
+
+https://nick-sams.com/food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  2 of 16 tap targets under 24px: a#contact_us_v4_section_phone_link 100x18, a 146x18
+
+https://www.themarketplaceatsteamtown.com/  [iphone]
+  WARN  autofill disabled: name field 'Name' (input#input_comp-kcxmt8e31.nbaJII) has autocomplete=off
+  WARN  autofill disabled: email field 'Email' (input#input_comp-kcxmt8ec1.nbaJII) has autocomplete=off
+  FAIL  dead link: https://jzielen.wixsite.com/shopsmall answers 404
+  WARN  viewport meta: width=320, user-scalable=yes
+  WARN  fixed layer div#pageBackground_ngxoi.pageBackground_ngxoi covers 100% of the screen
+  WARN  9 of 44 tap targets under 24px: a.wixui-rich-text__text 78x19, a.wixui-rich-text__text 76x17, a.wixui-rich-text__text 43x19, a.wixui-rich-text__text 108x11, a.wixui-rich-text__text 131x20
+  WARN  26 text elements under 12px: span.wixui-rich-text__text 10px, span.wixui-rich-text__text 9px, span.wixui-rich-text__text 9px, p.font_8 9px
+
+https://www.themarketplaceatsteamtown.com/  [android]
+  WARN  autofill disabled: name field 'Name' (input#input_comp-kcxmt8e31.nbaJII) has autocomplete=off
+  WARN  autofill disabled: email field 'Email' (input#input_comp-kcxmt8ec1.nbaJII) has autocomplete=off
+  WARN  viewport meta: width=320, user-scalable=yes
+  WARN  fixed layer div#pageBackground_ngxoi.pageBackground_ngxoi covers 100% of the screen
+  WARN  9 of 44 tap targets under 24px: a.wixui-rich-text__text 78x19, a.wixui-rich-text__text 76x17, a.wixui-rich-text__text 43x19, a.wixui-rich-text__text 102x10, a.wixui-rich-text__text 131x20
+  WARN  26 text elements under 12px: span.wixui-rich-text__text 10px, span.wixui-rich-text__text 9px, span.wixui-rich-text__text 9px, p.font_8 9px
+
+https://continentalmidtown.com/  [iphone]
+  WARN  fixed layer div.onetrust-pc-dark-filter covers 100% of the screen
+  WARN  2 of 32 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 75x17
+  WARN  1 text elements under 12px: button.event-enquiry-btn 11px
+
+https://continentalmidtown.com/  [android]
+  WARN  fixed layer div.onetrust-pc-dark-filter covers 100% of the screen
+  WARN  2 of 32 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 70x18
+
+https://belltowersalonspa.com/  [iphone]
+  WARN  28 of 48 tap targets under 24px: a 167x21, a.image-link 52x21, a.image-link 52x21, a.image-link 52x21, a.image-link 52x21
+
+https://belltowersalonspa.com/  [android]
+  WARN  28 of 48 tap targets under 24px: a 167x21, a.image-link 52x21, a.image-link 52x21, a.image-link 52x21, a.image-link 52x21
+
+34 page-device rows, 17 FAIL findings

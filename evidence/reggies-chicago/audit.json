@@ -1,0 +1,1092 @@
+[
+ {
+  "url": "https://www.reggieslive.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.6,
+  "meta": "width=device-width",
+  "vw": 390,
+  "vh": 664,
+  "docH": 13959,
+  "zoomTrap": [
+   {
+    "el": "input#s",
+    "fs": 13
+   },
+   {
+    "el": "input#input_1_2.medium",
+    "fs": 13
+   }
+  ],
+  "leaks": [
+   "div#page.hfeed right=960",
+   "header#branding.clearfix right=960",
+   "div.container_24 right=960",
+   "div.grid_22 right=955",
+   "nav#access.clearfix right=915",
+   "div.skip-link right=915"
+  ],
+  "docWider": true,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 503,
+  "small": 306,
+  "smallList": [
+   "a.assistive-text 133x16",
+   "a.assistive-text 150x16",
+   "a 69x23",
+   "a 76x23",
+   "a 53x23"
+  ],
+  "tiny": 490,
+  "tinyList": [
+   "a 10px",
+   "a 10px",
+   "a 10px",
+   "a 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#branding.clearfix",
+  "textLen": 9985,
+  "fields": [
+   {
+    "el": "input#s",
+    "type": "text",
+    "name": "s",
+    "kind": "other",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Search for:"
+   },
+   {
+    "el": "input#input_1_2.medium",
+    "type": "email",
+    "name": "input_2",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email*"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.reggieslive.com/menu/"
+   },
+   {
+    "text": "Booking",
+    "href": "https://www.reggieslive.com/contact/booking/"
+   }
+  ],
+  "allLinks": [
+   "https://www.reggieslive.com/#middle",
+   "https://www.reggieslive.com/#sidebar-left",
+   "https://www.reggieslive.com/about/",
+   "https://www.reggieslive.com/photos/",
+   "https://www.reggieslive.com/map/",
+   "https://www.reggieslive.com/contact/",
+   "https://www.reggieslive.com/faq/",
+   "https://www.reggieslive.com/",
+   "https://www.reggieslive.com/map",
+   "https://reggiesonwheels.com/",
+   "https://www.reggieslive.com/showtag/two-nights-of-wookiefoot/",
+   "https://www.reggieslive.com/show/koffin-kats-10/",
+   "https://www.reggieslive.com/show/oz-noy-trio/",
+   "https://www.reggieslive.com/show/william-elliott-whitmore-2/",
+   "https://www.reggieslive.com/show/acid-mothers-temple-2/",
+   "https://www.reggieslive.com/showtag/9th-annual-slackfest/",
+   "https://www.reggieslive.com/show/ho99o9/",
+   "https://www.reggieslive.com/show/wayne-the-train-hancock-3/",
+   "https://www.reggieslive.com/show/archgoat/",
+   "https://www.reggieslive.com/show/eyehategod-4/",
+   "https://www.reggieslive.com/show/exhumed-3/",
+   "https://www.reggieslive.com/show/the-band-feel/",
+   "https://www.reggieslive.com/show/delvon-lamarr-organ-trio-2/",
+   "https://www.reggieslive.com/show/scalp/",
+   "https://www.reggieslive.com/show/the-brokes-4/",
+   "https://www.reggieslive.com/show/beherit/",
+   "https://www.reggieslive.com/menu/",
+   "https://www.reggieslive.com/busrides/",
+   "https://www.reggieslive.com/merch/",
+   "https://www.reggieslive.com/beach/",
+   "https://www.reggieslive.com/menu/plan-your-event/",
+   "https://www.reggieslive.com/venue/music-joint/",
+   "https://www.reggieslive.com/2026/10/?post_type=show",
+   "https://www.reggieslive.com/2026/11/?post_type=show",
+   "https://www.reggieslive.com/2026/12/?post_type=show",
+   "https://www.reggieslive.com/2027/01/?post_type=show",
+   "https://www.reggieslive.com/2027/02/?post_type=show",
+   "https://www.reggieslive.com/2027/03/?post_type=show",
+   "https://www.reggieslive.com/2027/04/?post_type=show",
+   "https://www.reggieslive.com/2027/05/?post_type=show",
+   "https://www.reggieslive.com/2027/06/?post_type=show",
+   "https://www.reggieslive.com/2027/07/?post_type=show",
+   "https://www.reggieslive.com/2027/08/?post_type=show",
+   "https://www.reggieslive.com/2027/09/?post_type=show",
+   "https://www.reggieslive.com/venue/rock-club/",
+   "https://www.reggieslive.com/shows/calendar/",
+   "https://www.reggieslive.com/wp-content/uploads/South-Loop-Standup-FLYER-388x600.jpg",
+   "https://www.reggieslive.com/show/south-loop-stand-up-38/",
+   "https://www.reggieslive.com/age/21/",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-6-PbJ-FLYER-388x600.jpg",
+   "https://www.reggieslive.com/show/tipsy-tuesday-w-paul-bolger-and-pbj-5/",
+   "https://www.reggieslive.com/wp-content/uploads/SoxBus2026_HaroldBaines_Poster_SLIDESHOW-364x600.jpeg",
+   "https://www.reggieslive.com/venue/roof-deck/",
+   "https://www.reggieslive.com/show/watch-the-white-sox-w-sound-2/",
+   "https://www.reggieslive.com/wp-content/uploads/IMG_1598-388x600.jpeg",
+   "https://www.reggieslive.com/show/eddie-jobson/",
+   "https://www.reggieslive.com/age/17/",
+   "https://www.ticketweb.com/event/an-evening-with-eddie-jobson-reggies-rock-club-tickets/14291784",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-7-Wayne-Hancock-FLYER-1-388x600.jpg",
+   "https://www.ticketweb.com/event/wayne-hancock-tba-reggies-music-joint-tickets/14262424",
+   "https://www.reggieslive.com/wp-content/themes/reggies/images/generic-comedy-shack.jpg",
+   "https://www.reggieslive.com/venue/comedy-shack/",
+   "https://www.reggieslive.com/show/watch-the-white-sox-w-sound-3/",
+   "https://www.reggieslive.com/wp-content/uploads/Tina-108-11x17-1-389x600.png",
+   "https://www.reggieslive.com/show/tina-youkhana/",
+   "https://www.ticketweb.com/event/tina-youkhana-reggies-banannas-shack-tickets/14993323",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-8-Scalp-FLYER-388x600.jpg",
+   "https://www.ticketweb.com/event/scalp-snuffed-bifid-corpse-ampolla-reggies-rock-club-tickets/14296274",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-8-Ripcord-FLYER-388x600.jpg",
+   "https://www.reggieslive.com/show/ripcord/",
+   "https://www.ticketweb.com/event/ripcord-wynton-existing-danimal-farm-reggies-music-joint-tickets/15019643",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-9-Carrie-Nation-FLYER-1-388x600.jpg",
+   "https://www.reggieslive.com/show/carrie-nation-the-speakeasy-3/",
+   "https://www.ticketweb.com/event/carrie-nation-and-the-speakeasy-reggies-music-joint-tickets/14262584",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-9-Eyehategod-FLYER-388x600.jpg",
+   "https://www.ticketweb.com/event/eyehategod-blast-luicidal-cavity-evil-reggies-rock-club-tickets/15026623",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-9-Fighting-For-Scraps-FLYER-388x600.jpg",
+   "https://www.reggieslive.com/show/fighting-for-scraps/",
+   "https://www.ticketweb.com/event/fighting-for-scraps-hunting-lions-reggies-banannas-shack-tickets/15019193",
+   "https://www.reggieslive.com/wp-content/uploads/LIly-Vakili-MJC-Reggies-Oct-2026-Updated-480x600.jpg"
+  ],
+  "weight": 36332,
+  "title": "",
+  "roundtrip": {
+   "atBottom": {
+    "y": 13295,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 400,
+  "deadLinks": [],
+  "shot": "data/shots/https-www-reggieslive-com.png",
+  "errors": [
+   "console: Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'same-origin', 'origin', 'strict-orig",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Refused to execute https://widgets.shopifyapps.com/assets/shopifystore.js as script because \"X-Content-Type-Options: nosniff\" was given and "
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#s at 13px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#input_1_2.medium at 13px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "sideways overflow (page pans 400px sideways): div#page.hfeed right=960, header#branding.clearfix right=960, div.container_24 right=960, div.grid_22 right=955, nav#access.clearfix right=915, div.skip-link right=915"
+   ],
+   [
+    "WARN",
+    "306 of 503 tap targets under 24px: a.assistive-text 133x16, a.assistive-text 150x16, a 69x23, a 76x23, a 53x23"
+   ],
+   [
+    "WARN",
+    "490 text elements under 12px: a 10px, a 10px, a 10px, a 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'same-origin', 'origin', 'strict-orig"
+   ],
+   [
+    "INFO",
+    "document scrolls, 13959px tall"
+   ]
+  ],
+  "site": "https://www.reggieslive.com/",
+  "hop": "https://www.reggieslive.com/menu/"
+ },
+ {
+  "url": "https://www.reggieslive.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.3,
+  "meta": "width=device-width",
+  "vw": 960,
+  "vh": 1776,
+  "docH": 13960,
+  "zoomTrap": [
+   {
+    "el": "input#s",
+    "fs": 13
+   },
+   {
+    "el": "input#input_1_2.medium",
+    "fs": 13
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 503,
+  "small": 306,
+  "smallList": [
+   "a.assistive-text 133x16",
+   "a.assistive-text 150x16",
+   "a 69x23",
+   "a 76x23",
+   "a 53x23"
+  ],
+  "tiny": 490,
+  "tinyList": [
+   "a 10px",
+   "a 10px",
+   "a 10px",
+   "a 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#branding.clearfix",
+  "textLen": 9949,
+  "fields": [
+   {
+    "el": "input#s",
+    "type": "text",
+    "name": "s",
+    "kind": "other",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Search for:"
+   },
+   {
+    "el": "input#input_1_2.medium",
+    "type": "email",
+    "name": "input_2",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email*"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.reggieslive.com/menu/"
+   },
+   {
+    "text": "Booking",
+    "href": "https://www.reggieslive.com/contact/booking/"
+   }
+  ],
+  "allLinks": [
+   "https://www.reggieslive.com/#middle",
+   "https://www.reggieslive.com/#sidebar-left",
+   "https://www.reggieslive.com/about/",
+   "https://www.reggieslive.com/photos/",
+   "https://www.reggieslive.com/map/",
+   "https://www.reggieslive.com/contact/",
+   "https://www.reggieslive.com/faq/",
+   "https://www.reggieslive.com/",
+   "https://www.reggieslive.com/map",
+   "https://reggiesonwheels.com/",
+   "https://www.reggieslive.com/showtag/two-nights-of-wookiefoot/",
+   "https://www.reggieslive.com/show/koffin-kats-10/",
+   "https://www.reggieslive.com/show/oz-noy-trio/",
+   "https://www.reggieslive.com/show/william-elliott-whitmore-2/",
+   "https://www.reggieslive.com/show/acid-mothers-temple-2/",
+   "https://www.reggieslive.com/showtag/9th-annual-slackfest/",
+   "https://www.reggieslive.com/show/ho99o9/",
+   "https://www.reggieslive.com/show/wayne-the-train-hancock-3/",
+   "https://www.reggieslive.com/show/archgoat/",
+   "https://www.reggieslive.com/show/eyehategod-4/",
+   "https://www.reggieslive.com/show/exhumed-3/",
+   "https://www.reggieslive.com/show/the-band-feel/",
+   "https://www.reggieslive.com/show/delvon-lamarr-organ-trio-2/",
+   "https://www.reggieslive.com/show/scalp/",
+   "https://www.reggieslive.com/show/the-brokes-4/",
+   "https://www.reggieslive.com/show/beherit/",
+   "https://www.reggieslive.com/menu/",
+   "https://www.reggieslive.com/busrides/",
+   "https://www.reggieslive.com/merch/",
+   "https://www.reggieslive.com/beach/",
+   "https://www.reggieslive.com/menu/plan-your-event/",
+   "https://www.reggieslive.com/venue/music-joint/",
+   "https://www.reggieslive.com/2026/10/?post_type=show",
+   "https://www.reggieslive.com/2026/11/?post_type=show",
+   "https://www.reggieslive.com/2026/12/?post_type=show",
+   "https://www.reggieslive.com/2027/01/?post_type=show",
+   "https://www.reggieslive.com/2027/02/?post_type=show",
+   "https://www.reggieslive.com/2027/03/?post_type=show",
+   "https://www.reggieslive.com/2027/04/?post_type=show",
+   "https://www.reggieslive.com/2027/05/?post_type=show",
+   "https://www.reggieslive.com/2027/06/?post_type=show",
+   "https://www.reggieslive.com/2027/07/?post_type=show",
+   "https://www.reggieslive.com/2027/08/?post_type=show",
+   "https://www.reggieslive.com/2027/09/?post_type=show",
+   "https://www.reggieslive.com/venue/rock-club/",
+   "https://www.reggieslive.com/shows/calendar/",
+   "https://www.reggieslive.com/wp-content/uploads/South-Loop-Standup-FLYER-388x600.jpg",
+   "https://www.reggieslive.com/show/south-loop-stand-up-38/",
+   "https://www.reggieslive.com/age/21/",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-6-PbJ-FLYER-388x600.jpg",
+   "https://www.reggieslive.com/show/tipsy-tuesday-w-paul-bolger-and-pbj-5/",
+   "https://www.reggieslive.com/wp-content/uploads/SoxBus2026_HaroldBaines_Poster_SLIDESHOW-364x600.jpeg",
+   "https://www.reggieslive.com/venue/roof-deck/",
+   "https://www.reggieslive.com/show/watch-the-white-sox-w-sound-2/",
+   "https://www.reggieslive.com/wp-content/uploads/IMG_1598-388x600.jpeg",
+   "https://www.reggieslive.com/show/eddie-jobson/",
+   "https://www.reggieslive.com/age/17/",
+   "https://www.ticketweb.com/event/an-evening-with-eddie-jobson-reggies-rock-club-tickets/14291784",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-7-Wayne-Hancock-FLYER-1-388x600.jpg",
+   "https://www.ticketweb.com/event/wayne-hancock-tba-reggies-music-joint-tickets/14262424",
+   "https://www.reggieslive.com/wp-content/themes/reggies/images/generic-comedy-shack.jpg",
+   "https://www.reggieslive.com/venue/comedy-shack/",
+   "https://www.reggieslive.com/show/watch-the-white-sox-w-sound-3/",
+   "https://www.reggieslive.com/wp-content/uploads/Tina-108-11x17-1-389x600.png",
+   "https://www.reggieslive.com/show/tina-youkhana/",
+   "https://www.ticketweb.com/event/tina-youkhana-reggies-banannas-shack-tickets/14993323",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-8-Scalp-FLYER-388x600.jpg",
+   "https://www.ticketweb.com/event/scalp-snuffed-bifid-corpse-ampolla-reggies-rock-club-tickets/14296274",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-8-Ripcord-FLYER-388x600.jpg",
+   "https://www.reggieslive.com/show/ripcord/",
+   "https://www.ticketweb.com/event/ripcord-wynton-existing-danimal-farm-reggies-music-joint-tickets/15019643",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-9-Carrie-Nation-FLYER-1-388x600.jpg",
+   "https://www.reggieslive.com/show/carrie-nation-the-speakeasy-3/",
+   "https://www.ticketweb.com/event/carrie-nation-and-the-speakeasy-reggies-music-joint-tickets/14262584",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-9-Eyehategod-FLYER-388x600.jpg",
+   "https://www.ticketweb.com/event/eyehategod-blast-luicidal-cavity-evil-reggies-rock-club-tickets/15026623",
+   "https://www.reggieslive.com/wp-content/uploads/OCT-9-Fighting-For-Scraps-FLYER-388x600.jpg",
+   "https://www.reggieslive.com/show/fighting-for-scraps/",
+   "https://www.ticketweb.com/event/fighting-for-scraps-hunting-lions-reggies-banannas-shack-tickets/15019193",
+   "https://www.reggieslive.com/wp-content/uploads/LIly-Vakili-MJC-Reggies-Oct-2026-Updated-480x600.jpg"
+  ],
+  "weight": 36264,
+  "title": "",
+  "roundtrip": {
+   "atBottom": {
+    "y": 12184,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin',"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#s at 13px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#input_1_2.medium at 13px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "306 of 503 tap targets under 24px: a.assistive-text 133x16, a.assistive-text 150x16, a 69x23, a 76x23, a 53x23"
+   ],
+   [
+    "WARN",
+    "490 text elements under 12px: a 10px, a 10px, a 10px, a 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin',"
+   ],
+   [
+    "INFO",
+    "document scrolls, 13960px tall"
+   ]
+  ],
+  "site": "https://www.reggieslive.com/"
+ },
+ {
+  "url": "https://www.reggieslive.com/menu/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.5,
+  "meta": "width=device-width",
+  "vw": 390,
+  "vh": 664,
+  "docH": 13951,
+  "zoomTrap": [
+   {
+    "el": "input#s",
+    "fs": 13
+   },
+   {
+    "el": "input#input_1_2.medium",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_1_3",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_1_6",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_2.medium",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_3.medium",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_5.medium",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_6.medium",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_7.medium",
+    "fs": 13
+   },
+   {
+    "el": "textarea#input_10_12.textarea",
+    "fs": 13
+   }
+  ],
+  "leaks": [
+   "div#page.hfeed right=960",
+   "header#branding.clearfix right=960",
+   "div.container_24 right=960",
+   "div.grid_22 right=955",
+   "nav#access.clearfix right=915",
+   "div.skip-link right=915"
+  ],
+  "docWider": true,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 245,
+  "small": 111,
+  "smallList": [
+   "a.assistive-text 133x16",
+   "a.assistive-text 150x16",
+   "a 69x23",
+   "a 76x23",
+   "a 53x23"
+  ],
+  "tiny": 68,
+  "tinyList": [
+   "a 10px",
+   "a 10px",
+   "a 10px",
+   "a 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#branding.clearfix",
+  "textLen": 4205,
+  "fields": [
+   {
+    "el": "input#s",
+    "type": "text",
+    "name": "s",
+    "kind": "other",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Search for:"
+   },
+   {
+    "el": "input#input_1_2.medium",
+    "type": "email",
+    "name": "input_2",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email*"
+   },
+   {
+    "el": "input#input_10_1_3",
+    "type": "text",
+    "name": "input_1.3",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First"
+   },
+   {
+    "el": "input#input_10_1_6",
+    "type": "text",
+    "name": "input_1.6",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last"
+   },
+   {
+    "el": "input#input_10_2.medium",
+    "type": "email",
+    "name": "input_2",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email Address*"
+   },
+   {
+    "el": "input#input_10_3.medium",
+    "type": "tel",
+    "name": "input_3",
+    "kind": "tel",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Phone Number"
+   },
+   {
+    "el": "input#input_10_5.medium",
+    "type": "text",
+    "name": "input_5",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Date(s) in which you're interested*"
+   },
+   {
+    "el": "input#input_10_6.medium",
+    "type": "text",
+    "name": "input_6",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "What time would your event ideally start"
+   },
+   {
+    "el": "input#input_10_7.medium",
+    "type": "text",
+    "name": "input_7",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "How many guests are you planning to host"
+   },
+   {
+    "el": "textarea#input_10_12.textarea",
+    "type": "textarea",
+    "name": "input_12",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Additional Information:"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.reggieslive.com/menu/"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.reggieslive.com/menu/order-on-line/"
+   },
+   {
+    "text": "Order On-Line For Pick Up Or Delivery",
+    "href": "https://order.spoton.com/so-reggies-music-joint-17089/chicago-il/65cfd89b58196166c89a13ff"
+   },
+   {
+    "text": "Booking",
+    "href": "https://www.reggieslive.com/contact/booking/"
+   }
+  ],
+  "allLinks": [
+   "https://www.reggieslive.com/menu/#middle",
+   "https://www.reggieslive.com/menu/#sidebar-left",
+   "https://www.reggieslive.com/about/",
+   "https://www.reggieslive.com/photos/",
+   "https://www.reggieslive.com/map/",
+   "https://www.reggieslive.com/contact/",
+   "https://www.reggieslive.com/faq/",
+   "https://www.reggieslive.com/",
+   "https://www.reggieslive.com/map",
+   "https://reggiesonwheels.com/",
+   "https://www.reggieslive.com/showtag/two-nights-of-wookiefoot/",
+   "https://www.reggieslive.com/show/koffin-kats-10/",
+   "https://www.reggieslive.com/show/oz-noy-trio/",
+   "https://www.reggieslive.com/show/william-elliott-whitmore-2/",
+   "https://www.reggieslive.com/show/acid-mothers-temple-2/",
+   "https://www.reggieslive.com/showtag/9th-annual-slackfest/",
+   "https://www.reggieslive.com/show/ho99o9/",
+   "https://www.reggieslive.com/show/wayne-the-train-hancock-3/",
+   "https://www.reggieslive.com/show/archgoat/",
+   "https://www.reggieslive.com/show/eyehategod-4/",
+   "https://www.reggieslive.com/show/exhumed-3/",
+   "https://www.reggieslive.com/show/the-band-feel/",
+   "https://www.reggieslive.com/show/delvon-lamarr-organ-trio-2/",
+   "https://www.reggieslive.com/show/scalp/",
+   "https://www.reggieslive.com/show/the-brokes-4/",
+   "https://www.reggieslive.com/show/beherit/",
+   "https://www.reggieslive.com/menu/",
+   "https://www.reggieslive.com/busrides/",
+   "https://www.reggieslive.com/merch/",
+   "https://www.reggieslive.com/beach/",
+   "https://www.reggieslive.com/menu/plan-your-event/",
+   "https://www.reggieslive.com/menu/order-on-line/",
+   "https://www.reggieslive.com/menu/party-packages/",
+   "https://www.reggieslive.com/menu/catering/",
+   "https://order.spoton.com/so-reggies-music-joint-17089/chicago-il/65cfd89b58196166c89a13ff",
+   "https://www.ezcater.com/catering/pvt/reggies-music-joint-chicago?fcv=1",
+   "https://www.reggieslive.com/contact/booking/",
+   "https://www.reggieslive.com/menu/#just-added",
+   "https://www.reggieslive.com/menu/#featured",
+   "https://www.reggieslive.com/show/peephole/",
+   "https://www.reggieslive.com/show/kashmir-8/",
+   "https://www.reggieslive.com/show/deceased-2/",
+   "https://www.reggieslive.com/show/the-detroit-cobras/",
+   "https://www.reggieslive.com/show/darkest-hour-5/",
+   "https://www.reggieslive.com/show/mr-blotto-black-wednesday-10/",
+   "https://www.reggieslive.com/show/doom-scroll/",
+   "https://www.reggieslive.com/show/wookiefoot-28/",
+   "https://www.reggieslive.com/show/wookiefoot-27/",
+   "https://www.reggieslive.com/show/eddie-jobson/",
+   "https://www.reggieslive.com/show/orange-dog-club/",
+   "https://www.reggieslive.com/show/heavy-temple-2/",
+   "https://www.reggieslive.com/show/deraps-2/",
+   "https://www.reggieslive.com/show/insomniac/",
+   "https://www.reggieslive.com/show/oso-oso/",
+   "https://www.reggieslive.com/show/herakleion/",
+   "https://www.reggieslive.com/showtag/zacks-open-mic/",
+   "https://www.reggieslive.com/genre/thrash/",
+   "https://www.reggieslive.com/genre/death-metal/",
+   "https://www.reggieslive.com/showtag/chicago-bears-tailgate-party/",
+   "https://www.reggieslive.com/genre/hip-hop/",
+   "https://www.reggieslive.com/genre/alternative/",
+   "https://www.reggieslive.com/genre/electronic/",
+   "https://www.reggieslive.com/genre/stand-up/",
+   "https://www.reggieslive.com/genre/blues/",
+   "https://www.reggieslive.com/genre/rap/",
+   "https://www.reggieslive.com/showtag/empire-productions/",
+   "https://www.reggieslive.com/genre/psych/",
+   "https://www.reggieslive.com/bustag/sox/",
+   "https://www.reggieslive.com/genre/noise/",
+   "https://www.reggieslive.com/genre/rock/",
+   "https://www.reggieslive.com/showtag/riot-fest-presents/",
+   "https://www.reggieslive.com/genre/chiacgo-blues/",
+   "https://www.reggieslive.com/bustag/white-sox/",
+   "https://www.reggieslive.com/genre/acoustic/",
+   "https://www.reggieslive.com/genre/prog/",
+   "https://www.reggieslive.com/genre/ska/",
+   "https://www.reggieslive.com/genre/metal/",
+   "https://www.reggieslive.com/age/21/",
+   "https://www.reggieslive.com/bustag/bears/",
+   "https://www.reggieslive.com/genre/bluegrass/"
+  ],
+  "weight": 26937,
+  "title": "",
+  "roundtrip": {
+   "atBottom": {
+    "y": 13287,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 400,
+  "deadLinks": [
+   {
+    "href": "https://www.ezcater.com/catering/pvt/reggies-music-joint-chicago?fcv=1",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-reggieslive-com-menu.png",
+  "errors": [
+   "console: Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'same-origin', 'origin', 'strict-orig",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Refused to execute https://widgets.shopifyapps.com/assets/shopifystore.js as script because \"X-Content-Type-Options: nosniff\" was given and ",
+   "console: Failed to load resource: the server responded with a status of 401 (Unauthorized)"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#s at 13px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#input_1_2.medium at 13px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#input_10_1_3 at 13px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#input_10_1_6 at 13px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "sideways overflow (page pans 400px sideways): div#page.hfeed right=960, header#branding.clearfix right=960, div.container_24 right=960, div.grid_22 right=955, nav#access.clearfix right=915, div.skip-link right=915"
+   ],
+   [
+    "WARN",
+    "111 of 245 tap targets under 24px: a.assistive-text 133x16, a.assistive-text 150x16, a 69x23, a 76x23, a 53x23"
+   ],
+   [
+    "WARN",
+    "68 text elements under 12px: a 10px, a 10px, a 10px, a 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'same-origin', 'origin', 'strict-orig"
+   ],
+   [
+    "INFO",
+    "document scrolls, 13951px tall"
+   ]
+  ],
+  "site": "https://www.reggieslive.com/"
+ },
+ {
+  "url": "https://www.reggieslive.com/menu/",
+  "device": "android",
+  "status": 200,
+  "load_s": 6.5,
+  "meta": "width=device-width",
+  "vw": 960,
+  "vh": 1776,
+  "docH": 13952,
+  "zoomTrap": [
+   {
+    "el": "input#s",
+    "fs": 13
+   },
+   {
+    "el": "input#input_1_2.medium",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_1_3",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_1_6",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_2.medium",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_3.medium",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_5.medium",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_6.medium",
+    "fs": 13
+   },
+   {
+    "el": "input#input_10_7.medium",
+    "fs": 13
+   },
+   {
+    "el": "textarea#input_10_12.textarea",
+    "fs": 13
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 245,
+  "small": 111,
+  "smallList": [
+   "a.assistive-text 133x16",
+   "a.assistive-text 150x16",
+   "a 69x23",
+   "a 76x23",
+   "a 53x23"
+  ],
+  "tiny": 68,
+  "tinyList": [
+   "a 10px",
+   "a 10px",
+   "a 10px",
+   "a 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#branding.clearfix",
+  "textLen": 4026,
+  "fields": [
+   {
+    "el": "input#s",
+    "type": "text",
+    "name": "s",
+    "kind": "other",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Search for:"
+   },
+   {
+    "el": "input#input_1_2.medium",
+    "type": "email",
+    "name": "input_2",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email*"
+   },
+   {
+    "el": "input#input_10_1_3",
+    "type": "text",
+    "name": "input_1.3",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "First"
+   },
+   {
+    "el": "input#input_10_1_6",
+    "type": "text",
+    "name": "input_1.6",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Last"
+   },
+   {
+    "el": "input#input_10_2.medium",
+    "type": "email",
+    "name": "input_2",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email Address*"
+   },
+   {
+    "el": "input#input_10_3.medium",
+    "type": "tel",
+    "name": "input_3",
+    "kind": "tel",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Phone Number"
+   },
+   {
+    "el": "input#input_10_5.medium",
+    "type": "text",
+    "name": "input_5",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Date(s) in which you're interested*"
+   },
+   {
+    "el": "input#input_10_6.medium",
+    "type": "text",
+    "name": "input_6",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "What time would your event ideally start"
+   },
+   {
+    "el": "input#input_10_7.medium",
+    "type": "text",
+    "name": "input_7",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "How many guests are you planning to host"
+   },
+   {
+    "el": "textarea#input_10_12.textarea",
+    "type": "textarea",
+    "name": "input_12",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Additional Information:"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.reggieslive.com/menu/"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.reggieslive.com/menu/order-on-line/"
+   },
+   {
+    "text": "Order On-Line For Pick Up Or Delivery",
+    "href": "https://order.spoton.com/so-reggies-music-joint-17089/chicago-il/65cfd89b58196166c89a13ff"
+   },
+   {
+    "text": "Booking",
+    "href": "https://www.reggieslive.com/contact/booking/"
+   }
+  ],
+  "allLinks": [
+   "https://www.reggieslive.com/menu/#middle",
+   "https://www.reggieslive.com/menu/#sidebar-left",
+   "https://www.reggieslive.com/about/",
+   "https://www.reggieslive.com/photos/",
+   "https://www.reggieslive.com/map/",
+   "https://www.reggieslive.com/contact/",
+   "https://www.reggieslive.com/faq/",
+   "https://www.reggieslive.com/",
+   "https://www.reggieslive.com/map",
+   "https://reggiesonwheels.com/",
+   "https://www.reggieslive.com/showtag/two-nights-of-wookiefoot/",
+   "https://www.reggieslive.com/show/koffin-kats-10/",
+   "https://www.reggieslive.com/show/oz-noy-trio/",
+   "https://www.reggieslive.com/show/william-elliott-whitmore-2/",
+   "https://www.reggieslive.com/show/acid-mothers-temple-2/",
+   "https://www.reggieslive.com/showtag/9th-annual-slackfest/",
+   "https://www.reggieslive.com/show/ho99o9/",
+   "https://www.reggieslive.com/show/wayne-the-train-hancock-3/",
+   "https://www.reggieslive.com/show/archgoat/",
+   "https://www.reggieslive.com/show/eyehategod-4/",
+   "https://www.reggieslive.com/show/exhumed-3/",
+   "https://www.reggieslive.com/show/the-band-feel/",
+   "https://www.reggieslive.com/show/delvon-lamarr-organ-trio-2/",
+   "https://www.reggieslive.com/show/scalp/",
+   "https://www.reggieslive.com/show/the-brokes-4/",
+   "https://www.reggieslive.com/show/beherit/",
+   "https://www.reggieslive.com/menu/",
+   "https://www.reggieslive.com/busrides/",
+   "https://www.reggieslive.com/merch/",
+   "https://www.reggieslive.com/beach/",
+   "https://www.reggieslive.com/menu/plan-your-event/",
+   "https://www.reggieslive.com/menu/order-on-line/",
+   "https://www.reggieslive.com/menu/party-packages/",
+   "https://www.reggieslive.com/menu/catering/",
+   "https://order.spoton.com/so-reggies-music-joint-17089/chicago-il/65cfd89b58196166c89a13ff",
+   "https://www.ezcater.com/catering/pvt/reggies-music-joint-chicago?fcv=1",
+   "https://www.reggieslive.com/contact/booking/",
+   "https://www.reggieslive.com/menu/#just-added",
+   "https://www.reggieslive.com/menu/#featured",
+   "https://www.reggieslive.com/show/peephole/",
+   "https://www.reggieslive.com/show/kashmir-8/",
+   "https://www.reggieslive.com/show/deceased-2/",
+   "https://www.reggieslive.com/show/the-detroit-cobras/",
+   "https://www.reggieslive.com/show/darkest-hour-5/",
+   "https://www.reggieslive.com/show/mr-blotto-black-wednesday-10/",
+   "https://www.reggieslive.com/show/doom-scroll/",
+   "https://www.reggieslive.com/show/wookiefoot-28/",
+   "https://www.reggieslive.com/show/wookiefoot-27/",
+   "https://www.reggieslive.com/show/eddie-jobson/",
+   "https://www.reggieslive.com/show/orange-dog-club/",
+   "https://www.reggieslive.com/show/heavy-temple-2/",
+   "https://www.reggieslive.com/show/deraps-2/",
+   "https://www.reggieslive.com/show/insomniac/",
+   "https://www.reggieslive.com/show/oso-oso/",
+   "https://www.reggieslive.com/show/herakleion/",
+   "https://www.reggieslive.com/genre/blues-rock/",
+   "https://www.reggieslive.com/bustype/concert-bus/",
+   "https://www.reggieslive.com/genre/punk/",
+   "https://www.reggieslive.com/showtag/empire-productions/",
+   "https://www.reggieslive.com/showtag/tipsy-tuesday/",
+   "https://www.reggieslive.com/bustag/white-sox/",
+   "https://www.reggieslive.com/genre/experimental/",
+   "https://www.reggieslive.com/genre/prog/",
+   "https://www.reggieslive.com/genre/reggae/",
+   "https://www.reggieslive.com/genre/funk/",
+   "https://www.reggieslive.com/genre/grindcore/",
+   "https://www.reggieslive.com/genre/hip-hop/",
+   "https://www.reggieslive.com/genre/indie/",
+   "https://www.reggieslive.com/genre/alternative/",
+   "https://www.reggieslive.com/genre/electronic/",
+   "https://www.reggieslive.com/bustag/bears/",
+   "https://www.reggieslive.com/genre/prog-rock/",
+   "https://www.reggieslive.com/genre/country/",
+   "https://www.reggieslive.com/showtag/riot-fest-presents/",
+   "https://www.reggieslive.com/genre/blues/",
+   "https://www.reggieslive.com/genre/stand-up/",
+   "https://www.reggieslive.com/showtag/classic-albums/",
+   "https://www.reggieslive.com/bustype/sports-bus/",
+   "https://www.reggieslive.com/genre/tribute/",
+   "https://www.reggieslive.com/age/all-ages/"
+  ],
+  "weight": 26868,
+  "title": "",
+  "roundtrip": {
+   "atBottom": {
+    "y": 12176,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin',",
+   "console: requestStorageAccess: Permission denied."
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#s at 13px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#input_1_2.medium at 13px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#input_10_1_3 at 13px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#input_10_1_6 at 13px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "111 of 245 tap targets under 24px: a.assistive-text 133x16, a.assistive-text 150x16, a 69x23, a 76x23, a 53x23"
+   ],
+   [
+    "WARN",
+    "68 text elements under 12px: a 10px, a 10px, a 10px, a 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to set referrer policy: The value '' is not one of 'no-referrer', 'no-referrer-when-downgrade', 'origin', 'origin-when-cross-origin',"
+   ],
+   [
+    "INFO",
+    "document scrolls, 13952px tall"
+   ]
+  ],
+  "site": "https://www.reggieslive.com/"
+ }
+]

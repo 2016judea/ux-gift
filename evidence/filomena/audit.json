@@ -1,0 +1,709 @@
+[
+ {
+  "url": "https://filomena.com/",
+  "device": "iphone",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.2,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 5373,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 30,
+  "small": 11,
+  "smallList": [
+   "a.custom-logo-link 144x19",
+   "a 360x19",
+   "a 300x19",
+   "a 127x24",
+   "a 145x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 2171,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Make a Reservation",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.com/gift-cards/"
+   },
+   {
+    "text": "Reserve A Table",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/r/filomena-ristorante-washington"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/r/filomena-ristorante-washington"
+   },
+   {
+    "text": "Book Now.",
+    "href": "https://www.opentable.com/restaurant/profile/1835/reserve?rid=1835&restref=1835"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.wpengine.com/gift-cards/"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://filomena.com/",
+   "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+   "https://filomena.com/about-us/",
+   "https://filomena.com/our-history/",
+   "https://filomena.com/in-the-news/",
+   "https://filomena.com/videos/",
+   "https://filomena.com/menu/",
+   "https://filomena.com/dinner/",
+   "https://filomena.com/lunch/",
+   "https://filomena.com/desserts/",
+   "https://filomena.com/wine/",
+   "https://filomena.com/catering/",
+   "https://filomena.com/#",
+   "https://filomena.com/delivery/",
+   "https://filomena.orderexperience.net/66993fd980745e8cd90d6fdf/menu",
+   "https://filomena-ristorante.goldbelly.com/",
+   "https://filomena-ristorante.goldbelly.com/categories/fresh-pasta",
+   "https://filomena-ristorante.goldbelly.com/categories/cakes",
+   "https://filomena-ristorante.goldbelly.com/categories/meat",
+   "https://filomena-ristorante.goldbelly.com/categories/italian-grocery",
+   "https://filomena.com/gift-cards/",
+   "https://filomena.cardfoundry.com/giftcards/card_details",
+   "https://filomena.cardfoundry.com/giftcards/card_balance",
+   "https://filomena.com/gallery/",
+   "https://filomena.com/holidays-at-filomena/",
+   "https://filomena.com/contact/",
+   "https://filomena.com/directions/",
+   "https://www.nbcwashington.com/news/local/simple-but-fresh-but-good-filomenas-secret-to-success-in-georgetown/3377202/?_branch_match_id=908111853758732138&utm_medium=share&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz0tKLk8szsjMSy%2FJz9NLLCjQy8nMy9Y3yPY2C%2FXw8jRzTAIAUX15rioAAAA%3D",
+   "https://www.opentable.com/r/filomena-ristorante-washington",
+   "https://www.opentable.com/restaurant/profile/1835/reserve?rid=1835&restref=1835",
+   "https://www.google.com/search?client=safari&rls=en&q=filomena+ristorante+washington+dc&ie=UTF-8&oe=UTF-8#lrd=0x89b7b64bfd853a3d:0x603d1999c9518ff6,1",
+   "https://www.tripadvisor.in/Restaurant_Review-g28970-d450360-Reviews-Filomena_Ristorante_Georgetown-Washington_DC_District_of_Columbia.html",
+   "https://www.yelp.com/biz/filomena-ristorante-washington",
+   "https://signup.delightmail.com/opt-in/?list=95e896f2-3f11-47ed-aeed-3dbc9e749f23",
+   "https://goo.gl/maps/KpAR6kGVjcv31p4F6",
+   "https://filomena.wpengine.com/gift-cards/",
+   "https://filomena.com/reviews/",
+   "https://www.facebook.com/FilomenaRistoranteDC/",
+   "https://www.instagram.com/filomenaristorante/",
+   "https://twitter.com/Filomena_DC",
+   "http://www.rivercitymarketing.com/",
+   "https://filomena.wpengine.com/terms-of-use/",
+   "https://filomena.wpengine.com/wp-content/uploads/2020/09/Filomena-Privacy-Policy-copy.pdf"
+  ],
+  "weight": 25556,
+  "title": "Best Italian Restaurant in Washington DC",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4709,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.opentable.com/r/filomena-ristorante-washington",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.opentable.com/restaurant/profile/1835/reserve?rid=1835&restref=1835",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://filomena.wpengine.com/gift-cards/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-filomena-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/gift-cards/ answers 404"
+   ],
+   [
+    "WARN",
+    "11 of 30 tap targets under 24px: a.custom-logo-link 144x19, a 360x19, a 300x19, a 127x24, a 145x19"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5373px tall"
+   ]
+  ],
+  "site": "https://filomena.com/",
+  "hop": "https://filomena.com/menu/"
+ },
+ {
+  "url": "https://filomena.com/",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 5855,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 35,
+  "small": 10,
+  "smallList": [
+   "a.custom-logo-link 144x18",
+   "a 363x18",
+   "a 300x18",
+   "a 145x19",
+   "a.menu-image-title-hide 24x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 2172,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Make a Reservation",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.com/gift-cards/"
+   },
+   {
+    "text": "Reserve A Table",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/r/filomena-ristorante-washington"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/r/filomena-ristorante-washington"
+   },
+   {
+    "text": "Book Now.",
+    "href": "https://www.opentable.com/restaurant/profile/1835/reserve?rid=1835&restref=1835"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.wpengine.com/gift-cards/"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://filomena.com/",
+   "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+   "https://filomena.com/about-us/",
+   "https://filomena.com/our-history/",
+   "https://filomena.com/in-the-news/",
+   "https://filomena.com/videos/",
+   "https://filomena.com/menu/",
+   "https://filomena.com/dinner/",
+   "https://filomena.com/lunch/",
+   "https://filomena.com/desserts/",
+   "https://filomena.com/wine/",
+   "https://filomena.com/catering/",
+   "https://filomena.com/#",
+   "https://filomena.com/delivery/",
+   "https://filomena.orderexperience.net/66993fd980745e8cd90d6fdf/menu",
+   "https://filomena-ristorante.goldbelly.com/",
+   "https://filomena-ristorante.goldbelly.com/categories/fresh-pasta",
+   "https://filomena-ristorante.goldbelly.com/categories/cakes",
+   "https://filomena-ristorante.goldbelly.com/categories/meat",
+   "https://filomena-ristorante.goldbelly.com/categories/italian-grocery",
+   "https://filomena.com/gift-cards/",
+   "https://filomena.cardfoundry.com/giftcards/card_details",
+   "https://filomena.cardfoundry.com/giftcards/card_balance",
+   "https://filomena.com/gallery/",
+   "https://filomena.com/holidays-at-filomena/",
+   "https://filomena.com/contact/",
+   "https://filomena.com/directions/",
+   "https://www.nbcwashington.com/news/local/simple-but-fresh-but-good-filomenas-secret-to-success-in-georgetown/3377202/?_branch_match_id=908111853758732138&utm_medium=share&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz0tKLk8szsjMSy%2FJz9NLLCjQy8nMy9Y3yPY2C%2FXw8jRzTAIAUX15rioAAAA%3D",
+   "https://www.opentable.com/r/filomena-ristorante-washington",
+   "https://www.opentable.com/restaurant/profile/1835/reserve?rid=1835&restref=1835",
+   "https://www.google.com/search?client=safari&rls=en&q=filomena+ristorante+washington+dc&ie=UTF-8&oe=UTF-8#lrd=0x89b7b64bfd853a3d:0x603d1999c9518ff6,1",
+   "https://www.tripadvisor.in/Restaurant_Review-g28970-d450360-Reviews-Filomena_Ristorante_Georgetown-Washington_DC_District_of_Columbia.html",
+   "https://www.yelp.com/biz/filomena-ristorante-washington",
+   "https://signup.delightmail.com/opt-in/?list=95e896f2-3f11-47ed-aeed-3dbc9e749f23",
+   "https://goo.gl/maps/KpAR6kGVjcv31p4F6",
+   "https://filomena.wpengine.com/gift-cards/",
+   "https://filomena.com/reviews/",
+   "https://www.facebook.com/FilomenaRistoranteDC/",
+   "https://www.instagram.com/filomenaristorante/",
+   "https://twitter.com/Filomena_DC",
+   "http://www.rivercitymarketing.com/",
+   "https://filomena.wpengine.com/terms-of-use/",
+   "https://filomena.wpengine.com/wp-content/uploads/2020/09/Filomena-Privacy-Policy-copy.pdf"
+  ],
+  "weight": 300,
+  "title": "Best Italian Restaurant in Washington DC",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1091,
+    "inner": null
+   },
+   "backY": 269,
+   "backInner": null,
+   "headTop": -269
+  },
+  "panX": 0,
+  "errors": [
+   "console: Access to font at 'https://www.filomena.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.wo",
+   "console: Failed to load resource: net::ERR_FAILED",
+   "console: Access to font at 'https://www.filomena.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.wo",
+   "console: Failed to load resource: net::ERR_FAILED"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-269 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "10 of 35 tap targets under 24px: a.custom-logo-link 144x18, a 363x18, a 300x18, a 145x19, a.menu-image-title-hide 24x19"
+   ],
+   [
+    "INFO",
+    "console: Access to font at 'https://www.filomena.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.wo"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5855px tall"
+   ]
+  ],
+  "site": "https://filomena.com/"
+ },
+ {
+  "url": "https://filomena.com/menu/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.4,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 3003,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 29,
+  "small": 11,
+  "smallList": [
+   "a.custom-logo-link 144x19",
+   "a 360x19",
+   "a 300x19",
+   "a 127x24",
+   "a 145x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 909,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Make a Reservation",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.com/gift-cards/"
+   },
+   {
+    "text": "Reserve A Table",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.wpengine.com/gift-cards/"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://filomena.com/",
+   "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+   "https://filomena.com/about-us/",
+   "https://filomena.com/our-history/",
+   "https://filomena.com/in-the-news/",
+   "https://filomena.com/videos/",
+   "https://filomena.com/menu/",
+   "https://filomena.com/dinner/",
+   "https://filomena.com/lunch/",
+   "https://filomena.com/desserts/",
+   "https://filomena.com/wine/",
+   "https://filomena.com/catering/",
+   "https://filomena.com/menu/#",
+   "https://filomena.com/delivery/",
+   "https://filomena.orderexperience.net/66993fd980745e8cd90d6fdf/menu",
+   "https://filomena-ristorante.goldbelly.com/",
+   "https://filomena-ristorante.goldbelly.com/categories/fresh-pasta",
+   "https://filomena-ristorante.goldbelly.com/categories/cakes",
+   "https://filomena-ristorante.goldbelly.com/categories/meat",
+   "https://filomena-ristorante.goldbelly.com/categories/italian-grocery",
+   "https://filomena.com/gift-cards/",
+   "https://filomena.cardfoundry.com/giftcards/card_details",
+   "https://filomena.cardfoundry.com/giftcards/card_balance",
+   "https://filomena.com/gallery/",
+   "https://filomena.com/holidays-at-filomena/",
+   "https://filomena.com/contact/",
+   "https://filomena.com/directions/",
+   "https://filomena.wpengine.com/dinner/",
+   "https://filomena.wpengine.com/lunch/",
+   "https://filomena.wpengine.com/desserts/",
+   "https://filomena.wpengine.com/wine/",
+   "https://goo.gl/maps/KpAR6kGVjcv31p4F6",
+   "https://filomena.wpengine.com/gift-cards/",
+   "https://filomena.com/reviews/",
+   "https://www.facebook.com/FilomenaRistoranteDC/",
+   "https://www.instagram.com/filomenaristorante/",
+   "https://twitter.com/Filomena_DC",
+   "http://www.rivercitymarketing.com/",
+   "https://filomena.wpengine.com/terms-of-use/",
+   "https://filomena.wpengine.com/wp-content/uploads/2020/09/Filomena-Privacy-Policy-copy.pdf"
+  ],
+  "weight": 13141,
+  "title": "Authentic Italian Food in Washington DC",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2339,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://filomena.wpengine.com/gift-cards/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://filomena.wpengine.com/dinner/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://filomena.wpengine.com/lunch/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://filomena.wpengine.com/desserts/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://filomena.wpengine.com/wine/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://filomena.wpengine.com/terms-of-use/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-filomena-com-menu.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/gift-cards/ answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/dinner/ answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/lunch/ answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/desserts/ answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/wine/ answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/terms-of-use/ answers 404"
+   ],
+   [
+    "WARN",
+    "11 of 29 tap targets under 24px: a.custom-logo-link 144x19, a 360x19, a 300x19, a 127x24, a 145x19"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3003px tall"
+   ]
+  ],
+  "site": "https://filomena.com/"
+ },
+ {
+  "url": "https://filomena.com/menu/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3908,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 29,
+  "small": 10,
+  "smallList": [
+   "a.custom-logo-link 144x18",
+   "a 363x18",
+   "a 300x18",
+   "a 145x19",
+   "a.menu-image-title-hide 24x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 905,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Make a Reservation",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.com/gift-cards/"
+   },
+   {
+    "text": "Reserve A Table",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.wpengine.com/gift-cards/"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://filomena.com/",
+   "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+   "https://filomena.com/about-us/",
+   "https://filomena.com/our-history/",
+   "https://filomena.com/in-the-news/",
+   "https://filomena.com/videos/",
+   "https://filomena.com/menu/",
+   "https://filomena.com/dinner/",
+   "https://filomena.com/lunch/",
+   "https://filomena.com/desserts/",
+   "https://filomena.com/wine/",
+   "https://filomena.com/catering/",
+   "https://filomena.com/menu/#",
+   "https://filomena.com/delivery/",
+   "https://filomena.orderexperience.net/66993fd980745e8cd90d6fdf/menu",
+   "https://filomena-ristorante.goldbelly.com/",
+   "https://filomena-ristorante.goldbelly.com/categories/fresh-pasta",
+   "https://filomena-ristorante.goldbelly.com/categories/cakes",
+   "https://filomena-ristorante.goldbelly.com/categories/meat",
+   "https://filomena-ristorante.goldbelly.com/categories/italian-grocery",
+   "https://filomena.com/gift-cards/",
+   "https://filomena.cardfoundry.com/giftcards/card_details",
+   "https://filomena.cardfoundry.com/giftcards/card_balance",
+   "https://filomena.com/gallery/",
+   "https://filomena.com/holidays-at-filomena/",
+   "https://filomena.com/contact/",
+   "https://filomena.com/directions/",
+   "https://filomena.wpengine.com/dinner/",
+   "https://filomena.wpengine.com/lunch/",
+   "https://filomena.wpengine.com/desserts/",
+   "https://filomena.wpengine.com/wine/",
+   "https://goo.gl/maps/KpAR6kGVjcv31p4F6",
+   "https://filomena.wpengine.com/gift-cards/",
+   "https://filomena.com/reviews/",
+   "https://www.facebook.com/FilomenaRistoranteDC/",
+   "https://www.instagram.com/filomenaristorante/",
+   "https://twitter.com/Filomena_DC",
+   "http://www.rivercitymarketing.com/",
+   "https://filomena.wpengine.com/terms-of-use/",
+   "https://filomena.wpengine.com/wp-content/uploads/2020/09/Filomena-Privacy-Policy-copy.pdf"
+  ],
+  "weight": 14025,
+  "title": "Authentic Italian Food in Washington DC",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1502,
+    "inner": null
+   },
+   "backY": 441,
+   "backInner": null,
+   "headTop": -441
+  },
+  "panX": 0,
+  "errors": [
+   "console: Access to font at 'https://www.filomena.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.wo",
+   "console: Failed to load resource: net::ERR_FAILED"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-441 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "10 of 29 tap targets under 24px: a.custom-logo-link 144x18, a 363x18, a 300x18, a 145x19, a.menu-image-title-hide 24x19"
+   ],
+   [
+    "INFO",
+    "console: Access to font at 'https://www.filomena.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.wo"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3908px tall"
+   ]
+  ],
+  "site": "https://filomena.com/"
+ }
+]

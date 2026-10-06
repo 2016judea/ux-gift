@@ -1,0 +1,5 @@
+matches 1 visible 1
+before https://www.andinarestaurant.com/giftcards 
+after  https://www.andinarestaurant.com/brunch status 404 
+title Andina 
+text andina |  | book a table  | menus  | weddings | private dining | our story | contact | gift cards | upcoming events |  Back | dinner | happy hour | thanksgiving dinner |  Back | happy hour | dinner | dessert | drinks | wines by the bottle - sept. '26 |  | ~  | OUR THANKSGIVING BOOK IS NOW OPEN | ~ | click here to reserve you table! | ~  | We couldn't

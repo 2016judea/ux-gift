@@ -1,0 +1,231 @@
+FAIL iphone  https://www.houseofprimerib.net/
+WARN android https://www.houseofprimerib.net/
+WARN iphone  https://frenchsoulfood.com/
+WARN android https://frenchsoulfood.com/
+FAIL iphone  https://staxs.net/
+FAIL android https://staxs.net/
+FAIL iphone  https://staxs.net/wp-content/uploads/2026/08/239011-NO-PRICES-Paper-Inserts-0826-Stax-Omega-Greenville-SC.pdf
+FAIL android https://staxs.net/wp-content/uploads/2026/08/239011-NO-PRICES-Paper-Inserts-0826-Stax-Omega-Greenville-SC.pdf
+FAIL iphone  https://www.reggieslive.com/
+FAIL android https://www.reggieslive.com/
+FAIL iphone  https://www.reggieslive.com/menu/
+FAIL android https://www.reggieslive.com/menu/
+FAIL iphone  https://thekingspanj.com/
+FAIL android https://thekingspanj.com/
+FAIL iphone  https://thekingspanj.com/pages/food-menu
+FAIL android https://thekingspanj.com/pages/food-menu
+WARN iphone  https://www.ponzios.com/
+WARN android https://www.ponzios.com/
+ok   iphone  https://www.ponzios.com/page.cfm?ThePozPageID=33
+ok   android https://www.ponzios.com/page.cfm?ThePozPageID=33
+FAIL iphone  https://www.2foolstavern.com/
+WARN android https://www.2foolstavern.com/
+WARN iphone  https://www.2foolstavern.com/menu/
+WARN android https://www.2foolstavern.com/menu/
+WARN iphone  https://www.gameworks.com/
+WARN android https://www.gameworks.com/
+FAIL iphone  https://www.gameworks.com/book-event/
+FAIL android https://www.gameworks.com/book-event/
+WARN iphone  https://alamocafe.com/
+WARN android https://alamocafe.com/
+ok   iphone  https://alamocafe.com/menus/
+ok   android https://alamocafe.com/menus/
+WARN iphone  https://craftaxethrowing.com/us/sc/spartanburg
+WARN android https://craftaxethrowing.com/us/sc/spartanburg
+WARN iphone  https://craftaxethrowing.com/us/sc/spartanburg/gift-cards
+WARN android https://craftaxethrowing.com/us/sc/spartanburg/gift-cards
+
+== findings (FAIL and WARN) ==
+
+https://www.houseofprimerib.net/  [iphone]
+  FAIL  sideways overflow (page pans 8px sideways): div.row-gallery right=398, div.gallery right=398, div.gallery-item right=398, div.gallery-item right=398, div.gallery-item right=398, div.gallery-item right=398
+  WARN  27 of 64 tap targets under 24px: a.inner-brand 265x18, a 111x21, a 42x18, a 26x18, a 39x18
+
+https://www.houseofprimerib.net/  [android]
+  WARN  27 of 64 tap targets under 24px: a.inner-brand 265x19, a 111x21, a 42x19, a 26x19, a 39x19
+
+https://frenchsoulfood.com/  [iphone]
+  WARN  broken image: https://frenchsoulfood.com/
+  WARN  broken image: https://frenchsoulfood.com/
+  WARN  fixed layer div#sf-modal-dialog.storefront-sdk-emotion-1fshec4 covers 100% of the screen
+  WARN  3 of 22 tap targets under 24px: button.menu-toggle 36x18, a.sh_gm_link 122x19, a 115x19
+  WARN  1 text elements under 12px: button.menu-toggle 0px
+
+https://frenchsoulfood.com/  [android]
+  WARN  broken image: https://frenchsoulfood.com/
+  WARN  broken image: https://frenchsoulfood.com/
+  WARN  fixed layer div#sf-modal-dialog.storefront-sdk-emotion-1fshec4 covers 100% of the screen
+  WARN  3 of 22 tap targets under 24px: button.menu-toggle 36x18, a.sh_gm_link 122x19, a 115x19
+  WARN  1 text elements under 12px: button.menu-toggle 0px
+
+https://staxs.net/  [iphone]
+  FAIL  iOS zoom trap: input#s at 13px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.mobile_menu_wrapper right=790, div.grecaptcha-badge right=576
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  31 of 60 tap targets under 24px: a#close_mobile_menu 17x40, button 24x18, a#mobile_nav_icon 25x15, a 33x16, a 41x16
+
+https://staxs.net/  [android]
+  FAIL  iOS zoom trap: input#s at 13px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.mobile_menu_wrapper right=793, div.grecaptcha-badge right=579
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  31 of 60 tap targets under 24px: a#close_mobile_menu 17x40, button 24x17, a#mobile_nav_icon 25x15, a 33x16, a 41x16
+
+https://staxs.net/wp-content/uploads/2026/08/239011-NO-PRICES-Paper-Inserts-0826-Stax-Omega-Greenville-SC.pdf  [iphone]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://staxs.net/wp-content/uploads/20
+
+https://staxs.net/wp-content/uploads/2026/08/239011-NO-PRICES-Paper-Inserts-0826-Stax-Omega-Greenville-SC.pdf  [android]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://staxs.net/wp-content/uploads/20
+
+https://www.reggieslive.com/  [iphone]
+  FAIL  iOS zoom trap: input#s at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_1_2.medium at 13px (needs 16px on touch)
+  FAIL  sideways overflow (page pans 400px sideways): div#page.hfeed right=960, header#branding.clearfix right=960, div.container_24 right=960, div.grid_22 right=955, nav#access.clearfix right=915, div.skip-link right=915
+  WARN  306 of 503 tap targets under 24px: a.assistive-text 133x16, a.assistive-text 150x16, a 69x23, a 76x23, a 53x23
+  WARN  490 text elements under 12px: a 10px, a 10px, a 10px, a 10px
+
+https://www.reggieslive.com/  [android]
+  FAIL  iOS zoom trap: input#s at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_1_2.medium at 13px (needs 16px on touch)
+  WARN  306 of 503 tap targets under 24px: a.assistive-text 133x16, a.assistive-text 150x16, a 69x23, a 76x23, a 53x23
+  WARN  490 text elements under 12px: a 10px, a 10px, a 10px, a 10px
+
+https://www.reggieslive.com/menu/  [iphone]
+  FAIL  iOS zoom trap: input#s at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_1_2.medium at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_10_1_3 at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_10_1_6 at 13px (needs 16px on touch)
+  FAIL  sideways overflow (page pans 400px sideways): div#page.hfeed right=960, header#branding.clearfix right=960, div.container_24 right=960, div.grid_22 right=955, nav#access.clearfix right=915, div.skip-link right=915
+  WARN  111 of 245 tap targets under 24px: a.assistive-text 133x16, a.assistive-text 150x16, a 69x23, a 76x23, a 53x23
+  WARN  68 text elements under 12px: a 10px, a 10px, a 10px, a 10px
+
+https://www.reggieslive.com/menu/  [android]
+  FAIL  iOS zoom trap: input#s at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_1_2.medium at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_10_1_3 at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_10_1_6 at 13px (needs 16px on touch)
+  WARN  111 of 245 tap targets under 24px: a.assistive-text 133x16, a.assistive-text 150x16, a 69x23, a 76x23, a 53x23
+  WARN  68 text elements under 12px: a 10px, a 10px, a 10px, a 10px
+
+https://thekingspanj.com/  [iphone]
+  FAIL  iOS zoom trap: input#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-name.field__input at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-email.field__input at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-phone.field__input at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: textarea#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-body.text-area at 13px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): button.search__button right=425, svg right=419, mini-cart#mini-cart.cart-drawer right=402
+  FAIL  dead link: https://thekingspanj.com/customer_authentication/redirect?locale=en&region_country=US answers 406
+  WARN  fixed layer div#sca-p-popup-main-popup-container.sca-p-popup-main-container covers 100% of the screen
+  WARN  20 of 61 tap targets under 24px: a.header__heading-link 88x20, button.search__button 20x20, a.card-information__text 321x20, a.card-information__text 252x20, a 100x21
+  WARN  35 text elements under 12px: span.label 10px, sup.price__suffix 8.4px, sup.price__suffix 10.8px, span.badge 9px
+
+https://thekingspanj.com/  [android]
+  FAIL  iOS zoom trap: input#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-name.field__input at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-email.field__input at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-phone.field__input at 13px (needs 16px on touch)
+  FAIL  iOS zoom trap: textarea#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-body.text-area at 13px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): button.search__button right=428, svg right=422, mini-cart#mini-cart.cart-drawer right=405
+  WARN  18 of 59 tap targets under 24px: a.header__heading-link 88x20, button.search__button 20x20, a.card-information__text 322x20, a.card-information__text 252x20, a 100x21
+  WARN  35 text elements under 12px: span.label 10px, sup.price__suffix 8.4px, sup.price__suffix 10.8px, span.badge 9px
+
+https://thekingspanj.com/pages/food-menu  [iphone]
+  FAIL  iOS zoom trap: input#ContactFooter-email.field__input at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): button.search__button right=425, svg right=419, mini-cart#mini-cart.cart-drawer right=402
+  FAIL  dead link: https://thekingspanj.com/customer_authentication/redirect?locale=en&region_country=US answers 406
+  WARN  fixed layer div#sca-p-popup-main-popup-container.sca-p-popup-main-container covers 100% of the screen
+  WARN  16 of 28 tap targets under 24px: a.header__heading-link 88x20, button.search__button 20x20, a.link 46x20, a.link 55x20, a.link 84x20
+  WARN  7 text elements under 12px: button.search__button 11px, span 9px, span 9px, span 9px
+
+https://thekingspanj.com/pages/food-menu  [android]
+  FAIL  iOS zoom trap: input#ContactFooter-email.field__input at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): button.search__button right=428, svg right=422, mini-cart#mini-cart.cart-drawer right=405
+  WARN  fixed layer div#sca-p-popup-main-popup-container.sca-p-popup-main-container covers 100% of the screen
+  WARN  15 of 26 tap targets under 24px: a.header__heading-link 88x20, button.search__button 20x20, a.link 46x20, a.link 55x20, a.link 84x20
+  WARN  6 text elements under 12px: span 9px, span 9px, span 9px, span 9px
+
+https://www.ponzios.com/  [iphone]
+  WARN  broken image: https://www.ponzios.com/
+  WARN  7 of 40 tap targets under 24px: button.h-2.5 10x10, button.h-2.5 10x10, button.h-2.5 10x10, a 203x22, a 168x22
+
+https://www.ponzios.com/  [android]
+  WARN  broken image: https://www.ponzios.com/
+  WARN  7 of 40 tap targets under 24px: button.h-2.5 10x10, button.h-2.5 10x10, button.h-2.5 10x10, a 203x23, a 168x23
+
+https://www.2foolstavern.com/  [iphone]
+  FAIL  dead link: http://www.affordablehealthcard.com/product/nizagara/ answers 404
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  3 of 43 tap targets under 24px: a 56x15, a 143x15, a 72x13
+  WARN  5 text elements under 12px: div#drugs 0px, div#drugs 0px, span.copyright 11px, a 11px
+
+https://www.2foolstavern.com/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  4 of 43 tap targets under 24px: a 56x15, a 143x15, a 72x12, a 179x12
+  WARN  5 text elements under 12px: div#drugs 0px, div#drugs 0px, span.copyright 11px, a 11px
+
+https://www.2foolstavern.com/menu/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  5 of 21 tap targets under 24px: a 56x15, a 40x19, a.trail-begin 36x15, a 143x15, a 72x13
+  WARN  6 text elements under 12px: span.breadcrumb-title 11px, a.trail-begin 11px, span.trail-end 11px, span.copyright 11px
+
+https://www.2foolstavern.com/menu/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  6 of 21 tap targets under 24px: a 56x15, a 40x18, a.trail-begin 36x15, a 143x15, a 72x12
+  WARN  6 text elements under 12px: span.breadcrumb-title 11px, a.trail-begin 11px, span.trail-end 11px, span.copyright 11px
+
+https://www.gameworks.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): a right=406, div.grecaptcha-badge right=576
+  WARN  2 of 43 tap targets under 24px: a 25x18, a 95x18
+
+https://www.gameworks.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  3 of 43 tap targets under 24px: a 25x14, a 103x14, a 17x30
+
+https://www.gameworks.com/book-event/  [iphone]
+  FAIL  iOS zoom trap: input#lead_first_name.text at 12px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#lead_last_name.text at 12px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#lead_email_address.text at 12px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#lead_phone_number.text at 12px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): a right=406, div.grecaptcha-badge right=576
+  WARN  wrong phone keyboard: email field 'Email Address *' (input#lead_email_address.text) is type=text, needs type=email
+  WARN  wrong phone keyboard: tel field 'Phone Number' (input#lead_phone_number.text) is type=text, needs type=tel
+  WARN  wrong phone keyboard: tel field 'Ext.' (input#lead_phone_number_extension.text) is type=text, needs type=tel
+  WARN  2 of 41 tap targets under 24px: a 25x18, a 95x18
+
+https://www.gameworks.com/book-event/  [android]
+  FAIL  iOS zoom trap: input#lead_first_name.text at 12px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#lead_last_name.text at 12px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#lead_email_address.text at 12px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#lead_phone_number.text at 12px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  wrong phone keyboard: email field 'Email Address *' (input#lead_email_address.text) is type=text, needs type=email
+  WARN  wrong phone keyboard: tel field 'Phone Number' (input#lead_phone_number.text) is type=text, needs type=tel
+  WARN  wrong phone keyboard: tel field 'Ext.' (input#lead_phone_number_extension.text) is type=text, needs type=tel
+  WARN  3 of 41 tap targets under 24px: a 25x14, a 103x14, a 17x30
+
+https://alamocafe.com/  [iphone]
+  WARN  5 of 28 tap targets under 24px: a.arrow-link 167x22, a.arrow-link 164x22, a.arrow-link 228x22, a.arrow-link 140x22, a.arrow-link 157x22
+
+https://alamocafe.com/  [android]
+  WARN  5 of 28 tap targets under 24px: a.arrow-link 167x22, a.arrow-link 164x22, a.arrow-link 228x22, a.arrow-link 140x22, a.arrow-link 157x22
+
+https://craftaxethrowing.com/us/sc/spartanburg  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): a.inline-flex right=406
+  WARN  14 of 73 tap targets under 24px: a.block 108x20, a.flex 302x16, a.text-[var(--color-bone)] 110x20, a.inline-block 69x20, a.text-[var(--color-rust)] 229x20
+  WARN  5 text elements under 12px: dt.uppercase 10px, dt.uppercase 10px, dt.uppercase 10px, dt.uppercase 10px
+
+https://craftaxethrowing.com/us/sc/spartanburg  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): a.inline-flex right=406
+  WARN  14 of 73 tap targets under 24px: a.block 111x20, a.flex 305x16, a.text-[var(--color-bone)] 110x20, a.inline-block 69x20, a.text-[var(--color-rust)] 229x20
+  WARN  5 text elements under 12px: dt.uppercase 10px, dt.uppercase 10px, dt.uppercase 10px, dt.uppercase 10px
+
+https://craftaxethrowing.com/us/sc/spartanburg/gift-cards  [iphone]
+  WARN  3 of 42 tap targets under 24px: a.block 108x20, a.inline-flex 20x44, a.cookie-link 96x18
+  WARN  1 text elements under 12px: p.text-[10px] 10px
+
+https://craftaxethrowing.com/us/sc/spartanburg/gift-cards  [android]
+  WARN  3 of 42 tap targets under 24px: a.block 111x20, a.inline-flex 20x44, a.cookie-link 96x18
+  WARN  1 text elements under 12px: p.text-[10px] 10px
+
+36 page-device rows, 40 FAIL findings

@@ -1,0 +1,17 @@
+To: info@filomena.com
+Subject: I ran UX testing on your website.
+
+#1) On your homepage there is a bug where the "Gift Cards" link at the bottom of the page goes to an error screen that says "Site is not available". Same on your Menu page: the Dinner, Lunch, Desserts and Wine buttons all go to that error screen.
+Those links point at filomena.wpengine.com, an old staging address that is no longer active. The real pages are live on filomena.com (filomena.com/gift-cards/ and filomena.com/dinner/ both load).
+Recommend to your developer that they change every filomena.wpengine.com link to filomena.com.
+
+Forward this email to your website/developer to have them fix the above. 
+
+This was free of charge. No catch. But if interested we do also offer:
+ 
+  - More thorough testing -- $100
+  - Brand / website re-designs -- $500
+  - Anything else you can think of -- Ask me for a quote
+
+Thank you,
+Aidan.

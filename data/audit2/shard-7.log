@@ -1,0 +1,303 @@
+FAIL iphone  https://screendoorrestaurant.com/east-side/
+WARN android https://screendoorrestaurant.com/east-side/
+FAIL iphone  https://screendoorrestaurant.com/menus
+WARN android https://screendoorrestaurant.com/menus
+WARN iphone  https://www.therave.com/main.asp
+WARN android https://www.therave.com/main.asp
+FAIL iphone  https://roundtheclockdiner.com/
+WARN android https://roundtheclockdiner.com/
+WARN iphone  https://roundtheclockdiner.com/cart/
+WARN android https://roundtheclockdiner.com/cart/
+FAIL iphone  https://www.magnoliabakery.com/
+FAIL android https://www.magnoliabakery.com/
+FAIL iphone  https://www.magnoliabakery.com/collections?delivery=Local
+FAIL android https://www.magnoliabakery.com/collections?delivery=Local
+FAIL iphone  https://fivepointspizza.com/
+WARN android https://fivepointspizza.com/
+FAIL iphone  https://fivepointspizza.com/shop/
+WARN android https://fivepointspizza.com/shop/
+WARN iphone  https://hobbitcafehtx.com/
+WARN android https://hobbitcafehtx.com/
+FAIL iphone  https://hobbitcafehtx.com/shop?olsPage=cart
+FAIL android https://hobbitcafehtx.com/shop?olsPage=cart
+FAIL iphone  https://www.edleysbbq.com/locations/12-south
+FAIL android https://www.edleysbbq.com/locations/12-south
+WARN iphone  https://www.edleysbbq.com/order-online-landing-page
+WARN android https://www.edleysbbq.com/order-online-landing-page
+WARN iphone  https://www.thesouthernnashville.com/
+WARN android https://www.thesouthernnashville.com/
+FAIL iphone  https://www.thesouthernnashville.com/reservations-index
+FAIL android https://www.thesouthernnashville.com/reservations-index
+FAIL iphone  https://www.hofbrauhauslasvegas.com/
+FAIL android https://www.hofbrauhauslasvegas.com/
+FAIL iphone  https://www.hofbrauhauslasvegas.com/reservation/
+FAIL android https://www.hofbrauhauslasvegas.com/reservation/
+WARN iphone  https://www.bellasalonandspa.net
+WARN android https://www.bellasalonandspa.net
+FAIL iphone  https://www.bellasalonandspa.net/birthday-gift-registry
+FAIL android https://www.bellasalonandspa.net/birthday-gift-registry
+
+== findings (FAIL and WARN) ==
+
+https://screendoorrestaurant.com/east-side/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+
+https://screendoorrestaurant.com/east-side/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786
+
+https://screendoorrestaurant.com/menus  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+
+https://screendoorrestaurant.com/menus  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786
+
+https://www.therave.com/main.asp  [iphone]
+  WARN  116 of 163 tap targets under 24px: a 51x19, a 49x19, a 47x19, a 85x19, a 103x19
+
+https://www.therave.com/main.asp  [android]
+  WARN  116 of 163 tap targets under 24px: a 52x19, a 49x19, a 47x19, a 85x19, a 103x19
+
+https://roundtheclockdiner.com/  [iphone]
+  FAIL  sideways overflow (page pans 4px sideways): div.progression-masonry-margins right=394, div.progression-menu-masonry3 right=394, div.progression-masonry-item right=394, div.progression-menu-masonry-padding right=394, div.progression-masonry-item right=394, div.progression-menu-masonry-padding right=394
+  WARN  12 of 24 tap targets under 24px: a 105x18, a 359x18, a 41x18, a 95x18, a 106x18
+  WARN  3 text elements under 12px: p 9px, small 11.05px, a 11.05px
+
+https://roundtheclockdiner.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=583
+  WARN  12 of 24 tap targets under 24px: a 105x18, a 362x18, a 41x18, a 95x18, a 106x18
+  WARN  3 text elements under 12px: p 9px, small 11.05px, a 11.05px
+
+https://roundtheclockdiner.com/cart/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  13 of 15 tap targets under 24px: a.home 41x18, a.post 28x18, a 359x18, a 41x18, a 95x18
+  WARN  3 text elements under 12px: p 9px, small 11.05px, a 11.05px
+
+https://roundtheclockdiner.com/cart/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  13 of 15 tap targets under 24px: a.home 41x18, a.post 28x18, a 362x18, a 41x18, a 95x18
+  WARN  3 text elements under 12px: p 9px, small 11.05px, a 11.05px
+
+https://www.magnoliabakery.com/  [iphone]
+  FAIL  iOS zoom trap: input#mobile_dropdown_input.mobile_dropdown_search_box at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ispbxii_1.SearchDrawer__input at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ispbxii_2.SearchDrawer__input at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#SliderCart.SliderCart right=710, div#hs-interactives-modal-overlay.go1632949049 right=394
+  WARN  wrong phone keyboard: tel field 'search' (input#mobile_dropdown_input.mobile_dropdown_search_box) is type=text, needs type=tel
+  WARN  wrong phone keyboard: email field 'Enter Your Email Address' (input#Newsletter.email..Input__field) is type=text, needs type=email
+  WARN  wrong phone keyboard: email field 'Enter Your Email Address' (input#Newsletter.email.2.Input__field) is type=text, needs type=email
+  WARN  autofill disabled: tel field 'search' (input#mobile_dropdown_input.mobile_dropdown_search_box) has autocomplete=OfF
+  WARN  broken image: https://www.magnoliabakery.com/
+  WARN  broken image: https://bat.bing.com/action/0?ti=137017329&Ver=2&mid=f5c8dbd4-65f4-4177-aa1d-b0e2afe9438e&bo=1&sid=77982fc0c1d211f1a043abbec02b4bb5&vid=779851c0c1d211f1a201bf01
+  WARN  broken image: https://lantern.roeye.com/track.php?fingerprint=24ee1c3f-102b-4417-bf6a-48c63863fd0d&referrer=&landingpage=https%3A%2F%2Fwww.magnoliabakery.com%2F&useragent=Moz
+  FAIL  dead link: https://www.ezcater.com/brand/pvt/magnolia-bakery answers 406
+  WARN  fixed layer div#sf-modal-dialog.storefront-sdk-emotion-1fshec4 covers 100% of the screen
+  WARN  fixed layer div#onetrust-banner-sdk.otFloatingRoundedCorner covers 42% of the screen
+  WARN  41 of 208 tap targets under 24px: a.Anchor 92x22, a.Anchor 92x22, a.Pods__button 104x22, button.Newsletter__button-container--button 18x15, button.Newsletter__button-container--button 18x15
+
+https://www.magnoliabakery.com/  [android]
+  FAIL  iOS zoom trap: input#mobile_dropdown_input.mobile_dropdown_search_box at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ispbxii_1.SearchDrawer__input at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ispbxii_2.SearchDrawer__input at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#SliderCart.SliderCart right=713, div#hs-interactives-modal-overlay.go1632949049 right=397
+  WARN  wrong phone keyboard: tel field 'search' (input#mobile_dropdown_input.mobile_dropdown_search_box) is type=text, needs type=tel
+  WARN  wrong phone keyboard: email field 'Enter Your Email Address' (input#Newsletter.email..Input__field) is type=text, needs type=email
+  WARN  wrong phone keyboard: email field 'Enter Your Email Address' (input#Newsletter.email.2.Input__field) is type=text, needs type=email
+  WARN  autofill disabled: tel field 'search' (input#mobile_dropdown_input.mobile_dropdown_search_box) has autocomplete=OfF
+  WARN  broken image: https://bat.bing.com/action/0?ti=137017329&Ver=2&mid=0bd413fb-0224-480d-86a6-d7f6c7fe2c47&bo=1&sid=90a98fb0c1d211f18cc5450496ca404d&vid=90a9c610c1d211f18e6e598e
+  WARN  broken image: https://lantern.roeye.com/track.php?fingerprint=1ffe0a94-7b33-480f-bb7e-df2ba31f8aae&referrer=&landingpage=https%3A%2F%2Fwww.magnoliabakery.com%2F&useragent=Moz
+  WARN  41 of 205 tap targets under 24px: a.Anchor 92x22, a.Anchor 92x22, a.Pods__button 104x22, button.Newsletter__button-container--button 18x15, button.Newsletter__button-container--button 18x15
+
+https://www.magnoliabakery.com/collections?delivery=Local  [iphone]
+  FAIL  iOS zoom trap: input#mobile_dropdown_input.mobile_dropdown_search_box at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ispbxii_1.SearchDrawer__input at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ispbxii_2.SearchDrawer__input at 15px (needs 16px on touch)
+  FAIL  sideways overflow (page pans 10px sideways): div#SliderCart.SliderCart right=710, div.Form__body right=400, button.Button right=410, i.Icon right=408, div#hs-interactives-modal-overlay.go1632949049 right=394
+  WARN  wrong phone keyboard: tel field 'search' (input#mobile_dropdown_input.mobile_dropdown_search_box) is type=text, needs type=tel
+  WARN  wrong phone keyboard: email field 'Enter Your Email Address' (input#Newsletter.email..Input__field) is type=text, needs type=email
+  WARN  wrong phone keyboard: email field 'Enter Your Email Address' (input#Newsletter.email.2.Input__field) is type=text, needs type=email
+  WARN  autofill disabled: tel field 'search' (input#mobile_dropdown_input.mobile_dropdown_search_box) has autocomplete=OfF
+  WARN  broken image: https://www.magnoliabakery.com/collections?delivery=Local
+  WARN  broken image: https://bat.bing.com/action/0?ti=137017329&Ver=2&mid=5da5de43-99be-4824-bd76-cc5a46e4dcc9&bo=1&sid=a9c0e920c1d211f1a4c6c114e902050d&vid=a9c0f750c1d211f1828db3d1
+  WARN  broken image: https://lantern.roeye.com/track.php?fingerprint=9f567954-90c8-4608-84df-a3afe76f4ea8&referrer=&landingpage=https%3A%2F%2Fwww.magnoliabakery.com%2Fcollections%3F
+  FAIL  dead link: https://www.magnoliabakery.com/products/magnolia-bakery-gift-card answers 404
+  FAIL  dead link: https://www.ezcater.com/brand/pvt/magnolia-bakery answers 406
+  WARN  fixed layer div#sf-modal-dialog.storefront-sdk-emotion-1fshec4 covers 100% of the screen
+  WARN  fixed layer div#onetrust-banner-sdk.otFloatingRoundedCorner covers 42% of the screen
+  WARN  46 of 294 tap targets under 24px: a.LocalDeliveryBanner__cta 117x22, a.Anchor 92x22, a.Anchor 92x22, a.Anchor 92x22, a.Anchor 92x22
+  WARN  12 text elements under 12px: span 11px, span 11px, span 11px, span 11px
+
+https://www.magnoliabakery.com/collections?delivery=Local  [android]
+  FAIL  iOS zoom trap: input#mobile_dropdown_input.mobile_dropdown_search_box at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ispbxii_1.SearchDrawer__input at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ispbxii_2.SearchDrawer__input at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#SliderCart.SliderCart right=724, button.Button right=424, i.Icon right=422
+  WARN  wrong phone keyboard: tel field 'search' (input#mobile_dropdown_input.mobile_dropdown_search_box) is type=text, needs type=tel
+  WARN  wrong phone keyboard: email field 'Enter Your Email Address' (input#Newsletter.email..Input__field) is type=text, needs type=email
+  WARN  wrong phone keyboard: email field 'Enter Your Email Address' (input#Newsletter.email.2.Input__field) is type=text, needs type=email
+  WARN  autofill disabled: tel field 'search' (input#mobile_dropdown_input.mobile_dropdown_search_box) has autocomplete=OfF
+  WARN  broken image: https://bat.bing.com/action/0?ti=137017329&Ver=2&mid=5deabae4-1941-4681-b3bd-dbde3a4ef6f1&bo=1&sid=c126b680c1d211f1b6edd705ffbc583e&vid=c126c8e0c1d211f1900acbad
+  WARN  broken image: https://lantern.roeye.com/track.php?fingerprint=f17f15ba-8f02-450c-b932-b163369e3ed6&referrer=&landingpage=https%3A%2F%2Fwww.magnoliabakery.com%2Fcollections%3F
+  WARN  46 of 291 tap targets under 24px: a.LocalDeliveryBanner__cta 117x23, a.Anchor 92x22, a.Anchor 92x22, a.Anchor 92x22, a.Anchor 92x22
+  WARN  12 text elements under 12px: span 11px, span 11px, span 11px, span 11px
+
+https://fivepointspizza.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  dead link: https://www.order.store/store/five-points-pizza-east/E24RbmRrRuOW-G_YNVzJ1Q answers 404
+  FAIL  dead link: https://www.order.store/store/five-points-pizza-west/HnExINH4SgW4RQpxzwlrwg answers 404
+  WARN  1 of 26 tap targets under 24px: a 151x18
+
+https://fivepointspizza.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  1 of 26 tap targets under 24px: a 151x19
+
+https://fivepointspizza.com/shop/  [iphone]
+  FAIL  sideways overflow (page pans 40px sideways): div.grecaptcha-badge right=576
+  FAIL  dead link: https://www.order.store/store/five-points-pizza-east/E24RbmRrRuOW-G_YNVzJ1Q answers 404
+  FAIL  dead link: https://www.order.store/store/five-points-pizza-west/HnExINH4SgW4RQpxzwlrwg answers 404
+
+https://fivepointspizza.com/shop/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=618
+
+https://hobbitcafehtx.com/  [iphone]
+  WARN  3 of 12 tap targets under 24px: a.x-el 105x20, span.x-el 146x20, span.x-el 16x16
+
+https://hobbitcafehtx.com/  [android]
+  WARN  3 of 12 tap targets under 24px: a.x-el 105x20, span.x-el 146x20, span.x-el 16x16
+
+https://hobbitcafehtx.com/shop?olsPage=cart  [iphone]
+  FAIL  HTTP 404
+  WARN  2 of 37 tap targets under 24px: a 57x19, a 86x19
+
+https://hobbitcafehtx.com/shop?olsPage=cart  [android]
+  FAIL  HTTP 404
+  WARN  2 of 37 tap targets under 24px: a 58x18, a 86x18
+
+https://www.edleysbbq.com/locations/12-south  [iphone]
+  FAIL  iOS zoom trap: input#name-yui_3_17_2_1_1553888888520_3744-fname-field.ngonnDl0lqs7ZArA at 15.2032px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#name-yui_3_17_2_1_1553888888520_3744-lname-field.ngonnDl0lqs7ZArA at 15.2032px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#email-yui_3_17_2_1_1553888888520_3745-field.ngonnDl0lqs7ZArA at 15.2032px (needs 16px on touch)
+  FAIL  iOS zoom trap: textarea#textarea-yui_3_17_2_1_1553888888520_3747-field.qj2U4ppWTRohr5rP at 15.2032px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780
+  WARN  autofill disabled: email field 'Email(required)' (input#email-yui_3_17_2_1_1553888888520_3745-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  3 of 25 tap targets under 24px: a 176x18, input#message-field.ngonnDl0lqs7ZArA 22x52, a 103x15
+
+https://www.edleysbbq.com/locations/12-south  [android]
+  FAIL  iOS zoom trap: input#name-yui_3_17_2_1_1553888888520_3744-fname-field.ngonnDl0lqs7ZArA at 15.1276px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#name-yui_3_17_2_1_1553888888520_3744-lname-field.ngonnDl0lqs7ZArA at 15.1276px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#email-yui_3_17_2_1_1553888888520_3745-field.ngonnDl0lqs7ZArA at 15.1276px (needs 16px on touch)
+  FAIL  iOS zoom trap: textarea#textarea-yui_3_17_2_1_1553888888520_3747-field.qj2U4ppWTRohr5rP at 15.1276px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786
+  WARN  autofill disabled: email field 'Email(required)' (input#email-yui_3_17_2_1_1553888888520_3745-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  3 of 25 tap targets under 24px: a 175x19, input#message-field.ngonnDl0lqs7ZArA 22x52, a 103x15
+
+https://www.edleysbbq.com/order-online-landing-page  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780
+  WARN  1 of 23 tap targets under 24px: a 103x15
+
+https://www.edleysbbq.com/order-online-landing-page  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786
+  WARN  1 of 23 tap targets under 24px: a 103x15
+
+https://www.thesouthernnashville.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650, div.grecaptcha-badge right=576
+  WARN  autofill disabled: email field 'Email(required)' (input#email-333ea3bd-c326-44fe-8e98-9c37e7c3dbfa-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  autofill disabled: postal field 'Zip Code(required)' (input#text-258056df-de97-4c35-9de9-1fb096316d57-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div.cky-consent-container covers 43% of the screen
+  WARN  7 of 44 tap targets under 24px: a.Footer-nav-folder-item 127x18, a.Footer-nav-folder-item 204x18, a.Footer-nav-item 105x18, a.Footer-nav-item 80x18, a.Footer-nav-item 96x18
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.thesouthernnashville.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649, div.grecaptcha-badge right=579
+  WARN  autofill disabled: email field 'Email(required)' (input#email-333ea3bd-c326-44fe-8e98-9c37e7c3dbfa-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  autofill disabled: postal field 'Zip Code(required)' (input#text-258056df-de97-4c35-9de9-1fb096316d57-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div.cky-consent-container covers 40% of the screen
+  WARN  7 of 44 tap targets under 24px: a.Footer-nav-folder-item 127x18, a.Footer-nav-folder-item 204x18, a.Footer-nav-item 105x18, a.Footer-nav-item 80x18, a.Footer-nav-item 96x18
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.thesouthernnashville.com/reservations-index  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650, div.grecaptcha-badge right=576
+  WARN  autofill disabled: name field 'First Name, Last Name, Date' (input#text-b47e83df-2db8-4b99-9dea-d78fa02b10db-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  autofill disabled: email field 'Email(required)' (input#email-25412ded-9c61-4553-9292-a10ebb20ccc8-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  autofill disabled: email field 'Email(required)' (input#email-333ea3bd-c326-44fe-8e98-9c37e7c3dbfa-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  FAIL  pageerror: Can't find variable: gtag
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div.cky-consent-container covers 43% of the screen
+  WARN  8 of 42 tap targets under 24px: input#message-field.ngonnDl0lqs7ZArA 22x46, a.Footer-nav-folder-item 127x18, a.Footer-nav-folder-item 204x18, a.Footer-nav-item 105x18, a.Footer-nav-item 80x18
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.thesouthernnashville.com/reservations-index  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649, div.grecaptcha-badge right=579
+  WARN  autofill disabled: name field 'First Name, Last Name, Date' (input#text-b47e83df-2db8-4b99-9dea-d78fa02b10db-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  autofill disabled: email field 'Email(required)' (input#email-25412ded-9c61-4553-9292-a10ebb20ccc8-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  autofill disabled: email field 'Email(required)' (input#email-333ea3bd-c326-44fe-8e98-9c37e7c3dbfa-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  FAIL  pageerror: gtag is not defined
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div.cky-consent-container covers 40% of the screen
+  WARN  8 of 42 tap targets under 24px: input#message-field.ngonnDl0lqs7ZArA 22x46, a.Footer-nav-folder-item 127x18, a.Footer-nav-folder-item 204x18, a.Footer-nav-item 105x18, a.Footer-nav-item 80x18
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.hofbrauhauslasvegas.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650, div.hamburger-menu right=710
+  FAIL  dead link: http://hofbrauhausstg.wpenginepowered.com/affiliates/ answers 404
+  FAIL  dead link: http://hofbrauhausstg.wpenginepowered.com/locations/ answers 404
+  FAIL  pageerror: Unexpected token ']'
+  WARN  fixed layer div.cky-consent-container covers 57% of the screen
+  WARN  31 of 110 tap targets under 24px: a 78x13, button 15x41, button 15x41, button.tns-nav-active 12x12, button 12x12
+  WARN  3 text elements under 12px: a 0px, button 0px, button 0px
+
+https://www.hofbrauhauslasvegas.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649, div.hamburger-menu right=713
+  FAIL  pageerror: Unexpected token ']'
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  31 of 110 tap targets under 24px: a 78x13, button 15x41, button 15x41, button 12x12, button 12x12
+  WARN  3 text elements under 12px: a 0px, button 0px, button 0px
+
+https://www.hofbrauhauslasvegas.com/reservation/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650, div.hamburger-menu right=710
+  FAIL  dead link: http://hofbrauhausstg.wpenginepowered.com/affiliates/ answers 404
+  FAIL  dead link: http://hofbrauhausstg.wpenginepowered.com/locations/ answers 404
+  FAIL  pageerror: Unexpected token ']'
+  WARN  fixed layer div.cky-consent-container covers 57% of the screen
+  WARN  19 of 55 tap targets under 24px: a 78x13, a 279x15, a 38x18, a 42x18, a 92x18
+  WARN  1 text elements under 12px: a 0px
+
+https://www.hofbrauhauslasvegas.com/reservation/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649, div.hamburger-menu right=713
+  FAIL  pageerror: Unexpected token ']'
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  19 of 55 tap targets under 24px: a 78x13, a 279x15, a 38x19, a 42x19, a 92x19
+  WARN  1 text elements under 12px: a 0px
+
+https://www.bellasalonandspa.net  [iphone]
+  WARN  fixed layer iframe#promo_18845.promo covers 100% of the screen
+  WARN  20 of 27 tap targets under 24px: a.u-text-decoration-hover-only 170x22, a.u-text-decoration-hover-only 114x22, a.u-text-decoration-hover-only 182x22, a.u-text-decoration-hover-only 194x22, a.brand__link 107x13
+  WARN  1 text elements under 12px: a.brand__link 11px
+
+https://www.bellasalonandspa.net  [android]
+  WARN  fixed layer iframe#promo_18845.promo covers 100% of the screen
+  WARN  header at y=-388 after scrolling down and back up
+  WARN  20 of 27 tap targets under 24px: a.u-text-decoration-hover-only 170x22, a.u-text-decoration-hover-only 114x22, a.u-text-decoration-hover-only 182x22, a.u-text-decoration-hover-only 194x22, a.brand__link 107x14
+  WARN  1 text elements under 12px: a.brand__link 11px
+
+https://www.bellasalonandspa.net/birthday-gift-registry  [iphone]
+  FAIL  iOS zoom trap: input#textbox-0-0.fb-field-input at 15.066px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#fullname-3-0-firstname.fb-field-input at 15.066px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#fullname-3-0-lastname.fb-field-input at 15.066px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#email-4-0.fb-field-input at 15.066px (needs 16px on touch)
+  WARN  41 of 49 tap targets under 24px: input#checkbox-1-0-0.fb-field-input 12x12, input#checkbox-1-0-1.fb-field-input 12x12, input#checkbox-1-0-2.fb-field-input 12x12, input#checkbox-1-0-3.fb-field-input 12x12, input#checkbox-1-0-4.fb-field-input 12x12
+  WARN  1 text elements under 12px: a.brand__link 11px
+
+https://www.bellasalonandspa.net/birthday-gift-registry  [android]
+  FAIL  iOS zoom trap: input#textbox-0-0.fb-field-input at 15.066px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#fullname-3-0-firstname.fb-field-input at 15.066px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#fullname-3-0-lastname.fb-field-input at 15.066px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#email-4-0.fb-field-input at 15.066px (needs 16px on touch)
+  WARN  header at y=-135 after scrolling down and back up
+  WARN  41 of 49 tap targets under 24px: input#checkbox-1-0-0.fb-field-input 13x13, input#checkbox-1-0-1.fb-field-input 13x13, input#checkbox-1-0-2.fb-field-input 13x13, input#checkbox-1-0-3.fb-field-input 13x13, input#checkbox-1-0-4.fb-field-input 13x13
+  WARN  1 text elements under 12px: a.brand__link 11px
+
+38 page-device rows, 52 FAIL findings

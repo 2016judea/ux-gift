@@ -1,0 +1,17 @@
+To: rasika@rasikarestaurant.com
+Subject: I ran UX testing on your website.
+
+#1) On your Penn Quarter menu page there is a bug where the "Wine List" and "Bar Menu" buttons at the bottom both go to a "page not found" screen.
+They link to two PDFs from 2020 (Winelist-02.24.20.pdf and Rasika-PQ-Bar-Menu-02.22.20.pdf) that are no longer on the server.
+Recommend to your developer that they upload the current wine list and bar menu and re-link both buttons.
+
+Forward this email to your website/developer to have them fix the above. 
+
+This was free of charge. No catch. But if interested we do also offer:
+ 
+  - More thorough testing -- $100
+  - Brand / website re-designs -- $500
+  - Anything else you can think of -- Ask me for a quote
+
+Thank you,
+Aidan.

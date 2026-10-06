@@ -1,0 +1,5709 @@
+[
+ {
+  "url": "https://www.hulahut.com/locations/austin/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 4.9,
+  "meta": "user-scalable=yes, initial-scale=1.0, maximum-scale=10",
+  "vw": 390,
+  "vh": 664,
+  "docH": 1948,
+  "zoomTrap": [],
+  "leaks": [
+   "a right=417"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header#header",
+    "pos": "fixed",
+    "cover": 11
+   },
+   {
+    "el": "a#order-now-mobile.no-link",
+    "pos": "fixed",
+    "cover": 7
+   }
+  ],
+  "targets": 19,
+  "small": 7,
+  "smallList": [
+   "a 181x21",
+   "a 33x21",
+   "a 43x21",
+   "a.hidden-md 119x21",
+   "a.color-brand-gray-dark 91x17"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 544,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.hulahut.com/menu/"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.hulahut.com/menu/"
+   },
+   {
+    "text": "Order Online With DoorDash",
+    "href": "https://www.doordash.com/store/hula-hut-austin-125175/39686756"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725"
+   },
+   {
+    "text": "Order Online With GrubHub",
+    "href": "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783"
+   },
+   {
+    "text": "Order Online With Uber Eats",
+    "href": "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://www.doordash.com/store/hula-hut-austin-125175/39686756"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725"
+   },
+   {
+    "text": "Order Online With GrubHub",
+    "href": "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783"
+   },
+   {
+    "text": "Order Online With Uber Eats",
+    "href": "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ"
+   }
+  ],
+  "allLinks": [
+   "https://www.hulahut.com/locations/austin/#content",
+   "https://www.hulahut.com/",
+   "https://www.hulahut.com/menu/",
+   "https://www.hulahut.com/story/",
+   "https://www.hulahut.com/locations/austin/",
+   "https://www.hulahut.com/locations/austin/events/",
+   "https://www.hulahut.com/locations/austin/#",
+   "https://www.hulahut.com/faqs/",
+   "https://business.facebook.com/HulaHut/",
+   "https://www.instagram.com/hulahutaustin/",
+   "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725",
+   "https://www.hulahut.com/privacy",
+   "https://www.hulahut.com/terms",
+   "https://www.doordash.com/store/hula-hut-austin-125175/39686756",
+   "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783",
+   "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ",
+   "https://www.hulahut.com/locations/austin/#animatedModal"
+  ],
+  "weight": 5609,
+  "title": "Hula Hut | Austin",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1284,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.doordash.com/store/hula-hut-austin-125175/39686756",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-hulahut-com-locations-austin.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): a right=417"
+   ],
+   [
+    "FAIL",
+    "dead link: https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725 answers 404"
+   ],
+   [
+    "WARN",
+    "viewport meta: user-scalable=yes, initial-scale=1.0, maximum-scale=10"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "7 of 19 tap targets under 24px: a 181x21, a 33x21, a 43x21, a.hidden-md 119x21, a.color-brand-gray-dark 91x17"
+   ],
+   [
+    "INFO",
+    "document scrolls, 1948px tall"
+   ]
+  ],
+  "site": "https://www.hulahut.com/locations/austin/",
+  "hop": "https://www.hulahut.com/menu/"
+ },
+ {
+  "url": "https://www.hulahut.com/locations/austin/",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 45.8,
+  "meta": "user-scalable=yes, initial-scale=1.0, maximum-scale=10",
+  "vw": 393,
+  "vh": 727,
+  "docH": 1951,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header#header",
+    "pos": "fixed",
+    "cover": 10
+   },
+   {
+    "el": "a#order-now-mobile.no-link",
+    "pos": "fixed",
+    "cover": 6
+   }
+  ],
+  "targets": 19,
+  "small": 7,
+  "smallList": [
+   "a 181x21",
+   "a 33x21",
+   "a 43x21",
+   "a.hidden-md 119x21",
+   "a.color-brand-gray-dark 92x17"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 549,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.hulahut.com/menu/"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.hulahut.com/menu/"
+   },
+   {
+    "text": "Order Online With DoorDash",
+    "href": "https://www.doordash.com/store/hula-hut-austin-125175/39686756"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725"
+   },
+   {
+    "text": "Order Online With GrubHub",
+    "href": "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783"
+   },
+   {
+    "text": "Order Online With Uber Eats",
+    "href": "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://www.doordash.com/store/hula-hut-austin-125175/39686756"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725"
+   },
+   {
+    "text": "Order Online With GrubHub",
+    "href": "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783"
+   },
+   {
+    "text": "Order Online With Uber Eats",
+    "href": "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ"
+   }
+  ],
+  "allLinks": [
+   "https://www.hulahut.com/locations/austin/#content",
+   "https://www.hulahut.com/",
+   "https://www.hulahut.com/menu/",
+   "https://www.hulahut.com/story/",
+   "https://www.hulahut.com/locations/austin/",
+   "https://www.hulahut.com/locations/austin/events/",
+   "https://www.hulahut.com/locations/austin/#",
+   "https://www.hulahut.com/faqs/",
+   "https://business.facebook.com/HulaHut/",
+   "https://www.instagram.com/hulahutaustin/",
+   "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725",
+   "https://www.hulahut.com/privacy",
+   "https://www.hulahut.com/terms",
+   "https://www.doordash.com/store/hula-hut-austin-125175/39686756",
+   "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783",
+   "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ",
+   "https://www.hulahut.com/locations/austin/#animatedModal"
+  ],
+  "weight": 5216,
+  "title": "Hula Hut | Austin",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1224,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta: user-scalable=yes, initial-scale=1.0, maximum-scale=10"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "7 of 19 tap targets under 24px: a 181x21, a 33x21, a 43x21, a.hidden-md 119x21, a.color-brand-gray-dark 92x17"
+   ],
+   [
+    "INFO",
+    "document scrolls, 1951px tall"
+   ]
+  ],
+  "site": "https://www.hulahut.com/locations/austin/"
+ },
+ {
+  "url": "https://www.hulahut.com/menu/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.2,
+  "meta": "user-scalable=yes, initial-scale=1.0, maximum-scale=10",
+  "vw": 390,
+  "vh": 664,
+  "docH": 18932,
+  "zoomTrap": [],
+  "leaks": [
+   "a right=417"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header#header",
+    "pos": "fixed",
+    "cover": 11
+   },
+   {
+    "el": "a#order-now-mobile.no-link",
+    "pos": "fixed",
+    "cover": 7
+   }
+  ],
+  "targets": 29,
+  "small": 15,
+  "smallList": [
+   "a.menu-nav-anchor 60x15",
+   "a.menu-nav-anchor 103x15",
+   "a.menu-nav-anchor 166x15",
+   "a.menu-nav-anchor 99x15",
+   "a.menu-nav-anchor 105x15"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 12473,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.hulahut.com/menu/"
+   },
+   {
+    "text": "Reservation Request",
+    "href": "https://www.hulahut.com/locations/austin/events/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.hulahut.com/menu/"
+   },
+   {
+    "text": "Order Online With DoorDash",
+    "href": "https://www.doordash.com/store/hula-hut-austin-125175/39686756"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725"
+   },
+   {
+    "text": "Order Online With GrubHub",
+    "href": "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783"
+   },
+   {
+    "text": "Order Online With Uber Eats",
+    "href": "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://www.doordash.com/store/hula-hut-austin-125175/39686756"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725"
+   },
+   {
+    "text": "Order Online With GrubHub",
+    "href": "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783"
+   },
+   {
+    "text": "Order Online With Uber Eats",
+    "href": "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ"
+   }
+  ],
+  "allLinks": [
+   "https://www.hulahut.com/menu/#content",
+   "https://www.hulahut.com/",
+   "https://www.hulahut.com/menu/",
+   "https://www.hulahut.com/story/",
+   "https://www.hulahut.com/locations/austin/",
+   "https://www.hulahut.com/locations/austin/events/",
+   "https://www.hulahut.com/menu/#",
+   "https://www.hulahut.com/faqs/",
+   "https://www.hulahut.com/menu/#sides",
+   "https://www.hulahut.com/menu/#salads",
+   "https://www.hulahut.com/menu/#big-island-burgers-sandwiches",
+   "https://www.hulahut.com/menu/#five-o-fajitas",
+   "https://www.hulahut.com/menu/#tubular-tacos",
+   "https://www.hulahut.com/menu/#soft-tacos",
+   "https://www.hulahut.com/menu/#pipeline-enchiladas",
+   "https://www.hulahut.com/menu/#luau-dinners",
+   "https://www.hulahut.com/menu/#pu-pu-platters",
+   "https://www.hulahut.com/menu/#sides-2",
+   "https://www.hulahut.com/menu/#desserts",
+   "https://www.hulahut.com/menu/#house-favorites",
+   "https://www.hulahut.com/menu/#animatedModal",
+   "https://vimeo.com/272991467",
+   "https://business.facebook.com/HulaHut/",
+   "https://www.instagram.com/hulahutaustin/",
+   "https://www.hulahut.com/privacy",
+   "https://www.hulahut.com/terms",
+   "https://www.doordash.com/store/hula-hut-austin-125175/39686756",
+   "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725",
+   "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783",
+   "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ"
+  ],
+  "weight": 11757,
+  "title": "Hula Hut | Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 18268,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 390,
+  "deadLinks": [
+   {
+    "href": "https://www.doordash.com/store/hula-hut-austin-125175/39686756",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-hulahut-com-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "sideways overflow (page pans 390px sideways): a right=417"
+   ],
+   [
+    "FAIL",
+    "dead link: https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725 answers 404"
+   ],
+   [
+    "WARN",
+    "viewport meta: user-scalable=yes, initial-scale=1.0, maximum-scale=10"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "15 of 29 tap targets under 24px: a.menu-nav-anchor 60x15, a.menu-nav-anchor 103x15, a.menu-nav-anchor 166x15, a.menu-nav-anchor 99x15, a.menu-nav-anchor 105x15"
+   ],
+   [
+    "INFO",
+    "document scrolls, 18932px tall"
+   ]
+  ],
+  "site": "https://www.hulahut.com/locations/austin/"
+ },
+ {
+  "url": "https://www.hulahut.com/menu/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.2,
+  "meta": "user-scalable=yes, initial-scale=1.0, maximum-scale=10",
+  "vw": 393,
+  "vh": 727,
+  "docH": 18778,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header#header",
+    "pos": "fixed",
+    "cover": 10
+   },
+   {
+    "el": "a#order-now-mobile.no-link",
+    "pos": "fixed",
+    "cover": 6
+   }
+  ],
+  "targets": 29,
+  "small": 15,
+  "smallList": [
+   "a.menu-nav-anchor 60x15",
+   "a.menu-nav-anchor 103x15",
+   "a.menu-nav-anchor 166x15",
+   "a.menu-nav-anchor 99x15",
+   "a.menu-nav-anchor 105x15"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 12547,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.hulahut.com/menu/"
+   },
+   {
+    "text": "Reservation Request",
+    "href": "https://www.hulahut.com/locations/austin/events/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.hulahut.com/menu/"
+   },
+   {
+    "text": "Order Online With DoorDash",
+    "href": "https://www.doordash.com/store/hula-hut-austin-125175/39686756"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725"
+   },
+   {
+    "text": "Order Online With GrubHub",
+    "href": "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783"
+   },
+   {
+    "text": "Order Online With Uber Eats",
+    "href": "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://www.doordash.com/store/hula-hut-austin-125175/39686756"
+   },
+   {
+    "text": "Order Online With Favor",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725"
+   },
+   {
+    "text": "Order Online With GrubHub",
+    "href": "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783"
+   },
+   {
+    "text": "Order Online With Uber Eats",
+    "href": "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ"
+   }
+  ],
+  "allLinks": [
+   "https://www.hulahut.com/menu/#content",
+   "https://www.hulahut.com/",
+   "https://www.hulahut.com/menu/",
+   "https://www.hulahut.com/story/",
+   "https://www.hulahut.com/locations/austin/",
+   "https://www.hulahut.com/locations/austin/events/",
+   "https://www.hulahut.com/menu/#",
+   "https://www.hulahut.com/faqs/",
+   "https://www.hulahut.com/menu/#sides",
+   "https://www.hulahut.com/menu/#salads",
+   "https://www.hulahut.com/menu/#big-island-burgers-sandwiches",
+   "https://www.hulahut.com/menu/#five-o-fajitas",
+   "https://www.hulahut.com/menu/#tubular-tacos",
+   "https://www.hulahut.com/menu/#soft-tacos",
+   "https://www.hulahut.com/menu/#pipeline-enchiladas",
+   "https://www.hulahut.com/menu/#luau-dinners",
+   "https://www.hulahut.com/menu/#pu-pu-platters",
+   "https://www.hulahut.com/menu/#sides-2",
+   "https://www.hulahut.com/menu/#desserts",
+   "https://www.hulahut.com/menu/#house-favorites",
+   "https://www.hulahut.com/menu/#animatedModal",
+   "https://vimeo.com/272991467",
+   "https://business.facebook.com/HulaHut/",
+   "https://www.instagram.com/hulahutaustin/",
+   "https://www.hulahut.com/privacy",
+   "https://www.hulahut.com/terms",
+   "https://www.doordash.com/store/hula-hut-austin-125175/39686756",
+   "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725",
+   "https://www.grubhub.com/restaurant/hula-hut-3825-lake-austin-blvd-austin/1167783",
+   "https://www.ubereats.com/en-US/austin/food-delivery/hula-hut/XRtm1czmQX-adK5_C4xSRQ"
+  ],
+  "weight": 11730,
+  "title": "Hula Hut | Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 18051,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta: user-scalable=yes, initial-scale=1.0, maximum-scale=10"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "15 of 29 tap targets under 24px: a.menu-nav-anchor 60x15, a.menu-nav-anchor 103x15, a.menu-nav-anchor 166x15, a.menu-nav-anchor 99x15, a.menu-nav-anchor 105x15"
+   ],
+   [
+    "INFO",
+    "document scrolls, 18778px tall"
+   ]
+  ],
+  "site": "https://www.hulahut.com/locations/austin/"
+ },
+ {
+  "url": "https://ameliesfrenchbakery.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.4,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 10794,
+  "zoomTrap": [],
+  "leaks": [
+   "div.has_ae_slider right=394",
+   "div.elementor-element right=394",
+   "img.attachment-full right=394"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header.has_ae_slider",
+    "pos": "fixed",
+    "cover": 16
+   }
+  ],
+  "targets": 19,
+  "small": 1,
+  "smallList": [
+   "div 18x20"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 73,
+  "headTag": "header.elementor",
+  "textLen": 762,
+  "fields": [
+   {
+    "el": "input#form-field-email.elementor-field",
+    "type": "email",
+    "name": "form_fields[email]",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email Address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "shop",
+    "href": "https://ameliesfrenchbakery.com/shop/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://ameliesfrenchbakery.com/gift-cards/"
+   },
+   {
+    "text": "Corporate Gifting",
+    "href": "https://ameliesfrenchbakery.com/corporate-gifting/"
+   },
+   {
+    "text": "shop",
+    "href": "https://ameliesfrenchbakery.com/shop/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://ameliesfrenchbakery.com/gift-cards/"
+   },
+   {
+    "text": "Corporate Gifting",
+    "href": "https://ameliesfrenchbakery.com/corporate-gifting/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/menu/"
+   },
+   {
+    "text": "In-House Event Menu",
+    "href": "https://ameliesfrenchbakery.com/wp-content/uploads/2026/03/Amelies-In-house-Event-Menu-2026.1.pdf"
+   },
+   {
+    "text": "Catering Menu",
+    "href": "https://ameliesfrenchbakery.com/amelies-catering-menu/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/noda-charlotte-nc/menu/"
+   },
+   {
+    "text": "Park Road Shopping Center \u2013 Charlotte, N",
+    "href": "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/menu/"
+   }
+  ],
+  "allLinks": [
+   "https://ameliesfrenchbakery.com/#content",
+   "https://ameliesfrenchbakery.com/about-us/",
+   "https://ameliesfrenchbakery.com/about-us#ourstory",
+   "https://ameliesfrenchbakery.com/meet-the-team/",
+   "https://ameliesfrenchbakery.com/testimonials/",
+   "https://ameliesfrenchbakery.com/press-awards/",
+   "https://ameliesfrenchbakery.com/shop/",
+   "https://ameliesfrenchbakery.com/cakes/",
+   "https://ameliesfrenchbakery.com/macaron-shop-page/",
+   "https://ameliesfrenchbakery.com/gift-cards/",
+   "https://ameliesfrenchbakery.com/swag-merchandise/",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/",
+   "https://ameliesfrenchbakery.com/catering/",
+   "https://ameliesfrenchbakery.com/private-event-spaces/",
+   "https://ameliesfrenchbakery.com/corporate-gifting/",
+   "https://ameliesfrenchbakery.com/",
+   "https://ameliesfrenchbakery.com/menu/",
+   "https://ameliesfrenchbakery.com/menu/seasonal-offerings/",
+   "https://ameliesfrenchbakery.com/macarons-magic/",
+   "https://ameliesfrenchbakery.com/sweet-affairs/",
+   "https://ameliesfrenchbakery.com/savory-escapes/",
+   "https://ameliesfrenchbakery.com/tarts-quiches-platters/",
+   "https://ameliesfrenchbakery.com/sips-and-sighs/",
+   "https://ameliesfrenchbakery.com/wp-content/uploads/2026/03/Amelies-In-house-Event-Menu-2026.1.pdf",
+   "https://ameliesfrenchbakery.com/amelies-catering-menu/",
+   "https://ameliesfrenchbakery.com/locations/",
+   "https://ameliesfrenchbakery.com/noda-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/noda-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-noda/",
+   "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-park-road-shopping-center-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/carmel-commons-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/carmel-commons-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-carmel-commons-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/rock-hill-sc/",
+   "https://ameliesfrenchbakery.com/rock-hill-sc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-rock-hill-sc/",
+   "https://ameliesfrenchbakery.com/uptown-charlotte/",
+   "https://ameliesfrenchbakery.com/uptown-charlotte/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-uptown/",
+   "https://ameliesfrenchbakery.com/plaza-midwood/",
+   "https://ameliesfrenchbakery.com/plaza-midwood/menu/",
+   "https://ameliesfrenchbakery.com/contact-us/",
+   "https://ameliesfrenchbakery.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU4MDgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "https://ameliesfrenchbakery.com/cart/",
+   "https://ameliesfrenchbakery.com/checkout/",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#cateringataglance",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#eventgatherings-main",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#corporategifting",
+   "https://order.toasttab.com/egiftcards/amelies-french-bakery-carmel-commons-7715-pineville-matthews-road-space-34b",
+   "https://ameliesfrenchbakery.com/faq/",
+   "https://ameliesfrenchbakery.com/gallery-plaza-midwood/",
+   "https://ameliesfrenchbakery.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjYwNzciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "https://www.facebook.com/profile.php?id=61563101983444",
+   "https://www.instagram.com/ameliesfrenchbakery/",
+   "https://www.tiktok.com/@ameliesfrenchbakery",
+   "https://ameliesfrenchbakery.com/privacy-policy/",
+   "https://ameliesfrenchbakery.com/terms-and-conditions/",
+   "https://ameliesfrenchbakery.com/cookie-policy/",
+   "https://order.toasttab.com/online/amelies-french-bakery-noda-136-e-36th-street",
+   "https://order.toasttab.com/online/amelies-french-bakery-carmel-commons-7715-pineville-matthews-road-space-34b",
+   "https://order.toasttab.com/online/amelies-french-bakery-park-road-4321-park-road",
+   "https://order.toasttab.com/online/amelies-french-bakery-central",
+   "https://order.toasttab.com/online/amelies-french-bakery-rock-hill-157-e-main-street",
+   "https://order.toasttab.com/online/amelies-french-bakery-uptown-380-south-college-street"
+  ],
+  "weight": 212774,
+  "title": "Am\u00e9lie's French Bakery & Caf\u00e9 | Charlotte & Rock Hill",
+  "roundtrip": {
+   "atBottom": {
+    "y": 10130,
+    "inner": 640
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 73
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-ameliesfrenchbakery-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.has_ae_slider right=394, div.elementor-element right=394, img.attachment-full right=394"
+   ],
+   [
+    "WARN",
+    "1 of 19 tap targets under 24px: div 18x20"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10794px tall"
+   ]
+  ],
+  "site": "https://ameliesfrenchbakery.com/",
+  "hop": "https://ameliesfrenchbakery.com/shop/"
+ },
+ {
+  "url": "https://ameliesfrenchbakery.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 1.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 10790,
+  "zoomTrap": [],
+  "leaks": [
+   "div.has_ae_slider right=397",
+   "div.elementor-element right=397",
+   "img.attachment-full right=397"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header.has_ae_slider",
+    "pos": "fixed",
+    "cover": 14
+   }
+  ],
+  "targets": 19,
+  "small": 1,
+  "smallList": [
+   "div 18x20"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 73,
+  "headTag": "header.elementor",
+  "textLen": 737,
+  "fields": [
+   {
+    "el": "input#form-field-email.elementor-field",
+    "type": "email",
+    "name": "form_fields[email]",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email Address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "shop",
+    "href": "https://ameliesfrenchbakery.com/shop/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://ameliesfrenchbakery.com/gift-cards/"
+   },
+   {
+    "text": "Corporate Gifting",
+    "href": "https://ameliesfrenchbakery.com/corporate-gifting/"
+   },
+   {
+    "text": "shop",
+    "href": "https://ameliesfrenchbakery.com/shop/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://ameliesfrenchbakery.com/gift-cards/"
+   },
+   {
+    "text": "Corporate Gifting",
+    "href": "https://ameliesfrenchbakery.com/corporate-gifting/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/menu/"
+   },
+   {
+    "text": "In-House Event Menu",
+    "href": "https://ameliesfrenchbakery.com/wp-content/uploads/2026/03/Amelies-In-house-Event-Menu-2026.1.pdf"
+   },
+   {
+    "text": "Catering Menu",
+    "href": "https://ameliesfrenchbakery.com/amelies-catering-menu/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/noda-charlotte-nc/menu/"
+   },
+   {
+    "text": "Park Road Shopping Center \u2013 Charlotte, N",
+    "href": "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/menu/"
+   }
+  ],
+  "allLinks": [
+   "https://ameliesfrenchbakery.com/#content",
+   "https://ameliesfrenchbakery.com/about-us/",
+   "https://ameliesfrenchbakery.com/about-us#ourstory",
+   "https://ameliesfrenchbakery.com/meet-the-team/",
+   "https://ameliesfrenchbakery.com/testimonials/",
+   "https://ameliesfrenchbakery.com/press-awards/",
+   "https://ameliesfrenchbakery.com/shop/",
+   "https://ameliesfrenchbakery.com/cakes/",
+   "https://ameliesfrenchbakery.com/macaron-shop-page/",
+   "https://ameliesfrenchbakery.com/gift-cards/",
+   "https://ameliesfrenchbakery.com/swag-merchandise/",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/",
+   "https://ameliesfrenchbakery.com/catering/",
+   "https://ameliesfrenchbakery.com/private-event-spaces/",
+   "https://ameliesfrenchbakery.com/corporate-gifting/",
+   "https://ameliesfrenchbakery.com/",
+   "https://ameliesfrenchbakery.com/menu/",
+   "https://ameliesfrenchbakery.com/menu/seasonal-offerings/",
+   "https://ameliesfrenchbakery.com/macarons-magic/",
+   "https://ameliesfrenchbakery.com/sweet-affairs/",
+   "https://ameliesfrenchbakery.com/savory-escapes/",
+   "https://ameliesfrenchbakery.com/tarts-quiches-platters/",
+   "https://ameliesfrenchbakery.com/sips-and-sighs/",
+   "https://ameliesfrenchbakery.com/wp-content/uploads/2026/03/Amelies-In-house-Event-Menu-2026.1.pdf",
+   "https://ameliesfrenchbakery.com/amelies-catering-menu/",
+   "https://ameliesfrenchbakery.com/locations/",
+   "https://ameliesfrenchbakery.com/noda-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/noda-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-noda/",
+   "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-park-road-shopping-center-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/carmel-commons-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/carmel-commons-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-carmel-commons-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/rock-hill-sc/",
+   "https://ameliesfrenchbakery.com/rock-hill-sc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-rock-hill-sc/",
+   "https://ameliesfrenchbakery.com/uptown-charlotte/",
+   "https://ameliesfrenchbakery.com/uptown-charlotte/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-uptown/",
+   "https://ameliesfrenchbakery.com/plaza-midwood/",
+   "https://ameliesfrenchbakery.com/plaza-midwood/menu/",
+   "https://ameliesfrenchbakery.com/contact-us/",
+   "https://ameliesfrenchbakery.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU4MDgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "https://ameliesfrenchbakery.com/cart/",
+   "https://ameliesfrenchbakery.com/checkout/",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#cateringataglance",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#eventgatherings-main",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#corporategifting",
+   "https://order.toasttab.com/egiftcards/amelies-french-bakery-carmel-commons-7715-pineville-matthews-road-space-34b",
+   "https://ameliesfrenchbakery.com/faq/",
+   "https://ameliesfrenchbakery.com/gallery-plaza-midwood/",
+   "https://ameliesfrenchbakery.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjYwNzciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "https://www.facebook.com/profile.php?id=61563101983444",
+   "https://www.instagram.com/ameliesfrenchbakery/",
+   "https://www.tiktok.com/@ameliesfrenchbakery",
+   "https://ameliesfrenchbakery.com/privacy-policy/",
+   "https://ameliesfrenchbakery.com/terms-and-conditions/",
+   "https://ameliesfrenchbakery.com/cookie-policy/",
+   "https://order.toasttab.com/online/amelies-french-bakery-noda-136-e-36th-street",
+   "https://order.toasttab.com/online/amelies-french-bakery-carmel-commons-7715-pineville-matthews-road-space-34b",
+   "https://order.toasttab.com/online/amelies-french-bakery-park-road-4321-park-road",
+   "https://order.toasttab.com/online/amelies-french-bakery-central",
+   "https://order.toasttab.com/online/amelies-french-bakery-rock-hill-157-e-main-street",
+   "https://order.toasttab.com/online/amelies-french-bakery-uptown-380-south-college-street"
+  ],
+  "weight": 212522,
+  "title": "Am\u00e9lie's French Bakery & Caf\u00e9 | Charlotte & Rock Hill",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1147,
+    "inner": 577
+   },
+   "backY": 288,
+   "backInner": 0,
+   "headTop": -215
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.has_ae_slider right=397, div.elementor-element right=397, img.attachment-full right=397"
+   ],
+   [
+    "WARN",
+    "header at y=-215 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "1 of 19 tap targets under 24px: div 18x20"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10790px tall"
+   ]
+  ],
+  "site": "https://ameliesfrenchbakery.com/"
+ },
+ {
+  "url": "https://ameliesfrenchbakery.com/shop/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 1.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 13094,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header.has_ae_slider",
+    "pos": "fixed",
+    "cover": 16
+   }
+  ],
+  "targets": 33,
+  "small": 3,
+  "smallList": [
+   "div 18x20",
+   "a.woocommerce-LoopProduct-link 310x21",
+   "a.woocommerce-LoopProduct-link 261x24"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 73,
+  "headTag": "header.elementor",
+  "textLen": 1631,
+  "fields": [
+   {
+    "el": "input#form-field-email.elementor-field",
+    "type": "email",
+    "name": "form_fields[email]",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email Address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "shop",
+    "href": "https://ameliesfrenchbakery.com/shop/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://ameliesfrenchbakery.com/gift-cards/"
+   },
+   {
+    "text": "Corporate Gifting",
+    "href": "https://ameliesfrenchbakery.com/corporate-gifting/"
+   },
+   {
+    "text": "shop",
+    "href": "https://ameliesfrenchbakery.com/shop/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://ameliesfrenchbakery.com/gift-cards/"
+   },
+   {
+    "text": "Corporate Gifting",
+    "href": "https://ameliesfrenchbakery.com/corporate-gifting/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/menu/"
+   },
+   {
+    "text": "In-House Event Menu",
+    "href": "https://ameliesfrenchbakery.com/wp-content/uploads/2026/03/Amelies-In-house-Event-Menu-2026.1.pdf"
+   },
+   {
+    "text": "Catering Menu",
+    "href": "https://ameliesfrenchbakery.com/amelies-catering-menu/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/noda-charlotte-nc/menu/"
+   },
+   {
+    "text": "Park Road Shopping Center \u2013 Charlotte, N",
+    "href": "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/menu/"
+   }
+  ],
+  "allLinks": [
+   "https://ameliesfrenchbakery.com/shop/#content",
+   "https://ameliesfrenchbakery.com/about-us/",
+   "https://ameliesfrenchbakery.com/about-us#ourstory",
+   "https://ameliesfrenchbakery.com/meet-the-team/",
+   "https://ameliesfrenchbakery.com/testimonials/",
+   "https://ameliesfrenchbakery.com/press-awards/",
+   "https://ameliesfrenchbakery.com/shop/",
+   "https://ameliesfrenchbakery.com/cakes/",
+   "https://ameliesfrenchbakery.com/macaron-shop-page/",
+   "https://ameliesfrenchbakery.com/gift-cards/",
+   "https://ameliesfrenchbakery.com/swag-merchandise/",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/",
+   "https://ameliesfrenchbakery.com/catering/",
+   "https://ameliesfrenchbakery.com/private-event-spaces/",
+   "https://ameliesfrenchbakery.com/corporate-gifting/",
+   "https://ameliesfrenchbakery.com/",
+   "https://ameliesfrenchbakery.com/menu/",
+   "https://ameliesfrenchbakery.com/menu/seasonal-offerings/",
+   "https://ameliesfrenchbakery.com/macarons-magic/",
+   "https://ameliesfrenchbakery.com/sweet-affairs/",
+   "https://ameliesfrenchbakery.com/savory-escapes/",
+   "https://ameliesfrenchbakery.com/tarts-quiches-platters/",
+   "https://ameliesfrenchbakery.com/sips-and-sighs/",
+   "https://ameliesfrenchbakery.com/wp-content/uploads/2026/03/Amelies-In-house-Event-Menu-2026.1.pdf",
+   "https://ameliesfrenchbakery.com/amelies-catering-menu/",
+   "https://ameliesfrenchbakery.com/locations/",
+   "https://ameliesfrenchbakery.com/noda-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/noda-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-noda/",
+   "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-park-road-shopping-center-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/carmel-commons-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/carmel-commons-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-carmel-commons-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/rock-hill-sc/",
+   "https://ameliesfrenchbakery.com/rock-hill-sc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-rock-hill-sc/",
+   "https://ameliesfrenchbakery.com/uptown-charlotte/",
+   "https://ameliesfrenchbakery.com/uptown-charlotte/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-uptown/",
+   "https://ameliesfrenchbakery.com/plaza-midwood/",
+   "https://ameliesfrenchbakery.com/plaza-midwood/menu/",
+   "https://ameliesfrenchbakery.com/contact-us/",
+   "https://ameliesfrenchbakery.com/shop/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU4MDgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "https://ameliesfrenchbakery.com/cart/",
+   "https://ameliesfrenchbakery.com/checkout/",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#cateringataglance",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#eventgatherings-main",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#corporategifting",
+   "https://ameliesfrenchbakery.com/product/french-macaron-custom-box/",
+   "https://ameliesfrenchbakery.com/product/personal-notecard/",
+   "https://ameliesfrenchbakery.com/product/greetings-from-t-shirt/",
+   "https://ameliesfrenchbakery.com/product/chandelier-mug/",
+   "https://ameliesfrenchbakery.com/shop/?add-to-cart=3006",
+   "https://ameliesfrenchbakery.com/product/madame-croissant-mug/",
+   "https://ameliesfrenchbakery.com/shop/?add-to-cart=3008",
+   "https://ameliesfrenchbakery.com/product/pardon-my-french-mug/",
+   "https://ameliesfrenchbakery.com/shop/?add-to-cart=3010",
+   "https://ameliesfrenchbakery.com/product/blue-insulated-tumbler/",
+   "https://ameliesfrenchbakery.com/shop/?add-to-cart=3012",
+   "https://ameliesfrenchbakery.com/product/gift-card/",
+   "https://order.toasttab.com/egiftcards/amelies-french-bakery-carmel-commons-7715-pineville-matthews-road-space-34b",
+   "https://ameliesfrenchbakery.com/product/amelies-charlotte-cooler-bag/",
+   "https://ameliesfrenchbakery.com/shop/?add-to-cart=11888",
+   "https://ameliesfrenchbakery.com/product/cakes/",
+   "https://ameliesfrenchbakery.com/faq/",
+   "https://ameliesfrenchbakery.com/gallery-plaza-midwood/",
+   "https://ameliesfrenchbakery.com/shop/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjYwNzciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "https://www.facebook.com/profile.php?id=61563101983444",
+   "https://www.instagram.com/ameliesfrenchbakery/",
+   "https://www.tiktok.com/@ameliesfrenchbakery",
+   "https://ameliesfrenchbakery.com/privacy-policy/",
+   "https://ameliesfrenchbakery.com/terms-and-conditions/",
+   "https://ameliesfrenchbakery.com/cookie-policy/",
+   "https://order.toasttab.com/online/amelies-french-bakery-noda-136-e-36th-street",
+   "https://order.toasttab.com/online/amelies-french-bakery-carmel-commons-7715-pineville-matthews-road-space-34b",
+   "https://order.toasttab.com/online/amelies-french-bakery-park-road-4321-park-road",
+   "https://order.toasttab.com/online/amelies-french-bakery-central",
+   "https://order.toasttab.com/online/amelies-french-bakery-rock-hill-157-e-main-street"
+  ],
+  "weight": 215185,
+  "title": "Shop Online | Am\u00e9lie's French Bakery Charlotte",
+  "roundtrip": {
+   "atBottom": {
+    "y": 12430,
+    "inner": 640
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 73
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-ameliesfrenchbakery-com-shop.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "3 of 33 tap targets under 24px: div 18x20, a.woocommerce-LoopProduct-link 310x21, a.woocommerce-LoopProduct-link 261x24"
+   ],
+   [
+    "INFO",
+    "document scrolls, 13094px tall"
+   ]
+  ],
+  "site": "https://ameliesfrenchbakery.com/"
+ },
+ {
+  "url": "https://ameliesfrenchbakery.com/shop/",
+  "device": "android",
+  "status": 200,
+  "load_s": 1.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 12893,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header.has_ae_slider",
+    "pos": "fixed",
+    "cover": 14
+   }
+  ],
+  "targets": 33,
+  "small": 2,
+  "smallList": [
+   "div 18x20",
+   "a.woocommerce-LoopProduct-link 313x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 73,
+  "headTag": "header.elementor",
+  "textLen": 1596,
+  "fields": [
+   {
+    "el": "input#form-field-email.elementor-field",
+    "type": "email",
+    "name": "form_fields[email]",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email Address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "shop",
+    "href": "https://ameliesfrenchbakery.com/shop/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://ameliesfrenchbakery.com/gift-cards/"
+   },
+   {
+    "text": "Corporate Gifting",
+    "href": "https://ameliesfrenchbakery.com/corporate-gifting/"
+   },
+   {
+    "text": "shop",
+    "href": "https://ameliesfrenchbakery.com/shop/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://ameliesfrenchbakery.com/gift-cards/"
+   },
+   {
+    "text": "Corporate Gifting",
+    "href": "https://ameliesfrenchbakery.com/corporate-gifting/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/menu/"
+   },
+   {
+    "text": "In-House Event Menu",
+    "href": "https://ameliesfrenchbakery.com/wp-content/uploads/2026/03/Amelies-In-house-Event-Menu-2026.1.pdf"
+   },
+   {
+    "text": "Catering Menu",
+    "href": "https://ameliesfrenchbakery.com/amelies-catering-menu/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/noda-charlotte-nc/menu/"
+   },
+   {
+    "text": "Park Road Shopping Center \u2013 Charlotte, N",
+    "href": "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/menu/"
+   }
+  ],
+  "allLinks": [
+   "https://ameliesfrenchbakery.com/shop/#content",
+   "https://ameliesfrenchbakery.com/about-us/",
+   "https://ameliesfrenchbakery.com/about-us#ourstory",
+   "https://ameliesfrenchbakery.com/meet-the-team/",
+   "https://ameliesfrenchbakery.com/testimonials/",
+   "https://ameliesfrenchbakery.com/press-awards/",
+   "https://ameliesfrenchbakery.com/shop/",
+   "https://ameliesfrenchbakery.com/cakes/",
+   "https://ameliesfrenchbakery.com/macaron-shop-page/",
+   "https://ameliesfrenchbakery.com/gift-cards/",
+   "https://ameliesfrenchbakery.com/swag-merchandise/",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/",
+   "https://ameliesfrenchbakery.com/catering/",
+   "https://ameliesfrenchbakery.com/private-event-spaces/",
+   "https://ameliesfrenchbakery.com/corporate-gifting/",
+   "https://ameliesfrenchbakery.com/",
+   "https://ameliesfrenchbakery.com/menu/",
+   "https://ameliesfrenchbakery.com/menu/seasonal-offerings/",
+   "https://ameliesfrenchbakery.com/macarons-magic/",
+   "https://ameliesfrenchbakery.com/sweet-affairs/",
+   "https://ameliesfrenchbakery.com/savory-escapes/",
+   "https://ameliesfrenchbakery.com/tarts-quiches-platters/",
+   "https://ameliesfrenchbakery.com/sips-and-sighs/",
+   "https://ameliesfrenchbakery.com/wp-content/uploads/2026/03/Amelies-In-house-Event-Menu-2026.1.pdf",
+   "https://ameliesfrenchbakery.com/amelies-catering-menu/",
+   "https://ameliesfrenchbakery.com/locations/",
+   "https://ameliesfrenchbakery.com/noda-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/noda-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-noda/",
+   "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/park-road-shopping-center-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-park-road-shopping-center-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/carmel-commons-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/carmel-commons-charlotte-nc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-carmel-commons-charlotte-nc/",
+   "https://ameliesfrenchbakery.com/rock-hill-sc/",
+   "https://ameliesfrenchbakery.com/rock-hill-sc/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-rock-hill-sc/",
+   "https://ameliesfrenchbakery.com/uptown-charlotte/",
+   "https://ameliesfrenchbakery.com/uptown-charlotte/menu/",
+   "https://ameliesfrenchbakery.com/gallery-amelies-uptown/",
+   "https://ameliesfrenchbakery.com/plaza-midwood/",
+   "https://ameliesfrenchbakery.com/plaza-midwood/menu/",
+   "https://ameliesfrenchbakery.com/contact-us/",
+   "https://ameliesfrenchbakery.com/shop/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU4MDgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "https://ameliesfrenchbakery.com/cart/",
+   "https://ameliesfrenchbakery.com/checkout/",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#cateringataglance",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#eventgatherings-main",
+   "https://ameliesfrenchbakery.com/catering-events-bring-the-whimsy-to-your-table/#corporategifting",
+   "https://ameliesfrenchbakery.com/product/french-macaron-custom-box/",
+   "https://ameliesfrenchbakery.com/product/personal-notecard/",
+   "https://ameliesfrenchbakery.com/product/greetings-from-t-shirt/",
+   "https://ameliesfrenchbakery.com/product/chandelier-mug/",
+   "https://ameliesfrenchbakery.com/shop/?add-to-cart=3006",
+   "https://ameliesfrenchbakery.com/product/madame-croissant-mug/",
+   "https://ameliesfrenchbakery.com/shop/?add-to-cart=3008",
+   "https://ameliesfrenchbakery.com/product/pardon-my-french-mug/",
+   "https://ameliesfrenchbakery.com/shop/?add-to-cart=3010",
+   "https://ameliesfrenchbakery.com/product/blue-insulated-tumbler/",
+   "https://ameliesfrenchbakery.com/shop/?add-to-cart=3012",
+   "https://ameliesfrenchbakery.com/product/gift-card/",
+   "https://order.toasttab.com/egiftcards/amelies-french-bakery-carmel-commons-7715-pineville-matthews-road-space-34b",
+   "https://ameliesfrenchbakery.com/product/amelies-charlotte-cooler-bag/",
+   "https://ameliesfrenchbakery.com/shop/?add-to-cart=11888",
+   "https://ameliesfrenchbakery.com/product/cakes/",
+   "https://ameliesfrenchbakery.com/faq/",
+   "https://ameliesfrenchbakery.com/gallery-plaza-midwood/",
+   "https://ameliesfrenchbakery.com/shop/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjYwNzciLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D",
+   "https://www.facebook.com/profile.php?id=61563101983444",
+   "https://www.instagram.com/ameliesfrenchbakery/",
+   "https://www.tiktok.com/@ameliesfrenchbakery",
+   "https://ameliesfrenchbakery.com/privacy-policy/",
+   "https://ameliesfrenchbakery.com/terms-and-conditions/",
+   "https://ameliesfrenchbakery.com/cookie-policy/",
+   "https://order.toasttab.com/online/amelies-french-bakery-noda-136-e-36th-street",
+   "https://order.toasttab.com/online/amelies-french-bakery-carmel-commons-7715-pineville-matthews-road-space-34b",
+   "https://order.toasttab.com/online/amelies-french-bakery-park-road-4321-park-road",
+   "https://order.toasttab.com/online/amelies-french-bakery-central",
+   "https://order.toasttab.com/online/amelies-french-bakery-rock-hill-157-e-main-street"
+  ],
+  "weight": 214933,
+  "title": "Shop Online | Am\u00e9lie's French Bakery Charlotte",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1391,
+    "inner": 577
+   },
+   "backY": 436,
+   "backInner": 0,
+   "headTop": -363
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-363 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "2 of 33 tap targets under 24px: div 18x20, a.woocommerce-LoopProduct-link 313x22"
+   ],
+   [
+    "INFO",
+    "document scrolls, 12893px tall"
+   ]
+  ],
+  "site": "https://ameliesfrenchbakery.com/"
+ },
+ {
+  "url": "https://www.shopthevalleymall.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.1,
+  "meta": "width=device-width",
+  "vw": 390,
+  "vh": 664,
+  "docH": 2578,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.Header",
+    "pos": "sticky",
+    "cover": 16
+   }
+  ],
+  "targets": 38,
+  "small": 22,
+  "smallList": [
+   "a.TrinketsView__link 138x17",
+   "button.css-2uujei-A11yWidget 20x76",
+   "button.SearchIcon 20x76",
+   "button.css-1emgxtk-HamburgerButton-Header 20x20",
+   "button 20x20"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.css-1ju17e3-Header",
+  "textLen": 674,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Stores",
+    "href": "https://www.shopthevalleymall.com/directory"
+   },
+   {
+    "text": "Store Listings",
+    "href": "https://www.shopthevalleymall.com/directory"
+   }
+  ],
+  "allLinks": [
+   "https://www.shopthevalleymall.com/hours",
+   "https://www.shopthevalleymall.com/",
+   "https://www.shopthevalleymall.com/directory",
+   "https://cdn-files.eu.placewise.com/f/CM2IPRCxDBoMY3VzdG9tX2Fzc2V0IhZYQ0diVGRiQVFLeVJManJHbmxXQ0NBOI7k0k5i1J-aRI1oVnQDCpqSlBYi",
+   "https://www.shopthevalleymall.com/directory/food",
+   "https://www.shopthevalleymall.com/sales",
+   "https://www.shopthevalleymall.com/events",
+   "https://www.regmovies.com/theatres/regal-valley-mall-screenx-1908",
+   "https://www.shopthevalleymall.com/about-us",
+   "https://www.shopthevalleymall.com/directions",
+   "https://www.shopthevalleymall.com/leasing",
+   "https://www.shopthevalleymall.com/partnerships-marketing",
+   "https://www.shopthevalleymall.com/contact-us",
+   "https://www.shopthevalleymall.com/jobs",
+   "https://www.shopthevalleymall.com/faq",
+   "https://www.shopthevalleymall.com/directory/health-beauty",
+   "https://www.shopthevalleymall.com/directory/accessories-jewelry-watches",
+   "https://www.instagram.com/valley_mall/",
+   "https://www.facebook.com/ValleyMall",
+   "https://www.placewise.com/",
+   "https://www.shopthevalleymall.com/privacy",
+   "https://www.shopthevalleymall.com/terms",
+   "https://www.shopthevalleymall.com/sitemap",
+   "https://www.shopthevalleymall.com/accessibility",
+   "https://www.shopthevalleymall.com/code-of-conduct",
+   "https://www.shopthevalleymall.com/lpr",
+   "https://www.preit.com/"
+  ],
+  "weight": 29451,
+  "title": "Valley Mall ::: Home Page",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1914,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.regmovies.com/theatres/regal-valley-mall-screenx-1908",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-shopthevalleymall-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "22 of 38 tap targets under 24px: a.TrinketsView__link 138x17, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, button 20x20"
+   ],
+   [
+    "INFO",
+    "document scrolls, 2578px tall"
+   ]
+  ],
+  "site": "https://www.shopthevalleymall.com/",
+  "hop": "https://www.shopthevalleymall.com/directory"
+ },
+ {
+  "url": "https://www.shopthevalleymall.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.6,
+  "meta": "width=device-width",
+  "vw": 393,
+  "vh": 727,
+  "docH": 2583,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.Header",
+    "pos": "sticky",
+    "cover": 15
+   }
+  ],
+  "targets": 38,
+  "small": 22,
+  "smallList": [
+   "a.TrinketsView__link 138x18",
+   "button.css-2uujei-A11yWidget 20x76",
+   "button.SearchIcon 20x76",
+   "button.css-1emgxtk-HamburgerButton-Header 20x20",
+   "button 20x20"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.css-1ju17e3-Header",
+  "textLen": 663,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Stores",
+    "href": "https://www.shopthevalleymall.com/directory"
+   },
+   {
+    "text": "Store Listings",
+    "href": "https://www.shopthevalleymall.com/directory"
+   }
+  ],
+  "allLinks": [
+   "https://www.shopthevalleymall.com/hours",
+   "https://www.shopthevalleymall.com/",
+   "https://www.shopthevalleymall.com/directory",
+   "https://cdn-files.eu.placewise.com/f/CM2IPRCxDBoMY3VzdG9tX2Fzc2V0IhZYQ0diVGRiQVFLeVJManJHbmxXQ0NBOI7k0k5i1J-aRI1oVnQDCpqSlBYi",
+   "https://www.shopthevalleymall.com/directory/food",
+   "https://www.shopthevalleymall.com/sales",
+   "https://www.shopthevalleymall.com/events",
+   "https://www.regmovies.com/theatres/regal-valley-mall-screenx-1908",
+   "https://www.shopthevalleymall.com/about-us",
+   "https://www.shopthevalleymall.com/directions",
+   "https://www.shopthevalleymall.com/leasing",
+   "https://www.shopthevalleymall.com/partnerships-marketing",
+   "https://www.shopthevalleymall.com/contact-us",
+   "https://www.shopthevalleymall.com/jobs",
+   "https://www.shopthevalleymall.com/faq",
+   "https://www.shopthevalleymall.com/directory/health-beauty",
+   "https://www.shopthevalleymall.com/directory/accessories-jewelry-watches",
+   "https://www.instagram.com/valley_mall/",
+   "https://www.facebook.com/ValleyMall",
+   "https://www.placewise.com/",
+   "https://www.shopthevalleymall.com/privacy",
+   "https://www.shopthevalleymall.com/terms",
+   "https://www.shopthevalleymall.com/sitemap",
+   "https://www.shopthevalleymall.com/accessibility",
+   "https://www.shopthevalleymall.com/code-of-conduct",
+   "https://www.shopthevalleymall.com/lpr",
+   "https://www.preit.com/"
+  ],
+  "weight": 29397,
+  "title": "Valley Mall ::: Home Page",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1856,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "22 of 38 tap targets under 24px: a.TrinketsView__link 138x18, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, button 20x20"
+   ],
+   [
+    "INFO",
+    "document scrolls, 2583px tall"
+   ]
+  ],
+  "site": "https://www.shopthevalleymall.com/"
+ },
+ {
+  "url": "https://www.shopthevalleymall.com/directory",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.6,
+  "meta": "width=device-width",
+  "vw": 390,
+  "vh": 664,
+  "docH": 10881,
+  "zoomTrap": [
+   {
+    "el": "input.css-1gc0p4z-SearchBox-SearchBox",
+    "fs": 15
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.Header",
+    "pos": "sticky",
+    "cover": 16
+   }
+  ],
+  "targets": 25,
+  "small": 18,
+  "smallList": [
+   "a.TrinketsView__link 138x17",
+   "button.css-2uujei-A11yWidget 20x76",
+   "button.SearchIcon 20x76",
+   "button.css-1emgxtk-HamburgerButton-Header 20x20",
+   "input.css-1gc0p4z-SearchBox-SearchBox 294x23"
+  ],
+  "tiny": 19,
+  "tinyList": [
+   "div.DealFlag 10px",
+   "div.DealFlag 10px",
+   "div.CustomMessageFlag 10px",
+   "div.CustomMessageFlag 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header.css-1ju17e3-Header",
+  "textLen": 2064,
+  "fields": [
+   {
+    "el": "input.css-1gc0p4z-SearchBox-SearchBox",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search Brands\u2026"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Stores",
+    "href": "https://www.shopthevalleymall.com/directory"
+   },
+   {
+    "text": "Store Listings",
+    "href": "https://www.shopthevalleymall.com/directory"
+   },
+   {
+    "text": "Beatitudes Hair & Beauty Supply Store",
+    "href": "https://www.shopthevalleymall.com/store/beatitudes"
+   },
+   {
+    "text": "Books-A-Million",
+    "href": "https://www.shopthevalleymall.com/store/books-a-million"
+   },
+   {
+    "text": "Pop Mart Robo Shop",
+    "href": "https://www.shopthevalleymall.com/store/pop-mart-robo-shop"
+   }
+  ],
+  "allLinks": [
+   "https://www.shopthevalleymall.com/hours",
+   "https://www.shopthevalleymall.com/",
+   "https://www.shopthevalleymall.com/directory",
+   "https://cdn-files.eu.placewise.com/f/CM2IPRCxDBoMY3VzdG9tX2Fzc2V0IhZYQ0diVGRiQVFLeVJManJHbmxXQ0NBOI7k0k5i1J-aRI1oVnQDCpqSlBYi",
+   "https://www.shopthevalleymall.com/directory/food",
+   "https://www.shopthevalleymall.com/sales",
+   "https://www.shopthevalleymall.com/events",
+   "https://www.regmovies.com/theatres/regal-valley-mall-screenx-1908",
+   "https://www.shopthevalleymall.com/about-us",
+   "https://www.shopthevalleymall.com/directions",
+   "https://www.shopthevalleymall.com/leasing",
+   "https://www.shopthevalleymall.com/partnerships-marketing",
+   "https://www.shopthevalleymall.com/contact-us",
+   "https://www.shopthevalleymall.com/jobs",
+   "https://www.shopthevalleymall.com/faq",
+   "https://cdn-files.eu.placewise.com/f/CJ2NPRDgEhoMY3VzdG9tX2Fzc2V0IhZtcjBnZm5kbEdYUmd5NklROGVWOUZBOIKH1k6JSoN0uPibqGG3IP14Z70u",
+   "https://www.shopthevalleymall.com/store/class-barber-studio",
+   "https://www.shopthevalleymall.com/store/aerie",
+   "https://www.shopthevalleymall.com/store/aeropostale",
+   "https://www.shopthevalleymall.com/store/american-eagle-outfitters",
+   "https://www.shopthevalleymall.com/store/atandt-wireless",
+   "https://www.shopthevalleymall.com/store/atlantic-union-bank",
+   "https://www.shopthevalleymall.com/store/auntie-annes",
+   "https://www.shopthevalleymall.com/store/banter-by-piercing-pagoda",
+   "https://www.shopthevalleymall.com/store/bath-and-body-works",
+   "https://www.shopthevalleymall.com/store/beatitudes",
+   "https://www.shopthevalleymall.com/store/belk",
+   "https://www.shopthevalleymall.com/store/bjs-restaurant-and-brewhouse",
+   "https://www.shopthevalleymall.com/store/bleacher-bums-colonial-park",
+   "https://www.shopthevalleymall.com/store/books-a-million",
+   "https://www.shopthevalleymall.com/store/boost-mobile",
+   "https://www.shopthevalleymall.com/store/box-lunch",
+   "https://www.shopthevalleymall.com/store/branham-s-candies",
+   "https://www.shopthevalleymall.com/store/bubble-house",
+   "https://www.shopthevalleymall.com/store/santa",
+   "https://www.shopthevalleymall.com/store/chris-cross-cafe",
+   "https://www.shopthevalleymall.com/store/cielito-lindo",
+   "https://www.shopthevalleymall.com/store/cinnabon",
+   "https://www.shopthevalleymall.com/store/claires",
+   "https://www.shopthevalleymall.com/store/crumbl-0c5d4f86-e846-4bdd-9c9e-e0c8f810a25e",
+   "https://www.shopthevalleymall.com/store/dairy-queen-orange-julius",
+   "https://www.shopthevalleymall.com/store/dicks-sporting-goods",
+   "https://www.shopthevalleymall.com/store/dr-phone-repair-kiosk",
+   "https://www.shopthevalleymall.com/store/ecoatm",
+   "https://www.shopthevalleymall.com/store/empire-jewelry-and-diamonds",
+   "https://www.shopthevalleymall.com/store/europe-nails",
+   "https://www.shopthevalleymall.com/store/foot-locker",
+   "https://www.shopthevalleymall.com/store/forever-mine-diamonds",
+   "https://www.shopthevalleymall.com/store/f-y-e-for-your-entertainment",
+   "https://www.shopthevalleymall.com/store/go-toys-games",
+   "https://www.shopthevalleymall.com/store/handm",
+   "https://www.shopthevalleymall.com/store/hagerstown-community-college",
+   "https://www.shopthevalleymall.com/store/hallmark",
+   "https://www.shopthevalleymall.com/store/helen-s-bodywork",
+   "https://www.shopthevalleymall.com/store/hibbett",
+   "https://www.shopthevalleymall.com/store/hot-topic",
+   "https://www.shopthevalleymall.com/store/jcpenney",
+   "https://www.shopthevalleymall.com/store/jcpenney-beauty",
+   "https://www.shopthevalleymall.com/store/jcpenney-portrait-studio",
+   "https://www.shopthevalleymall.com/store/jcpenney-salon",
+   "https://www.shopthevalleymall.com/store/jd-sports",
+   "https://www.shopthevalleymall.com/store/jimmy-johns",
+   "https://www.shopthevalleymall.com/store/journeys",
+   "https://www.shopthevalleymall.com/store/journeys-kidz",
+   "https://www.shopthevalleymall.com/store/kay-jewelers",
+   "https://www.shopthevalleymall.com/store/kids-play-area",
+   "https://www.shopthevalleymall.com/store/kings-pizza",
+   "https://www.shopthevalleymall.com/store/kmp-sheds",
+   "https://www.shopthevalleymall.com/store/knucklebones-games-hobby",
+   "https://www.shopthevalleymall.com/store/lids",
+   "https://www.shopthevalleymall.com/store/lovisa",
+   "https://www.shopthevalleymall.com/store/mandt-bank",
+   "https://www.shopthevalleymall.com/store/mall-management-office",
+   "https://www.shopthevalleymall.com/store/master-brows",
+   "https://www.shopthevalleymall.com/store/mattress-warehouse",
+   "https://www.shopthevalleymall.com/store/mens-wearhouse",
+   "https://www.shopthevalleymall.com/store/meritus-health",
+   "https://www.shopthevalleymall.com/store/metro-pcs",
+   "https://www.shopthevalleymall.com/store/mission-bbq",
+   "https://www.shopthevalleymall.com/store/mister-organic"
+  ],
+  "weight": 151355,
+  "title": "Valley Mall ::: Directory",
+  "roundtrip": {
+   "atBottom": {
+    "y": 10217,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.regmovies.com/theatres/regal-valley-mall-screenx-1908",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-shopthevalleymall-com-directory.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input.css-1gc0p4z-SearchBox-SearchBox at 15px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "18 of 25 tap targets under 24px: a.TrinketsView__link 138x17, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, input.css-1gc0p4z-SearchBox-SearchBox 294x23"
+   ],
+   [
+    "WARN",
+    "19 text elements under 12px: div.DealFlag 10px, div.DealFlag 10px, div.CustomMessageFlag 10px, div.CustomMessageFlag 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10881px tall"
+   ]
+  ],
+  "site": "https://www.shopthevalleymall.com/"
+ },
+ {
+  "url": "https://www.shopthevalleymall.com/directory",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.6,
+  "meta": "width=device-width",
+  "vw": 393,
+  "vh": 727,
+  "docH": 10959,
+  "zoomTrap": [
+   {
+    "el": "input.css-1gc0p4z-SearchBox-SearchBox",
+    "fs": 15
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.Header",
+    "pos": "sticky",
+    "cover": 15
+   }
+  ],
+  "targets": 25,
+  "small": 18,
+  "smallList": [
+   "a.TrinketsView__link 138x18",
+   "button.css-2uujei-A11yWidget 20x76",
+   "button.SearchIcon 20x76",
+   "button.css-1emgxtk-HamburgerButton-Header 20x20",
+   "input.css-1gc0p4z-SearchBox-SearchBox 297x23"
+  ],
+  "tiny": 19,
+  "tinyList": [
+   "div.DealFlag 10px",
+   "div.DealFlag 10px",
+   "div.CustomMessageFlag 10px",
+   "div.CustomMessageFlag 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header.css-1ju17e3-Header",
+  "textLen": 1952,
+  "fields": [
+   {
+    "el": "input.css-1gc0p4z-SearchBox-SearchBox",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search Brands\u2026"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Stores",
+    "href": "https://www.shopthevalleymall.com/directory"
+   },
+   {
+    "text": "Store Listings",
+    "href": "https://www.shopthevalleymall.com/directory"
+   },
+   {
+    "text": "Beatitudes Hair & Beauty Supply Store",
+    "href": "https://www.shopthevalleymall.com/store/beatitudes"
+   },
+   {
+    "text": "Books-A-Million",
+    "href": "https://www.shopthevalleymall.com/store/books-a-million"
+   },
+   {
+    "text": "Pop Mart Robo Shop",
+    "href": "https://www.shopthevalleymall.com/store/pop-mart-robo-shop"
+   }
+  ],
+  "allLinks": [
+   "https://www.shopthevalleymall.com/hours",
+   "https://www.shopthevalleymall.com/",
+   "https://www.shopthevalleymall.com/directory",
+   "https://cdn-files.eu.placewise.com/f/CM2IPRCxDBoMY3VzdG9tX2Fzc2V0IhZYQ0diVGRiQVFLeVJManJHbmxXQ0NBOI7k0k5i1J-aRI1oVnQDCpqSlBYi",
+   "https://www.shopthevalleymall.com/directory/food",
+   "https://www.shopthevalleymall.com/sales",
+   "https://www.shopthevalleymall.com/events",
+   "https://www.regmovies.com/theatres/regal-valley-mall-screenx-1908",
+   "https://www.shopthevalleymall.com/about-us",
+   "https://www.shopthevalleymall.com/directions",
+   "https://www.shopthevalleymall.com/leasing",
+   "https://www.shopthevalleymall.com/partnerships-marketing",
+   "https://www.shopthevalleymall.com/contact-us",
+   "https://www.shopthevalleymall.com/jobs",
+   "https://www.shopthevalleymall.com/faq",
+   "https://cdn-files.eu.placewise.com/f/CJ2NPRDgEhoMY3VzdG9tX2Fzc2V0IhZtcjBnZm5kbEdYUmd5NklROGVWOUZBOIKH1k6JSoN0uPibqGG3IP14Z70u",
+   "https://www.shopthevalleymall.com/store/class-barber-studio",
+   "https://www.shopthevalleymall.com/store/aerie",
+   "https://www.shopthevalleymall.com/store/aeropostale",
+   "https://www.shopthevalleymall.com/store/american-eagle-outfitters",
+   "https://www.shopthevalleymall.com/store/atandt-wireless",
+   "https://www.shopthevalleymall.com/store/atlantic-union-bank",
+   "https://www.shopthevalleymall.com/store/auntie-annes",
+   "https://www.shopthevalleymall.com/store/banter-by-piercing-pagoda",
+   "https://www.shopthevalleymall.com/store/bath-and-body-works",
+   "https://www.shopthevalleymall.com/store/beatitudes",
+   "https://www.shopthevalleymall.com/store/belk",
+   "https://www.shopthevalleymall.com/store/bjs-restaurant-and-brewhouse",
+   "https://www.shopthevalleymall.com/store/bleacher-bums-colonial-park",
+   "https://www.shopthevalleymall.com/store/books-a-million",
+   "https://www.shopthevalleymall.com/store/boost-mobile",
+   "https://www.shopthevalleymall.com/store/box-lunch",
+   "https://www.shopthevalleymall.com/store/branham-s-candies",
+   "https://www.shopthevalleymall.com/store/bubble-house",
+   "https://www.shopthevalleymall.com/store/santa",
+   "https://www.shopthevalleymall.com/store/chris-cross-cafe",
+   "https://www.shopthevalleymall.com/store/cielito-lindo",
+   "https://www.shopthevalleymall.com/store/cinnabon",
+   "https://www.shopthevalleymall.com/store/claires",
+   "https://www.shopthevalleymall.com/store/crumbl-0c5d4f86-e846-4bdd-9c9e-e0c8f810a25e",
+   "https://www.shopthevalleymall.com/store/dairy-queen-orange-julius",
+   "https://www.shopthevalleymall.com/store/dicks-sporting-goods",
+   "https://www.shopthevalleymall.com/store/dr-phone-repair-kiosk",
+   "https://www.shopthevalleymall.com/store/ecoatm",
+   "https://www.shopthevalleymall.com/store/empire-jewelry-and-diamonds",
+   "https://www.shopthevalleymall.com/store/europe-nails",
+   "https://www.shopthevalleymall.com/store/foot-locker",
+   "https://www.shopthevalleymall.com/store/forever-mine-diamonds",
+   "https://www.shopthevalleymall.com/store/f-y-e-for-your-entertainment",
+   "https://www.shopthevalleymall.com/store/go-toys-games",
+   "https://www.shopthevalleymall.com/store/handm",
+   "https://www.shopthevalleymall.com/store/hagerstown-community-college",
+   "https://www.shopthevalleymall.com/store/hallmark",
+   "https://www.shopthevalleymall.com/store/helen-s-bodywork",
+   "https://www.shopthevalleymall.com/store/hibbett",
+   "https://www.shopthevalleymall.com/store/hot-topic",
+   "https://www.shopthevalleymall.com/store/jcpenney",
+   "https://www.shopthevalleymall.com/store/jcpenney-beauty",
+   "https://www.shopthevalleymall.com/store/jcpenney-portrait-studio",
+   "https://www.shopthevalleymall.com/store/jcpenney-salon",
+   "https://www.shopthevalleymall.com/store/jd-sports",
+   "https://www.shopthevalleymall.com/store/jimmy-johns",
+   "https://www.shopthevalleymall.com/store/journeys",
+   "https://www.shopthevalleymall.com/store/journeys-kidz",
+   "https://www.shopthevalleymall.com/store/kay-jewelers",
+   "https://www.shopthevalleymall.com/store/kids-play-area",
+   "https://www.shopthevalleymall.com/store/kings-pizza",
+   "https://www.shopthevalleymall.com/store/kmp-sheds",
+   "https://www.shopthevalleymall.com/store/knucklebones-games-hobby",
+   "https://www.shopthevalleymall.com/store/lids",
+   "https://www.shopthevalleymall.com/store/lovisa",
+   "https://www.shopthevalleymall.com/store/mandt-bank",
+   "https://www.shopthevalleymall.com/store/mall-management-office",
+   "https://www.shopthevalleymall.com/store/master-brows",
+   "https://www.shopthevalleymall.com/store/mattress-warehouse",
+   "https://www.shopthevalleymall.com/store/mens-wearhouse",
+   "https://www.shopthevalleymall.com/store/meritus-health",
+   "https://www.shopthevalleymall.com/store/metro-pcs",
+   "https://www.shopthevalleymall.com/store/mission-bbq",
+   "https://www.shopthevalleymall.com/store/mister-organic"
+  ],
+  "weight": 151229,
+  "title": "Valley Mall ::: Directory",
+  "roundtrip": {
+   "atBottom": {
+    "y": 10232,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input.css-1gc0p4z-SearchBox-SearchBox at 15px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "18 of 25 tap targets under 24px: a.TrinketsView__link 138x18, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, input.css-1gc0p4z-SearchBox-SearchBox 297x23"
+   ],
+   [
+    "WARN",
+    "19 text elements under 12px: div.DealFlag 10px, div.DealFlag 10px, div.CustomMessageFlag 10px, div.CustomMessageFlag 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10959px tall"
+   ]
+  ],
+  "site": "https://www.shopthevalleymall.com/"
+ },
+ {
+  "url": "https://thedandelionpub.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 1.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 8320,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.onetrust-pc-dark-filter",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#onetrust-banner-sdk.otFloatingRounded",
+    "pos": "fixed",
+    "cover": 35
+   }
+  ],
+  "targets": 35,
+  "small": 2,
+  "smallList": [
+   "button.desktop-menu-toggle 20x20",
+   "a.ot-cookie-policy-link 75x17"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "button.event-enquiry-btn 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header.real_header",
+  "textLen": 5208,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Book A Table",
+    "href": "https://resy.com/cities/philadelphia-pa/venues/the-dandelion-pub"
+   },
+   {
+    "text": "Menu",
+    "href": "https://thedandelionpub.com/#menu-section"
+   },
+   {
+    "text": "Book a Table",
+    "href": "https://resy.com/cities/philadelphia-pa/venues/the-dandelion-pub"
+   },
+   {
+    "text": "Delivery",
+    "href": "https://order.online/business/the-dandelion-263717?hideModal=true"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://starr-restaurants.com/shop-landing/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://starr-restaurants.com/shop-landing"
+   }
+  ],
+  "allLinks": [
+   "https://thedandelionpub.com/",
+   "https://resy.com/cities/philadelphia-pa/venues/the-dandelion-pub",
+   "https://thedandelionpub.com/#about-section",
+   "https://thedandelionpub.com/#cuisine-section",
+   "https://thedandelionpub.com/#menu-section",
+   "https://thedandelionpub.com/#group-dining",
+   "https://order.online/business/the-dandelion-263717?hideModal=true",
+   "https://starr-restaurants.com/shop-landing/",
+   "https://thedandelionpub.com/wp-content/uploads/2026/09/DANDE-beverage-092126.pdf",
+   "https://thedandelionpub.com/wp-content/uploads/2026/09/DANDE-beer-092126.pdf",
+   "https://www.tripleseat.com/",
+   "https://www.google.com/maps/place/The+Dandelion/@39.9509753,-75.1727808,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6c630bdc40609:0x325c4c9c3a5ce59d!8m2!3d39.9509712!4d-75.1705921",
+   "https://www.facebook.com/thedandelionpub",
+   "https://www.instagram.com/thedandelionpub",
+   "https://open.spotify.com/user/starrrestaurants",
+   "https://www.linkedin.com/company/starr-restaurants/",
+   "https://starr-restaurants.com/careers/",
+   "https://starr-restaurants.com/shop-landing",
+   "https://forms.donationx.org/form/680f8b1c-caa9-4655-b74f-42a311e5c0ff",
+   "https://app.e2ma.net/app2/audience/signup/2008074/1809084",
+   "https://thedandelionpub.com/terms-of-use/",
+   "https://thedandelionpub.com/privacy-policy/",
+   "https://thedandelionpub.com/accessibility/",
+   "https://thedandelionpub.com/page-sitemap.xml",
+   "https://starr-restaurants.com/privacy-policy/",
+   "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "weight": 25769,
+  "title": "The Dandelion - British Pub Cuisine in Philadelphia",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7656,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.online/business/the-dandelion-263717?hideModal=true",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-thedandelionpub-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "2 of 35 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 75x17"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: button.event-enquiry-btn 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 8320px tall"
+   ]
+  ],
+  "site": "https://thedandelionpub.com/"
+ },
+ {
+  "url": "https://thedandelionpub.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.3,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 8406,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.onetrust-pc-dark-filter",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#onetrust-banner-sdk.otFloatingRounded",
+    "pos": "fixed",
+    "cover": 38
+   }
+  ],
+  "targets": 35,
+  "small": 2,
+  "smallList": [
+   "button.desktop-menu-toggle 20x20",
+   "a.ot-cookie-policy-link 70x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.real_header",
+  "textLen": 5249,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Book A Table",
+    "href": "https://resy.com/cities/philadelphia-pa/venues/the-dandelion-pub"
+   },
+   {
+    "text": "Menu",
+    "href": "https://thedandelionpub.com/#menu-section"
+   },
+   {
+    "text": "Book a Table",
+    "href": "https://resy.com/cities/philadelphia-pa/venues/the-dandelion-pub"
+   },
+   {
+    "text": "Delivery",
+    "href": "https://order.online/business/the-dandelion-263717?hideModal=true"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://starr-restaurants.com/shop-landing/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://starr-restaurants.com/shop-landing"
+   }
+  ],
+  "allLinks": [
+   "https://thedandelionpub.com/",
+   "https://resy.com/cities/philadelphia-pa/venues/the-dandelion-pub",
+   "https://thedandelionpub.com/#about-section",
+   "https://thedandelionpub.com/#cuisine-section",
+   "https://thedandelionpub.com/#menu-section",
+   "https://thedandelionpub.com/#group-dining",
+   "https://order.online/business/the-dandelion-263717?hideModal=true",
+   "https://starr-restaurants.com/shop-landing/",
+   "https://thedandelionpub.com/wp-content/uploads/2026/09/DANDE-beverage-092126.pdf",
+   "https://thedandelionpub.com/wp-content/uploads/2026/09/DANDE-beer-092126.pdf",
+   "https://www.tripleseat.com/",
+   "https://www.google.com/maps/place/The+Dandelion/@39.9509753,-75.1727808,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6c630bdc40609:0x325c4c9c3a5ce59d!8m2!3d39.9509712!4d-75.1705921",
+   "https://www.facebook.com/thedandelionpub",
+   "https://www.instagram.com/thedandelionpub",
+   "https://open.spotify.com/user/starrrestaurants",
+   "https://www.linkedin.com/company/starr-restaurants/",
+   "https://starr-restaurants.com/careers/",
+   "https://starr-restaurants.com/shop-landing",
+   "https://forms.donationx.org/form/680f8b1c-caa9-4655-b74f-42a311e5c0ff",
+   "https://app.e2ma.net/app2/audience/signup/2008074/1809084",
+   "https://thedandelionpub.com/terms-of-use/",
+   "https://thedandelionpub.com/privacy-policy/",
+   "https://thedandelionpub.com/accessibility/",
+   "https://thedandelionpub.com/page-sitemap.xml",
+   "https://starr-restaurants.com/privacy-policy/",
+   "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "weight": 25175,
+  "title": "The Dandelion - British Pub Cuisine in Philadelphia",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7679,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "2 of 35 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 70x18"
+   ],
+   [
+    "INFO",
+    "document scrolls, 8406px tall"
+   ]
+  ],
+  "site": "https://thedandelionpub.com/"
+ },
+ {
+  "url": "https://tacopalenque.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 5.7,
+  "meta": "width=device-width,initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4261,
+  "zoomTrap": [],
+  "leaks": [
+   "div#ckyPreferenceCenter.cky-preference-center right=650"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.cky-consent-container",
+    "pos": "fixed",
+    "cover": 52
+   },
+   {
+    "el": "div#header.starting-position",
+    "pos": "fixed",
+    "cover": 9
+   },
+   {
+    "el": "div.banner",
+    "pos": "sticky",
+    "cover": 6
+   }
+  ],
+  "targets": 41,
+  "small": 6,
+  "smallList": [
+   "button.menu-icon 16x16",
+   "a 279x13",
+   "button 40x4",
+   "button.active 40x4",
+   "a 128x15"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "nav.main-nav",
+  "textLen": 2015,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "menu",
+    "href": "https://tacopalenque.com/menu"
+   },
+   {
+    "text": "menu",
+    "href": "https://tacopalenque.com/menu"
+   },
+   {
+    "text": "digital menu",
+    "href": "https://storyblok.pleinaircdn.com/f/320970/x/af92144c47/tp-laminated-menu_english-spanish.pdf"
+   },
+   {
+    "text": "gift cards",
+    "href": "https://tacopalenque.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://tacopalenque.com/",
+   "https://tacopalenque.com/menu",
+   "https://tacopalenque.com/locations",
+   "https://tacopalenque.com/rewards",
+   "https://tacopalenque.com/catering",
+   "https://www.goldbelly.com/restaurants/taco-palenque?utm_medium=website&utm_source=partner&utm_term=2760",
+   "https://tacopalenque.com/account/signin",
+   "https://tacopalenque.com/account/signup",
+   "https://apps.apple.com/us/app/eat-taco-palenque/id1593418589",
+   "https://play.google.com/store/apps/details?id=com.tacopalenque.app&pcampaignid=web_share",
+   "https://storyblok.pleinaircdn.com/f/320970/x/af92144c47/tp-laminated-menu_english-spanish.pdf",
+   "https://tacopalenque.com/gift-cards",
+   "https://tacopalenque.com/accessibility-statement",
+   "https://tacopalenque.com/about",
+   "https://tacopalenque.com/community",
+   "https://tacopalenque.com/apply-now",
+   "https://tacopalenque.com/feedback",
+   "https://tacopalenque.com/contact",
+   "https://www.youtube.com/user/TPSaborUnico",
+   "https://www.tiktok.com/@taco_palenque",
+   "https://www.instagram.com/taco.palenque/",
+   "https://twitter.com/tacopalenque",
+   "https://www.facebook.com/TacoPalenque/",
+   "https://www.linkedin.com/company/palenque-group/",
+   "https://tacopalenque.com/terms-and-conditions",
+   "https://tacopalenque.com/privacy"
+  ],
+  "weight": 52564,
+  "title": "Home | Taco Palenque",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3597,
+    "inner": 340
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-tacopalenque-com.png",
+  "errors": [
+   "console: uuidv4() is deprecated. Use v4() from the uuid module instead."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650"
+   ],
+   [
+    "WARN",
+    "fixed layer div.cky-consent-container covers 52% of the screen"
+   ],
+   [
+    "WARN",
+    "6 of 41 tap targets under 24px: button.menu-icon 16x16, a 279x13, button 40x4, button.active 40x4, a 128x15"
+   ],
+   [
+    "INFO",
+    "console: uuidv4() is deprecated. Use v4() from the uuid module instead."
+   ],
+   [
+    "INFO",
+    "document scrolls, 4261px tall"
+   ]
+  ],
+  "site": "https://tacopalenque.com/",
+  "hop": "https://tacopalenque.com/menu"
+ },
+ {
+  "url": "https://tacopalenque.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 9.1,
+  "meta": "width=device-width,initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4255,
+  "zoomTrap": [],
+  "leaks": [
+   "div#ckyPreferenceCenter.cky-preference-center right=649"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.cky-consent-container",
+    "pos": "fixed",
+    "cover": 48
+   },
+   {
+    "el": "div#header.starting-position",
+    "pos": "fixed",
+    "cover": 9
+   },
+   {
+    "el": "div.banner",
+    "pos": "sticky",
+    "cover": 6
+   }
+  ],
+  "targets": 41,
+  "small": 6,
+  "smallList": [
+   "button.menu-icon 16x17",
+   "a 278x13",
+   "button 40x4",
+   "button.active 40x4",
+   "a 128x15"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "nav.main-nav",
+  "textLen": 2033,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "menu",
+    "href": "https://tacopalenque.com/menu"
+   },
+   {
+    "text": "menu",
+    "href": "https://tacopalenque.com/menu"
+   },
+   {
+    "text": "digital menu",
+    "href": "https://storyblok.pleinaircdn.com/f/320970/x/af92144c47/tp-laminated-menu_english-spanish.pdf"
+   },
+   {
+    "text": "gift cards",
+    "href": "https://tacopalenque.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://tacopalenque.com/",
+   "https://tacopalenque.com/menu",
+   "https://tacopalenque.com/locations",
+   "https://tacopalenque.com/rewards",
+   "https://tacopalenque.com/catering",
+   "https://www.goldbelly.com/restaurants/taco-palenque?utm_medium=website&utm_source=partner&utm_term=2760",
+   "https://tacopalenque.com/account/signin",
+   "https://tacopalenque.com/account/signup",
+   "https://apps.apple.com/us/app/eat-taco-palenque/id1593418589",
+   "https://play.google.com/store/apps/details?id=com.tacopalenque.app&pcampaignid=web_share",
+   "https://storyblok.pleinaircdn.com/f/320970/x/af92144c47/tp-laminated-menu_english-spanish.pdf",
+   "https://tacopalenque.com/gift-cards",
+   "https://tacopalenque.com/accessibility-statement",
+   "https://tacopalenque.com/about",
+   "https://tacopalenque.com/community",
+   "https://tacopalenque.com/apply-now",
+   "https://tacopalenque.com/feedback",
+   "https://tacopalenque.com/contact",
+   "https://www.youtube.com/user/TPSaborUnico",
+   "https://www.tiktok.com/@taco_palenque",
+   "https://www.instagram.com/taco.palenque/",
+   "https://twitter.com/tacopalenque",
+   "https://www.facebook.com/TacoPalenque/",
+   "https://www.linkedin.com/company/palenque-group/",
+   "https://tacopalenque.com/terms-and-conditions",
+   "https://tacopalenque.com/privacy"
+  ],
+  "weight": 52690,
+  "title": "Home | Taco Palenque",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1579,
+    "inner": 277
+   },
+   "backY": 531,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: uuidv4() is deprecated. Use v4() from the uuid module instead."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649"
+   ],
+   [
+    "WARN",
+    "fixed layer div.cky-consent-container covers 48% of the screen"
+   ],
+   [
+    "WARN",
+    "6 of 41 tap targets under 24px: button.menu-icon 16x17, a 278x13, button 40x4, button.active 40x4, a 128x15"
+   ],
+   [
+    "INFO",
+    "console: uuidv4() is deprecated. Use v4() from the uuid module instead."
+   ],
+   [
+    "INFO",
+    "document scrolls, 4255px tall"
+   ]
+  ],
+  "site": "https://tacopalenque.com/"
+ },
+ {
+  "url": "https://tacopalenque.com/menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 5.1,
+  "meta": "width=device-width,initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 46320,
+  "zoomTrap": [],
+  "leaks": [
+   "div#ckyPreferenceCenter.cky-preference-center right=650"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.cky-consent-container",
+    "pos": "fixed",
+    "cover": 52
+   },
+   {
+    "el": "div#header",
+    "pos": "fixed",
+    "cover": 9
+   }
+  ],
+  "targets": 259,
+  "small": 4,
+  "smallList": [
+   "button.menu-icon 16x16",
+   "button 16x16",
+   "a 128x15",
+   "a 48x15"
+  ],
+  "tiny": 15,
+  "tinyList": [
+   "h3 11px",
+   "h3 11px",
+   "h3 11px",
+   "h3 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.main-nav",
+  "textLen": 29445,
+  "fields": [
+   {
+    "el": "input#menu-search.form-input",
+    "type": "text",
+    "name": "menu-search",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search the menu"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "menu",
+    "href": "https://tacopalenque.com/menu"
+   },
+   {
+    "text": "menu",
+    "href": "https://tacopalenque.com/menu"
+   },
+   {
+    "text": "digital menu",
+    "href": "https://storyblok.pleinaircdn.com/f/320970/x/af92144c47/tp-laminated-menu_english-spanish.pdf"
+   },
+   {
+    "text": "gift cards",
+    "href": "https://tacopalenque.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://tacopalenque.com/",
+   "https://tacopalenque.com/menu",
+   "https://tacopalenque.com/locations",
+   "https://tacopalenque.com/rewards",
+   "https://tacopalenque.com/catering",
+   "https://www.goldbelly.com/restaurants/taco-palenque?utm_medium=website&utm_source=partner&utm_term=2760",
+   "https://tacopalenque.com/account/signin",
+   "https://tacopalenque.com/menu/#featured-items-0",
+   "https://tacopalenque.com/menu/#octacos-lunch-1",
+   "https://tacopalenque.com/menu/#taco-boxes-2",
+   "https://tacopalenque.com/menu/#taquitos-party-packs-3",
+   "https://tacopalenque.com/menu/#bundles-4",
+   "https://tacopalenque.com/menu/#combos-5",
+   "https://tacopalenque.com/menu/#tacos-6",
+   "https://tacopalenque.com/menu/#street-tacos-7",
+   "https://tacopalenque.com/menu/#burritos-8",
+   "https://tacopalenque.com/menu/#parrilladas-9",
+   "https://tacopalenque.com/menu/#quesadillas-10",
+   "https://tacopalenque.com/menu/#plates-11",
+   "https://tacopalenque.com/menu/#enchiladas-12",
+   "https://tacopalenque.com/menu/#bowls-13",
+   "https://tacopalenque.com/menu/#botanas-(cravings)-14",
+   "https://tacopalenque.com/menu/#salsas-15",
+   "https://tacopalenque.com/menu/#party-sides-16",
+   "https://tacopalenque.com/menu/#ready-to-cook-17",
+   "https://tacopalenque.com/menu/#soups-18",
+   "https://tacopalenque.com/menu/#salads-19",
+   "https://tacopalenque.com/menu/#lighter-options-20",
+   "https://tacopalenque.com/menu/#impossible-21",
+   "https://tacopalenque.com/menu/#super-papa-(baked-potato)-22",
+   "https://tacopalenque.com/menu/#tp-kids-23",
+   "https://tacopalenque.com/menu/#all-day-breakfast-combos-24",
+   "https://tacopalenque.com/menu/#all-day-breakfast-plates-25",
+   "https://tacopalenque.com/menu/#all-day-breakfast-tacos-26",
+   "https://tacopalenque.com/menu/#all-day-breakfast-burritos-27",
+   "https://tacopalenque.com/menu/#sides-28",
+   "https://tacopalenque.com/menu/#cold-drinks-29",
+   "https://tacopalenque.com/menu/#hot-drinks-30",
+   "https://tacopalenque.com/menu/#desserts-31",
+   "https://storyblok.pleinaircdn.com/f/320970/x/af92144c47/tp-laminated-menu_english-spanish.pdf",
+   "https://tacopalenque.com/gift-cards",
+   "https://tacopalenque.com/accessibility-statement",
+   "https://tacopalenque.com/about",
+   "https://tacopalenque.com/community",
+   "https://tacopalenque.com/apply-now",
+   "https://tacopalenque.com/feedback",
+   "https://tacopalenque.com/contact",
+   "https://www.youtube.com/user/TPSaborUnico",
+   "https://www.tiktok.com/@taco_palenque",
+   "https://www.instagram.com/taco.palenque/",
+   "https://twitter.com/tacopalenque",
+   "https://www.facebook.com/TacoPalenque/",
+   "https://www.linkedin.com/company/palenque-group/",
+   "https://tacopalenque.com/terms-and-conditions",
+   "https://tacopalenque.com/privacy"
+  ],
+  "weight": 39893,
+  "title": "Taco Palenque | Taco Palenque",
+  "roundtrip": {
+   "atBottom": {
+    "y": 45656,
+    "inner": 340
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-tacopalenque-com-menu.png",
+  "errors": [
+   "console: uuidv4() is deprecated. Use v4() from the uuid module instead."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650"
+   ],
+   [
+    "WARN",
+    "fixed layer div.cky-consent-container covers 52% of the screen"
+   ],
+   [
+    "WARN",
+    "4 of 259 tap targets under 24px: button.menu-icon 16x16, button 16x16, a 128x15, a 48x15"
+   ],
+   [
+    "WARN",
+    "15 text elements under 12px: h3 11px, h3 11px, h3 11px, h3 11px"
+   ],
+   [
+    "INFO",
+    "console: uuidv4() is deprecated. Use v4() from the uuid module instead."
+   ],
+   [
+    "INFO",
+    "document scrolls, 46320px tall"
+   ]
+  ],
+  "site": "https://tacopalenque.com/"
+ },
+ {
+  "url": "https://tacopalenque.com/menu",
+  "device": "android",
+  "status": 200,
+  "load_s": 4.7,
+  "meta": "width=device-width,initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 36666,
+  "zoomTrap": [],
+  "leaks": [
+   "div#ckyPreferenceCenter.cky-preference-center right=649"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.cky-consent-container",
+    "pos": "fixed",
+    "cover": 48
+   },
+   {
+    "el": "div#header",
+    "pos": "fixed",
+    "cover": 9
+   }
+  ],
+  "targets": 259,
+  "small": 4,
+  "smallList": [
+   "button.menu-icon 16x17",
+   "button 16x17",
+   "a 128x15",
+   "a 48x15"
+  ],
+  "tiny": 15,
+  "tinyList": [
+   "h3 11px",
+   "h3 11px",
+   "h3 11px",
+   "h3 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.main-nav",
+  "textLen": 29628,
+  "fields": [
+   {
+    "el": "input#menu-search.form-input",
+    "type": "text",
+    "name": "menu-search",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Search the menu"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "menu",
+    "href": "https://tacopalenque.com/menu"
+   },
+   {
+    "text": "menu",
+    "href": "https://tacopalenque.com/menu"
+   },
+   {
+    "text": "digital menu",
+    "href": "https://storyblok.pleinaircdn.com/f/320970/x/af92144c47/tp-laminated-menu_english-spanish.pdf"
+   },
+   {
+    "text": "gift cards",
+    "href": "https://tacopalenque.com/gift-cards"
+   }
+  ],
+  "allLinks": [
+   "https://tacopalenque.com/",
+   "https://tacopalenque.com/menu",
+   "https://tacopalenque.com/locations",
+   "https://tacopalenque.com/rewards",
+   "https://tacopalenque.com/catering",
+   "https://www.goldbelly.com/restaurants/taco-palenque?utm_medium=website&utm_source=partner&utm_term=2760",
+   "https://tacopalenque.com/account/signin",
+   "https://tacopalenque.com/menu/#featured-items-0",
+   "https://tacopalenque.com/menu/#octacos-lunch-1",
+   "https://tacopalenque.com/menu/#taco-boxes-2",
+   "https://tacopalenque.com/menu/#taquitos-party-packs-3",
+   "https://tacopalenque.com/menu/#bundles-4",
+   "https://tacopalenque.com/menu/#combos-5",
+   "https://tacopalenque.com/menu/#tacos-6",
+   "https://tacopalenque.com/menu/#street-tacos-7",
+   "https://tacopalenque.com/menu/#burritos-8",
+   "https://tacopalenque.com/menu/#parrilladas-9",
+   "https://tacopalenque.com/menu/#quesadillas-10",
+   "https://tacopalenque.com/menu/#plates-11",
+   "https://tacopalenque.com/menu/#enchiladas-12",
+   "https://tacopalenque.com/menu/#bowls-13",
+   "https://tacopalenque.com/menu/#botanas-(cravings)-14",
+   "https://tacopalenque.com/menu/#salsas-15",
+   "https://tacopalenque.com/menu/#party-sides-16",
+   "https://tacopalenque.com/menu/#ready-to-cook-17",
+   "https://tacopalenque.com/menu/#soups-18",
+   "https://tacopalenque.com/menu/#salads-19",
+   "https://tacopalenque.com/menu/#lighter-options-20",
+   "https://tacopalenque.com/menu/#impossible-21",
+   "https://tacopalenque.com/menu/#super-papa-(baked-potato)-22",
+   "https://tacopalenque.com/menu/#tp-kids-23",
+   "https://tacopalenque.com/menu/#all-day-breakfast-combos-24",
+   "https://tacopalenque.com/menu/#all-day-breakfast-plates-25",
+   "https://tacopalenque.com/menu/#all-day-breakfast-tacos-26",
+   "https://tacopalenque.com/menu/#all-day-breakfast-burritos-27",
+   "https://tacopalenque.com/menu/#sides-28",
+   "https://tacopalenque.com/menu/#cold-drinks-29",
+   "https://tacopalenque.com/menu/#hot-drinks-30",
+   "https://tacopalenque.com/menu/#desserts-31",
+   "https://storyblok.pleinaircdn.com/f/320970/x/af92144c47/tp-laminated-menu_english-spanish.pdf",
+   "https://tacopalenque.com/gift-cards",
+   "https://tacopalenque.com/accessibility-statement",
+   "https://tacopalenque.com/about",
+   "https://tacopalenque.com/community",
+   "https://tacopalenque.com/apply-now",
+   "https://tacopalenque.com/feedback",
+   "https://tacopalenque.com/contact",
+   "https://www.youtube.com/user/TPSaborUnico",
+   "https://www.tiktok.com/@taco_palenque",
+   "https://www.instagram.com/taco.palenque/",
+   "https://twitter.com/tacopalenque",
+   "https://www.facebook.com/TacoPalenque/",
+   "https://www.linkedin.com/company/palenque-group/",
+   "https://tacopalenque.com/terms-and-conditions",
+   "https://tacopalenque.com/privacy"
+  ],
+  "weight": 39944,
+  "title": "Taco Palenque | Taco Palenque",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3382,
+    "inner": 277
+   },
+   "backY": 2516,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: uuidv4() is deprecated. Use v4() from the uuid module instead."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649"
+   ],
+   [
+    "WARN",
+    "fixed layer div.cky-consent-container covers 48% of the screen"
+   ],
+   [
+    "WARN",
+    "4 of 259 tap targets under 24px: button.menu-icon 16x17, button 16x17, a 128x15, a 48x15"
+   ],
+   [
+    "WARN",
+    "15 text elements under 12px: h3 11px, h3 11px, h3 11px, h3 11px"
+   ],
+   [
+    "INFO",
+    "console: uuidv4() is deprecated. Use v4() from the uuid module instead."
+   ],
+   [
+    "INFO",
+    "document scrolls, 36666px tall"
+   ]
+  ],
+  "site": "https://tacopalenque.com/"
+ },
+ {
+  "url": "https://thestinkingrose.com/",
+  "device": "iphone",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.4,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 664,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.pace",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#signup",
+    "pos": "fixed",
+    "cover": 42
+   },
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   },
+   {
+    "el": "div.pace-activity",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 12,
+  "small": 3,
+  "smallList": [
+   "a 284x13",
+   "a 69x13",
+   "a 171x13"
+  ],
+  "tiny": 8,
+  "tinyList": [
+   "div.address-mobile 11.2px",
+   "a 11.2px",
+   "a 11.2px",
+   "a 11.2px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 195,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "RESERVATIONS",
+    "href": "https://resy.com/cities/sf/the-stinking-rose-san-francisco"
+   },
+   {
+    "text": "ONLINE ORDERING",
+    "href": "https://order.online/store/46601426"
+   },
+   {
+    "text": "BUY A GIFT CARD",
+    "href": "https://thestinkingrose.com/buy-giiftcard.html"
+   },
+   {
+    "text": "",
+    "href": "https://order.online/store/~46605145"
+   }
+  ],
+  "allLinks": [
+   "https://thestinkingrose.com/#content",
+   "https://thestinkingrose.com/index.html",
+   "https://thestinkingrose.com/directions.html",
+   "https://thestinkingrose.com/#",
+   "https://thestinkingrose.com/photos.html",
+   "https://resy.com/cities/sf/the-stinking-rose-san-francisco",
+   "https://order.online/store/46601426",
+   "https://thestinkingrose.com/menu1.html",
+   "https://thestinkingrose.com/menu2.html",
+   "https://thestinkingrose.com/banquets.html",
+   "https://thestinkingrose.com/menuthanksgiving.html",
+   "https://thestinkingrose.com/recipes.html",
+   "https://thestinkingrose.com/about-us.html",
+   "https://thestinkingrose.com/about-thegarlic.html",
+   "https://thestinkingrose.com/about-thebuzz.html",
+   "https://thestinkingrose.com/contact.html",
+   "https://thestinkingrose.com/staff-info.html",
+   "https://signup.delightmail.com/opt-in/?brand=5493e627-e87c-4350-bd8b-9e6d0d32230c&list=a96e96bd-81e8-4d70-96dc-10d422ee5d92",
+   "https://thestinkingrose.com/buy-giiftcard.html",
+   "https://thestinkingrose.com/restaurants.html",
+   "https://twitter.com/thestinkingrose",
+   "https://www.facebook.com/thestinkingrose",
+   "https://www.instagram.com/thestinkingrosesf/?ref=badge",
+   "https://www.pinterest.com/thestinkingrose/",
+   "https://thestinkingrose.com/careers.html",
+   "https://thestinkingrose.com/accessibility.html",
+   "https://order.online/store/~46605145"
+  ],
+  "weight": 5177,
+  "title": "Welcome to The Stinking Rose \u2013 North Beach, San Francisco | We Season Our Garlic With Food\u00ae | 430 Columbus Avenue San Francisco CA, 94133",
+  "roundtrip": {
+   "atBottom": {
+    "y": 0,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.online/store/46601426",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.online/store/~46605145",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-thestinkingrose-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div.pace covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "fixed layer div#signup covers 42% of the screen"
+   ],
+   [
+    "WARN",
+    "3 of 12 tap targets under 24px: a 284x13, a 69x13, a 171x13"
+   ],
+   [
+    "WARN",
+    "8 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 664px tall"
+   ]
+  ],
+  "site": "https://thestinkingrose.com/",
+  "hop": "https://thestinkingrose.com/buy-giiftcard.html"
+ },
+ {
+  "url": "https://thestinkingrose.com/",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.5,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 727,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.pace",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#signup",
+    "pos": "fixed",
+    "cover": 38
+   },
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 12,
+  "small": 3,
+  "smallList": [
+   "a 284x14",
+   "a 69x14",
+   "a 171x14"
+  ],
+  "tiny": 8,
+  "tinyList": [
+   "div.address-mobile 11.2px",
+   "a 11.2px",
+   "a 11.2px",
+   "a 11.2px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 191,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "RESERVATIONS",
+    "href": "https://resy.com/cities/sf/the-stinking-rose-san-francisco"
+   },
+   {
+    "text": "ONLINE ORDERING",
+    "href": "https://order.online/store/46601426"
+   },
+   {
+    "text": "BUY A GIFT CARD",
+    "href": "https://thestinkingrose.com/buy-giiftcard.html"
+   },
+   {
+    "text": "",
+    "href": "https://order.online/store/~46605145"
+   }
+  ],
+  "allLinks": [
+   "https://thestinkingrose.com/#content",
+   "https://thestinkingrose.com/index.html",
+   "https://thestinkingrose.com/directions.html",
+   "https://thestinkingrose.com/#",
+   "https://thestinkingrose.com/photos.html",
+   "https://resy.com/cities/sf/the-stinking-rose-san-francisco",
+   "https://order.online/store/46601426",
+   "https://thestinkingrose.com/menu1.html",
+   "https://thestinkingrose.com/menu2.html",
+   "https://thestinkingrose.com/banquets.html",
+   "https://thestinkingrose.com/menuthanksgiving.html",
+   "https://thestinkingrose.com/recipes.html",
+   "https://thestinkingrose.com/about-us.html",
+   "https://thestinkingrose.com/about-thegarlic.html",
+   "https://thestinkingrose.com/about-thebuzz.html",
+   "https://thestinkingrose.com/contact.html",
+   "https://thestinkingrose.com/staff-info.html",
+   "https://signup.delightmail.com/opt-in/?brand=5493e627-e87c-4350-bd8b-9e6d0d32230c&list=a96e96bd-81e8-4d70-96dc-10d422ee5d92",
+   "https://thestinkingrose.com/buy-giiftcard.html",
+   "https://thestinkingrose.com/restaurants.html",
+   "https://twitter.com/thestinkingrose",
+   "https://www.facebook.com/thestinkingrose",
+   "https://www.instagram.com/thestinkingrosesf/?ref=badge",
+   "https://www.pinterest.com/thestinkingrose/",
+   "https://thestinkingrose.com/careers.html",
+   "https://thestinkingrose.com/accessibility.html",
+   "https://order.online/store/~46605145"
+  ],
+  "weight": null,
+  "title": "Welcome to The Stinking Rose \u2013 North Beach, San Francisco | We Season Our Garlic With Food\u00ae | 430 Columbus Avenue San Francisco CA, 94133",
+  "roundtrip": {
+   "atBottom": {
+    "y": 0,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Refused to apply style from 'https://thestinkingrose.com/fancybox/helpers/jquery.fancybox-thumbs.css' because its MIME type ('text/html') is",
+   "console: Refused to apply style from 'https://thestinkingrose.com/fancybox/helpers/jquery.fancybox-buttons.css' because its MIME type ('text/html') i",
+   "console: Refused to apply style from 'https://thestinkingrose.com/fancybox/jquery.fancybox.css?v=2.1.5' because its MIME type ('text/html') is not a ",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Refused to execute script from 'https://thestinkingrose.com/fancybox/jquery.fancybox.pack.js?v=2.1.5' because its MIME type ('text/html') is"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div.pace covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "3 of 12 tap targets under 24px: a 284x14, a 69x14, a 171x14"
+   ],
+   [
+    "WARN",
+    "8 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px"
+   ],
+   [
+    "INFO",
+    "console: Refused to apply style from 'https://thestinkingrose.com/fancybox/helpers/jquery.fancybox-thumbs.css' because its MIME type ('text/html') is"
+   ],
+   [
+    "INFO",
+    "document scrolls, 727px tall"
+   ]
+  ],
+  "site": "https://thestinkingrose.com/"
+ },
+ {
+  "url": "https://thestinkingrose.com/buy-giiftcard.html",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 5.1,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 664,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 7,
+  "small": 3,
+  "smallList": [
+   "a 284x13",
+   "a 69x13",
+   "a 171x13"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "div.address-mobile 11.2px",
+   "a 11.2px",
+   "a 11.2px",
+   "a 11.2px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 362,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "RESERVATIONS",
+    "href": "https://resy.com/cities/sf/the-stinking-rose-san-francisco"
+   },
+   {
+    "text": "ONLINE ORDERING",
+    "href": "https://order.online/store/46601426"
+   },
+   {
+    "text": "BUY A GIFT CARD",
+    "href": "https://thestinkingrose.com/buy-giiftcard.html"
+   }
+  ],
+  "allLinks": [
+   "https://thestinkingrose.com/buy-giiftcard.html#content",
+   "https://thestinkingrose.com/index.html",
+   "https://thestinkingrose.com/directions.html",
+   "https://thestinkingrose.com/buy-giiftcard.html#",
+   "https://thestinkingrose.com/photos.html",
+   "https://resy.com/cities/sf/the-stinking-rose-san-francisco",
+   "https://order.online/store/46601426",
+   "https://thestinkingrose.com/menu1.html",
+   "https://thestinkingrose.com/menu2.html",
+   "https://thestinkingrose.com/banquets.html",
+   "https://thestinkingrose.com/menuthanksgiving.html",
+   "https://thestinkingrose.com/recipes.html",
+   "https://thestinkingrose.com/about-us.html",
+   "https://thestinkingrose.com/about-thegarlic.html",
+   "https://thestinkingrose.com/about-thebuzz.html",
+   "https://thestinkingrose.com/contact.html",
+   "https://thestinkingrose.com/staff-info.html",
+   "https://signup.delightmail.com/opt-in/?brand=5493e627-e87c-4350-bd8b-9e6d0d32230c&list=a96e96bd-81e8-4d70-96dc-10d422ee5d92",
+   "https://thestinkingrose.com/buy-giiftcard.html",
+   "https://thestinkingrose.com/restaurants.html",
+   "https://twitter.com/thestinkingrose",
+   "https://www.facebook.com/thestinkingrose",
+   "https://www.instagram.com/thestinkingrosesf/?ref=badge",
+   "https://www.pinterest.com/thestinkingrose/",
+   "https://thestinkingrose.com/careers.html",
+   "https://thestinkingrose.com/accessibility.html"
+  ],
+  "weight": 3674,
+  "title": "Gift Cards | The Stinking Rose, San Francisco",
+  "roundtrip": {
+   "atBottom": {
+    "y": 0,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.online/store/46601426",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-thestinkingrose-com-buy-giiftcard-html.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Refused to execute https://thestinkingrose.com/js/jquery.fitvids.js as script because \"X-Content-Type-Options: nosniff\" was given and its Co",
+   "console: Refused to execute https://thestinkingrose.com/js/twitter/jquery.tweet.min.js as script because \"X-Content-Type-Options: nosniff\" was given ",
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "3 of 7 tap targets under 24px: a 284x13, a 69x13, a 171x13"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 664px tall"
+   ]
+  ],
+  "site": "https://thestinkingrose.com/"
+ },
+ {
+  "url": "https://thestinkingrose.com/buy-giiftcard.html",
+  "device": "android",
+  "status": 200,
+  "load_s": 7.9,
+  "meta": "width=device-width, initial-scale=1.0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 727,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 7,
+  "small": 3,
+  "smallList": [
+   "a 284x14",
+   "a 69x14",
+   "a 171x14"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "div.address-mobile 11.2px",
+   "a 11.2px",
+   "a 11.2px",
+   "a 11.2px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header",
+  "textLen": 363,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "RESERVATIONS",
+    "href": "https://resy.com/cities/sf/the-stinking-rose-san-francisco"
+   },
+   {
+    "text": "ONLINE ORDERING",
+    "href": "https://order.online/store/46601426"
+   },
+   {
+    "text": "BUY A GIFT CARD",
+    "href": "https://thestinkingrose.com/buy-giiftcard.html"
+   }
+  ],
+  "allLinks": [
+   "https://thestinkingrose.com/buy-giiftcard.html#content",
+   "https://thestinkingrose.com/index.html",
+   "https://thestinkingrose.com/directions.html",
+   "https://thestinkingrose.com/buy-giiftcard.html#",
+   "https://thestinkingrose.com/photos.html",
+   "https://resy.com/cities/sf/the-stinking-rose-san-francisco",
+   "https://order.online/store/46601426",
+   "https://thestinkingrose.com/menu1.html",
+   "https://thestinkingrose.com/menu2.html",
+   "https://thestinkingrose.com/banquets.html",
+   "https://thestinkingrose.com/menuthanksgiving.html",
+   "https://thestinkingrose.com/recipes.html",
+   "https://thestinkingrose.com/about-us.html",
+   "https://thestinkingrose.com/about-thegarlic.html",
+   "https://thestinkingrose.com/about-thebuzz.html",
+   "https://thestinkingrose.com/contact.html",
+   "https://thestinkingrose.com/staff-info.html",
+   "https://signup.delightmail.com/opt-in/?brand=5493e627-e87c-4350-bd8b-9e6d0d32230c&list=a96e96bd-81e8-4d70-96dc-10d422ee5d92",
+   "https://thestinkingrose.com/buy-giiftcard.html",
+   "https://thestinkingrose.com/restaurants.html",
+   "https://twitter.com/thestinkingrose",
+   "https://www.facebook.com/thestinkingrose",
+   "https://www.instagram.com/thestinkingrosesf/?ref=badge",
+   "https://www.pinterest.com/thestinkingrose/",
+   "https://thestinkingrose.com/careers.html",
+   "https://thestinkingrose.com/accessibility.html"
+  ],
+  "weight": 3665,
+  "title": "Gift Cards | The Stinking Rose, San Francisco",
+  "roundtrip": {
+   "atBottom": {
+    "y": 0,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Refused to execute script from 'https://thestinkingrose.com/js/jquery.fitvids.js' because its MIME type ('text/html') is not executable, and",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "3 of 7 tap targets under 24px: a 284x14, a 69x14, a 171x14"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 727px tall"
+   ]
+  ],
+  "site": "https://thestinkingrose.com/"
+ },
+ {
+  "url": "https://perryssteakhouse.com/locations/tx/dallas/park-district/",
+  "device": "iphone",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 47.1,
+  "meta": "width=device-width, initial-scale=1, viewport-fit=cover",
+  "vw": 390,
+  "vh": 664,
+  "docH": 16066,
+  "zoomTrap": [],
+  "leaks": [
+   "div#mobile-nav.mobile-nav right=780",
+   "div.info right=410",
+   "div.inner right=410"
+  ],
+  "docWider": true,
+  "docLocked": false,
+  "scrollers": [
+   {
+    "el": "div#mobile-nav.mobile-nav",
+    "client": 664,
+    "scroll": 813
+   }
+  ],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header#masthead",
+    "pos": "fixed",
+    "cover": 30
+   }
+  ],
+  "targets": 102,
+  "small": 9,
+  "smallList": [
+   "a.promo-2 198x14",
+   "a.dl-private 131x18",
+   "a.dl-bar 70x18",
+   "a 40x14",
+   "a 95x14"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "span 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead",
+  "textLen": 6829,
+  "fields": [
+   {
+    "el": "input#input_2_1.large",
+    "type": "email",
+    "name": "input_1",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "jon.doe@email.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservations",
+    "href": "https://perryssteakhouse.com/start-your-reservation?loc=park-district"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "http://onelink.quickgifts.com/merchant/perrys-restaurants/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "https://perryssteakhouse.com/start-your-reservation?loc=park-district"
+   },
+   {
+    "text": "Menu & Locations",
+    "href": "https://perryssteakhouse.com/locations/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "http://onelink.quickgifts.com/merchant/perrys-restaurants/"
+   },
+   {
+    "text": "Download Dinner Menu",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029_Menu-August_Dinner_Main_4_Singles-1.pdf"
+   },
+   {
+    "text": "Download Lunch Menu",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029-Menu-August_Lunch_Main_2-1.pdf"
+   },
+   {
+    "text": "Download Steakhouse Steak Apps Menu",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029-Menu-August_Steak-Apps_Main.pdf"
+   },
+   {
+    "text": "Download Bar Menu",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029_Menu-August_Bar_Main_2_Singles.pdf"
+   },
+   {
+    "text": "Download Social Hour 79 Menu",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER05-024-Social-Hour-Insert_Main-1.pdf"
+   },
+   {
+    "text": "Menu Options",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2025/10/25PER01-021-PDM_Sept-Rollout_Dinner_Menu.pdf"
+   },
+   {
+    "text": "Shop Now",
+    "href": "https://shopperryswines.com/"
+   }
+  ],
+  "allLinks": [
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#content",
+   "https://perryssteakhouse.com/specials/thanksgiving/",
+   "https://perryssteakhouse.com/join-email/",
+   "https://perryssteakhouse.com/start-your-reservation?loc=park-district",
+   "https://perryssteakhouse.com/to-go/",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#",
+   "https://perryssteakhouse.com/bar-79/",
+   "https://shop.perryssteakhouse.com/",
+   "http://onelink.quickgifts.com/merchant/perrys-restaurants/",
+   "https://perryssteakhouse.com/",
+   "https://perryssteakhouse.com/about-us/",
+   "https://perryssteakhouse.com/experience/",
+   "https://perryssteakhouse.com/plan-an-event/",
+   "https://perryssteakhouse.com/contact-us/",
+   "https://perryssteakhouse.com/locations/",
+   "https://perryssteakhouse.com/terms-conditions",
+   "https://perryssteakhouse.com/join-email",
+   "https://perryssteakhouse.com/employment",
+   "https://perryssteakhouse.com/locations/al/birmingham/summit-area/",
+   "https://perryssteakhouse.com/locations/al/huntsville/huntsville/",
+   "https://perryssteakhouse.com/locations/az/phoenix/gilbert/",
+   "https://perryssteakhouse.com/locations/co/denver/park-meadows/",
+   "https://perryssteakhouse.com/locations/fl/miami/coral-gables/",
+   "https://perryssteakhouse.com/locations/il/chicago/oak-brook/",
+   "https://perryssteakhouse.com/locations/il/chicago/schaumburg/",
+   "https://perryssteakhouse.com/locations/il/chicago/vernon-hills/",
+   "https://perryssteakhouse.com/locations/ne/omaha/omaha/",
+   "https://perryssteakhouse.com/locations/nc/raleigh/raleigh/",
+   "https://perryssteakhouse.com/locations/tn/nashville/cool-springs/",
+   "https://perryssteakhouse.com/locations/tx/houston/baybrook/",
+   "https://perryssteakhouse.com/locations/tx/houston/champions/",
+   "https://perryssteakhouse.com/locations/tx/houston/katy/",
+   "https://perryssteakhouse.com/locations/tx/houston/memorial-city/",
+   "https://perryssteakhouse.com/locations/tx/houston/sugar-land/",
+   "https://perryssteakhouse.com/locations/tx/houston/the-woodlands/",
+   "https://perryssteakhouse.com/locations/tx/austin/domain-northside/",
+   "https://perryssteakhouse.com/locations/tx/austin/downtown/",
+   "https://perryssteakhouse.com/locations/tx/dallas/frisco/",
+   "https://perryssteakhouse.com/locations/tx/dallas/grapevine/",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/",
+   "https://perryssteakhouse.com/locations/tx/san-antonio/la-cantera/",
+   "https://perryssteakhouse.com/locations/va/richmond/short-pump/",
+   "https://www.perrysrestaurants.com/",
+   "https://www.carveamericangrille.com/",
+   "https://www.verdadtruemodernmexican.com/",
+   "https://www.perryandsonsmarketandgrille.com/",
+   "https://perryssteakhouse.com/locations/homepage/",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#menus-pd-bar",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#menus-full",
+   "https://perryssteakhouse.com/to-go",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#pd-full",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#bar-full",
+   "https://www.google.com/maps/place/Perry's+Steakhouse+%26+Grille/@32.7904483,-96.8036536,17z/data=!3m1!4b1!4m5!3m4!1s0x864e993acbd9cbff:0x47be02358b58eddb!8m2!3d32.7904483!4d-96.8014649",
+   "https://perryssteakhouse.com/dress-code/",
+   "https://perryssteakhouse.com/category/awards/",
+   "https://perryssteakhouse.com/famousporkchop/",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#hours-location",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#reservations",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#news",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#specials",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#menu",
+   "https://perryssteakhouse.com/allergy",
+   "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029_Menu-August_Dinner_Main_4_Singles-1.pdf",
+   "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029-Menu-August_Lunch_Main_2-1.pdf",
+   "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029-Menu-August_Steak-Apps_Main.pdf",
+   "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029_Menu-August_Bar_Main_2_Singles.pdf",
+   "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER05-024-Social-Hour-Insert_Main-1.pdf",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#soups",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#steaks",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#surfnturf",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#caramelized-prime-rib-thursday",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#seafood",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#porkchop",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#chicken",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#sides",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#lunch",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#wine",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#dessert",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#otmf",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#private-dining"
+  ],
+  "weight": 92916,
+  "title": "Park District Perry's Steakhouse & Grille | Fine Dining in Dallas, TX",
+  "roundtrip": {
+   "atBottom": {
+    "y": 15402,
+    "inner": 149
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 20,
+  "deadLinks": [],
+  "shot": "data/shots/https-perryssteakhouse-com-locations-tx-dallas-park-district.png",
+  "errors": [
+   "pageerror: /www.opentable.com'.",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: Not allowed to call enumerateDevices.",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: /www.opentable.com'."
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "sideways overflow (page pans 20px sideways): div#mobile-nav.mobile-nav right=780, div.info right=410, div.inner right=410"
+   ],
+   [
+    "FAIL",
+    "pageerror: /www.opentable.com'."
+   ],
+   [
+    "WARN",
+    "9 of 102 tap targets under 24px: a.promo-2 198x14, a.dl-private 131x18, a.dl-bar 70x18, a 40x14, a 95x14"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: span 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 16066px tall"
+   ]
+  ],
+  "site": "https://perryssteakhouse.com/locations/tx/dallas/park-district/",
+  "hop": "https://perryssteakhouse.com/start-your-reservation?loc=park-district"
+ },
+ {
+  "url": "https://perryssteakhouse.com/locations/tx/dallas/park-district/",
+  "device": "android",
+  "status": 200,
+  "load_s": 16.2,
+  "meta": "width=device-width, initial-scale=1, viewport-fit=cover",
+  "vw": 409,
+  "vh": 757,
+  "docH": 15956,
+  "zoomTrap": [],
+  "leaks": [
+   "div#mobile-nav.mobile-nav right=818"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header#masthead",
+    "pos": "fixed",
+    "cover": 26
+   }
+  ],
+  "targets": 102,
+  "small": 12,
+  "smallList": [
+   "a.promo-2 198x14",
+   "a 329x20",
+   "a 329x20",
+   "a 329x20",
+   "a.dl-private 131x18"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "span 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead",
+  "textLen": 6851,
+  "fields": [
+   {
+    "el": "input#input_2_1.large",
+    "type": "email",
+    "name": "input_1",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "jon.doe@email.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservations",
+    "href": "https://perryssteakhouse.com/start-your-reservation?loc=park-district"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "http://onelink.quickgifts.com/merchant/perrys-restaurants/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "https://perryssteakhouse.com/start-your-reservation?loc=park-district"
+   },
+   {
+    "text": "Menu & Locations",
+    "href": "https://perryssteakhouse.com/locations/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "http://onelink.quickgifts.com/merchant/perrys-restaurants/"
+   },
+   {
+    "text": "Download Dinner Menu",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029_Menu-August_Dinner_Main_4_Singles-1.pdf"
+   },
+   {
+    "text": "Download Lunch Menu",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029-Menu-August_Lunch_Main_2-1.pdf"
+   },
+   {
+    "text": "Download Steakhouse Steak Apps Menu",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029-Menu-August_Steak-Apps_Main.pdf"
+   },
+   {
+    "text": "Download Bar Menu",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029_Menu-August_Bar_Main_2_Singles.pdf"
+   },
+   {
+    "text": "Download Social Hour 79 Menu",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER05-024-Social-Hour-Insert_Main-1.pdf"
+   },
+   {
+    "text": "Menu Options",
+    "href": "https://perryssteakhouse.com/wp-content/uploads/2025/10/25PER01-021-PDM_Sept-Rollout_Dinner_Menu.pdf"
+   },
+   {
+    "text": "Shop Now",
+    "href": "https://shopperryswines.com/"
+   }
+  ],
+  "allLinks": [
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#content",
+   "https://perryssteakhouse.com/specials/thanksgiving/",
+   "https://perryssteakhouse.com/join-email/",
+   "https://perryssteakhouse.com/start-your-reservation?loc=park-district",
+   "https://perryssteakhouse.com/to-go/",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#",
+   "https://perryssteakhouse.com/bar-79/",
+   "https://shop.perryssteakhouse.com/",
+   "http://onelink.quickgifts.com/merchant/perrys-restaurants/",
+   "https://perryssteakhouse.com/",
+   "https://perryssteakhouse.com/about-us/",
+   "https://perryssteakhouse.com/experience/",
+   "https://perryssteakhouse.com/plan-an-event/",
+   "https://perryssteakhouse.com/contact-us/",
+   "https://perryssteakhouse.com/locations/",
+   "https://perryssteakhouse.com/terms-conditions",
+   "https://perryssteakhouse.com/join-email",
+   "https://perryssteakhouse.com/employment",
+   "https://perryssteakhouse.com/locations/al/birmingham/summit-area/",
+   "https://perryssteakhouse.com/locations/al/huntsville/huntsville/",
+   "https://perryssteakhouse.com/locations/az/phoenix/gilbert/",
+   "https://perryssteakhouse.com/locations/co/denver/park-meadows/",
+   "https://perryssteakhouse.com/locations/fl/miami/coral-gables/",
+   "https://perryssteakhouse.com/locations/il/chicago/oak-brook/",
+   "https://perryssteakhouse.com/locations/il/chicago/schaumburg/",
+   "https://perryssteakhouse.com/locations/il/chicago/vernon-hills/",
+   "https://perryssteakhouse.com/locations/ne/omaha/omaha/",
+   "https://perryssteakhouse.com/locations/nc/raleigh/raleigh/",
+   "https://perryssteakhouse.com/locations/tn/nashville/cool-springs/",
+   "https://perryssteakhouse.com/locations/tx/houston/baybrook/",
+   "https://perryssteakhouse.com/locations/tx/houston/champions/",
+   "https://perryssteakhouse.com/locations/tx/houston/katy/",
+   "https://perryssteakhouse.com/locations/tx/houston/memorial-city/",
+   "https://perryssteakhouse.com/locations/tx/houston/sugar-land/",
+   "https://perryssteakhouse.com/locations/tx/houston/the-woodlands/",
+   "https://perryssteakhouse.com/locations/tx/austin/domain-northside/",
+   "https://perryssteakhouse.com/locations/tx/austin/downtown/",
+   "https://perryssteakhouse.com/locations/tx/dallas/frisco/",
+   "https://perryssteakhouse.com/locations/tx/dallas/grapevine/",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/",
+   "https://perryssteakhouse.com/locations/tx/san-antonio/la-cantera/",
+   "https://perryssteakhouse.com/locations/va/richmond/short-pump/",
+   "https://www.perrysrestaurants.com/",
+   "https://www.carveamericangrille.com/",
+   "https://www.verdadtruemodernmexican.com/",
+   "https://www.perryandsonsmarketandgrille.com/",
+   "https://perryssteakhouse.com/locations/homepage/",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#menus-pd-bar",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#menus-full",
+   "https://perryssteakhouse.com/to-go",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#pd-full",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#bar-full",
+   "https://www.google.com/maps/place/Perry's+Steakhouse+%26+Grille/@32.7904483,-96.8036536,17z/data=!3m1!4b1!4m5!3m4!1s0x864e993acbd9cbff:0x47be02358b58eddb!8m2!3d32.7904483!4d-96.8014649",
+   "https://perryssteakhouse.com/dress-code/",
+   "https://perryssteakhouse.com/category/awards/",
+   "https://perryssteakhouse.com/famousporkchop/",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#hours-location",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#reservations",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#news",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#specials",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#menu",
+   "https://perryssteakhouse.com/allergy",
+   "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029_Menu-August_Dinner_Main_4_Singles-1.pdf",
+   "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029-Menu-August_Lunch_Main_2-1.pdf",
+   "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029-Menu-August_Steak-Apps_Main.pdf",
+   "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER01-029_Menu-August_Bar_Main_2_Singles.pdf",
+   "https://perryssteakhouse.com/wp-content/uploads/2026/09/26PER05-024-Social-Hour-Insert_Main-1.pdf",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#soups",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#steaks",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#surfnturf",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#caramelized-prime-rib-thursday",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#seafood",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#porkchop",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#chicken",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#sides",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#lunch",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#wine",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#dessert",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#otmf",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/#private-dining"
+  ],
+  "weight": 92835,
+  "title": "Park District Perry's Steakhouse & Grille | Fine Dining in Dallas, TX",
+  "roundtrip": {
+   "atBottom": {
+    "y": 15199,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div#mobile-nav.mobile-nav right=818"
+   ],
+   [
+    "WARN",
+    "12 of 102 tap targets under 24px: a.promo-2 198x14, a 329x20, a 329x20, a 329x20, a.dl-private 131x18"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: span 11px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+   ],
+   [
+    "INFO",
+    "document scrolls, 15956px tall"
+   ]
+  ],
+  "site": "https://perryssteakhouse.com/locations/tx/dallas/park-district/"
+ },
+ {
+  "url": "https://perryssteakhouse.com/start-your-reservation?loc=park-district",
+  "device": "iphone",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 47.2,
+  "meta": "width=device-width, initial-scale=1, viewport-fit=cover",
+  "vw": 390,
+  "vh": 664,
+  "docH": 1850,
+  "zoomTrap": [],
+  "leaks": [
+   "div#mobile-nav.mobile-nav right=780"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [
+   {
+    "el": "div#mobile-nav.mobile-nav",
+    "client": 664,
+    "scroll": 813
+   }
+  ],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header#masthead",
+    "pos": "fixed",
+    "cover": 30
+   }
+  ],
+  "targets": 41,
+  "small": 3,
+  "smallList": [
+   "a.promo-2 198x14",
+   "a 164x20",
+   "a 154x20"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "span 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead",
+  "textLen": 745,
+  "fields": [
+   {
+    "el": "select#booking_list",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservations",
+    "href": "https://perryssteakhouse.com/start-your-reservation?loc=start-your-reservation"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "http://onelink.quickgifts.com/merchant/perrys-restaurants/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "https://perryssteakhouse.com/start-your-reservation?loc=start-your-reservation"
+   },
+   {
+    "text": "Menu & Locations",
+    "href": "https://perryssteakhouse.com/locations/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "http://onelink.quickgifts.com/merchant/perrys-restaurants/"
+   },
+   {
+    "text": "Make a Reservation(9 or Less)",
+    "href": "https://www.opentable.com/r/perrys-steakhouse-and-grille-park-district-reservations-dallas?restref=42916&lang=en-US&ot_source=Restaurant%20website"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://onelink.quickgifts.com/merchant/perrys-restaurants/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "https://perryssteakhouse.com/start-your-reservation?loc=start-your-reservation"
+   },
+   {
+    "text": "NEW: Perry\u2019s Premier Menu",
+    "href": "https://perryssteakhouse.com/specials/perrys-premier-menu/"
+   },
+   {
+    "text": "Anniversary Celebration Menu",
+    "href": "https://perryssteakhouse.com/specials/anniversary-menu/"
+   },
+   {
+    "text": "Off-The-Menu Favorites",
+    "href": "https://perryssteakhouse.com/specials/otmf/"
+   },
+   {
+    "text": "Perry\u2019s First Responders Menu: 3 Courses",
+    "href": "https://perryssteakhouse.com/specials/first-responders-menu/"
+   }
+  ],
+  "allLinks": [
+   "https://perryssteakhouse.com/start-your-reservation/?loc=park-district#content",
+   "https://perryssteakhouse.com/specials/thanksgiving/",
+   "https://perryssteakhouse.com/join-email/",
+   "https://perryssteakhouse.com/start-your-reservation?loc=start-your-reservation",
+   "https://perryssteakhouse.com/to-go/",
+   "https://perryssteakhouse.com/start-your-reservation/?loc=park-district#",
+   "https://perryssteakhouse.com/bar-79/",
+   "https://shop.perryssteakhouse.com/",
+   "http://onelink.quickgifts.com/merchant/perrys-restaurants/",
+   "https://perryssteakhouse.com/",
+   "https://perryssteakhouse.com/about-us/",
+   "https://perryssteakhouse.com/experience/",
+   "https://perryssteakhouse.com/plan-an-event/",
+   "https://perryssteakhouse.com/contact-us/",
+   "https://perryssteakhouse.com/locations/",
+   "https://perryssteakhouse.com/terms-conditions",
+   "https://perryssteakhouse.com/join-email",
+   "https://perryssteakhouse.com/employment",
+   "https://perryssteakhouse.com/locations/al/birmingham/summit-area/",
+   "https://perryssteakhouse.com/locations/al/huntsville/huntsville/",
+   "https://perryssteakhouse.com/locations/az/phoenix/gilbert/",
+   "https://perryssteakhouse.com/locations/co/denver/park-meadows/",
+   "https://perryssteakhouse.com/locations/fl/miami/coral-gables/",
+   "https://perryssteakhouse.com/locations/il/chicago/oak-brook/",
+   "https://perryssteakhouse.com/locations/il/chicago/schaumburg/",
+   "https://perryssteakhouse.com/locations/il/chicago/vernon-hills/",
+   "https://perryssteakhouse.com/locations/ne/omaha/omaha/",
+   "https://perryssteakhouse.com/locations/nc/raleigh/raleigh/",
+   "https://perryssteakhouse.com/locations/tn/nashville/cool-springs/",
+   "https://perryssteakhouse.com/locations/tx/houston/baybrook/",
+   "https://perryssteakhouse.com/locations/tx/houston/champions/",
+   "https://perryssteakhouse.com/locations/tx/houston/katy/",
+   "https://perryssteakhouse.com/locations/tx/houston/memorial-city/",
+   "https://perryssteakhouse.com/locations/tx/houston/sugar-land/",
+   "https://perryssteakhouse.com/locations/tx/houston/the-woodlands/",
+   "https://perryssteakhouse.com/locations/tx/austin/domain-northside/",
+   "https://perryssteakhouse.com/locations/tx/austin/downtown/",
+   "https://perryssteakhouse.com/locations/tx/dallas/frisco/",
+   "https://perryssteakhouse.com/locations/tx/dallas/grapevine/",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/",
+   "https://perryssteakhouse.com/locations/tx/san-antonio/la-cantera/",
+   "https://perryssteakhouse.com/locations/va/richmond/short-pump/",
+   "https://www.perrysrestaurants.com/",
+   "https://www.carveamericangrille.com/",
+   "https://www.verdadtruemodernmexican.com/",
+   "https://www.perryandsonsmarketandgrille.com/",
+   "https://perryssteakhouse.com/locations/homepage/",
+   "https://www.opentable.com/r/perrys-steakhouse-and-grille-park-district-reservations-dallas?restref=42916&lang=en-US&ot_source=Restaurant%20website",
+   "https://perryssteakhouse.com/start-your-reservation/?loc=park-district",
+   "https://perrys.tripleseat.com/party_request/7734",
+   "https://perryssteakhouse.com/news-awards/",
+   "https://onelink.quickgifts.com/merchant/perrys-restaurants/",
+   "https://www.facebook.com/PerrysDining/",
+   "https://www.instagram.com/perrys_steakhouse",
+   "https://twitter.com/PerrysDining",
+   "https://www.youtube.com/user/PerrysDining",
+   "https://pinterest.com/perrysdining/",
+   "http://perrysrestaurants.com/",
+   "https://maps.app.goo.gl/TyMrp2JvYz3E3NtK7",
+   "https://perryssteakhouse.com/specials/perrys-premier-menu/",
+   "https://perryssteakhouse.com/specials/anniversary-menu/",
+   "https://perryssteakhouse.com/specials/pork-chop-lunch/",
+   "https://perryssteakhouse.com/specials/social-hour-79-at-perrys-bar-79/",
+   "https://perryssteakhouse.com/specials/prime-rib-thursday-dinner/",
+   "https://perryssteakhouse.com/specials/sunday-supper",
+   "https://perryssteakhouse.com/specials/otmf/",
+   "https://perryssteakhouse.com/specials/3-for-49/",
+   "https://perryssteakhouse.com/specials/first-responders-menu/",
+   "https://perryssteakhouse.com/specials/military-menu/",
+   "https://perryssteakhouse.com/specials/senior-menu/",
+   "https://perryssteakhouse.com/specials/introducing-perrys-reserve-premier-cru-champagne/",
+   "https://perryssteakhouse.com/specials/perrys-reserve-wagyu/"
+  ],
+  "weight": 51706,
+  "title": "Start Your Reservation - Perry's Steakhouse & Grille",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1186,
+    "inner": 149
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/r/perrys-steakhouse-and-grille-park-district-reservations-dallas?restref=42916&lang=en-US&ot_source=Restaurant%20website",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-perryssteakhouse-com-start-your-reservation-loc-park-district.png",
+  "errors": [
+   "console: Origin https://perryssteakhouse.com is not allowed by Access-Control-Allow-Origin. Status code: 502",
+   "pageerror: /data.stbuttons.click/data due to access control checks.",
+   "console: Failed to load resource: Origin https://perryssteakhouse.com is not allowed by Access-Control-Allow-Origin. Status code: 502",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: /www.opentable.com'."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div#mobile-nav.mobile-nav right=780"
+   ],
+   [
+    "FAIL",
+    "pageerror: /data.stbuttons.click/data due to access control checks."
+   ],
+   [
+    "WARN",
+    "3 of 41 tap targets under 24px: a.promo-2 198x14, a 164x20, a 154x20"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: span 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 1850px tall"
+   ]
+  ],
+  "site": "https://perryssteakhouse.com/locations/tx/dallas/park-district/"
+ },
+ {
+  "url": "https://perryssteakhouse.com/start-your-reservation?loc=park-district",
+  "device": "android",
+  "status": 200,
+  "load_s": 16.6,
+  "meta": "width=device-width, initial-scale=1, viewport-fit=cover",
+  "vw": 393,
+  "vh": 727,
+  "docH": 1851,
+  "zoomTrap": [],
+  "leaks": [
+   "div#mobile-nav.mobile-nav right=786"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [
+   {
+    "el": "div#mobile-nav.mobile-nav",
+    "client": 727,
+    "scroll": 775
+   }
+  ],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header#masthead",
+    "pos": "fixed",
+    "cover": 27
+   }
+  ],
+  "targets": 41,
+  "small": 6,
+  "smallList": [
+   "a.promo-2 198x14",
+   "a 313x20",
+   "a 313x20",
+   "a 313x20",
+   "a 164x20"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "span 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead",
+  "textLen": 1329,
+  "fields": [
+   {
+    "el": "select#booking_list",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://insight.adsrvr.org/track/conv/?adv=24gkx5f&ct=0:9i1ham9&fmt=3"
+  ],
+  "moneyLinks": [
+   {
+    "text": "Reservations",
+    "href": "https://perryssteakhouse.com/start-your-reservation?loc=start-your-reservation"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "http://onelink.quickgifts.com/merchant/perrys-restaurants/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "https://perryssteakhouse.com/start-your-reservation?loc=start-your-reservation"
+   },
+   {
+    "text": "Menu & Locations",
+    "href": "https://perryssteakhouse.com/locations/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "http://onelink.quickgifts.com/merchant/perrys-restaurants/"
+   },
+   {
+    "text": "Make a Reservation(9 or Less)",
+    "href": "https://www.opentable.com/r/perrys-steakhouse-and-grille-park-district-reservations-dallas?restref=42916&lang=en-US&ot_source=Restaurant%20website"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://onelink.quickgifts.com/merchant/perrys-restaurants/"
+   },
+   {
+    "text": "Make a Reservation",
+    "href": "https://perryssteakhouse.com/start-your-reservation?loc=start-your-reservation"
+   },
+   {
+    "text": "NEW: Perry\u2019s Premier Menu",
+    "href": "https://perryssteakhouse.com/specials/perrys-premier-menu/"
+   },
+   {
+    "text": "Anniversary Celebration Menu",
+    "href": "https://perryssteakhouse.com/specials/anniversary-menu/"
+   },
+   {
+    "text": "Off-The-Menu Favorites",
+    "href": "https://perryssteakhouse.com/specials/otmf/"
+   },
+   {
+    "text": "Perry\u2019s First Responders Menu: 3 Courses",
+    "href": "https://perryssteakhouse.com/specials/first-responders-menu/"
+   }
+  ],
+  "allLinks": [
+   "https://perryssteakhouse.com/start-your-reservation/?loc=park-district#content",
+   "https://perryssteakhouse.com/specials/thanksgiving/",
+   "https://perryssteakhouse.com/join-email/",
+   "https://perryssteakhouse.com/start-your-reservation?loc=start-your-reservation",
+   "https://perryssteakhouse.com/to-go/",
+   "https://perryssteakhouse.com/start-your-reservation/?loc=park-district#",
+   "https://perryssteakhouse.com/bar-79/",
+   "https://shop.perryssteakhouse.com/",
+   "http://onelink.quickgifts.com/merchant/perrys-restaurants/",
+   "https://perryssteakhouse.com/",
+   "https://perryssteakhouse.com/about-us/",
+   "https://perryssteakhouse.com/experience/",
+   "https://perryssteakhouse.com/plan-an-event/",
+   "https://perryssteakhouse.com/contact-us/",
+   "https://perryssteakhouse.com/locations/",
+   "https://perryssteakhouse.com/terms-conditions",
+   "https://perryssteakhouse.com/join-email",
+   "https://perryssteakhouse.com/employment",
+   "https://perryssteakhouse.com/locations/al/birmingham/summit-area/",
+   "https://perryssteakhouse.com/locations/al/huntsville/huntsville/",
+   "https://perryssteakhouse.com/locations/az/phoenix/gilbert/",
+   "https://perryssteakhouse.com/locations/co/denver/park-meadows/",
+   "https://perryssteakhouse.com/locations/fl/miami/coral-gables/",
+   "https://perryssteakhouse.com/locations/il/chicago/oak-brook/",
+   "https://perryssteakhouse.com/locations/il/chicago/schaumburg/",
+   "https://perryssteakhouse.com/locations/il/chicago/vernon-hills/",
+   "https://perryssteakhouse.com/locations/ne/omaha/omaha/",
+   "https://perryssteakhouse.com/locations/nc/raleigh/raleigh/",
+   "https://perryssteakhouse.com/locations/tn/nashville/cool-springs/",
+   "https://perryssteakhouse.com/locations/tx/houston/baybrook/",
+   "https://perryssteakhouse.com/locations/tx/houston/champions/",
+   "https://perryssteakhouse.com/locations/tx/houston/katy/",
+   "https://perryssteakhouse.com/locations/tx/houston/memorial-city/",
+   "https://perryssteakhouse.com/locations/tx/houston/sugar-land/",
+   "https://perryssteakhouse.com/locations/tx/houston/the-woodlands/",
+   "https://perryssteakhouse.com/locations/tx/austin/domain-northside/",
+   "https://perryssteakhouse.com/locations/tx/austin/downtown/",
+   "https://perryssteakhouse.com/locations/tx/dallas/frisco/",
+   "https://perryssteakhouse.com/locations/tx/dallas/grapevine/",
+   "https://perryssteakhouse.com/locations/tx/dallas/park-district/",
+   "https://perryssteakhouse.com/locations/tx/san-antonio/la-cantera/",
+   "https://perryssteakhouse.com/locations/va/richmond/short-pump/",
+   "https://www.perrysrestaurants.com/",
+   "https://www.carveamericangrille.com/",
+   "https://www.verdadtruemodernmexican.com/",
+   "https://www.perryandsonsmarketandgrille.com/",
+   "https://perryssteakhouse.com/locations/homepage/",
+   "https://www.opentable.com/r/perrys-steakhouse-and-grille-park-district-reservations-dallas?restref=42916&lang=en-US&ot_source=Restaurant%20website",
+   "https://perryssteakhouse.com/start-your-reservation/?loc=park-district",
+   "https://perrys.tripleseat.com/party_request/7734",
+   "https://perryssteakhouse.com/news-awards/",
+   "https://onelink.quickgifts.com/merchant/perrys-restaurants/",
+   "https://www.facebook.com/PerrysDining/",
+   "https://www.instagram.com/perrys_steakhouse",
+   "https://twitter.com/PerrysDining",
+   "https://www.youtube.com/user/PerrysDining",
+   "https://pinterest.com/perrysdining/",
+   "http://perrysrestaurants.com/",
+   "https://maps.app.goo.gl/TyMrp2JvYz3E3NtK7",
+   "https://perryssteakhouse.com/specials/perrys-premier-menu/",
+   "https://perryssteakhouse.com/specials/anniversary-menu/",
+   "https://perryssteakhouse.com/specials/pork-chop-lunch/",
+   "https://perryssteakhouse.com/specials/social-hour-79-at-perrys-bar-79/",
+   "https://perryssteakhouse.com/specials/prime-rib-thursday-dinner/",
+   "https://perryssteakhouse.com/specials/sunday-supper",
+   "https://perryssteakhouse.com/specials/otmf/",
+   "https://perryssteakhouse.com/specials/3-for-49/",
+   "https://perryssteakhouse.com/specials/first-responders-menu/",
+   "https://perryssteakhouse.com/specials/military-menu/",
+   "https://perryssteakhouse.com/specials/senior-menu/",
+   "https://perryssteakhouse.com/specials/introducing-perrys-reserve-premier-cru-champagne/",
+   "https://perryssteakhouse.com/specials/perrys-reserve-wagyu/"
+  ],
+  "weight": 51634,
+  "title": "Start Your Reservation - Perry's Steakhouse & Grille",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1124,
+    "inner": 48
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+   "console: Failed to load resource: net::ERR_NAME_NOT_RESOLVED"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div#mobile-nav.mobile-nav right=786"
+   ],
+   [
+    "WARN",
+    "broken image: https://insight.adsrvr.org/track/conv/?adv=24gkx5f&ct=0:9i1ham9&fmt=3"
+   ],
+   [
+    "WARN",
+    "6 of 41 tap targets under 24px: a.promo-2 198x14, a 313x20, a 313x20, a 313x20, a 164x20"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: span 11px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+   ],
+   [
+    "INFO",
+    "document scrolls, 1851px tall"
+   ]
+  ],
+  "site": "https://perryssteakhouse.com/locations/tx/dallas/park-district/"
+ },
+ {
+  "url": "https://nashville.zanies.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 24.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 12815,
+  "zoomTrap": [],
+  "leaks": [
+   "div.osano-cm-info-dialog__info right=710",
+   "div.osano-cm-info__info-dialog-header right=710",
+   "p#d86268ac-c875-4570-b43a-ca5f838d555c__label.osano-cm-info-dialog-header__header right=670",
+   "button.osano-cm-info-dialog-header__close right=702",
+   "div.osano-cm-info__info-views right=710"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#c5362841-6fe7-42fb-9e35-d71ea462752f.osano-cm-window__dialog",
+    "pos": "fixed",
+    "cover": 38
+   }
+  ],
+  "targets": 107,
+  "small": 43,
+  "smallList": [
+   "a.osano-cm-storage-policy 109x20",
+   "a.osano-cm-powered-by__link 140x17",
+   "button.elementor-alert-dismiss 17x26",
+   "button.elementor-alert-dismiss 17x26",
+   "div.elementor-swiper-button 20x20"
+  ],
+  "tiny": 17,
+  "tinyList": [
+   "div#eventDate.mb-0 11px",
+   "div#eventDate.mb-0 11px",
+   "div.mb-0 11px",
+   "span 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header.elementor",
+  "textLen": 3531,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Zanies Menu \u2013 Main Room",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf"
+   },
+   {
+    "text": "The Lab Menu",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2025/01/TheLabatZanies_Menu_2025.pdf"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://nashville.zanies.com/gift-cards/"
+   },
+   {
+    "text": "BOOK A PRIVATE EVENT",
+    "href": "https://nashville.zanies.com/private-events/"
+   },
+   {
+    "text": "Zanies Menu \u2013 Main Room",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf"
+   },
+   {
+    "text": "The Lab Menu",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2025/01/TheLabatZanies_Menu_2025.pdf"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://nashville.zanies.com/gift-cards/"
+   },
+   {
+    "text": "BOOK A PRIVATE EVENT",
+    "href": "https://nashville.zanies.com/private-events/"
+   },
+   {
+    "text": "Zanies Menu \u2013 Main Room",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf"
+   },
+   {
+    "text": "The Lab Menu",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2025/01/TheLabatZanies_Menu_2025.pdf"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://nashville.zanies.com/gift-cards/"
+   },
+   {
+    "text": "BOOK A PRIVATE EVENT",
+    "href": "https://nashville.zanies.com/private-events/"
+   }
+  ],
+  "allLinks": [
+   "https://nashville.zanies.com/privacy-policy",
+   "https://www.osano.com/?utm_campaign=cmp&utm_source=cmp-dialog&utm_medium=banner",
+   "https://nashville.zanies.com/#content",
+   "https://nashville.zanies.com/",
+   "https://nashville.zanies.com/events/",
+   "https://nashville.zanies.com/general-info/",
+   "https://nashville.zanies.com/hiring/",
+   "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf",
+   "https://nashville.zanies.com/wp-content/uploads/2025/01/TheLabatZanies_Menu_2025.pdf",
+   "https://nashville.zanies.com/monday-night-funnies/",
+   "https://nashville.zanies.com/about-the-lab/",
+   "https://nashville.zanies.com/directions/",
+   "https://nashville.zanies.com/gift-cards/",
+   "https://nashville.zanies.com/newsletter/",
+   "https://nashville.zanies.com/concerts-calendar/",
+   "https://nashville.zanies.com/private-events/",
+   "https://nashville.zanies.com/#",
+   "https://www.thelabatzanies.com/",
+   "https://chicago.zanies.com/",
+   "https://rosemont.zanies.com/",
+   "https://merch.zanies.com/",
+   "https://nashville.zanies.com/show/",
+   "https://nashville.zanies.com/wp-content/uploads/2025/01/ZaniesNashville_Menu_2025.pdf",
+   "https://nashville.zanies.com/showcases/",
+   "https://nashville.zanies.com/show/category/series/2026-let-loose-at-the-lab/the-lab/",
+   "https://nashville.zanies.com/show/maddy-kelly/zanies/nashville-tennessee/",
+   "https://nashville.zanies.com/show/the-purple-lipstick-show/the-lab/",
+   "https://nashville.zanies.com/show/category/series/2026-2027-comedy-clash-1/the-lab/",
+   "https://nashville.zanies.com/show/joey-bragg/zanies/nashville-tennessee/",
+   "https://nashville.zanies.com/the-lab-at-zanies-presents/",
+   "https://nashville.zanies.com/private-events",
+   "https://nashville.zanies.com/venue/zanies/",
+   "https://www.etix.com/ticket/p/69137479/maddy-kelly-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://nashville.zanies.com/venue/the-lab/",
+   "https://www.etix.com/ticket/p/78168327/the-purple-lipstick-show-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/49113859/comedy-clash-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/48506711/comedy-clash-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/38724502/comedy-clash-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/84098159/comedy-clash-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/e/1057150/?partner_id=100",
+   "https://www.etix.com/ticket/p/64802782/joey-bragg-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/p/63194661/let-loose-at-the-lab-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/e/1059721/?partner_id=100",
+   "https://nashville.zanies.com/show/category/series/2026-chico-bean/zanies/nashville-tennessee/",
+   "https://www.etix.com/ticket/p/53736547/chico-bean-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/p/37440903/chico-bean-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/p/67803606/chico-bean-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/p/35328588/chico-bean-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/p/58994888/chico-bean-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/e/1059814/?partner_id=100",
+   "https://nashville.zanies.com/show/tommy-pope/the-lab/",
+   "https://www.etix.com/ticket/p/55567227/tommy-pope-nashville-the-lab-at-zanies?partner_id=100",
+   "https://nashville.zanies.com/show/drew-davis/the-lab/",
+   "https://www.etix.com/ticket/p/48763079/drew-davis-nashville-the-lab-at-zanies?partner_id=100",
+   "https://nashville.zanies.com/show/ron-taylors-birthday-bash/zanies/nashville-tennessee/",
+   "https://www.etix.com/ticket/p/31075556/ron-taylors-birthday-bash-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://nashville.zanies.com/show/category/series/2026-ron-taylor/the-lab/",
+   "https://www.etix.com/ticket/p/93868355/ron-taylor-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/59743965/ron-taylor-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/77819336/ron-taylor-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/50255969/ron-taylor-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/64454037/ron-taylor-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/e/1059307/?partner_id=100",
+   "https://nashville.zanies.com/show/clue-murder-mystery-drag-brunch/the-lab/",
+   "https://www.etix.com/ticket/p/68309124/cluemurder-mystery-drag-brunch-nashville-the-lab-at-zanies?partner_id=100",
+   "https://nashville.zanies.com/show/category/series/2026-2027-dark-dirty-showcase-2/the-lab/",
+   "https://www.etix.com/ticket/p/47138503/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/73277236/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/87088262/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/47715429/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/50272529/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/31527270/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/98200552/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/92777858/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/89719646/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/85526206/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/43782940/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/69514928/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/39605873/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/70950496/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100"
+  ],
+  "weight": 35762,
+  "title": "Zanies | Comedy Club | Nashville, TN",
+  "roundtrip": {
+   "atBottom": {
+    "y": 12151,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-nashville-zanies-com.png",
+  "errors": [
+   "console: Datadog Browser SDK: TypeError: Type error"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.osano-cm-info-dialog__info right=710, div.osano-cm-info__info-dialog-header right=710, p#d86268ac-c875-4570-b43a-ca5f838d555c__label.osano-cm-info-dialog-header__header right=670, button.osano-cm-info-dialog-header__close right=702, div.osano-cm-info__info-views right=710"
+   ],
+   [
+    "WARN",
+    "43 of 107 tap targets under 24px: a.osano-cm-storage-policy 109x20, a.osano-cm-powered-by__link 140x17, button.elementor-alert-dismiss 17x26, button.elementor-alert-dismiss 17x26, div.elementor-swiper-button 20x20"
+   ],
+   [
+    "WARN",
+    "17 text elements under 12px: div#eventDate.mb-0 11px, div#eventDate.mb-0 11px, div.mb-0 11px, span 10px"
+   ],
+   [
+    "INFO",
+    "console: Datadog Browser SDK: TypeError: Type error"
+   ],
+   [
+    "INFO",
+    "document scrolls, 12815px tall"
+   ]
+  ],
+  "site": "https://nashville.zanies.com/",
+  "hop": "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf"
+ },
+ {
+  "url": "https://nashville.zanies.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 15.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 12842,
+  "zoomTrap": [],
+  "leaks": [
+   "div.osano-cm-info-dialog__info right=713",
+   "div.osano-cm-info__info-dialog-header right=713",
+   "p#217ab2c0-f382-482b-b984-f8f7916bf571__label.osano-cm-info-dialog-header__header right=673",
+   "button.osano-cm-info-dialog-header__close right=705",
+   "div.osano-cm-info__info-views right=713"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#44bdde8c-57a4-4c64-b44c-9fe0e9f2ceba.osano-cm-window__dialog",
+    "pos": "fixed",
+    "cover": 35
+   }
+  ],
+  "targets": 107,
+  "small": 43,
+  "smallList": [
+   "a.osano-cm-storage-policy 109x20",
+   "a.osano-cm-powered-by__link 140x17",
+   "button.elementor-alert-dismiss 17x26",
+   "button.elementor-alert-dismiss 17x26",
+   "div.elementor-swiper-button 20x20"
+  ],
+  "tiny": 17,
+  "tinyList": [
+   "div#eventDate.mb-0 11px",
+   "div#eventDate.mb-0 11px",
+   "div.mb-0 11px",
+   "span 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header.elementor",
+  "textLen": 3587,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville.zanie",
+   "https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville.",
+   "https://d.adroll.com/cm/taboola/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville.z"
+  ],
+  "moneyLinks": [
+   {
+    "text": "Zanies Menu \u2013 Main Room",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf"
+   },
+   {
+    "text": "The Lab Menu",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2025/01/TheLabatZanies_Menu_2025.pdf"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://nashville.zanies.com/gift-cards/"
+   },
+   {
+    "text": "BOOK A PRIVATE EVENT",
+    "href": "https://nashville.zanies.com/private-events/"
+   },
+   {
+    "text": "Zanies Menu \u2013 Main Room",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf"
+   },
+   {
+    "text": "The Lab Menu",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2025/01/TheLabatZanies_Menu_2025.pdf"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://nashville.zanies.com/gift-cards/"
+   },
+   {
+    "text": "BOOK A PRIVATE EVENT",
+    "href": "https://nashville.zanies.com/private-events/"
+   },
+   {
+    "text": "Zanies Menu \u2013 Main Room",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf"
+   },
+   {
+    "text": "The Lab Menu",
+    "href": "https://nashville.zanies.com/wp-content/uploads/2025/01/TheLabatZanies_Menu_2025.pdf"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://nashville.zanies.com/gift-cards/"
+   },
+   {
+    "text": "BOOK A PRIVATE EVENT",
+    "href": "https://nashville.zanies.com/private-events/"
+   }
+  ],
+  "allLinks": [
+   "https://nashville.zanies.com/privacy-policy",
+   "https://www.osano.com/?utm_campaign=cmp&utm_source=cmp-dialog&utm_medium=banner",
+   "https://nashville.zanies.com/#content",
+   "https://nashville.zanies.com/",
+   "https://nashville.zanies.com/events/",
+   "https://nashville.zanies.com/general-info/",
+   "https://nashville.zanies.com/hiring/",
+   "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf",
+   "https://nashville.zanies.com/wp-content/uploads/2025/01/TheLabatZanies_Menu_2025.pdf",
+   "https://nashville.zanies.com/monday-night-funnies/",
+   "https://nashville.zanies.com/about-the-lab/",
+   "https://nashville.zanies.com/directions/",
+   "https://nashville.zanies.com/gift-cards/",
+   "https://nashville.zanies.com/newsletter/",
+   "https://nashville.zanies.com/concerts-calendar/",
+   "https://nashville.zanies.com/private-events/",
+   "https://nashville.zanies.com/#",
+   "https://www.thelabatzanies.com/",
+   "https://chicago.zanies.com/",
+   "https://rosemont.zanies.com/",
+   "https://merch.zanies.com/",
+   "https://nashville.zanies.com/show/",
+   "https://nashville.zanies.com/wp-content/uploads/2025/01/ZaniesNashville_Menu_2025.pdf",
+   "https://nashville.zanies.com/showcases/",
+   "https://nashville.zanies.com/show/category/series/2026-let-loose-at-the-lab/the-lab/",
+   "https://nashville.zanies.com/show/maddy-kelly/zanies/nashville-tennessee/",
+   "https://nashville.zanies.com/show/the-purple-lipstick-show/the-lab/",
+   "https://nashville.zanies.com/show/category/series/2026-2027-comedy-clash-1/the-lab/",
+   "https://nashville.zanies.com/show/joey-bragg/zanies/nashville-tennessee/",
+   "https://nashville.zanies.com/the-lab-at-zanies-presents/",
+   "https://nashville.zanies.com/private-events",
+   "https://nashville.zanies.com/venue/zanies/",
+   "https://www.etix.com/ticket/p/69137479/maddy-kelly-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://nashville.zanies.com/venue/the-lab/",
+   "https://www.etix.com/ticket/p/78168327/the-purple-lipstick-show-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/49113859/comedy-clash-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/48506711/comedy-clash-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/38724502/comedy-clash-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/84098159/comedy-clash-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/e/1057150/?partner_id=100",
+   "https://www.etix.com/ticket/p/64802782/joey-bragg-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/p/63194661/let-loose-at-the-lab-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/e/1059721/?partner_id=100",
+   "https://nashville.zanies.com/show/category/series/2026-chico-bean/zanies/nashville-tennessee/",
+   "https://www.etix.com/ticket/p/53736547/chico-bean-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/p/37440903/chico-bean-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/p/67803606/chico-bean-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/p/35328588/chico-bean-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/p/58994888/chico-bean-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://www.etix.com/ticket/e/1059814/?partner_id=100",
+   "https://nashville.zanies.com/show/tommy-pope/the-lab/",
+   "https://www.etix.com/ticket/p/55567227/tommy-pope-nashville-the-lab-at-zanies?partner_id=100",
+   "https://nashville.zanies.com/show/drew-davis/the-lab/",
+   "https://www.etix.com/ticket/p/48763079/drew-davis-nashville-the-lab-at-zanies?partner_id=100",
+   "https://nashville.zanies.com/show/ron-taylors-birthday-bash/zanies/nashville-tennessee/",
+   "https://www.etix.com/ticket/p/31075556/ron-taylors-birthday-bash-nashville-zanies-comedy-night-club?partner_id=100",
+   "https://nashville.zanies.com/show/category/series/2026-ron-taylor/the-lab/",
+   "https://www.etix.com/ticket/p/93868355/ron-taylor-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/59743965/ron-taylor-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/77819336/ron-taylor-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/50255969/ron-taylor-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/64454037/ron-taylor-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/e/1059307/?partner_id=100",
+   "https://nashville.zanies.com/show/clue-murder-mystery-drag-brunch/the-lab/",
+   "https://www.etix.com/ticket/p/68309124/cluemurder-mystery-drag-brunch-nashville-the-lab-at-zanies?partner_id=100",
+   "https://nashville.zanies.com/show/category/series/2026-2027-dark-dirty-showcase-2/the-lab/",
+   "https://www.etix.com/ticket/p/47138503/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/73277236/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/87088262/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/47715429/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/50272529/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/31527270/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/98200552/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/92777858/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/89719646/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/85526206/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/43782940/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/69514928/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/39605873/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100",
+   "https://www.etix.com/ticket/p/70950496/dark-dirty-showcase-nashville-the-lab-at-zanies?partner_id=100"
+  ],
+  "weight": 35717,
+  "title": "Zanies | Comedy Club | Nashville, TN",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1249,
+    "inner": null
+   },
+   "backY": 353,
+   "backInner": null,
+   "headTop": -353
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.osano-cm-info-dialog__info right=713, div.osano-cm-info__info-dialog-header right=713, p#217ab2c0-f382-482b-b984-f8f7916bf571__label.osano-cm-info-dialog-header__header right=673, button.osano-cm-info-dialog-header__close right=705, div.osano-cm-info__info-views right=713"
+   ],
+   [
+    "WARN",
+    "broken image: https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville.zanie"
+   ],
+   [
+    "WARN",
+    "broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville."
+   ],
+   [
+    "WARN",
+    "broken image: https://d.adroll.com/cm/taboola/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville.z"
+   ],
+   [
+    "WARN",
+    "header at y=-353 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "43 of 107 tap targets under 24px: a.osano-cm-storage-policy 109x20, a.osano-cm-powered-by__link 140x17, button.elementor-alert-dismiss 17x26, button.elementor-alert-dismiss 17x26, div.elementor-swiper-button 20x20"
+   ],
+   [
+    "WARN",
+    "17 text elements under 12px: div#eventDate.mb-0 11px, div#eventDate.mb-0 11px, div.mb-0 11px, span 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 12842px tall"
+   ]
+  ],
+  "site": "https://nashville.zanies.com/"
+ },
+ {
+  "url": "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf",
+  "device": "iphone",
+  "status": null,
+  "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf\", waiting until \"load\"",
+  "findings": [
+   [
+    "FAIL",
+    "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://nashville.zanies.com/wp-content"
+   ]
+  ],
+  "site": "https://nashville.zanies.com/"
+ },
+ {
+  "url": "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf",
+  "device": "android",
+  "status": null,
+  "error": "Page.goto: Download is starting\nCall log:\n  - navigating to \"https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf\", waiting until \"load\"",
+  "findings": [
+   [
+    "FAIL",
+    "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://nashville.zanies.com/wp-content"
+   ]
+  ],
+  "site": "https://nashville.zanies.com/"
+ },
+ {
+  "url": "https://www.themarketat7thstreet.com/",
+  "device": "iphone",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 47.2,
+  "meta": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+  "vw": 390,
+  "vh": 664,
+  "docH": 7202,
+  "zoomTrap": [
+   {
+    "el": "input#input-3195910360.advanced-form-input",
+    "fs": 11
+   },
+   {
+    "el": "input#input-1376865340.advanced-form-input",
+    "fs": 11
+   }
+  ],
+  "leaks": [
+   "div#hamburger-drawer.hamburger-drawer right=702"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [
+   {
+    "el": "div#hamburger-drawer.hamburger-drawer",
+    "client": 664,
+    "scroll": 843
+   }
+  ],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#flex-header",
+    "pos": "sticky",
+    "cover": 17
+   }
+  ],
+  "targets": 35,
+  "small": 7,
+  "smallList": [
+   "a#1381046718 110x19",
+   "a 90x19",
+   "a#1457333360 102x19",
+   "a#1534769587 83x19",
+   "a 241x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "div#flex-header",
+  "textLen": 2560,
+  "fields": [
+   {
+    "el": "input#input-3195910360.advanced-form-input",
+    "type": "text",
+    "name": "3195910360",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Enter your first name"
+   },
+   {
+    "el": "input#input-1376865340.advanced-form-input",
+    "type": "email",
+    "name": "1376865340",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Cards",
+    "href": "https://app.yiftee.com/gift-card/the-market-at-7th-st"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://app.yiftee.com/gift-card/the-market-at-7th-st"
+   }
+  ],
+  "allLinks": [
+   "https://www.themarketat7thstreet.com/",
+   "https://www.themarketat7thstreet.com/visit",
+   "https://www.themarketat7thstreet.com/vendors",
+   "https://www.themarketat7thstreet.com/about",
+   "https://www.themarketat7thstreet.com/faq",
+   "https://www.themarketat7thstreet.com/testimonials",
+   "https://app.yiftee.com/gift-card/the-market-at-7th-st",
+   "https://www.themarketat7thstreet.com/events",
+   "https://themarketat7thstreet.wildapricot.org/",
+   "https://www.charlottecentercity.org/economic-development/hiive-program",
+   "https://www.victoriayardsclt.com/",
+   "https://www.google.com/maps/dir//Seventh+Street+Station,+270E+E+7th+St,+Charlotte,+NC+28202/@35.2281983,-80.8439305,859m/data=!3m2!1e3!5s0x88569bfc2e81e967:0xba5594af330112f7!4m8!4m7!1m0!1m5!1m1!1s0x8856a0249a08fca1:0xefd9d01a1b66ae74!2m2!1d-80.8379676!2d35.227699?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+   "https://docs.google.com/forms/d/e/1FAIpQLSedu7-oIET-bNCtJv4PISRP4IoxXFssnYM60Zpt5lcv_bXWHA/viewform",
+   "https://facebook.com/themarketat7thst",
+   "https://instagram.com/themarketat7thst",
+   "https://yelp.com/biz/7th-street-public-market-charlotte",
+   "https://tripadvisor.com/Restaurant_Review-g49022-d7735179-Reviews-The_Market_at_7th_Street-Charlotte_North_Carolina.html",
+   "https://www.themarketat7thstreet.com/services/template-service-1",
+   "https://www.themarketat7thstreet.com/services/template-service-2",
+   "https://www.themarketat7thstreet.com/services/template-service-3",
+   "https://www.themarketat7thstreet.com/services/template-service-4"
+  ],
+  "weight": 38177,
+  "title": "The Market at 7th Street | Charlotte, NC",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6538,
+    "inner": 179
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://docs.google.com/forms/d/e/1FAIpQLSedu7-oIET-bNCtJv4PISRP4IoxXFssnYM60Zpt5lcv_bXWHA/viewform",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.themarketat7thstreet.com/services/template-service-1",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.themarketat7thstreet.com/services/template-service-2",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.themarketat7thstreet.com/services/template-service-3",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.themarketat7thstreet.com/services/template-service-4",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-themarketat7thstreet-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#input-3195910360.advanced-form-input at 11px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#input-1376865340.advanced-form-input at 11px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div#hamburger-drawer.hamburger-drawer right=702"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.themarketat7thstreet.com/services/template-service-1 answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.themarketat7thstreet.com/services/template-service-2 answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.themarketat7thstreet.com/services/template-service-3 answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.themarketat7thstreet.com/services/template-service-4 answers 404"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "7 of 35 tap targets under 24px: a#1381046718 110x19, a 90x19, a#1457333360 102x19, a#1534769587 83x19, a 241x19"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7202px tall"
+   ]
+  ],
+  "site": "https://www.themarketat7thstreet.com/"
+ },
+ {
+  "url": "https://www.themarketat7thstreet.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.7,
+  "meta": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover",
+  "vw": 393,
+  "vh": 727,
+  "docH": 7277,
+  "zoomTrap": [
+   {
+    "el": "input#input-3195910360.advanced-form-input",
+    "fs": 13.3333
+   },
+   {
+    "el": "input#input-1376865340.advanced-form-input",
+    "fs": 13.3333
+   }
+  ],
+  "leaks": [
+   "div#hamburger-drawer.hamburger-drawer right=707"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [
+   {
+    "el": "div#hamburger-drawer.hamburger-drawer",
+    "client": 727,
+    "scroll": 874
+   }
+  ],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#flex-header",
+    "pos": "sticky",
+    "cover": 15
+   },
+   {
+    "el": "div#d-notification-bar",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 35,
+  "small": 7,
+  "smallList": [
+   "a#1381046718 110x19",
+   "a 90x19",
+   "a#1457333360 103x19",
+   "a#1534769587 83x19",
+   "a 241x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 72,
+  "headTag": "div#flex-header",
+  "textLen": 2741,
+  "fields": [
+   {
+    "el": "input#input-3195910360.advanced-form-input",
+    "type": "text",
+    "name": "3195910360",
+    "kind": "name",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Enter your first name"
+   },
+   {
+    "el": "input#input-1376865340.advanced-form-input",
+    "type": "email",
+    "name": "1376865340",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Cards",
+    "href": "https://app.yiftee.com/gift-card/the-market-at-7th-st"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://app.yiftee.com/gift-card/the-market-at-7th-st"
+   }
+  ],
+  "allLinks": [
+   "https://www.themarketat7thstreet.com/",
+   "https://www.themarketat7thstreet.com/visit",
+   "https://www.themarketat7thstreet.com/vendors",
+   "https://www.themarketat7thstreet.com/about",
+   "https://www.themarketat7thstreet.com/faq",
+   "https://www.themarketat7thstreet.com/testimonials",
+   "https://app.yiftee.com/gift-card/the-market-at-7th-st",
+   "https://www.themarketat7thstreet.com/events",
+   "https://themarketat7thstreet.wildapricot.org/",
+   "https://www.charlottecentercity.org/economic-development/hiive-program",
+   "https://www.victoriayardsclt.com/",
+   "https://www.google.com/maps/dir//Seventh+Street+Station,+270E+E+7th+St,+Charlotte,+NC+28202/@35.2281983,-80.8439305,859m/data=!3m2!1e3!5s0x88569bfc2e81e967:0xba5594af330112f7!4m8!4m7!1m0!1m5!1m1!1s0x8856a0249a08fca1:0xefd9d01a1b66ae74!2m2!1d-80.8379676!2d35.227699?entry=ttu&g_ep=EgoyMDI2MDEyOC4wIKXMDSoASAFQAw%3D%3D",
+   "https://docs.google.com/forms/d/e/1FAIpQLSedu7-oIET-bNCtJv4PISRP4IoxXFssnYM60Zpt5lcv_bXWHA/viewform",
+   "https://facebook.com/themarketat7thst",
+   "https://instagram.com/themarketat7thst",
+   "https://yelp.com/biz/7th-street-public-market-charlotte",
+   "https://tripadvisor.com/Restaurant_Review-g49022-d7735179-Reviews-The_Market_at_7th_Street-Charlotte_North_Carolina.html",
+   "https://www.themarketat7thstreet.com/services/template-service-1",
+   "https://www.themarketat7thstreet.com/services/template-service-2",
+   "https://www.themarketat7thstreet.com/services/template-service-3",
+   "https://www.themarketat7thstreet.com/services/template-service-4"
+  ],
+  "weight": 38150,
+  "title": "The Market at 7th Street | Charlotte, NC",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6550,
+    "inner": 147
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 72
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#input-3195910360.advanced-form-input at 13.3333px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input#input-1376865340.advanced-form-input at 13.3333px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div#hamburger-drawer.hamburger-drawer right=707"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "7 of 35 tap targets under 24px: a#1381046718 110x19, a 90x19, a#1457333360 103x19, a#1534769587 83x19, a 241x19"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7277px tall"
+   ]
+  ],
+  "site": "https://www.themarketat7thstreet.com/"
+ },
+ {
+  "url": "https://www.wemakeitvivid.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.5,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 7766,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header.elementor-element",
+    "pos": "fixed",
+    "cover": 13
+   }
+  ],
+  "targets": 86,
+  "small": 29,
+  "smallList": [
+   "a 100x18",
+   "a 201x18",
+   "a 82x18",
+   "a 222x18",
+   "a 248x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.elementor",
+  "textLen": 12851,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://www.wemakeitvivid.com/",
+   "https://www.wemakeitvivid.com/"
+  ],
+  "moneyLinks": [
+   {
+    "text": "Book Now",
+    "href": "https://phorest.com/book/salons/vividsalon3"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://phorest.com/book/salons/vividsalon3"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://phorest.com/book/salons/vividsalon3"
+   },
+   {
+    "text": "Book An Appointment",
+    "href": "https://phorest.com/book/salons/vividsalon3"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://gift-cards.phorest.com/salons/vividsalon3"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://phorest.com/book/salons/vividsalon3"
+   }
+  ],
+  "allLinks": [
+   "https://www.wemakeitvivid.com/#content",
+   "https://www.wemakeitvivid.com/",
+   "https://www.wemakeitvivid.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6MjMsInRvZ2dsZSI6ZmFsc2V9",
+   "https://www.wemakeitvivid.com/services/",
+   "https://phorest.com/book/salons/vividsalon3",
+   "https://app.joinmya.com/vividsalon",
+   "https://www.wemakeitvivid.com/services/hair-color-linthicum-heights/",
+   "https://www.wemakeitvivid.com/services/blonding-balayage-linthicum/",
+   "https://www.wemakeitvivid.com/services/haircuts-linthicum-heights/",
+   "https://www.wemakeitvivid.com/services/hair-scalp-treatments-linthicum/",
+   "https://www.wemakeitvivid.com/services/keratin-smoothing-perms/",
+   "https://www.wemakeitvivid.com/services/styling-blowouts-linthicum/",
+   "https://www.wemakeitvivid.com/services/hair-extensions-linthicum/",
+   "https://www.wemakeitvivid.com/services/facials/",
+   "https://www.wemakeitvivid.com/services/lash-brow-linthicum/",
+   "https://www.wemakeitvivid.com/services/body-waxing-linthicum/",
+   "https://www.wemakeitvivid.com/services/wedding-hair-makeup/",
+   "https://www.wemakeitvivid.com/team/martina/",
+   "https://www.wemakeitvivid.com/team/bonnie-davis/",
+   "https://www.wemakeitvivid.com/team/allie-louderback/",
+   "https://www.wemakeitvivid.com/team/brandy-mcbee/",
+   "https://www.wemakeitvivid.com/team/emily-back/",
+   "https://www.wemakeitvivid.com/team/caroline-boswell/",
+   "https://www.wemakeitvivid.com/team/v-tori-lissau/",
+   "https://www.wemakeitvivid.com/team/amber-taylor/",
+   "https://www.wemakeitvivid.com/team/anna-aviles/",
+   "https://www.wemakeitvivid.com/team/jessica-sanchez/",
+   "https://www.wemakeitvivid.com/team/rachel-plaud/",
+   "https://www.wemakeitvivid.com/team/mikayla-spears/",
+   "https://www.wemakeitvivid.com/team/ky-schwartz/",
+   "https://www.wemakeitvivid.com/team/kyleen-manning/",
+   "https://www.wemakeitvivid.com/team/katelynn-sanders/",
+   "https://www.wemakeitvivid.com/team/dody-back/",
+   "https://www.wemakeitvivid.com/team/hannah-leppado/",
+   "https://www.wemakeitvivid.com/team/madeline/",
+   "https://www.wemakeitvivid.com/team/liz-davis/",
+   "https://www.wemakeitvivid.com/team/pico/",
+   "https://www.wemakeitvivid.com/team/anna/",
+   "https://www.wemakeitvivid.com/team/destiny/",
+   "https://maps.app.goo.gl/734KBXnpoXsCXciU7",
+   "https://www.wemakeitvivid.com/contact/",
+   "https://www.wemakeitvivid.com/privacy-policy/",
+   "https://occipitalmarketing.com/",
+   "https://www.wemakeitvivid.com/memberships/",
+   "https://www.wemakeitvivid.com/gallery/",
+   "https://www.wemakeitvivid.com/team/",
+   "https://www.wemakeitvivid.com/careers/",
+   "https://www.wemakeitvivid.com/about/",
+   "https://gift-cards.phorest.com/salons/vividsalon3",
+   "https://link-to.app/0e04hU_SV86ocr1ZrTELSA"
+  ],
+  "weight": 30402,
+  "title": "Top Hair Salon in Linthicum Heights, MD | Vivid Salon",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7074,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 327,
+  "deadLinks": [],
+  "shot": "data/shots/https-www-wemakeitvivid-com.png",
+  "errors": [
+   "console: Failed to load resource: The certificate for this server is invalid."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "broken image: https://www.wemakeitvivid.com/"
+   ],
+   [
+    "WARN",
+    "broken image: https://www.wemakeitvivid.com/"
+   ],
+   [
+    "WARN",
+    "29 of 86 tap targets under 24px: a 100x18, a 201x18, a 82x18, a 222x18, a 248x18"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: The certificate for this server is invalid."
+   ],
+   [
+    "INFO",
+    "document scrolls, 7766px tall"
+   ]
+  ],
+  "site": "https://www.wemakeitvivid.com/"
+ },
+ {
+  "url": "https://www.wemakeitvivid.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 7739,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "header.elementor-element",
+    "pos": "fixed",
+    "cover": 12
+   }
+  ],
+  "targets": 86,
+  "small": 29,
+  "smallList": [
+   "a 100x18",
+   "a 201x18",
+   "a 82x18",
+   "a 221x18",
+   "a 248x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.elementor",
+  "textLen": 12718,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://www.wemakeitvivid.com/",
+   "https://www.wemakeitvivid.com/"
+  ],
+  "moneyLinks": [
+   {
+    "text": "Book Now",
+    "href": "https://phorest.com/book/salons/vividsalon3"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://phorest.com/book/salons/vividsalon3"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://phorest.com/book/salons/vividsalon3"
+   },
+   {
+    "text": "Book An Appointment",
+    "href": "https://phorest.com/book/salons/vividsalon3"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://gift-cards.phorest.com/salons/vividsalon3"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://phorest.com/book/salons/vividsalon3"
+   }
+  ],
+  "allLinks": [
+   "https://www.wemakeitvivid.com/#content",
+   "https://www.wemakeitvivid.com/",
+   "https://www.wemakeitvivid.com/#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6MjMsInRvZ2dsZSI6ZmFsc2V9",
+   "https://www.wemakeitvivid.com/services/",
+   "https://phorest.com/book/salons/vividsalon3",
+   "https://app.joinmya.com/vividsalon",
+   "https://www.wemakeitvivid.com/services/hair-color-linthicum-heights/",
+   "https://www.wemakeitvivid.com/services/blonding-balayage-linthicum/",
+   "https://www.wemakeitvivid.com/services/haircuts-linthicum-heights/",
+   "https://www.wemakeitvivid.com/services/hair-scalp-treatments-linthicum/",
+   "https://www.wemakeitvivid.com/services/keratin-smoothing-perms/",
+   "https://www.wemakeitvivid.com/services/styling-blowouts-linthicum/",
+   "https://www.wemakeitvivid.com/services/hair-extensions-linthicum/",
+   "https://www.wemakeitvivid.com/services/facials/",
+   "https://www.wemakeitvivid.com/services/lash-brow-linthicum/",
+   "https://www.wemakeitvivid.com/services/body-waxing-linthicum/",
+   "https://www.wemakeitvivid.com/services/wedding-hair-makeup/",
+   "https://www.wemakeitvivid.com/team/martina/",
+   "https://www.wemakeitvivid.com/team/bonnie-davis/",
+   "https://www.wemakeitvivid.com/team/allie-louderback/",
+   "https://www.wemakeitvivid.com/team/brandy-mcbee/",
+   "https://www.wemakeitvivid.com/team/emily-back/",
+   "https://www.wemakeitvivid.com/team/caroline-boswell/",
+   "https://www.wemakeitvivid.com/team/v-tori-lissau/",
+   "https://www.wemakeitvivid.com/team/amber-taylor/",
+   "https://www.wemakeitvivid.com/team/anna-aviles/",
+   "https://www.wemakeitvivid.com/team/jessica-sanchez/",
+   "https://www.wemakeitvivid.com/team/rachel-plaud/",
+   "https://www.wemakeitvivid.com/team/mikayla-spears/",
+   "https://www.wemakeitvivid.com/team/ky-schwartz/",
+   "https://www.wemakeitvivid.com/team/kyleen-manning/",
+   "https://www.wemakeitvivid.com/team/katelynn-sanders/",
+   "https://www.wemakeitvivid.com/team/dody-back/",
+   "https://www.wemakeitvivid.com/team/hannah-leppado/",
+   "https://www.wemakeitvivid.com/team/madeline/",
+   "https://www.wemakeitvivid.com/team/liz-davis/",
+   "https://www.wemakeitvivid.com/team/pico/",
+   "https://www.wemakeitvivid.com/team/anna/",
+   "https://www.wemakeitvivid.com/team/destiny/",
+   "https://maps.app.goo.gl/734KBXnpoXsCXciU7",
+   "https://www.wemakeitvivid.com/contact/",
+   "https://www.wemakeitvivid.com/privacy-policy/",
+   "https://occipitalmarketing.com/",
+   "https://www.wemakeitvivid.com/memberships/",
+   "https://www.wemakeitvivid.com/gallery/",
+   "https://www.wemakeitvivid.com/team/",
+   "https://www.wemakeitvivid.com/careers/",
+   "https://www.wemakeitvivid.com/about/",
+   "https://gift-cards.phorest.com/salons/vividsalon3",
+   "https://link-to.app/0e04hU_SV86ocr1ZrTELSA"
+  ],
+  "weight": 31305,
+  "title": "Top Hair Salon in Linthicum Heights, MD | Vivid Salon",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1004,
+    "inner": null
+   },
+   "backY": 201,
+   "backInner": null,
+   "headTop": -201
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "broken image: https://www.wemakeitvivid.com/"
+   ],
+   [
+    "WARN",
+    "broken image: https://www.wemakeitvivid.com/"
+   ],
+   [
+    "WARN",
+    "header at y=-201 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "29 of 86 tap targets under 24px: a 100x18, a 201x18, a 82x18, a 221x18, a 248x18"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7739px tall"
+   ]
+  ],
+  "site": "https://www.wemakeitvivid.com/"
+ }
+]

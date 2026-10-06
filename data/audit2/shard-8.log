@@ -1,0 +1,204 @@
+FAIL iphone  https://bonitomichoacan.com/
+FAIL android https://bonitomichoacan.com/
+WARN iphone  https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties
+WARN android https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties
+FAIL iphone  https://statesidelive.com/
+FAIL android https://statesidelive.com/
+FAIL iphone  https://statesidelive.com/parties-vip-tables
+FAIL android https://statesidelive.com/parties-vip-tables
+FAIL iphone  https://filomena.com/
+WARN android https://filomena.com/
+FAIL iphone  https://filomena.com/menu/
+WARN android https://filomena.com/menu/
+WARN iphone  https://dirtyfranks.com/
+WARN android https://dirtyfranks.com/
+WARN iphone  https://dirtyfranks.com/ace-of-cups-menu/
+WARN android https://dirtyfranks.com/ace-of-cups-menu/
+WARN iphone  https://bouldincreekcafe.com/
+WARN android https://bouldincreekcafe.com/
+FAIL iphone  https://www.pikeplacefish.com/
+FAIL android https://www.pikeplacefish.com/
+FAIL iphone  https://www.rheinhausseattle.com/
+WARN android https://www.rheinhausseattle.com/
+FAIL iphone  https://www.rheinhausseattle.com/menus
+WARN android https://www.rheinhausseattle.com/menus
+WARN iphone  https://stagehousetavern.com/somerset/
+WARN android https://stagehousetavern.com/somerset/
+WARN iphone  https://stagehousetavern.com/somerset/somerset-menu.html
+WARN android https://stagehousetavern.com/somerset/somerset-menu.html
+FAIL iphone  https://stjohnsgrill.com/
+WARN android https://stjohnsgrill.com/
+WARN iphone  https://stjohnsgrill.com/menu/
+WARN android https://stjohnsgrill.com/menu/
+WARN iphone  https://numaspa.com/
+WARN android https://numaspa.com/
+WARN iphone  https://numaspa.com/c/
+WARN android https://numaspa.com/c/
+
+== findings (FAIL and WARN) ==
+
+https://bonitomichoacan.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  document locked (overflow hidden) with 7840px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  13 of 71 tap targets under 24px: button.close 17x34, button 15x15, button 15x15, button 15x15, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://bonitomichoacan.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 7866px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  13 of 71 tap targets under 24px: button.close 17x34, button 15x15, button 15x15, button 15x15, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://statesidelive.com/  [iphone]
+  FAIL  iOS zoom trap: input#ctablock at 11px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  16 of 62 tap targets under 24px: a.TextButton_redrawUnderline_light__RdWYc 66x21, a.TextButton_redrawUnderline_light__RdWYc 100x21, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 87x21
+  WARN  7 text elements under 12px: button#ctablockJoin 11px, span.AppBar_appBarText__9QMMK 11px, p.DistrictFooter_copyright__Dr46y 11px, span 11px
+
+https://statesidelive.com/  [android]
+  FAIL  iOS zoom trap: input#ctablock at 13.3333px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  16 of 62 tap targets under 24px: a.TextButton_redrawUnderline_light__RdWYc 66x21, a.TextButton_redrawUnderline_light__RdWYc 100x21, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 87x21
+  WARN  6 text elements under 12px: span.AppBar_appBarText__9QMMK 11px, p.DistrictFooter_copyright__Dr46y 11px, span 11px, div.recaptcha-legal 10px
+
+https://statesidelive.com/parties-vip-tables  [iphone]
+  FAIL  iOS zoom trap: input#ctablock at 11px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  15 of 27 tap targets under 24px: a.DistrictBreadcrumb_breadcrumbTextDark__SXJYa 95x19, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 87x21, a.TextButton_redrawUnderline_light__RdWYc 151x21
+  WARN  6 text elements under 12px: button#ctablockJoin 11px, p.DistrictFooter_copyright__Dr46y 11px, span 11px, div.recaptcha-legal 10px
+
+https://statesidelive.com/parties-vip-tables  [android]
+  FAIL  iOS zoom trap: input#ctablock at 13.3333px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  15 of 27 tap targets under 24px: a.DistrictBreadcrumb_breadcrumbTextDark__SXJYa 95x19, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 87x21, a.TextButton_redrawUnderline_light__RdWYc 151x21
+  WARN  5 text elements under 12px: p.DistrictFooter_copyright__Dr46y 11px, span 11px, div.recaptcha-legal 10px, a.DistrictFooter_redrawUnderline_light__hRNPM 10px
+
+https://filomena.com/  [iphone]
+  FAIL  dead link: https://filomena.wpengine.com/gift-cards/ answers 404
+  WARN  11 of 30 tap targets under 24px: a.custom-logo-link 144x19, a 360x19, a 300x19, a 127x24, a 145x19
+
+https://filomena.com/  [android]
+  WARN  header at y=-269 after scrolling down and back up
+  WARN  10 of 35 tap targets under 24px: a.custom-logo-link 144x18, a 363x18, a 300x18, a 145x19, a.menu-image-title-hide 24x19
+
+https://filomena.com/menu/  [iphone]
+  FAIL  dead link: https://filomena.wpengine.com/gift-cards/ answers 404
+  FAIL  dead link: https://filomena.wpengine.com/dinner/ answers 404
+  FAIL  dead link: https://filomena.wpengine.com/lunch/ answers 404
+  FAIL  dead link: https://filomena.wpengine.com/desserts/ answers 404
+  FAIL  dead link: https://filomena.wpengine.com/wine/ answers 404
+  FAIL  dead link: https://filomena.wpengine.com/terms-of-use/ answers 404
+  WARN  11 of 29 tap targets under 24px: a.custom-logo-link 144x19, a 360x19, a 300x19, a 127x24, a 145x19
+
+https://filomena.com/menu/  [android]
+  WARN  header at y=-441 after scrolling down and back up
+  WARN  10 of 29 tap targets under 24px: a.custom-logo-link 144x18, a 363x18, a 300x18, a 145x19, a.menu-image-title-hide 24x19
+
+https://dirtyfranks.com/  [iphone]
+  WARN  fixed layer div.uabb-overlay covers 100% of the screen
+  WARN  32 of 46 tap targets under 24px: a 31x20, a 31x20, a 31x20, a 31x20, a 26x20
+  WARN  1 text elements under 12px: a 11px
+
+https://dirtyfranks.com/  [android]
+  WARN  fixed layer div.uabb-overlay covers 100% of the screen
+  WARN  32 of 46 tap targets under 24px: a 31x20, a 31x20, a 31x20, a 31x20, a 26x20
+  WARN  1 text elements under 12px: a 11px
+
+https://dirtyfranks.com/ace-of-cups-menu/  [iphone]
+  WARN  32 of 37 tap targets under 24px: a 31x20, a 31x20, a 31x20, a 31x20, a 26x20
+  WARN  1 text elements under 12px: a 11px
+
+https://dirtyfranks.com/ace-of-cups-menu/  [android]
+  WARN  32 of 37 tap targets under 24px: a 31x20, a 31x20, a 31x20, a 31x20, a 26x20
+  WARN  1 text elements under 12px: a 11px
+
+https://bouldincreekcafe.com/  [iphone]
+  WARN  broken image: https://bouldincreekcafe.com/
+  WARN  30 of 59 tap targets under 24px: a.fancybox 175x18, a.fancybox 175x18, a.fancybox 175x18, a.fancybox 175x18, a.fancybox 175x18
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://bouldincreekcafe.com/  [android]
+  WARN  broken image: https://bouldincreekcafe.com/
+  WARN  30 of 59 tap targets under 24px: a.fancybox 177x18, a.fancybox 177x18, a.fancybox 177x18, a.fancybox 177x18, a.fancybox 177x18
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://www.pikeplacefish.com/  [iphone]
+  FAIL  iOS zoom trap: input#email-yui_3_17_2_1_1620865679831_44428-field.newsletter-form-field-element at 15px (needs 16px on touch)
+  WARN  2 of 23 tap targets under 24px: a#yui_3_17_2_1_1791324705379_313 103x17, a 24x18
+
+https://www.pikeplacefish.com/  [android]
+  FAIL  iOS zoom trap: input#email-yui_3_17_2_1_1620865679831_44428-field.newsletter-form-field-element at 15px (needs 16px on touch)
+  WARN  2 of 23 tap targets under 24px: a#yui_3_17_2_1_1791324759069_313 103x17, a 24x18
+
+https://www.rheinhausseattle.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780
+  FAIL  dead link: https://yesparade.com/jobs answers 404
+  WARN  3 of 40 tap targets under 24px: a 151x22, a 224x23, a 301x23
+
+https://www.rheinhausseattle.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786
+  WARN  header at y=-144 after scrolling down and back up
+  WARN  3 of 40 tap targets under 24px: a 151x23, a 223x23, a 299x23
+
+https://www.rheinhausseattle.com/menus  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780
+  FAIL  dead link: https://yesparade.com/jobs answers 404
+  WARN  2 of 20 tap targets under 24px: a 224x23, a 301x23
+
+https://www.rheinhausseattle.com/menus  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786
+  WARN  header at y=-440 after scrolling down and back up
+  WARN  2 of 20 tap targets under 24px: a 223x23, a 299x23
+
+https://stagehousetavern.com/somerset/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): iframe right=694
+
+https://stagehousetavern.com/somerset/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): iframe right=697
+
+https://stagehousetavern.com/somerset/somerset-menu.html  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): iframe right=694
+
+https://stagehousetavern.com/somerset/somerset-menu.html  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): iframe right=697
+
+https://stjohnsgrill.com/  [iphone]
+  FAIL  dead link: https://stjohnsgrill.com/4 answers 404
+  WARN  3 of 22 tap targets under 24px: a 98x19, a 38x19, a 34x19
+  WARN  1 text elements under 12px: span 11.998px
+
+https://stjohnsgrill.com/  [android]
+  WARN  3 of 22 tap targets under 24px: a 98x19, a 38x19, a 34x19
+  WARN  1 text elements under 12px: span 11.998px
+
+https://stjohnsgrill.com/menu/  [iphone]
+  WARN  1 text elements under 12px: span 11.998px
+
+https://stjohnsgrill.com/menu/  [android]
+  WARN  1 text elements under 12px: span 11.998px
+
+https://numaspa.com/  [iphone]
+  WARN  14 of 32 tap targets under 24px: div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6
+
+https://numaspa.com/  [android]
+  WARN  header at y=-561 after scrolling down and back up
+  WARN  14 of 32 tap targets under 24px: div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6
+
+https://numaspa.com/c/  [iphone]
+  WARN  13 of 32 tap targets under 24px: div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6
+
+https://numaspa.com/c/  [android]
+  WARN  header at y=-271 after scrolling down and back up
+  WARN  13 of 32 tap targets under 24px: div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6
+
+36 page-device rows, 18 FAIL findings

@@ -1,0 +1,5635 @@
+[
+ {
+  "url": "https://dallas.houseofblues.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 7.1,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4295,
+  "zoomTrap": [],
+  "leaks": [
+   "div.grecaptcha-badge right=576"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "iframe#embeddedMessagingFrame.embeddedMessagingFrame",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 138,
+  "small": 38,
+  "smallList": [
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20"
+  ],
+  "tiny": 7,
+  "tinyList": [
+   "p.chakra-text 10px",
+   "p.chakra-text 10px",
+   "a.chakra-link 10px",
+   "a.chakra-link 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.css-1lzzn4f",
+  "textLen": 3791,
+  "fields": [
+   {
+    "el": "input#field-_R_n6cqlf6brb_.chakra-input",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lounge Menu",
+    "href": "https://dallas.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/voila-presents-moonbloom-dallas-texas-10-31-2026/event/0C0064B81AB1757A"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/laundry-day-presents-the-larger-than-dallas-texas-10-06-2026/event/0C0064AEBC7A9596"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/joe-jordan-the-heart-sessions-tour-dallas-texas-10-08-2026/event/0C0064D6D58CA84B"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/bandmaid-world-tour-2026-dallas-texas-10-09-2026/event/0C0064FCE446EC8A"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/bad-nerves-dallas-texas-10-09-2026/event/0C0064D7B4928F56"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/akeem-ali-the-texture-tour-dallas-texas-10-10-2026/event/0C00647EE9A4BA59"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/kevin-atwater-blush-red-tour-dallas-texas-10-10-2026/event/0C0064DEDD5CA803"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/cavetown-running-with-scissors-tour-dallas-texas-10-12-2026/event/0C006489D469E9FF"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/president-north-american-campaign-2026-dallas-texas-10-14-2026/event/0C00647B9A8674DE"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/the-paradox-dallas-texas-10-14-2026/event/0C0064CC9F9278A0"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/something-different-presents-unpopular-opinion-night-dallas-texas-10-15-2026/event/0C00653289F757FF"
+   }
+  ],
+  "allLinks": [
+   "https://dallas.houseofblues.com/#chakra-skip-nav",
+   "https://dallas.houseofblues.com/shows",
+   "https://dallas.houseofblues.com/shows/rooms/music-hall",
+   "https://dallas.houseofblues.com/shows/rooms/the-cambridge-room",
+   "https://dallas.houseofblues.com/shows/rooms/foundation-room",
+   "https://dallas.houseofblues.com/upgrades",
+   "https://dallas.houseofblues.com/foundation-room",
+   "https://dallas.houseofblues.com/foundation-room/nightlife",
+   "https://dallas.houseofblues.com/foundation-room/lounge-menu",
+   "https://dallas.houseofblues.com/private-events",
+   "https://anaheim.houseofblues.com/",
+   "https://boston.houseofblues.com/",
+   "https://chicago.houseofblues.com/",
+   "https://cleveland.houseofblues.com/",
+   "https://houston.houseofblues.com/",
+   "https://lasvegas.houseofblues.com/",
+   "https://myrtlebeach.houseofblues.com/",
+   "https://neworleans.houseofblues.com/",
+   "https://orlando.houseofblues.com/",
+   "https://sandiego.houseofblues.com/",
+   "https://www.facebook.com/HOBDallas",
+   "https://www.x.com/HOBDallas",
+   "https://www.instagram.com/hobdallas/",
+   "https://www.ticketmaster.com/voila-presents-moonbloom-dallas-texas-10-31-2026/event/0C0064B81AB1757A",
+   "https://www.ticketmaster.com/laundry-day-presents-the-larger-than-dallas-texas-10-06-2026/event/0C0064AEBC7A9596",
+   "https://www.ticketmaster.com/joe-jordan-the-heart-sessions-tour-dallas-texas-10-08-2026/event/0C0064D6D58CA84B",
+   "https://www.ticketmaster.com/bandmaid-world-tour-2026-dallas-texas-10-09-2026/event/0C0064FCE446EC8A",
+   "https://www.ticketmaster.com/bad-nerves-dallas-texas-10-09-2026/event/0C0064D7B4928F56",
+   "https://www.ticketmaster.com/akeem-ali-the-texture-tour-dallas-texas-10-10-2026/event/0C00647EE9A4BA59",
+   "https://www.ticketmaster.com/kevin-atwater-blush-red-tour-dallas-texas-10-10-2026/event/0C0064DEDD5CA803",
+   "https://www.ticketmaster.com/cavetown-running-with-scissors-tour-dallas-texas-10-12-2026/event/0C006489D469E9FF",
+   "https://www.ticketmaster.com/president-north-american-campaign-2026-dallas-texas-10-14-2026/event/0C00647B9A8674DE",
+   "https://www.ticketmaster.com/the-paradox-dallas-texas-10-14-2026/event/0C0064CC9F9278A0",
+   "https://www.ticketmaster.com/something-different-presents-unpopular-opinion-night-dallas-texas-10-15-2026/event/0C00653289F757FF",
+   "https://www.ticketmaster.com/michigander-dallas-texas-10-16-2026/event/0C0064A1DB13DAFD",
+   "https://www.ticketmaster.com/basement-dallas-texas-10-16-2026/event/0C0064A8A74B9BF8",
+   "https://www.ticketmaster.com/k-michelle-dallas-texas-10-17-2026/event/0C00650EB2B8BE74",
+   "https://www.ticketmaster.com/rainao-dallas-texas-10-17-2026/event/0C00650704B78F4A",
+   "https://www.ticketmaster.com/jon-b-dallas-texas-10-23-2026/event/0C0064D5D9CB9880",
+   "https://www.ticketmaster.com/shyne-2622-lgnd-tour-with-barrington-dallas-texas-10-25-2026/event/0C0064F90AC4340E",
+   "https://www.ticketmaster.com/honey-revenge-x-dead-poet-society-dallas-texas-10-27-2026/event/0C0064F8D5CC4691",
+   "https://www.ticketmaster.com/saosin-20-years-of-selftitled-dallas-texas-10-28-2026/event/0C0064A8B08AAD67",
+   "https://www.ticketmaster.com/plim-plim-en-vivo-dallas-texas-10-29-2026/event/0C00650A84D12E67",
+   "https://www.ticketmaster.com/plim-plim-en-vivo-dallas-texas-10-29-2026/event/0C00650A84D52E6C",
+   "https://www.ticketmaster.com/chasing-abbey-dallas-texas-10-29-2026/event/0C00646AEF4BE806",
+   "https://www.ticketmaster.com/cameron-whitcomb-kingdom-of-fear-tour-dallas-texas-10-30-2026/event/0C0064A6D5565751",
+   "https://www.ticketmaster.com/mitchell-ferguson-dallas-texas-10-30-2026/event/0C00651CB58A9877",
+   "https://citientertainment.com/",
+   "https://www.lyft.com/ride-with-lyft?invite=HOBDAL",
+   "https://owensmixers.com/",
+   "https://www.parkwhiz.com/house-of-blues-dallas-parking-1?pwa=pa-1269&utm_medium=LiveNation&utm_source=1269&utm_campaign=Web_LN_ParkWhizLogo_VenueLink",
+   "https://verizon.com/",
+   "https://athleticbrewing.com/",
+   "https://www.chargefuze.com/",
+   "https://www.heinz.com/",
+   "https://www.pepsi.com/",
+   "https://www.lays.com/",
+   "https://drinkhiyo.com/",
+   "https://dallas.houseofblues.com/",
+   "https://dallas.houseofblues.com/accessibility",
+   "https://gearshop.houseofblues.com/?_gl=1*1p90sra*_gcl_au*MTA4MjM4MDk1My4xNzI5MTkzMTMx&_ga=2.104892225.332834279.1733950144-1610815622.1729193131",
+   "https://dallas.houseofblues.com/contact",
+   "https://dallas.houseofblues.com/faq",
+   "https://livenation.wd503.myworkdayjobs.com/LNExternalSite?q=house%20of%20blues%20dallas",
+   "https://livenationforbrands.com/",
+   "https://maps.google.com/?q=2200%20N%20Lamar%20St%20Dallas%2C%20TX%2075202",
+   "https://help.livenation.com/hc/en-us/articles/10468828916113-Terms-of-Use?_gl=1*1d6d6t9*_ga*ODE3NjUxNjgxLjE3NjE4NTc0NzA.*_ga_H1KKSGW33X*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA..*_ga_C1T806G4DF*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA",
+   "https://privacy.livenation.com/us-venues-privacy-policy",
+   "https://privacy.livenation.com/cookie-policy",
+   "https://privacy.livenation.com/visitor-policy",
+   "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/50f1d690-e1dd-44f4-9713-db66fe03185a"
+  ],
+  "weight": 48684,
+  "title": "House of Blues Dallas | 2026 Concert Schedule, Restaurant & Venue Info",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3631,
+    "inner": 3631
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.ticketmaster.com/voila-presents-moonbloom-dallas-texas-10-31-2026/event/0C0064B81AB1757A",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/laundry-day-presents-the-larger-than-dallas-texas-10-06-2026/event/0C0064AEBC7A9596",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/joe-jordan-the-heart-sessions-tour-dallas-texas-10-08-2026/event/0C0064D6D58CA84B",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/bandmaid-world-tour-2026-dallas-texas-10-09-2026/event/0C0064FCE446EC8A",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/bad-nerves-dallas-texas-10-09-2026/event/0C0064D7B4928F56",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/akeem-ali-the-texture-tour-dallas-texas-10-10-2026/event/0C00647EE9A4BA59",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/kevin-atwater-blush-red-tour-dallas-texas-10-10-2026/event/0C0064DEDD5CA803",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/cavetown-running-with-scissors-tour-dallas-texas-10-12-2026/event/0C006489D469E9FF",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/president-north-american-campaign-2026-dallas-texas-10-14-2026/event/0C00647B9A8674DE",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/the-paradox-dallas-texas-10-14-2026/event/0C0064CC9F9278A0",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/something-different-presents-unpopular-opinion-night-dallas-texas-10-15-2026/event/0C00653289F757FF",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/michigander-dallas-texas-10-16-2026/event/0C0064A1DB13DAFD",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/basement-dallas-texas-10-16-2026/event/0C0064A8A74B9BF8",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/k-michelle-dallas-texas-10-17-2026/event/0C00650EB2B8BE74",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/rainao-dallas-texas-10-17-2026/event/0C00650704B78F4A",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/jon-b-dallas-texas-10-23-2026/event/0C0064D5D9CB9880",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ticketmaster.com/shyne-2622-lgnd-tour-with-barrington-dallas-texas-10-25-2026/event/0C0064F90AC4340E",
+    "codes": [
+     401,
+     401
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-dallas-houseofblues-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Error: no matches found for one or more requested services",
+   "pageerror: /dallas.houseofblues.com\" from accessing a frame with origin \"https://customer-site-969.my.site.com\". Protocols, domains, and ports must mat"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576"
+   ],
+   [
+    "WARN",
+    "38 of 138 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20"
+   ],
+   [
+    "WARN",
+    "7 text elements under 12px: p.chakra-text 10px, p.chakra-text 10px, a.chakra-link 10px, a.chakra-link 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 429 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4295px tall"
+   ]
+  ],
+  "site": "https://dallas.houseofblues.com/",
+  "hop": "https://dallas.houseofblues.com/foundation-room/lounge-menu"
+ },
+ {
+  "url": "https://dallas.houseofblues.com/",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.3,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4358,
+  "zoomTrap": [],
+  "leaks": [
+   "div.grecaptcha-badge right=579"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 138,
+  "small": 38,
+  "smallList": [
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20",
+   "a.chakra-linkbox__overlay 180x20"
+  ],
+  "tiny": 7,
+  "tinyList": [
+   "p.chakra-text 10px",
+   "p.chakra-text 10px",
+   "a.chakra-link 10px",
+   "a.chakra-link 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.css-1lzzn4f",
+  "textLen": 3939,
+  "fields": [
+   {
+    "el": "input#field-_R_n6cqlf6brb_.chakra-input",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lounge Menu",
+    "href": "https://dallas.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/voila-presents-moonbloom-dallas-texas-10-31-2026/event/0C0064B81AB1757A"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/laundry-day-presents-the-larger-than-dallas-texas-10-06-2026/event/0C0064AEBC7A9596"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/joe-jordan-the-heart-sessions-tour-dallas-texas-10-08-2026/event/0C0064D6D58CA84B"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/bandmaid-world-tour-2026-dallas-texas-10-09-2026/event/0C0064FCE446EC8A"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/bad-nerves-dallas-texas-10-09-2026/event/0C0064D7B4928F56"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/akeem-ali-the-texture-tour-dallas-texas-10-10-2026/event/0C00647EE9A4BA59"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/kevin-atwater-blush-red-tour-dallas-texas-10-10-2026/event/0C0064DEDD5CA803"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/cavetown-running-with-scissors-tour-dallas-texas-10-12-2026/event/0C006489D469E9FF"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/president-north-american-campaign-2026-dallas-texas-10-14-2026/event/0C00647B9A8674DE"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/the-paradox-dallas-texas-10-14-2026/event/0C0064CC9F9278A0"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.ticketmaster.com/something-different-presents-unpopular-opinion-night-dallas-texas-10-15-2026/event/0C00653289F757FF"
+   }
+  ],
+  "allLinks": [
+   "https://dallas.houseofblues.com/#chakra-skip-nav",
+   "https://dallas.houseofblues.com/shows",
+   "https://dallas.houseofblues.com/shows/rooms/music-hall",
+   "https://dallas.houseofblues.com/shows/rooms/the-cambridge-room",
+   "https://dallas.houseofblues.com/shows/rooms/foundation-room",
+   "https://dallas.houseofblues.com/upgrades",
+   "https://dallas.houseofblues.com/foundation-room",
+   "https://dallas.houseofblues.com/foundation-room/nightlife",
+   "https://dallas.houseofblues.com/foundation-room/lounge-menu",
+   "https://dallas.houseofblues.com/private-events",
+   "https://anaheim.houseofblues.com/",
+   "https://boston.houseofblues.com/",
+   "https://chicago.houseofblues.com/",
+   "https://cleveland.houseofblues.com/",
+   "https://houston.houseofblues.com/",
+   "https://lasvegas.houseofblues.com/",
+   "https://myrtlebeach.houseofblues.com/",
+   "https://neworleans.houseofblues.com/",
+   "https://orlando.houseofblues.com/",
+   "https://sandiego.houseofblues.com/",
+   "https://www.facebook.com/HOBDallas",
+   "https://www.x.com/HOBDallas",
+   "https://www.instagram.com/hobdallas/",
+   "https://www.ticketmaster.com/voila-presents-moonbloom-dallas-texas-10-31-2026/event/0C0064B81AB1757A",
+   "https://www.ticketmaster.com/laundry-day-presents-the-larger-than-dallas-texas-10-06-2026/event/0C0064AEBC7A9596",
+   "https://www.ticketmaster.com/joe-jordan-the-heart-sessions-tour-dallas-texas-10-08-2026/event/0C0064D6D58CA84B",
+   "https://www.ticketmaster.com/bandmaid-world-tour-2026-dallas-texas-10-09-2026/event/0C0064FCE446EC8A",
+   "https://www.ticketmaster.com/bad-nerves-dallas-texas-10-09-2026/event/0C0064D7B4928F56",
+   "https://www.ticketmaster.com/akeem-ali-the-texture-tour-dallas-texas-10-10-2026/event/0C00647EE9A4BA59",
+   "https://www.ticketmaster.com/kevin-atwater-blush-red-tour-dallas-texas-10-10-2026/event/0C0064DEDD5CA803",
+   "https://www.ticketmaster.com/cavetown-running-with-scissors-tour-dallas-texas-10-12-2026/event/0C006489D469E9FF",
+   "https://www.ticketmaster.com/president-north-american-campaign-2026-dallas-texas-10-14-2026/event/0C00647B9A8674DE",
+   "https://www.ticketmaster.com/the-paradox-dallas-texas-10-14-2026/event/0C0064CC9F9278A0",
+   "https://www.ticketmaster.com/something-different-presents-unpopular-opinion-night-dallas-texas-10-15-2026/event/0C00653289F757FF",
+   "https://www.ticketmaster.com/michigander-dallas-texas-10-16-2026/event/0C0064A1DB13DAFD",
+   "https://www.ticketmaster.com/basement-dallas-texas-10-16-2026/event/0C0064A8A74B9BF8",
+   "https://www.ticketmaster.com/k-michelle-dallas-texas-10-17-2026/event/0C00650EB2B8BE74",
+   "https://www.ticketmaster.com/rainao-dallas-texas-10-17-2026/event/0C00650704B78F4A",
+   "https://www.ticketmaster.com/jon-b-dallas-texas-10-23-2026/event/0C0064D5D9CB9880",
+   "https://www.ticketmaster.com/shyne-2622-lgnd-tour-with-barrington-dallas-texas-10-25-2026/event/0C0064F90AC4340E",
+   "https://www.ticketmaster.com/honey-revenge-x-dead-poet-society-dallas-texas-10-27-2026/event/0C0064F8D5CC4691",
+   "https://www.ticketmaster.com/saosin-20-years-of-selftitled-dallas-texas-10-28-2026/event/0C0064A8B08AAD67",
+   "https://www.ticketmaster.com/plim-plim-en-vivo-dallas-texas-10-29-2026/event/0C00650A84D12E67",
+   "https://www.ticketmaster.com/plim-plim-en-vivo-dallas-texas-10-29-2026/event/0C00650A84D52E6C",
+   "https://www.ticketmaster.com/chasing-abbey-dallas-texas-10-29-2026/event/0C00646AEF4BE806",
+   "https://www.ticketmaster.com/cameron-whitcomb-kingdom-of-fear-tour-dallas-texas-10-30-2026/event/0C0064A6D5565751",
+   "https://www.ticketmaster.com/mitchell-ferguson-dallas-texas-10-30-2026/event/0C00651CB58A9877",
+   "https://citientertainment.com/",
+   "https://www.lyft.com/ride-with-lyft?invite=HOBDAL",
+   "https://owensmixers.com/",
+   "https://www.parkwhiz.com/house-of-blues-dallas-parking-1?pwa=pa-1269&utm_medium=LiveNation&utm_source=1269&utm_campaign=Web_LN_ParkWhizLogo_VenueLink",
+   "https://verizon.com/",
+   "https://athleticbrewing.com/",
+   "https://www.chargefuze.com/",
+   "https://www.heinz.com/",
+   "https://www.pepsi.com/",
+   "https://www.lays.com/",
+   "https://drinkhiyo.com/",
+   "https://dallas.houseofblues.com/",
+   "https://dallas.houseofblues.com/accessibility",
+   "https://gearshop.houseofblues.com/?_gl=1*1p90sra*_gcl_au*MTA4MjM4MDk1My4xNzI5MTkzMTMx&_ga=2.104892225.332834279.1733950144-1610815622.1729193131",
+   "https://dallas.houseofblues.com/contact",
+   "https://dallas.houseofblues.com/faq",
+   "https://livenation.wd503.myworkdayjobs.com/LNExternalSite?q=house%20of%20blues%20dallas",
+   "https://livenationforbrands.com/",
+   "https://maps.google.com/?q=2200%20N%20Lamar%20St%20Dallas%2C%20TX%2075202",
+   "https://help.livenation.com/hc/en-us/articles/10468828916113-Terms-of-Use?_gl=1*1d6d6t9*_ga*ODE3NjUxNjgxLjE3NjE4NTc0NzA.*_ga_H1KKSGW33X*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA..*_ga_C1T806G4DF*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA",
+   "https://privacy.livenation.com/us-venues-privacy-policy",
+   "https://privacy.livenation.com/cookie-policy",
+   "https://privacy.livenation.com/visitor-policy",
+   "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/50f1d690-e1dd-44f4-9713-db66fe03185a"
+  ],
+  "weight": 48575,
+  "title": "House of Blues Dallas | 2026 Concert Schedule, Restaurant & Venue Info",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3631,
+    "inner": 3631
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Error: no matches found for one or more requested services\n    at https://customer-site-969.my.site.com/ESWVenueNationAgent21777305798789/we",
+   "console: requestStorageAccess: Permission denied.",
+   "console: Failed to load resource: the server responded with a status of 429 ()"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579"
+   ],
+   [
+    "WARN",
+    "38 of 138 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20"
+   ],
+   [
+    "WARN",
+    "7 text elements under 12px: p.chakra-text 10px, p.chakra-text 10px, a.chakra-link 10px, a.chakra-link 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 429 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4358px tall"
+   ]
+  ],
+  "site": "https://dallas.houseofblues.com/"
+ },
+ {
+  "url": "https://dallas.houseofblues.com/foundation-room/lounge-menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 4.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 3489,
+  "zoomTrap": [],
+  "leaks": [
+   "div.grecaptcha-badge right=576"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "iframe#embeddedMessagingFrame.embeddedMessagingFrame",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 35,
+  "small": 16,
+  "smallList": [
+   "a.chakra-link 144x18",
+   "a.chakra-link 144x18",
+   "a.chakra-link 144x18",
+   "a.chakra-link 144x18",
+   "a.chakra-link 144x18"
+  ],
+  "tiny": 10,
+  "tinyList": [
+   "button.chakra-button 10px",
+   "p 10px",
+   "p 10px",
+   "p.chakra-text 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.css-1lzzn4f",
+  "textLen": 2055,
+  "fields": [
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "input#field-_R_n6cqlf6brb_.chakra-input",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lounge Menu",
+    "href": "https://dallas.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Lounge Menu",
+    "href": "https://dallas.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.eventbrite.com/e/iidfl90srnb-ou-vs-texas-edition-tickets-1996104281640?aff=ebdssbdestsearch"
+   }
+  ],
+  "allLinks": [
+   "https://dallas.houseofblues.com/foundation-room/lounge-menu#chakra-skip-nav",
+   "https://dallas.houseofblues.com/",
+   "https://dallas.houseofblues.com/shows",
+   "https://dallas.houseofblues.com/shows/rooms/music-hall",
+   "https://dallas.houseofblues.com/shows/rooms/the-cambridge-room",
+   "https://dallas.houseofblues.com/shows/rooms/foundation-room",
+   "https://dallas.houseofblues.com/upgrades",
+   "https://dallas.houseofblues.com/foundation-room",
+   "https://dallas.houseofblues.com/foundation-room/nightlife",
+   "https://dallas.houseofblues.com/foundation-room/lounge-menu",
+   "https://dallas.houseofblues.com/private-events",
+   "https://anaheim.houseofblues.com/",
+   "https://boston.houseofblues.com/",
+   "https://chicago.houseofblues.com/",
+   "https://cleveland.houseofblues.com/",
+   "https://houston.houseofblues.com/",
+   "https://lasvegas.houseofblues.com/",
+   "https://myrtlebeach.houseofblues.com/",
+   "https://neworleans.houseofblues.com/",
+   "https://orlando.houseofblues.com/",
+   "https://sandiego.houseofblues.com/",
+   "https://www.facebook.com/HOBDallas",
+   "https://www.x.com/HOBDallas",
+   "https://www.instagram.com/hobdallas/",
+   "https://www.eventbrite.com/e/iidfl90srnb-ou-vs-texas-edition-tickets-1996104281640?aff=ebdssbdestsearch",
+   "https://dallas.houseofblues.com/accessibility",
+   "https://gearshop.houseofblues.com/?_gl=1*1p90sra*_gcl_au*MTA4MjM4MDk1My4xNzI5MTkzMTMx&_ga=2.104892225.332834279.1733950144-1610815622.1729193131",
+   "https://dallas.houseofblues.com/contact",
+   "https://dallas.houseofblues.com/faq",
+   "https://livenation.wd503.myworkdayjobs.com/LNExternalSite?q=house%20of%20blues%20dallas",
+   "https://livenationforbrands.com/",
+   "https://maps.google.com/?q=2200%20N%20Lamar%20St%20Dallas%2C%20TX%2075202",
+   "https://help.livenation.com/hc/en-us/articles/10468828916113-Terms-of-Use?_gl=1*1d6d6t9*_ga*ODE3NjUxNjgxLjE3NjE4NTc0NzA.*_ga_H1KKSGW33X*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA..*_ga_C1T806G4DF*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA",
+   "https://privacy.livenation.com/us-venues-privacy-policy",
+   "https://privacy.livenation.com/cookie-policy",
+   "https://privacy.livenation.com/visitor-policy",
+   "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/50f1d690-e1dd-44f4-9713-db66fe03185a"
+  ],
+  "weight": 32818,
+  "title": "House of Blues Dallas Foundation Room VIP Lounge",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2825,
+    "inner": 2825
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://help.livenation.com/hc/en-us/articles/10468828916113-Terms-of-Use?_gl=1*1d6d6t9*_ga*ODE3NjUxNjgxLjE3NjE4NTc0NzA.*_ga_H1KKSGW33X*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA..*_ga_C1T806G4DF*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-dallas-houseofblues-com-foundation-room-lounge-menu.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Failed to load resource: the server responded with a status of 429 ()"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576"
+   ],
+   [
+    "WARN",
+    "16 of 35 tap targets under 24px: a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18"
+   ],
+   [
+    "WARN",
+    "10 text elements under 12px: button.chakra-button 10px, p 10px, p 10px, p.chakra-text 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 429 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3489px tall"
+   ]
+  ],
+  "site": "https://dallas.houseofblues.com/"
+ },
+ {
+  "url": "https://dallas.houseofblues.com/foundation-room/lounge-menu",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.1,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3489,
+  "zoomTrap": [],
+  "leaks": [
+   "div.grecaptcha-badge right=579"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "iframe#embeddedMessagingFrame.embeddedMessagingFrame",
+    "pos": "fixed",
+    "cover": 2
+   }
+  ],
+  "targets": 35,
+  "small": 16,
+  "smallList": [
+   "a.chakra-link 144x18",
+   "a.chakra-link 144x18",
+   "a.chakra-link 144x18",
+   "a.chakra-link 144x18",
+   "a.chakra-link 144x18"
+  ],
+  "tiny": 10,
+  "tinyList": [
+   "button.chakra-button 10px",
+   "p 10px",
+   "p 10px",
+   "p.chakra-text 10px"
+  ],
+  "headTop": 0,
+  "headTag": "nav.css-1lzzn4f",
+  "textLen": 2736,
+  "fields": [
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "select.chakra-select",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "input#field-_R_n6cqlf6brb_.chakra-input",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Lounge Menu",
+    "href": "https://dallas.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Lounge Menu",
+    "href": "https://dallas.houseofblues.com/foundation-room/lounge-menu"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.eventbrite.com/e/iidfl90srnb-ou-vs-texas-edition-tickets-1996104281640?aff=ebdssbdestsearch"
+   }
+  ],
+  "allLinks": [
+   "https://dallas.houseofblues.com/foundation-room/lounge-menu#chakra-skip-nav",
+   "https://dallas.houseofblues.com/",
+   "https://dallas.houseofblues.com/shows",
+   "https://dallas.houseofblues.com/shows/rooms/music-hall",
+   "https://dallas.houseofblues.com/shows/rooms/the-cambridge-room",
+   "https://dallas.houseofblues.com/shows/rooms/foundation-room",
+   "https://dallas.houseofblues.com/upgrades",
+   "https://dallas.houseofblues.com/foundation-room",
+   "https://dallas.houseofblues.com/foundation-room/nightlife",
+   "https://dallas.houseofblues.com/foundation-room/lounge-menu",
+   "https://dallas.houseofblues.com/private-events",
+   "https://anaheim.houseofblues.com/",
+   "https://boston.houseofblues.com/",
+   "https://chicago.houseofblues.com/",
+   "https://cleveland.houseofblues.com/",
+   "https://houston.houseofblues.com/",
+   "https://lasvegas.houseofblues.com/",
+   "https://myrtlebeach.houseofblues.com/",
+   "https://neworleans.houseofblues.com/",
+   "https://orlando.houseofblues.com/",
+   "https://sandiego.houseofblues.com/",
+   "https://www.facebook.com/HOBDallas",
+   "https://www.x.com/HOBDallas",
+   "https://www.instagram.com/hobdallas/",
+   "https://www.eventbrite.com/e/iidfl90srnb-ou-vs-texas-edition-tickets-1996104281640?aff=ebdssbdestsearch",
+   "https://dallas.houseofblues.com/accessibility",
+   "https://gearshop.houseofblues.com/?_gl=1*1p90sra*_gcl_au*MTA4MjM4MDk1My4xNzI5MTkzMTMx&_ga=2.104892225.332834279.1733950144-1610815622.1729193131",
+   "https://dallas.houseofblues.com/contact",
+   "https://dallas.houseofblues.com/faq",
+   "https://livenation.wd503.myworkdayjobs.com/LNExternalSite?q=house%20of%20blues%20dallas",
+   "https://livenationforbrands.com/",
+   "https://maps.google.com/?q=2200%20N%20Lamar%20St%20Dallas%2C%20TX%2075202",
+   "https://help.livenation.com/hc/en-us/articles/10468828916113-Terms-of-Use?_gl=1*1d6d6t9*_ga*ODE3NjUxNjgxLjE3NjE4NTc0NzA.*_ga_H1KKSGW33X*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA..*_ga_C1T806G4DF*czE3NjUyMjc5NDkkbzEwJGcwJHQxNzY1MjI3OTQ5JGo2MCRsMCRoMA",
+   "https://privacy.livenation.com/us-venues-privacy-policy",
+   "https://privacy.livenation.com/cookie-policy",
+   "https://privacy.livenation.com/visitor-policy",
+   "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/50f1d690-e1dd-44f4-9713-db66fe03185a"
+  ],
+  "weight": 32720,
+  "title": "House of Blues Dallas Foundation Room VIP Lounge",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2762,
+    "inner": 2762
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "pageerror: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environme",
+   "console: Failed to load resource: the server responded with a status of 429 ()",
+   "console: Error: no matches found for one or more requested services\n    at https://customer-site-969.my.site.com/ESWVenueNationAgent21777305798789/we",
+   "console: requestStorageAccess: Permission denied.",
+   "console: Failed to load resource: the server responded with a status of 429 ()"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579"
+   ],
+   [
+    "FAIL",
+    "pageerror: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environme"
+   ],
+   [
+    "WARN",
+    "16 of 35 tap targets under 24px: a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18, a.chakra-link 144x18"
+   ],
+   [
+    "WARN",
+    "10 text elements under 12px: button.chakra-button 10px, p 10px, p 10px, p.chakra-text 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3489px tall"
+   ]
+  ],
+  "site": "https://dallas.houseofblues.com/"
+ },
+ {
+  "url": "https://gibsonssteakhouse.com/gibsons-chicago/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.5,
+  "meta": "width=device-width, initial-scale=1.0, maximum-scale=5.0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 6481,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#cookie-notice.cookie-revoke-hidden",
+    "pos": "fixed",
+    "cover": 19
+   },
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 48,
+  "small": 24,
+  "smallList": [
+   "a 142x23",
+   "a 139x20",
+   "a 32x16",
+   "a 154x18",
+   "a 32x16"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#main-header",
+  "textLen": 1691,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservations",
+    "href": "https://gibsonssteakhouse.com/reservations"
+   },
+   {
+    "text": "CHICAGO MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/"
+   },
+   {
+    "text": "ROSEMONT MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/"
+   },
+   {
+    "text": "OAK BROOK MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://www.grgmc.com/shop#giftcards"
+   },
+   {
+    "text": "STEAK SHOP",
+    "href": "https://gibsonssteak.com/"
+   },
+   {
+    "text": "CORPORATE GIFTING",
+    "href": "https://gibsonssteak.com/pages/corporate-gifting"
+   },
+   {
+    "text": "CHICAGO MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/"
+   },
+   {
+    "text": "ROSEMONT MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/"
+   },
+   {
+    "text": "OAK BROOK MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://www.grgmc.com/shop#giftcards"
+   },
+   {
+    "text": "STEAK SHOP",
+    "href": "https://gibsonssteak.com/"
+   }
+  ],
+  "allLinks": [
+   "https://gibsonssteakhouse.com/contact",
+   "https://gibsonssteakhouse.com/reservations",
+   "https://gibsonssteakhouse.com/",
+   "https://gibsonssteakhouse.com/gibsons-chicago/",
+   "https://gibsonssteakhouse.com/gibsons-rosemont/",
+   "https://gibsonssteakhouse.com/gibsons-oak-brook/",
+   "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/",
+   "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/",
+   "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/",
+   "https://www.grgmc.com/shop#giftcards",
+   "https://gibsonssteak.com/",
+   "https://gibsonssteak.com/pages/corporate-gifting",
+   "https://www.grgmc.com/privatedining",
+   "https://www.grgmc.com/careers",
+   "https://gibsonssteakhouse.com/contact/",
+   "https://www.opentable.com/r/gibsons-bar-and-steakhouse-chicago-reservations-chicago?restref=1842&lang=en-US&ot_source=Restaurant%20website&ot_campaign=MKTG-Website",
+   "https://gibsonssteakhouse.com/locations/gibsons-chicago/gibsons-chicago-menu/",
+   "https://www.grgmc.com/gibsons-chicago-events",
+   "https://order.online/store/gibsons-bar-&-steakhouse-chicago-2979/?hideModal=true",
+   "https://maps.google.com/maps?q=1028+North+Rush+Street+Chicago,+IL+60611&hl=en&gl=us&sll=41.901408,-87.628081&sspn=0.006295,0.006295&ie=UTF8&view=map&f=d&daddr=1028+N+Rush+St,+Chicago,+IL+60611&geocode=CaX1JPKj6o7SFWBdfwIdz-bG-g&z=16",
+   "https://gibsonssteak.com/collections/holiday-collection",
+   "https://gibsonssteak.com/collections/gibsons-steak-shop",
+   "https://gibsonssteak.com/collections/gibsons-seasoning-salt",
+   "https://gibsonssteakhouse.com/wp-content/uploads/Bone-In-Ribeye2.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/2017/05/2011_alaskanredkingcrabcocktail_KeturahDavis.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/2017/05/2016_Carrot_Cake2.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/2017/05/Garbage_Salad.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/Ribs2.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/2017/05/2016_Turtle_Pie.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/Chicken1.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/2017/05/Bookbinders_Soup.jpg",
+   "https://eepurl.com/g_VJmn",
+   "https://www.instagram.com/gibsonssteakhouse/",
+   "https://twitter.com/GibsonsSteak",
+   "https://wwws-pt1.givex.com/cws4.0/gibsonsteak/",
+   "https://www.grgmc.com/receipt",
+   "https://www.grgmc.com/shop",
+   "https://www.grgmc.com/locations",
+   "https://www.hugosfrogbar.com/",
+   "https://www.gibsonsitalia.com/",
+   "https://www.quartinoristorante.com/",
+   "https://www.luxbar.com/",
+   "https://theboathouseorlando.com/",
+   "https://www.thebazaar.com/location/bazaar-meat-chicago/",
+   "https://www.thebazaar.com/location/bar-mar-chicago/",
+   "https://www.hugosfrogbar.com/locations/des-plaines/",
+   "https://www.ralphlauren.com/global-rl-chicago",
+   "https://gibsonssteakhouse.com/accessibility-statement",
+   "https://gibsonssteakhouse.com/privacy-policy"
+  ],
+  "weight": 31966,
+  "title": "Gibsons Chicago: Location, Hours, Reservations, Menus",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5817,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/r/gibsons-bar-and-steakhouse-chicago-reservations-chicago?restref=1842&lang=en-US&ot_source=Restaurant%20website&ot_campaign=MKTG-Website",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.online/store/gibsons-bar-&-steakhouse-chicago-2979/?hideModal=true",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-gibsonssteakhouse-com-gibsons-chicago.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "24 of 48 tap targets under 24px: a 142x23, a 139x20, a 32x16, a 154x18, a 32x16"
+   ],
+   [
+    "INFO",
+    "document scrolls, 6481px tall"
+   ]
+  ],
+  "site": "https://gibsonssteakhouse.com/gibsons-chicago/",
+  "hop": "https://gibsonssteakhouse.com/reservations"
+ },
+ {
+  "url": "https://gibsonssteakhouse.com/gibsons-chicago/",
+  "device": "android",
+  "status": 200,
+  "load_s": 4.8,
+  "meta": "width=device-width, initial-scale=1.0, maximum-scale=5.0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 6504,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#cookie-notice.cookie-revoke-hidden",
+    "pos": "fixed",
+    "cover": 17
+   },
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 48,
+  "small": 24,
+  "smallList": [
+   "a 142x23",
+   "a 139x20",
+   "a 32x16",
+   "a 154x18",
+   "a 32x16"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#main-header",
+  "textLen": 1699,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservations",
+    "href": "https://gibsonssteakhouse.com/reservations"
+   },
+   {
+    "text": "CHICAGO MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/"
+   },
+   {
+    "text": "ROSEMONT MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/"
+   },
+   {
+    "text": "OAK BROOK MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://www.grgmc.com/shop#giftcards"
+   },
+   {
+    "text": "STEAK SHOP",
+    "href": "https://gibsonssteak.com/"
+   },
+   {
+    "text": "CORPORATE GIFTING",
+    "href": "https://gibsonssteak.com/pages/corporate-gifting"
+   },
+   {
+    "text": "CHICAGO MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/"
+   },
+   {
+    "text": "ROSEMONT MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/"
+   },
+   {
+    "text": "OAK BROOK MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://www.grgmc.com/shop#giftcards"
+   },
+   {
+    "text": "STEAK SHOP",
+    "href": "https://gibsonssteak.com/"
+   }
+  ],
+  "allLinks": [
+   "https://gibsonssteakhouse.com/contact",
+   "https://gibsonssteakhouse.com/reservations",
+   "https://gibsonssteakhouse.com/",
+   "https://gibsonssteakhouse.com/gibsons-chicago/",
+   "https://gibsonssteakhouse.com/gibsons-rosemont/",
+   "https://gibsonssteakhouse.com/gibsons-oak-brook/",
+   "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/",
+   "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/",
+   "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/",
+   "https://www.grgmc.com/shop#giftcards",
+   "https://gibsonssteak.com/",
+   "https://gibsonssteak.com/pages/corporate-gifting",
+   "https://www.grgmc.com/privatedining",
+   "https://www.grgmc.com/careers",
+   "https://gibsonssteakhouse.com/contact/",
+   "https://www.opentable.com/r/gibsons-bar-and-steakhouse-chicago-reservations-chicago?restref=1842&lang=en-US&ot_source=Restaurant%20website&ot_campaign=MKTG-Website",
+   "https://gibsonssteakhouse.com/locations/gibsons-chicago/gibsons-chicago-menu/",
+   "https://www.grgmc.com/gibsons-chicago-events",
+   "https://order.online/store/gibsons-bar-&-steakhouse-chicago-2979/?hideModal=true",
+   "https://maps.google.com/maps?q=1028+North+Rush+Street+Chicago,+IL+60611&hl=en&gl=us&sll=41.901408,-87.628081&sspn=0.006295,0.006295&ie=UTF8&view=map&f=d&daddr=1028+N+Rush+St,+Chicago,+IL+60611&geocode=CaX1JPKj6o7SFWBdfwIdz-bG-g&z=16",
+   "https://gibsonssteak.com/collections/holiday-collection",
+   "https://gibsonssteak.com/collections/gibsons-steak-shop",
+   "https://gibsonssteak.com/collections/gibsons-seasoning-salt",
+   "https://gibsonssteakhouse.com/wp-content/uploads/Bone-In-Ribeye2.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/2017/05/2011_alaskanredkingcrabcocktail_KeturahDavis.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/2017/05/2016_Carrot_Cake2.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/2017/05/Garbage_Salad.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/Ribs2.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/2017/05/2016_Turtle_Pie.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/Chicken1.jpg",
+   "https://gibsonssteakhouse.com/wp-content/uploads/2017/05/Bookbinders_Soup.jpg",
+   "https://eepurl.com/g_VJmn",
+   "https://www.instagram.com/gibsonssteakhouse/",
+   "https://twitter.com/GibsonsSteak",
+   "https://wwws-pt1.givex.com/cws4.0/gibsonsteak/",
+   "https://www.grgmc.com/receipt",
+   "https://www.grgmc.com/shop",
+   "https://www.grgmc.com/locations",
+   "https://www.hugosfrogbar.com/",
+   "https://www.gibsonsitalia.com/",
+   "https://www.quartinoristorante.com/",
+   "https://www.luxbar.com/",
+   "https://theboathouseorlando.com/",
+   "https://www.thebazaar.com/location/bazaar-meat-chicago/",
+   "https://www.thebazaar.com/location/bar-mar-chicago/",
+   "https://www.hugosfrogbar.com/locations/des-plaines/",
+   "https://www.ralphlauren.com/global-rl-chicago",
+   "https://gibsonssteakhouse.com/accessibility-statement",
+   "https://gibsonssteakhouse.com/privacy-policy"
+  ],
+  "weight": 31921,
+  "title": "Gibsons Chicago: Location, Hours, Reservations, Menus",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5777,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "24 of 48 tap targets under 24px: a 142x23, a 139x20, a 32x16, a 154x18, a 32x16"
+   ],
+   [
+    "INFO",
+    "document scrolls, 6504px tall"
+   ]
+  ],
+  "site": "https://gibsonssteakhouse.com/gibsons-chicago/"
+ },
+ {
+  "url": "https://gibsonssteakhouse.com/reservations",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 4.8,
+  "meta": "width=device-width, initial-scale=1.0, maximum-scale=5.0",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4249,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#cookie-notice.cookie-revoke-hidden",
+    "pos": "fixed",
+    "cover": 19
+   },
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 39,
+  "small": 23,
+  "smallList": [
+   "a 142x23",
+   "a 32x16",
+   "a 154x18",
+   "a 32x16",
+   "a 170x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#main-header",
+  "textLen": 1753,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservations",
+    "href": "https://gibsonssteakhouse.com/reservations"
+   },
+   {
+    "text": "CHICAGO MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/"
+   },
+   {
+    "text": "ROSEMONT MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/"
+   },
+   {
+    "text": "OAK BROOK MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://www.grgmc.com/shop#giftcards"
+   },
+   {
+    "text": "STEAK SHOP",
+    "href": "https://gibsonssteak.com/"
+   },
+   {
+    "text": "CORPORATE GIFTING",
+    "href": "https://gibsonssteak.com/pages/corporate-gifting"
+   },
+   {
+    "text": "CHICAGO MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/"
+   },
+   {
+    "text": "ROSEMONT MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/"
+   },
+   {
+    "text": "OAK BROOK MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://www.grgmc.com/shop#giftcards"
+   },
+   {
+    "text": "STEAK SHOP",
+    "href": "https://gibsonssteak.com/"
+   }
+  ],
+  "allLinks": [
+   "https://gibsonssteakhouse.com/contact",
+   "https://gibsonssteakhouse.com/reservations",
+   "https://gibsonssteakhouse.com/",
+   "https://gibsonssteakhouse.com/gibsons-chicago/",
+   "https://gibsonssteakhouse.com/gibsons-rosemont/",
+   "https://gibsonssteakhouse.com/gibsons-oak-brook/",
+   "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/",
+   "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/",
+   "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/",
+   "https://www.grgmc.com/shop#giftcards",
+   "https://gibsonssteak.com/",
+   "https://gibsonssteak.com/pages/corporate-gifting",
+   "https://www.grgmc.com/privatedining",
+   "https://www.grgmc.com/careers",
+   "https://gibsonssteakhouse.com/contact/",
+   "https://www.opentable.com/r/gibsons-bar-and-steakhouse-chicago-reservations-chicago?restref=1842&lang=en-US&ot_source=Restaurant%20website&ot_campaign=MKTG-Website",
+   "https://www.opentable.com/gibsons-bar-and-steakhouse-reservations-rosemont?restref=1213&lang=en-US&ot_source=Restaurant%20website&ot_campaign=MKTG-website",
+   "https://www.opentable.com/gibsons-bar-and-steakhouse-reservations-oak-brook?restref=44956&lang=en-US&ot_source=Restaurant%20website&ot_campaign=MKTG-Website",
+   "https://grgmc.com/privatedining",
+   "https://gibsonssteak.com/collections/holiday-collection",
+   "https://gibsonssteak.com/collections/gibsons-steak-shop",
+   "https://gibsonssteak.com/collections/gibsons-seasoning-salt",
+   "https://eepurl.com/g_VJmn",
+   "https://www.instagram.com/gibsonssteakhouse/",
+   "https://twitter.com/GibsonsSteak",
+   "https://wwws-pt1.givex.com/cws4.0/gibsonsteak/",
+   "https://www.grgmc.com/receipt",
+   "https://www.grgmc.com/shop",
+   "https://www.grgmc.com/locations",
+   "https://www.hugosfrogbar.com/",
+   "https://www.gibsonsitalia.com/",
+   "https://www.quartinoristorante.com/",
+   "https://www.luxbar.com/",
+   "https://theboathouseorlando.com/",
+   "https://www.thebazaar.com/location/bazaar-meat-chicago/",
+   "https://www.thebazaar.com/location/bar-mar-chicago/",
+   "https://www.hugosfrogbar.com/locations/des-plaines/",
+   "https://www.ralphlauren.com/global-rl-chicago",
+   "https://gibsonssteakhouse.com/accessibility-statement",
+   "https://gibsonssteakhouse.com/privacy-policy"
+  ],
+  "weight": 27223,
+  "title": "Reservations | Gibsons Bar & Steakhouse",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3585,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/r/gibsons-bar-and-steakhouse-chicago-reservations-chicago?restref=1842&lang=en-US&ot_source=Restaurant%20website&ot_campaign=MKTG-Website",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-gibsonssteakhouse-com-reservations.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "23 of 39 tap targets under 24px: a 142x23, a 32x16, a 154x18, a 32x16, a 170x18"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4249px tall"
+   ]
+  ],
+  "site": "https://gibsonssteakhouse.com/gibsons-chicago/"
+ },
+ {
+  "url": "https://gibsonssteakhouse.com/reservations",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.4,
+  "meta": "width=device-width, initial-scale=1.0, maximum-scale=5.0",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4257,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#cookie-notice.cookie-revoke-hidden",
+    "pos": "fixed",
+    "cover": 17
+   },
+   {
+    "el": "div.userway_buttons_wrapper",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 39,
+  "small": 23,
+  "smallList": [
+   "a 142x23",
+   "a 32x16",
+   "a 154x18",
+   "a 32x16",
+   "a 170x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#main-header",
+  "textLen": 1771,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Reservations",
+    "href": "https://gibsonssteakhouse.com/reservations"
+   },
+   {
+    "text": "CHICAGO MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/"
+   },
+   {
+    "text": "ROSEMONT MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/"
+   },
+   {
+    "text": "OAK BROOK MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://www.grgmc.com/shop#giftcards"
+   },
+   {
+    "text": "STEAK SHOP",
+    "href": "https://gibsonssteak.com/"
+   },
+   {
+    "text": "CORPORATE GIFTING",
+    "href": "https://gibsonssteak.com/pages/corporate-gifting"
+   },
+   {
+    "text": "CHICAGO MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/"
+   },
+   {
+    "text": "ROSEMONT MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/"
+   },
+   {
+    "text": "OAK BROOK MENU",
+    "href": "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/"
+   },
+   {
+    "text": "GIFT CARDS",
+    "href": "https://www.grgmc.com/shop#giftcards"
+   },
+   {
+    "text": "STEAK SHOP",
+    "href": "https://gibsonssteak.com/"
+   }
+  ],
+  "allLinks": [
+   "https://gibsonssteakhouse.com/contact",
+   "https://gibsonssteakhouse.com/reservations",
+   "https://gibsonssteakhouse.com/",
+   "https://gibsonssteakhouse.com/gibsons-chicago/",
+   "https://gibsonssteakhouse.com/gibsons-rosemont/",
+   "https://gibsonssteakhouse.com/gibsons-oak-brook/",
+   "https://gibsonssteakhouse.com/gibsons-chicago/gibsons-chicago-menu/",
+   "https://gibsonssteakhouse.com/gibsons-rosemont/gibsons-rosemont-menu/",
+   "https://gibsonssteakhouse.com/gibsons-oak-brook/gibsons-oak-brook-menu/",
+   "https://www.grgmc.com/shop#giftcards",
+   "https://gibsonssteak.com/",
+   "https://gibsonssteak.com/pages/corporate-gifting",
+   "https://www.grgmc.com/privatedining",
+   "https://www.grgmc.com/careers",
+   "https://gibsonssteakhouse.com/contact/",
+   "https://www.opentable.com/r/gibsons-bar-and-steakhouse-chicago-reservations-chicago?restref=1842&lang=en-US&ot_source=Restaurant%20website&ot_campaign=MKTG-Website",
+   "https://www.opentable.com/gibsons-bar-and-steakhouse-reservations-rosemont?restref=1213&lang=en-US&ot_source=Restaurant%20website&ot_campaign=MKTG-website",
+   "https://www.opentable.com/gibsons-bar-and-steakhouse-reservations-oak-brook?restref=44956&lang=en-US&ot_source=Restaurant%20website&ot_campaign=MKTG-Website",
+   "https://grgmc.com/privatedining",
+   "https://gibsonssteak.com/collections/holiday-collection",
+   "https://gibsonssteak.com/collections/gibsons-steak-shop",
+   "https://gibsonssteak.com/collections/gibsons-seasoning-salt",
+   "https://eepurl.com/g_VJmn",
+   "https://www.instagram.com/gibsonssteakhouse/",
+   "https://twitter.com/GibsonsSteak",
+   "https://wwws-pt1.givex.com/cws4.0/gibsonsteak/",
+   "https://www.grgmc.com/receipt",
+   "https://www.grgmc.com/shop",
+   "https://www.grgmc.com/locations",
+   "https://www.hugosfrogbar.com/",
+   "https://www.gibsonsitalia.com/",
+   "https://www.quartinoristorante.com/",
+   "https://www.luxbar.com/",
+   "https://theboathouseorlando.com/",
+   "https://www.thebazaar.com/location/bazaar-meat-chicago/",
+   "https://www.thebazaar.com/location/bar-mar-chicago/",
+   "https://www.hugosfrogbar.com/locations/des-plaines/",
+   "https://www.ralphlauren.com/global-rl-chicago",
+   "https://gibsonssteakhouse.com/accessibility-statement",
+   "https://gibsonssteakhouse.com/privacy-policy"
+  ],
+  "weight": 27178,
+  "title": "Reservations | Gibsons Bar & Steakhouse",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3530,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "23 of 39 tap targets under 24px: a 142x23, a 32x16, a 154x18, a 32x16, a 170x18"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4257px tall"
+   ]
+  ],
+  "site": "https://gibsonssteakhouse.com/gibsons-chicago/"
+ },
+ {
+  "url": "https://juaninamillion.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 9726,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=405"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 63,
+  "small": 12,
+  "smallList": [
+   "a.banner-pin 20x18",
+   "button 15x15",
+   "button 15x15",
+   "button 15x15",
+   "button 15x15"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#navbar.navbar",
+  "textLen": 4718,
+  "fields": [
+   {
+    "el": "input#sph-newsletter-input-faedd8deb7eb935ca1b42241e0440c0a.sph-email-input",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "e.g. email@example.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://juaninamillion.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st#"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st"
+   },
+   {
+    "text": "Our Menu",
+    "href": "https://juaninamillion.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st#"
+   },
+   {
+    "text": "Order",
+    "href": "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&source=footer"
+   }
+  ],
+  "allLinks": [
+   "https://juaninamillion.com/#content",
+   "https://juaninamillion.com/#",
+   "https://juaninamillion.com/",
+   "https://www.twitter.com/DonJuanTaco",
+   "https://www.facebook.com/126104164122245",
+   "https://www.instagram.com/juaninamillionrestaurant",
+   "https://www.yelp.com/biz/juan-in-a-million-austin-2",
+   "https://www.google.com/search?sca_esv=dc6ec19e7dc4ebae&q=Juan+in+a+Million&ludocid=9725571444559478307&lsig=AB86z5UnbOulJk68kFNmZKhwZPKq&sa=X&ved=2ahUKEwiBxrr78uORAxXk5AIHHWoSAgUQoAJ6BAgREB4&biw=1536&bih=695&dpr=1.25",
+   "https://juaninamillion.com/about",
+   "https://juaninamillion.com/food-menu",
+   "https://juaninamillion.com/cater",
+   "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st#",
+   "https://juaninamillion.com/press",
+   "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&callback_url=http://juaninamillion.com/#",
+   "https://juaninamillion.com/gallery",
+   "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st",
+   "https://juaninamillion.com/#map-v3-container",
+   "https://threebestrated.com/mexican-restaurants-in-austin-tx",
+   "https://static.spotapps.co/spots/d0/c4645131644a31be4a3d61ecda32a0/full",
+   "https://static.spotapps.co/spots/ed/d0a81997da45d2aae6fc0f416d29ad/full",
+   "https://static.spotapps.co/spots/5d/e5875774f84cf183283d19b4098481/full",
+   "https://static.spotapps.co/spots/13/8fa1fc557c40feaa6ad707faf9a745/full",
+   "https://static.spotapps.co/spots/d3/6b113e7500450c81310ef5dd21b459/full",
+   "https://static.spotapps.co/spots/a2/f5281fe976446d86c6de21ea5e9a76/full",
+   "https://static.spotapps.co/spots/74/e8dfc23c504eb69a4bf2f0b8383c9b/full",
+   "https://static.spotapps.co/spots/dc/9355be70244be8b9e1d763b80152c9/full",
+   "https://static.spotapps.co/spots/49/56e8ab59ce43f7bbfe4683f3eb99e5/full",
+   "https://static.spotapps.co/spots/73/5632738488429ea71749e11a67fd8f/full",
+   "https://static.spotapps.co/spots/6c/2dd2d56a5d47cf836ae357fe19ba89/full",
+   "https://static.spotapps.co/spots/fb/5009e6e4f141c1b18298d5a044e11b/full",
+   "https://static.spotapps.co/spots/1a/d72163e0b641bea1b5769d01fdaa0f/full",
+   "https://static.spotapps.co/spots/56/7c196d5853425a9f65dc61c4c0d42f/full",
+   "https://static.spotapps.co/spots/9b/1bfe79d08d44f8a1d570c52b4db74e/full",
+   "https://static.spotapps.co/spots/14/7263653f8c45969562e98cc17d8cf7/full",
+   "https://static.spotapps.co/spots/c4/14bb75d742431a99964e78f4d873e3/full",
+   "https://static.spotapps.co/spots/3c/de6e5e146c4e9da4570271ad0ffa20/full",
+   "https://static.spotapps.co/spots/88/44eda374264c909b66c82e791cc638/full",
+   "https://static.spotapps.co/spots/bd/fb187c564e43ec9e7e6a23de200e45/full",
+   "https://static.spotapps.co/spots/0e/583eef4e26406c99998aab76c43b9e/full",
+   "http://leafletjs.com/",
+   "http://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps/dir/?api=1&destination=Juan%20in%20a%20Million&destination_place_id=ChIJu94Vu8q1RIYRI36mVrMr-IY",
+   "https://www.spothopperapp.com/",
+   "https://www.spothopperapp.com/contact-us?contact_reason=demo",
+   "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&source=footer",
+   "https://www.spothopperapp.com/spots/64797/privacy_policy",
+   "https://www.spothopperapp.com/spots/64797/terms_and_conditions",
+   "https://juaninamillion.com/accessibility-page-01"
+  ],
+  "weight": 35330,
+  "title": "Juan in a Million - Austin, TX - Mexican Breakfast & Lunch",
+  "roundtrip": {
+   "atBottom": {
+    "y": 9062,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-juaninamillion-com.png",
+  "errors": [
+   "console: Button failed to load, iconName = invalid-placard, layoutTraits = [MacOSLayoutTraits Inline], src = blob:https://juaninamillion.com/0bd2acf3",
+   "console: Button failed to load, iconName = pip-placard, layoutTraits = [MacOSLayoutTraits Inline], src = blob:https://juaninamillion.com/96799a3d-fd9",
+   "console: Button failed to load, iconName = pip-placard, layoutTraits = [MacOSLayoutTraits Inline], src = blob:https://juaninamillion.com/96799a3d-fd9",
+   "console: Button failed to load, iconName = airplay-placard, layoutTraits = [MacOSLayoutTraits Inline], src = blob:https://juaninamillion.com/4e4f3b5d"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405"
+   ],
+   [
+    "WARN",
+    "12 of 63 tap targets under 24px: a.banner-pin 20x18, button 15x15, button 15x15, button 15x15, button 15x15"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "console: Button failed to load, iconName = invalid-placard, layoutTraits = [MacOSLayoutTraits Inline], src = blob:https://juaninamillion.com/0bd2acf3"
+   ],
+   [
+    "INFO",
+    "document scrolls, 9726px tall"
+   ]
+  ],
+  "site": "https://juaninamillion.com/",
+  "hop": "https://juaninamillion.com/food-menu"
+ },
+ {
+  "url": "https://juaninamillion.com/",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.2,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 9774,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=408"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 63,
+  "small": 12,
+  "smallList": [
+   "a.banner-pin 20x18",
+   "button 15x15",
+   "button 15x15",
+   "button 15x15",
+   "button 15x15"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#navbar.navbar",
+  "textLen": 4715,
+  "fields": [
+   {
+    "el": "input#sph-newsletter-input-b39a5ba7075f58c852198a4dfd99a0b6.sph-email-input",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "e.g. email@example.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://juaninamillion.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st#"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st"
+   },
+   {
+    "text": "Our Menu",
+    "href": "https://juaninamillion.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st#"
+   },
+   {
+    "text": "Order",
+    "href": "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&source=footer"
+   }
+  ],
+  "allLinks": [
+   "https://juaninamillion.com/#content",
+   "https://juaninamillion.com/#",
+   "https://juaninamillion.com/",
+   "https://www.twitter.com/DonJuanTaco",
+   "https://www.facebook.com/126104164122245",
+   "https://www.instagram.com/juaninamillionrestaurant",
+   "https://www.yelp.com/biz/juan-in-a-million-austin-2",
+   "https://www.google.com/search?sca_esv=dc6ec19e7dc4ebae&q=Juan+in+a+Million&ludocid=9725571444559478307&lsig=AB86z5UnbOulJk68kFNmZKhwZPKq&sa=X&ved=2ahUKEwiBxrr78uORAxXk5AIHHWoSAgUQoAJ6BAgREB4&biw=1536&bih=695&dpr=1.25",
+   "https://juaninamillion.com/about",
+   "https://juaninamillion.com/food-menu",
+   "https://juaninamillion.com/cater",
+   "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st#",
+   "https://juaninamillion.com/press",
+   "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&callback_url=http://juaninamillion.com/#",
+   "https://juaninamillion.com/gallery",
+   "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st",
+   "https://juaninamillion.com/#map-v3-container",
+   "https://threebestrated.com/mexican-restaurants-in-austin-tx",
+   "https://static.spotapps.co/spots/d0/c4645131644a31be4a3d61ecda32a0/full",
+   "https://static.spotapps.co/spots/ed/d0a81997da45d2aae6fc0f416d29ad/full",
+   "https://static.spotapps.co/spots/5d/e5875774f84cf183283d19b4098481/full",
+   "https://static.spotapps.co/spots/13/8fa1fc557c40feaa6ad707faf9a745/full",
+   "https://static.spotapps.co/spots/d3/6b113e7500450c81310ef5dd21b459/full",
+   "https://static.spotapps.co/spots/a2/f5281fe976446d86c6de21ea5e9a76/full",
+   "https://static.spotapps.co/spots/74/e8dfc23c504eb69a4bf2f0b8383c9b/full",
+   "https://static.spotapps.co/spots/dc/9355be70244be8b9e1d763b80152c9/full",
+   "https://static.spotapps.co/spots/49/56e8ab59ce43f7bbfe4683f3eb99e5/full",
+   "https://static.spotapps.co/spots/73/5632738488429ea71749e11a67fd8f/full",
+   "https://static.spotapps.co/spots/6c/2dd2d56a5d47cf836ae357fe19ba89/full",
+   "https://static.spotapps.co/spots/fb/5009e6e4f141c1b18298d5a044e11b/full",
+   "https://static.spotapps.co/spots/1a/d72163e0b641bea1b5769d01fdaa0f/full",
+   "https://static.spotapps.co/spots/56/7c196d5853425a9f65dc61c4c0d42f/full",
+   "https://static.spotapps.co/spots/9b/1bfe79d08d44f8a1d570c52b4db74e/full",
+   "https://static.spotapps.co/spots/14/7263653f8c45969562e98cc17d8cf7/full",
+   "https://static.spotapps.co/spots/c4/14bb75d742431a99964e78f4d873e3/full",
+   "https://static.spotapps.co/spots/3c/de6e5e146c4e9da4570271ad0ffa20/full",
+   "https://static.spotapps.co/spots/88/44eda374264c909b66c82e791cc638/full",
+   "https://static.spotapps.co/spots/bd/fb187c564e43ec9e7e6a23de200e45/full",
+   "https://static.spotapps.co/spots/0e/583eef4e26406c99998aab76c43b9e/full",
+   "http://leafletjs.com/",
+   "http://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps/dir/?api=1&destination=Juan%20in%20a%20Million&destination_place_id=ChIJu94Vu8q1RIYRI36mVrMr-IY",
+   "https://www.spothopperapp.com/",
+   "https://www.spothopperapp.com/contact-us?contact_reason=demo",
+   "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&source=footer",
+   "https://www.spothopperapp.com/spots/64797/privacy_policy",
+   "https://www.spothopperapp.com/spots/64797/terms_and_conditions",
+   "https://juaninamillion.com/accessibility-page-01"
+  ],
+  "weight": 35311,
+  "title": "Juan in a Million - Austin, TX - Mexican Breakfast & Lunch",
+  "roundtrip": {
+   "atBottom": {
+    "y": 9047,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408"
+   ],
+   [
+    "WARN",
+    "12 of 63 tap targets under 24px: a.banner-pin 20x18, button 15x15, button 15x15, button 15x15, button 15x15"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 9774px tall"
+   ]
+  ],
+  "site": "https://juaninamillion.com/"
+ },
+ {
+  "url": "https://juaninamillion.com/food-menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 31.3,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4495,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=405"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 62,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 699,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://juaninamillion.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st#"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st"
+   },
+   {
+    "text": "Menu",
+    "href": "https://juaninamillion.com/82969"
+   },
+   {
+    "text": "Order",
+    "href": "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&source=footer"
+   }
+  ],
+  "allLinks": [
+   "https://juaninamillion.com/food-menu#content",
+   "https://juaninamillion.com/#",
+   "https://juaninamillion.com/",
+   "https://www.twitter.com/DonJuanTaco",
+   "https://www.facebook.com/126104164122245",
+   "https://www.instagram.com/juaninamillionrestaurant",
+   "https://www.yelp.com/biz/juan-in-a-million-austin-2",
+   "https://www.google.com/search?sca_esv=dc6ec19e7dc4ebae&q=Juan+in+a+Million&ludocid=9725571444559478307&lsig=AB86z5UnbOulJk68kFNmZKhwZPKq&sa=X&ved=2ahUKEwiBxrr78uORAxXk5AIHHWoSAgUQoAJ6BAgREB4&biw=1536&bih=695&dpr=1.25",
+   "https://juaninamillion.com/about",
+   "https://juaninamillion.com/food-menu",
+   "https://juaninamillion.com/cater",
+   "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st#",
+   "https://juaninamillion.com/press",
+   "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&callback_url=http://juaninamillion.com/food-menu#",
+   "https://juaninamillion.com/gallery",
+   "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st",
+   "https://static.spotapps.co/spots/c4/e2f9bdda694426b43d1e088bbf4c3e/:original",
+   "https://static.spotapps.co/spots/f3/dfe7a9460649f79f70daeaa4b7649f/:original",
+   "https://static.spotapps.co/spots/14/7263653f8c45969562e98cc17d8cf7/:original",
+   "https://static.spotapps.co/spots/b8/200d3d76574d83bf9d408b66c7ed84/:original",
+   "https://static.spotapps.co/spots/ce/081dbfba1f49e8acd55b857c8a66c7/:original",
+   "https://static.spotapps.co/spots/18/4b22bf780b402aa33077fc02dffc76/:original",
+   "https://static.spotapps.co/spots/a6/6311bd675c4e0081a71acccc92f3a1/:original",
+   "https://static.spotapps.co/spots/c3/6154f504404eea8765064b6e437a24/:original",
+   "https://static.spotapps.co/spots/c5/931eb1e2544132817415701be4d90a/:original",
+   "https://static.spotapps.co/spots/73/5632738488429ea71749e11a67fd8f/:original",
+   "https://static.spotapps.co/spots/7c/cc2a15e47d4a34ad6e8cf27b1e11db/:original",
+   "https://static.spotapps.co/spots/03/78aa54507c47bb997ed3679b41dea9/:original",
+   "https://static.spotapps.co/spots/69/78b733b7da403b95d5954b0e8e849b/:original",
+   "https://static.spotapps.co/spots/20/2cf253141141498b562a99c176161b/:original",
+   "https://static.spotapps.co/spots/80/c9bcac9d234490ba4f76d128f76de7/:original",
+   "https://static.spotapps.co/spots/97/a318e58d594fb79138cd08c7b454d4/:original",
+   "https://static.spotapps.co/spots/1d/fe2f5adb054fb6b9c68564e984a07b/:original",
+   "https://static.spotapps.co/spots/23/1c85c2021f4d6a95e4b5cf9b9eaa23/:original",
+   "https://static.spotapps.co/spots/4b/b4fcc7e1e244909cd3190d598968f9/:original",
+   "https://static.spotapps.co/spots/72/6e62aa16b54ab1bf7819117f412121/:original",
+   "https://static.spotapps.co/spots/a2/0b648ee68b42beb7e79eec8a902cea/:original",
+   "https://static.spotapps.co/spots/f8/c145b54213451bab86d2124c61e6dc/:original",
+   "https://static.spotapps.co/spots/82/a220054acc47ff813e52574aa23d7f/:original",
+   "https://static.spotapps.co/spots/2c/53ce0a7b1c453f8d743c723134eaec/:original",
+   "https://static.spotapps.co/spots/4e/68613f93c44bbeae96370cbbfecf3d/:original",
+   "https://static.spotapps.co/spots/f3/43025be104458c8ed5b09a91e66ed7/:original",
+   "https://static.spotapps.co/spots/38/983c54848b4ad88624463baa4b3d5a/:original",
+   "https://static.spotapps.co/spots/d5/9bacfb95194323ad6f97de04093a22/:original",
+   "https://static.spotapps.co/spots/a1/034ba959de45ad979b23ba523d8a75/:original",
+   "https://static.spotapps.co/spots/33/7985857db74d4fba75719bb0001c75/:original",
+   "https://static.spotapps.co/spots/06/0dbb0fb8cb4216bd5ab94dba393baa/:original",
+   "https://static.spotapps.co/spots/ec/eec503ffe7484b9e7735b67b8448ec/:original",
+   "https://static.spotapps.co/spots/ba/9ee3923bae46139396abb301363cf1/:original",
+   "https://static.spotapps.co/spots/fb/5009e6e4f141c1b18298d5a044e11b/:original",
+   "https://static.spotapps.co/spots/c0/677d6cbd1b4ad89652d9abedf29acc/:original",
+   "https://static.spotapps.co/spots/64/f96cbab0e94a27b0fcb9ee16a9ad42/:original",
+   "https://static.spotapps.co/spots/88/3eba60f3f542e184d4cc662839cc8d/:original",
+   "https://static.spotapps.co/spots/89/ad49930fb04405ba244af4ddb7d451/:original",
+   "https://static.spotapps.co/spots/44/2f610acc0b4b4e976d24fadd9dffb7/:original",
+   "https://static.spotapps.co/spots/2e/cd1a2326774fdca5627f1942291837/:original",
+   "https://static.spotapps.co/spots/c6/2788c6ac0c4b6fb0cc25e49cc7f07d/:original",
+   "https://static.spotapps.co/spots/73/af62b1fea842498947c9a2321f99a0/:original",
+   "https://static.spotapps.co/spots/34/ea3c7fac3b411fae93856a746fd0db/:original",
+   "https://static.spotapps.co/spots/b3/b0777de85445359d2402454db9f5f0/:original",
+   "https://static.spotapps.co/spots/ca/31e99909c2429f89599f894b53b100/:original",
+   "https://static.spotapps.co/spots/23/12d708852e40a1921c0f004f32b793/:original",
+   "https://static.spotapps.co/spots/7c/622679ffc343ed96336d3033c3005b/:original",
+   "https://juaninamillion.com/87854",
+   "https://juaninamillion.com/82969",
+   "https://juaninamillion.com/140960",
+   "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&source=footer"
+  ],
+  "weight": 34113,
+  "title": "Juan in a Million - Food Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3831,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-juaninamillion-com-food-menu.png",
+  "errors": [
+   "console: Failed to load resource: The request timed out."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: The request timed out."
+   ],
+   [
+    "INFO",
+    "document scrolls, 4495px tall"
+   ]
+  ],
+  "site": "https://juaninamillion.com/"
+ },
+ {
+  "url": "https://juaninamillion.com/food-menu",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4495,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=408"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 62,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 653,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://juaninamillion.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st#"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st"
+   },
+   {
+    "text": "Menu",
+    "href": "https://juaninamillion.com/82969"
+   },
+   {
+    "text": "Order",
+    "href": "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&source=footer"
+   }
+  ],
+  "allLinks": [
+   "https://juaninamillion.com/food-menu#content",
+   "https://juaninamillion.com/#",
+   "https://juaninamillion.com/",
+   "https://www.twitter.com/DonJuanTaco",
+   "https://www.facebook.com/126104164122245",
+   "https://www.instagram.com/juaninamillionrestaurant",
+   "https://www.yelp.com/biz/juan-in-a-million-austin-2",
+   "https://www.google.com/search?sca_esv=dc6ec19e7dc4ebae&q=Juan+in+a+Million&ludocid=9725571444559478307&lsig=AB86z5UnbOulJk68kFNmZKhwZPKq&sa=X&ved=2ahUKEwiBxrr78uORAxXk5AIHHWoSAgUQoAJ6BAgREB4&biw=1536&bih=695&dpr=1.25",
+   "https://juaninamillion.com/about",
+   "https://juaninamillion.com/food-menu",
+   "https://juaninamillion.com/cater",
+   "https://order.toasttab.com/online/juan-in-a-million-2300-e-cesar-chavez-st#",
+   "https://juaninamillion.com/press",
+   "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&callback_url=http://juaninamillion.com/food-menu#",
+   "https://juaninamillion.com/gallery",
+   "https://order.toasttab.com/egiftcards/juan-in-a-million-2300-e-cesar-chavez-st",
+   "https://static.spotapps.co/spots/c4/e2f9bdda694426b43d1e088bbf4c3e/:original",
+   "https://static.spotapps.co/spots/f3/dfe7a9460649f79f70daeaa4b7649f/:original",
+   "https://static.spotapps.co/spots/14/7263653f8c45969562e98cc17d8cf7/:original",
+   "https://static.spotapps.co/spots/b8/200d3d76574d83bf9d408b66c7ed84/:original",
+   "https://static.spotapps.co/spots/ce/081dbfba1f49e8acd55b857c8a66c7/:original",
+   "https://static.spotapps.co/spots/18/4b22bf780b402aa33077fc02dffc76/:original",
+   "https://static.spotapps.co/spots/a6/6311bd675c4e0081a71acccc92f3a1/:original",
+   "https://static.spotapps.co/spots/c3/6154f504404eea8765064b6e437a24/:original",
+   "https://static.spotapps.co/spots/c5/931eb1e2544132817415701be4d90a/:original",
+   "https://static.spotapps.co/spots/73/5632738488429ea71749e11a67fd8f/:original",
+   "https://static.spotapps.co/spots/7c/cc2a15e47d4a34ad6e8cf27b1e11db/:original",
+   "https://static.spotapps.co/spots/03/78aa54507c47bb997ed3679b41dea9/:original",
+   "https://static.spotapps.co/spots/69/78b733b7da403b95d5954b0e8e849b/:original",
+   "https://static.spotapps.co/spots/20/2cf253141141498b562a99c176161b/:original",
+   "https://static.spotapps.co/spots/80/c9bcac9d234490ba4f76d128f76de7/:original",
+   "https://static.spotapps.co/spots/97/a318e58d594fb79138cd08c7b454d4/:original",
+   "https://static.spotapps.co/spots/1d/fe2f5adb054fb6b9c68564e984a07b/:original",
+   "https://static.spotapps.co/spots/23/1c85c2021f4d6a95e4b5cf9b9eaa23/:original",
+   "https://static.spotapps.co/spots/4b/b4fcc7e1e244909cd3190d598968f9/:original",
+   "https://static.spotapps.co/spots/72/6e62aa16b54ab1bf7819117f412121/:original",
+   "https://static.spotapps.co/spots/a2/0b648ee68b42beb7e79eec8a902cea/:original",
+   "https://static.spotapps.co/spots/f8/c145b54213451bab86d2124c61e6dc/:original",
+   "https://static.spotapps.co/spots/82/a220054acc47ff813e52574aa23d7f/:original",
+   "https://static.spotapps.co/spots/2c/53ce0a7b1c453f8d743c723134eaec/:original",
+   "https://static.spotapps.co/spots/4e/68613f93c44bbeae96370cbbfecf3d/:original",
+   "https://static.spotapps.co/spots/f3/43025be104458c8ed5b09a91e66ed7/:original",
+   "https://static.spotapps.co/spots/38/983c54848b4ad88624463baa4b3d5a/:original",
+   "https://static.spotapps.co/spots/d5/9bacfb95194323ad6f97de04093a22/:original",
+   "https://static.spotapps.co/spots/a1/034ba959de45ad979b23ba523d8a75/:original",
+   "https://static.spotapps.co/spots/33/7985857db74d4fba75719bb0001c75/:original",
+   "https://static.spotapps.co/spots/06/0dbb0fb8cb4216bd5ab94dba393baa/:original",
+   "https://static.spotapps.co/spots/ec/eec503ffe7484b9e7735b67b8448ec/:original",
+   "https://static.spotapps.co/spots/ba/9ee3923bae46139396abb301363cf1/:original",
+   "https://static.spotapps.co/spots/fb/5009e6e4f141c1b18298d5a044e11b/:original",
+   "https://static.spotapps.co/spots/c0/677d6cbd1b4ad89652d9abedf29acc/:original",
+   "https://static.spotapps.co/spots/64/f96cbab0e94a27b0fcb9ee16a9ad42/:original",
+   "https://static.spotapps.co/spots/88/3eba60f3f542e184d4cc662839cc8d/:original",
+   "https://static.spotapps.co/spots/89/ad49930fb04405ba244af4ddb7d451/:original",
+   "https://static.spotapps.co/spots/44/2f610acc0b4b4e976d24fadd9dffb7/:original",
+   "https://static.spotapps.co/spots/2e/cd1a2326774fdca5627f1942291837/:original",
+   "https://static.spotapps.co/spots/c6/2788c6ac0c4b6fb0cc25e49cc7f07d/:original",
+   "https://static.spotapps.co/spots/73/af62b1fea842498947c9a2321f99a0/:original",
+   "https://static.spotapps.co/spots/34/ea3c7fac3b411fae93856a746fd0db/:original",
+   "https://static.spotapps.co/spots/b3/b0777de85445359d2402454db9f5f0/:original",
+   "https://static.spotapps.co/spots/ca/31e99909c2429f89599f894b53b100/:original",
+   "https://static.spotapps.co/spots/23/12d708852e40a1921c0f004f32b793/:original",
+   "https://static.spotapps.co/spots/7c/622679ffc343ed96336d3033c3005b/:original",
+   "https://juaninamillion.com/87854",
+   "https://juaninamillion.com/82969",
+   "https://juaninamillion.com/140960",
+   "https://tmt.spotapps.co/ordering-menu?spot_id=64797&accordion=true&images=yes&source=footer"
+  ],
+  "weight": 34094,
+  "title": "Juan in a Million - Food Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1434,
+    "inner": null
+   },
+   "backY": 457,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4495px tall"
+   ]
+  ],
+  "site": "https://juaninamillion.com/"
+ },
+ {
+  "url": "https://esquiretavern-sa.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 11.9,
+  "meta": "width=device-width, user-scalable=no",
+  "vw": 390,
+  "vh": 664,
+  "docH": 3048,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 11,
+  "small": 4,
+  "smallList": [
+   "a#header-logo-desktop.logo 237x10",
+   "a 96x18",
+   "a 230x18",
+   "a 248x13"
+  ],
+  "tiny": 2,
+  "tinyList": [
+   "a#header-logo-mobile.logo 9px",
+   "video 9px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.sticky",
+  "textLen": 857,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/the-esquire-tavern-155-e-commerce-st/v3"
+   },
+   {
+    "text": "View Menu",
+    "href": "https://esquiretavern-sa.com/fare-libations/"
+   }
+  ],
+  "allLinks": [
+   "https://esquiretavern-sa.com/",
+   "https://esquiretavern-sa.com/#",
+   "https://www.facebook.com/EsquireTavernSA/",
+   "https://instagram.com/esquiretavernsa",
+   "https://www.toasttab.com/the-esquire-tavern-155-e-commerce-st/v3",
+   "https://esquiretavern-sa.com/about/",
+   "https://esquiretavern-sa.com/fare-libations/",
+   "https://esquiretavern-sa.com/downstairs/",
+   "https://esquiretavern-sa.com/press/",
+   "https://esquiretavern-sa.com/careers/",
+   "https://esquiretavern-sa.com/contact/",
+   "https://esquiretavern-sa.com/info/bios/",
+   "https://esquiretavern-sa.com/info/parties/",
+   "https://www.aetna.com/individuals-families/member-rights-resources/rights/disclosure-information.html",
+   "https://spotonhospitality.com/"
+  ],
+  "weight": 13832,
+  "title": "Best Bar on the San Antonio Riverwalk | The Esquire Tavern",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2384,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.toasttab.com/the-esquire-tavern-155-e-commerce-st/v3",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-esquiretavern-sa-com.png",
+  "errors": [
+   "pageerror: /www.opentable.com'.",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: Not allowed to call enumerateDevices.",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: /www.opentable.com'."
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "pageerror: /www.opentable.com'."
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "4 of 11 tap targets under 24px: a#header-logo-desktop.logo 237x10, a 96x18, a 230x18, a 248x13"
+   ],
+   [
+    "WARN",
+    "2 text elements under 12px: a#header-logo-mobile.logo 9px, video 9px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3048px tall"
+   ]
+  ],
+  "site": "https://esquiretavern-sa.com/",
+  "hop": "https://esquiretavern-sa.com/fare-libations/"
+ },
+ {
+  "url": "https://esquiretavern-sa.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 5.3,
+  "meta": "width=device-width, user-scalable=no",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3048,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 11,
+  "small": 4,
+  "smallList": [
+   "a#header-logo-desktop.logo 237x9",
+   "a 96x18",
+   "a 230x18",
+   "a 248x13"
+  ],
+  "tiny": 2,
+  "tinyList": [
+   "a#header-logo-mobile.logo 7.84px",
+   "video 7.84px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.sticky",
+  "textLen": 858,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/the-esquire-tavern-155-e-commerce-st/v3"
+   },
+   {
+    "text": "View Menu",
+    "href": "https://esquiretavern-sa.com/fare-libations/"
+   }
+  ],
+  "allLinks": [
+   "https://esquiretavern-sa.com/",
+   "https://esquiretavern-sa.com/#",
+   "https://www.facebook.com/EsquireTavernSA/",
+   "https://instagram.com/esquiretavernsa",
+   "https://www.toasttab.com/the-esquire-tavern-155-e-commerce-st/v3",
+   "https://esquiretavern-sa.com/about/",
+   "https://esquiretavern-sa.com/fare-libations/",
+   "https://esquiretavern-sa.com/downstairs/",
+   "https://esquiretavern-sa.com/press/",
+   "https://esquiretavern-sa.com/careers/",
+   "https://esquiretavern-sa.com/contact/",
+   "https://esquiretavern-sa.com/info/bios/",
+   "https://esquiretavern-sa.com/info/parties/",
+   "https://www.aetna.com/individuals-families/member-rights-resources/rights/disclosure-information.html",
+   "https://spotonhospitality.com/"
+  ],
+  "weight": 13735,
+  "title": "Best Bar on the San Antonio Riverwalk | The Esquire Tavern",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2321,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "4 of 11 tap targets under 24px: a#header-logo-desktop.logo 237x9, a 96x18, a 230x18, a 248x13"
+   ],
+   [
+    "WARN",
+    "2 text elements under 12px: a#header-logo-mobile.logo 7.84px, video 7.84px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3048px tall"
+   ]
+  ],
+  "site": "https://esquiretavern-sa.com/"
+ },
+ {
+  "url": "https://esquiretavern-sa.com/fare-libations/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 5.3,
+  "meta": "width=device-width, user-scalable=no",
+  "vw": 390,
+  "vh": 664,
+  "docH": 1087,
+  "zoomTrap": [
+   {
+    "el": "input.selectric-input",
+    "fs": 9
+   },
+   {
+    "el": "input.selectric-input",
+    "fs": 9
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 12,
+  "small": 4,
+  "smallList": [
+   "a#header-logo-desktop.logo 237x10",
+   "a 96x18",
+   "a 230x18",
+   "a 248x13"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "a#header-logo-mobile.logo 9px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.sticky",
+  "textLen": 446,
+  "fields": [
+   {
+    "el": "select#menu-type",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "input.selectric-input",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "input.selectric-input",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/the-esquire-tavern-155-e-commerce-st/v3"
+   },
+   {
+    "text": "FOOD MENU",
+    "href": "https://esquiretavern-sa.com/wp-content/uploads/Esquire-Food-Menu.pdf"
+   }
+  ],
+  "allLinks": [
+   "https://esquiretavern-sa.com/",
+   "https://esquiretavern-sa.com/fare-libations/#",
+   "https://www.facebook.com/EsquireTavernSA/",
+   "https://instagram.com/esquiretavernsa",
+   "https://www.toasttab.com/the-esquire-tavern-155-e-commerce-st/v3",
+   "https://esquiretavern-sa.com/about/",
+   "https://esquiretavern-sa.com/fare-libations/",
+   "https://esquiretavern-sa.com/downstairs/",
+   "https://esquiretavern-sa.com/press/",
+   "https://esquiretavern-sa.com/careers/",
+   "https://esquiretavern-sa.com/contact/",
+   "https://esquiretavern-sa.com/info/bios/",
+   "https://esquiretavern-sa.com/info/parties/",
+   "https://esquiretavern-sa.com/wp-content/uploads/Esquire-Food-Menu.pdf",
+   "https://esquiretavern-sa.com/wp-content/uploads/EsquireBeerWeb.pdf",
+   "https://esquiretavern-sa.com/wp-content/uploads/EsquireWineWeb.pdf",
+   "https://esquiretavern-sa.com/wp-content/uploads/Esquire-Spirit-List.pdf",
+   "https://esquiretavern-sa.com/wp-content/uploads/EsquireCocktailsWeb.pdf",
+   "https://www.aetna.com/individuals-families/member-rights-resources/rights/disclosure-information.html",
+   "https://spotonhospitality.com/"
+  ],
+  "weight": 14511,
+  "title": "Food & Drinks Menu | The Esquire Tavern San Antonio Riverwalk",
+  "roundtrip": {
+   "atBottom": {
+    "y": 423,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.toasttab.com/the-esquire-tavern-155-e-commerce-st/v3",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-esquiretavern-sa-com-fare-libations.png",
+  "errors": [
+   "pageerror: /www.opentable.com'.",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: Not allowed to call enumerateDevices.",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: /www.opentable.com'."
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input.selectric-input at 9px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input.selectric-input at 9px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "pageerror: /www.opentable.com'."
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "4 of 12 tap targets under 24px: a#header-logo-desktop.logo 237x10, a 96x18, a 230x18, a 248x13"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: a#header-logo-mobile.logo 9px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 1087px tall"
+   ]
+  ],
+  "site": "https://esquiretavern-sa.com/"
+ },
+ {
+  "url": "https://esquiretavern-sa.com/fare-libations/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.2,
+  "meta": "width=device-width, user-scalable=no",
+  "vw": 393,
+  "vh": 727,
+  "docH": 1087,
+  "zoomTrap": [
+   {
+    "el": "input.selectric-input",
+    "fs": 7.84
+   },
+   {
+    "el": "input.selectric-input",
+    "fs": 7.84
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 12,
+  "small": 4,
+  "smallList": [
+   "a#header-logo-desktop.logo 237x9",
+   "a 96x18",
+   "a 230x18",
+   "a 248x13"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "a#header-logo-mobile.logo 7.84px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.sticky",
+  "textLen": 489,
+  "fields": [
+   {
+    "el": "select#menu-type",
+    "type": "select-one",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "input.selectric-input",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   },
+   {
+    "el": "input.selectric-input",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": ""
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/the-esquire-tavern-155-e-commerce-st/v3"
+   },
+   {
+    "text": "FOOD MENU",
+    "href": "https://esquiretavern-sa.com/wp-content/uploads/Esquire-Food-Menu.pdf"
+   }
+  ],
+  "allLinks": [
+   "https://esquiretavern-sa.com/",
+   "https://esquiretavern-sa.com/fare-libations/#",
+   "https://www.facebook.com/EsquireTavernSA/",
+   "https://instagram.com/esquiretavernsa",
+   "https://www.toasttab.com/the-esquire-tavern-155-e-commerce-st/v3",
+   "https://esquiretavern-sa.com/about/",
+   "https://esquiretavern-sa.com/fare-libations/",
+   "https://esquiretavern-sa.com/downstairs/",
+   "https://esquiretavern-sa.com/press/",
+   "https://esquiretavern-sa.com/careers/",
+   "https://esquiretavern-sa.com/contact/",
+   "https://esquiretavern-sa.com/info/bios/",
+   "https://esquiretavern-sa.com/info/parties/",
+   "https://esquiretavern-sa.com/wp-content/uploads/Esquire-Food-Menu.pdf",
+   "https://esquiretavern-sa.com/wp-content/uploads/EsquireBeerWeb.pdf",
+   "https://esquiretavern-sa.com/wp-content/uploads/EsquireWineWeb.pdf",
+   "https://esquiretavern-sa.com/wp-content/uploads/Esquire-Spirit-List.pdf",
+   "https://esquiretavern-sa.com/wp-content/uploads/EsquireCocktailsWeb.pdf",
+   "https://www.aetna.com/individuals-families/member-rights-resources/rights/disclosure-information.html",
+   "https://spotonhospitality.com/"
+  ],
+  "weight": 14426,
+  "title": "Food & Drinks Menu | The Esquire Tavern San Antonio Riverwalk",
+  "roundtrip": {
+   "atBottom": {
+    "y": 360,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input.selectric-input at 7.84px (needs 16px on touch)"
+   ],
+   [
+    "FAIL",
+    "iOS zoom trap: input.selectric-input at 7.84px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "viewport meta caps zoom (Android honours it; pinch-zoom dies)"
+   ],
+   [
+    "WARN",
+    "4 of 12 tap targets under 24px: a#header-logo-desktop.logo 237x9, a 96x18, a 230x18, a 248x13"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: a#header-logo-mobile.logo 7.84px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+   ],
+   [
+    "INFO",
+    "document scrolls, 1087px tall"
+   ]
+  ],
+  "site": "https://esquiretavern-sa.com/"
+ },
+ {
+  "url": "https://mertscharlotte.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 8.1,
+  "meta": "width=device-width,initial-scale=1,user-scalable=yes",
+  "vw": 390,
+  "vh": 664,
+  "docH": 5689,
+  "zoomTrap": [],
+  "leaks": [
+   "section.edgtf-side-menu right=840"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 15,
+  "small": 6,
+  "smallList": [
+   "a 231x19",
+   "a.edgtf-social-icon-widget-holder 9x26",
+   "a.edgtf-social-icon-widget-holder 15x26",
+   "a.edgtf-social-icon-widget-holder 17x26",
+   "a.edgtf-social-icon-widget-holder 10x26"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.edgtf-page-header",
+  "textLen": 1363,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   },
+   {
+    "text": "ONLINE ORDERING",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   },
+   {
+    "text": "ONLINE ORDERING",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "View Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   },
+   {
+    "text": "Order Here",
+    "href": "https://order.chownow.com/order/4956/locations"
+   }
+  ],
+  "allLinks": [
+   "https://mertscharlotte.com/#",
+   "https://www.instagram.com/",
+   "https://twitter.com/",
+   "https://www.facebook.com/",
+   "https://www.tumblr.com/",
+   "https://vimeo.com/",
+   "https://order.chownow.com/order/4956/locations",
+   "https://mertscharlotte.com/",
+   "https://mertscharlotte.com/about-merts/",
+   "https://mertscharlotte.com/menu/",
+   "https://mertscharlotte.com/catering/",
+   "https://mertscharlotte.com/birthday-club/",
+   "https://mertscharlotte.com/contact-us/",
+   "https://www.foodnetwork.com/restaurants/shows/diners-drive-ins-and-dives",
+   "https://www.youtube.com/watch?v=GVRsIyST7Rs",
+   "http://www.tripadvisor.com/"
+  ],
+  "weight": 27874,
+  "title": "Mert's Heart & Soul \u2013 Uptown Charlotte's World Renowned Soul Food",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5025,
+    "inner": 5025
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-mertscharlotte-com.png",
+  "errors": [
+   "pageerror: Unexpected token '<'"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): section.edgtf-side-menu right=840"
+   ],
+   [
+    "FAIL",
+    "pageerror: Unexpected token '<'"
+   ],
+   [
+    "WARN",
+    "6 of 15 tap targets under 24px: a 231x19, a.edgtf-social-icon-widget-holder 9x26, a.edgtf-social-icon-widget-holder 15x26, a.edgtf-social-icon-widget-holder 17x26, a.edgtf-social-icon-widget-holder 10x26"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5689px tall"
+   ]
+  ],
+  "site": "https://mertscharlotte.com/",
+  "hop": "https://mertscharlotte.com/menu/"
+ },
+ {
+  "url": "https://mertscharlotte.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.3,
+  "meta": "width=device-width,initial-scale=1,user-scalable=yes",
+  "vw": 393,
+  "vh": 727,
+  "docH": 5773,
+  "zoomTrap": [],
+  "leaks": [
+   "section.edgtf-side-menu right=843"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 15,
+  "small": 6,
+  "smallList": [
+   "a 231x19",
+   "a.edgtf-social-icon-widget-holder 9x26",
+   "a.edgtf-social-icon-widget-holder 15x27",
+   "a.edgtf-social-icon-widget-holder 17x27",
+   "a.edgtf-social-icon-widget-holder 10x27"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.edgtf-page-header",
+  "textLen": 1360,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   },
+   {
+    "text": "ONLINE ORDERING",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   },
+   {
+    "text": "ONLINE ORDERING",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "View Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   },
+   {
+    "text": "Order Here",
+    "href": "https://order.chownow.com/order/4956/locations"
+   }
+  ],
+  "allLinks": [
+   "https://mertscharlotte.com/#",
+   "https://www.instagram.com/",
+   "https://twitter.com/",
+   "https://www.facebook.com/",
+   "https://www.tumblr.com/",
+   "https://vimeo.com/",
+   "https://order.chownow.com/order/4956/locations",
+   "https://mertscharlotte.com/",
+   "https://mertscharlotte.com/about-merts/",
+   "https://mertscharlotte.com/menu/",
+   "https://mertscharlotte.com/catering/",
+   "https://mertscharlotte.com/birthday-club/",
+   "https://mertscharlotte.com/contact-us/",
+   "https://www.foodnetwork.com/restaurants/shows/diners-drive-ins-and-dives",
+   "https://www.youtube.com/watch?v=GVRsIyST7Rs",
+   "http://www.tripadvisor.com/"
+  ],
+  "weight": 27845,
+  "title": "Mert's Heart & Soul \u2013 Uptown Charlotte's World Renowned Soul Food",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5046,
+    "inner": 5046
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "pageerror: Unexpected token '<'"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): section.edgtf-side-menu right=843"
+   ],
+   [
+    "FAIL",
+    "pageerror: Unexpected token '<'"
+   ],
+   [
+    "WARN",
+    "6 of 15 tap targets under 24px: a 231x19, a.edgtf-social-icon-widget-holder 9x26, a.edgtf-social-icon-widget-holder 15x27, a.edgtf-social-icon-widget-holder 17x27, a.edgtf-social-icon-widget-holder 10x27"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5773px tall"
+   ]
+  ],
+  "site": "https://mertscharlotte.com/"
+ },
+ {
+  "url": "https://mertscharlotte.com/menu/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 4.0,
+  "meta": "width=device-width,initial-scale=1,user-scalable=yes",
+  "vw": 390,
+  "vh": 664,
+  "docH": 3160,
+  "zoomTrap": [],
+  "leaks": [
+   "section.edgtf-side-menu right=840"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 8,
+  "small": 5,
+  "smallList": [
+   "a.edgtf-social-icon-widget-holder 9x26",
+   "a.edgtf-social-icon-widget-holder 15x26",
+   "a.edgtf-social-icon-widget-holder 17x26",
+   "a.edgtf-social-icon-widget-holder 10x26",
+   "a.edgtf-social-icon-widget-holder 23x26"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.edgtf-page-header",
+  "textLen": 358,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   },
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   },
+   {
+    "text": "ONLINE ORDERING",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   }
+  ],
+  "allLinks": [
+   "https://mertscharlotte.com/menu/#",
+   "https://www.instagram.com/",
+   "https://twitter.com/",
+   "https://www.facebook.com/",
+   "https://www.tumblr.com/",
+   "https://vimeo.com/",
+   "https://order.chownow.com/order/4956/locations",
+   "https://mertscharlotte.com/",
+   "https://mertscharlotte.com/about-merts/",
+   "https://mertscharlotte.com/menu/",
+   "https://mertscharlotte.com/catering/",
+   "https://mertscharlotte.com/birthday-club/",
+   "https://mertscharlotte.com/contact-us/",
+   "http://www.tripadvisor.com/"
+  ],
+  "weight": 22060,
+  "title": "Mert's Menu | Soul Food | Uptown Charlotte | Mert's Heart & Soul",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2496,
+    "inner": 2496
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-mertscharlotte-com-menu.png",
+  "errors": [
+   "pageerror: Unexpected token '<'"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): section.edgtf-side-menu right=840"
+   ],
+   [
+    "FAIL",
+    "pageerror: Unexpected token '<'"
+   ],
+   [
+    "WARN",
+    "5 of 8 tap targets under 24px: a.edgtf-social-icon-widget-holder 9x26, a.edgtf-social-icon-widget-holder 15x26, a.edgtf-social-icon-widget-holder 17x26, a.edgtf-social-icon-widget-holder 10x26, a.edgtf-social-icon-widget-holder 23x26"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3160px tall"
+   ]
+  ],
+  "site": "https://mertscharlotte.com/"
+ },
+ {
+  "url": "https://mertscharlotte.com/menu/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.1,
+  "meta": "width=device-width,initial-scale=1,user-scalable=yes",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3160,
+  "zoomTrap": [],
+  "leaks": [
+   "section.edgtf-side-menu right=843"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 8,
+  "small": 5,
+  "smallList": [
+   "a.edgtf-social-icon-widget-holder 9x26",
+   "a.edgtf-social-icon-widget-holder 15x27",
+   "a.edgtf-social-icon-widget-holder 17x27",
+   "a.edgtf-social-icon-widget-holder 10x27",
+   "a.edgtf-social-icon-widget-holder 23x27"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.edgtf-page-header",
+  "textLen": 356,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   },
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   },
+   {
+    "text": "ONLINE ORDERING",
+    "href": "https://order.chownow.com/order/4956/locations"
+   },
+   {
+    "text": "Menu",
+    "href": "https://mertscharlotte.com/menu/"
+   }
+  ],
+  "allLinks": [
+   "https://mertscharlotte.com/menu/#",
+   "https://www.instagram.com/",
+   "https://twitter.com/",
+   "https://www.facebook.com/",
+   "https://www.tumblr.com/",
+   "https://vimeo.com/",
+   "https://order.chownow.com/order/4956/locations",
+   "https://mertscharlotte.com/",
+   "https://mertscharlotte.com/about-merts/",
+   "https://mertscharlotte.com/menu/",
+   "https://mertscharlotte.com/catering/",
+   "https://mertscharlotte.com/birthday-club/",
+   "https://mertscharlotte.com/contact-us/",
+   "http://www.tripadvisor.com/"
+  ],
+  "weight": 22034,
+  "title": "Mert's Menu | Soul Food | Uptown Charlotte | Mert's Heart & Soul",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2433,
+    "inner": 2433
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "pageerror: Unexpected token '<'"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): section.edgtf-side-menu right=843"
+   ],
+   [
+    "FAIL",
+    "pageerror: Unexpected token '<'"
+   ],
+   [
+    "WARN",
+    "5 of 8 tap targets under 24px: a.edgtf-social-icon-widget-holder 9x26, a.edgtf-social-icon-widget-holder 15x27, a.edgtf-social-icon-widget-holder 17x27, a.edgtf-social-icon-widget-holder 10x27, a.edgtf-social-icon-widget-holder 23x27"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3160px tall"
+   ]
+  ],
+  "site": "https://mertscharlotte.com/"
+ },
+ {
+  "url": "https://www.alhambrapalacechicago.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 7491,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.bgCover",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#section-vq4HmaesKS.fullSection",
+    "pos": "fixed",
+    "cover": 17
+   }
+  ],
+  "targets": 19,
+  "small": 3,
+  "smallList": [
+   "div.py-2 19x37",
+   "a 350x18",
+   "a 88x15"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "p 10px"
+  ],
+  "headTop": null,
+  "headTag": null,
+  "textLen": 4005,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "GIFT CARD",
+    "href": "https://order.toasttab.com/egiftcards/alhambra-palace-chicago-1240-w-randolph-st"
+   },
+   {
+    "text": "RESERVATIONS",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE A TABLE",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE A TABLE",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE A TABLE",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE A TABLE",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "EXPLORE OUR MENU",
+    "href": "https://www.alhambrapalacechicago.com/foodanddrink-363055"
+   },
+   {
+    "text": "RESERVE FOR SHOW NIGHT",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE FOR SHOW NIGHT",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE FOR SHOW NIGHT",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE FOR SHOW NIGHT",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   }
+  ],
+  "allLinks": [
+   "https://www.alhambrapalacechicago.com/hoursandlocation",
+   "https://www.alhambrapalacechicago.com/foodanddrink-363055",
+   "https://www.alhambrapalacechicago.com/happenings-389426",
+   "https://www.alhambrapalacechicago.com/privatedining-753446",
+   "https://www.alhambrapalacechicago.com/catering-498028",
+   "https://www.alhambrapalacechicago.com/gallery",
+   "https://order.toasttab.com/egiftcards/alhambra-palace-chicago-1240-w-randolph-st",
+   "https://www.alhambrapalacechicago.com/reservation-840038",
+   "https://www.alhambrapalacechicago.com/#",
+   "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJua3ciictDogRzi6L8d6hwQE",
+   "https://www.facebook.com/AlhambraChicago",
+   "https://www.instagram.com/alhambrachicago"
+  ],
+  "weight": 65874,
+  "title": "",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6814,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": null
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/egiftcards/alhambra-palace-chicago-1240-w-randolph-st",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-alhambrapalacechicago-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div.bgCover covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "3 of 19 tap targets under 24px: div.py-2 19x37, a 350x18, a 88x15"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: p 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7491px tall"
+   ]
+  ],
+  "site": "https://www.alhambrapalacechicago.com/",
+  "hop": "https://www.alhambrapalacechicago.com/reservation-840038"
+ },
+ {
+  "url": "https://www.alhambrapalacechicago.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 15.4,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 7509,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.bgCover",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#section-vq4HmaesKS.fullSection",
+    "pos": "fixed",
+    "cover": 15
+   }
+  ],
+  "targets": 19,
+  "small": 3,
+  "smallList": [
+   "div.py-2 19x37",
+   "a 353x18",
+   "a 88x15"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "p 10px"
+  ],
+  "headTop": null,
+  "headTag": null,
+  "textLen": 3998,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "GIFT CARD",
+    "href": "https://order.toasttab.com/egiftcards/alhambra-palace-chicago-1240-w-randolph-st"
+   },
+   {
+    "text": "RESERVATIONS",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE A TABLE",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE A TABLE",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE A TABLE",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE A TABLE",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "EXPLORE OUR MENU",
+    "href": "https://www.alhambrapalacechicago.com/foodanddrink-363055"
+   },
+   {
+    "text": "RESERVE FOR SHOW NIGHT",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE FOR SHOW NIGHT",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE FOR SHOW NIGHT",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVE FOR SHOW NIGHT",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   }
+  ],
+  "allLinks": [
+   "https://www.alhambrapalacechicago.com/hoursandlocation",
+   "https://www.alhambrapalacechicago.com/foodanddrink-363055",
+   "https://www.alhambrapalacechicago.com/happenings-389426",
+   "https://www.alhambrapalacechicago.com/privatedining-753446",
+   "https://www.alhambrapalacechicago.com/catering-498028",
+   "https://www.alhambrapalacechicago.com/gallery",
+   "https://order.toasttab.com/egiftcards/alhambra-palace-chicago-1240-w-randolph-st",
+   "https://www.alhambrapalacechicago.com/reservation-840038",
+   "https://www.alhambrapalacechicago.com/#",
+   "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJua3ciictDogRzi6L8d6hwQE",
+   "https://www.facebook.com/AlhambraChicago",
+   "https://www.instagram.com/alhambrachicago"
+  ],
+  "weight": 65799,
+  "title": "",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6782,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": null
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div.bgCover covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "3 of 19 tap targets under 24px: div.py-2 19x37, a 353x18, a 88x15"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: p 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7509px tall"
+   ]
+  ],
+  "site": "https://www.alhambrapalacechicago.com/"
+ },
+ {
+  "url": "https://www.alhambrapalacechicago.com/reservation-840038",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 2543,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.bgCover",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#section-gfB2E1T8_k.fullSection",
+    "pos": "fixed",
+    "cover": 31
+   }
+  ],
+  "targets": 17,
+  "small": 4,
+  "smallList": [
+   "div.py-2 19x37",
+   "a 61x15",
+   "a 56x15",
+   "a 88x15"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "p 10px"
+  ],
+  "headTop": null,
+  "headTag": null,
+  "textLen": 1037,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "GIFT CARD",
+    "href": "https://order.toasttab.com/egiftcards/alhambra-palace-chicago-1240-w-randolph-st"
+   },
+   {
+    "text": "RESERVATIONS",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVATIONS",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "BOOK A RESERVATIONYELP",
+    "href": "https://yelp.to/Z_ZQBg7Sce"
+   },
+   {
+    "text": "BOOK A RESERVATIONOPENTABLE",
+    "href": "https://www.opentable.com/alhambra-palace-restaurant"
+   },
+   {
+    "text": "BOOK A RESERVATIONRESY",
+    "href": "https://resy.com/cities/chicago-il/venues/alhambra-palace-chicago"
+   },
+   {
+    "text": "BOOK A RESERVATIONSEVENROOMS",
+    "href": "https://www.sevenrooms.com/reservations/alhambrapalacerestaurant"
+   },
+   {
+    "text": "View Menu",
+    "href": "https://alhambrapalacechicago.com/foodanddrink"
+   },
+   {
+    "text": "Click here to reserve your table",
+    "href": "https://alhambrapalacechicago.com/reservation"
+   },
+   {
+    "text": "BOOK A PRIVATE EVENT",
+    "href": "https://www.alhambrapalacechicago.com/privatedining-753446"
+   }
+  ],
+  "allLinks": [
+   "https://alhambrapalacechicago.com/",
+   "https://www.alhambrapalacechicago.com/hoursandlocation",
+   "https://www.alhambrapalacechicago.com/foodanddrink-363055",
+   "https://www.alhambrapalacechicago.com/happenings-389426",
+   "https://www.alhambrapalacechicago.com/privatedining-753446",
+   "https://www.alhambrapalacechicago.com/catering-498028",
+   "https://www.alhambrapalacechicago.com/gallery",
+   "https://order.toasttab.com/egiftcards/alhambra-palace-chicago-1240-w-randolph-st",
+   "https://www.alhambrapalacechicago.com/reservation-840038",
+   "https://yelp.to/Z_ZQBg7Sce",
+   "https://www.opentable.com/alhambra-palace-restaurant",
+   "https://resy.com/cities/chicago-il/venues/alhambra-palace-chicago",
+   "https://www.sevenrooms.com/reservations/alhambrapalacerestaurant",
+   "https://alhambrapalacechicago.com/hoursandlocation",
+   "https://alhambrapalacechicago.com/foodanddrink",
+   "https://alhambrapalacechicago.com/happenings",
+   "https://alhambrapalacechicago.com/reservation",
+   "https://alhambrapalacechicago.com/privatedining",
+   "https://www.facebook.com/AlhambraChicago",
+   "https://www.instagram.com/alhambrachicago"
+  ],
+  "weight": 42132,
+  "title": "",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1866,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": null
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/egiftcards/alhambra-palace-chicago-1240-w-randolph-st",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.opentable.com/alhambra-palace-restaurant",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://alhambrapalacechicago.com/foodanddrink",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://alhambrapalacechicago.com/reservation",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://alhambrapalacechicago.com/happenings",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://alhambrapalacechicago.com/privatedining",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-alhambrapalacechicago-com-reservation-840038.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://alhambrapalacechicago.com/foodanddrink answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://alhambrapalacechicago.com/reservation answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://alhambrapalacechicago.com/happenings answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://alhambrapalacechicago.com/privatedining answers 404"
+   ],
+   [
+    "WARN",
+    "fixed layer div.bgCover covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "4 of 17 tap targets under 24px: div.py-2 19x37, a 61x15, a 56x15, a 88x15"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: p 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 2543px tall"
+   ]
+  ],
+  "site": "https://www.alhambrapalacechicago.com/"
+ },
+ {
+  "url": "https://www.alhambrapalacechicago.com/reservation-840038",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 2556,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.bgCover",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#section-gfB2E1T8_k.fullSection",
+    "pos": "fixed",
+    "cover": 28
+   }
+  ],
+  "targets": 17,
+  "small": 4,
+  "smallList": [
+   "div.py-2 19x37",
+   "a 61x15",
+   "a 56x15",
+   "a 88x15"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "p 10px"
+  ],
+  "headTop": null,
+  "headTag": null,
+  "textLen": 1555,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "GIFT CARD",
+    "href": "https://order.toasttab.com/egiftcards/alhambra-palace-chicago-1240-w-randolph-st"
+   },
+   {
+    "text": "RESERVATIONS",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "RESERVATIONS",
+    "href": "https://www.alhambrapalacechicago.com/reservation-840038"
+   },
+   {
+    "text": "BOOK A RESERVATIONYELP",
+    "href": "https://yelp.to/Z_ZQBg7Sce"
+   },
+   {
+    "text": "BOOK A RESERVATIONOPENTABLE",
+    "href": "https://www.opentable.com/alhambra-palace-restaurant"
+   },
+   {
+    "text": "BOOK A RESERVATIONRESY",
+    "href": "https://resy.com/cities/chicago-il/venues/alhambra-palace-chicago"
+   },
+   {
+    "text": "BOOK A RESERVATIONSEVENROOMS",
+    "href": "https://www.sevenrooms.com/reservations/alhambrapalacerestaurant"
+   },
+   {
+    "text": "View Menu",
+    "href": "https://alhambrapalacechicago.com/foodanddrink"
+   },
+   {
+    "text": "Click here to reserve your table",
+    "href": "https://alhambrapalacechicago.com/reservation"
+   },
+   {
+    "text": "BOOK A PRIVATE EVENT",
+    "href": "https://www.alhambrapalacechicago.com/privatedining-753446"
+   }
+  ],
+  "allLinks": [
+   "https://alhambrapalacechicago.com/",
+   "https://www.alhambrapalacechicago.com/hoursandlocation",
+   "https://www.alhambrapalacechicago.com/foodanddrink-363055",
+   "https://www.alhambrapalacechicago.com/happenings-389426",
+   "https://www.alhambrapalacechicago.com/privatedining-753446",
+   "https://www.alhambrapalacechicago.com/catering-498028",
+   "https://www.alhambrapalacechicago.com/gallery",
+   "https://order.toasttab.com/egiftcards/alhambra-palace-chicago-1240-w-randolph-st",
+   "https://www.alhambrapalacechicago.com/reservation-840038",
+   "https://yelp.to/Z_ZQBg7Sce",
+   "https://www.opentable.com/alhambra-palace-restaurant",
+   "https://resy.com/cities/chicago-il/venues/alhambra-palace-chicago",
+   "https://www.sevenrooms.com/reservations/alhambrapalacerestaurant",
+   "https://alhambrapalacechicago.com/hoursandlocation",
+   "https://alhambrapalacechicago.com/foodanddrink",
+   "https://alhambrapalacechicago.com/happenings",
+   "https://alhambrapalacechicago.com/reservation",
+   "https://alhambrapalacechicago.com/privatedining",
+   "https://www.facebook.com/AlhambraChicago",
+   "https://www.instagram.com/alhambrachicago"
+  ],
+  "weight": 42069,
+  "title": "",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1829,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": null
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div.bgCover covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "4 of 17 tap targets under 24px: div.py-2 19x37, a 61x15, a 56x15, a 88x15"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: p 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 2556px tall"
+   ]
+  ],
+  "site": "https://www.alhambrapalacechicago.com/"
+ },
+ {
+  "url": "https://nick-sams.com/",
+  "device": "iphone",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.5,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 10261,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=405"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 115,
+  "small": 13,
+  "smallList": [
+   "button 15x15",
+   "button 15x15",
+   "button 15x15",
+   "button 15x15",
+   "a 22x22"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#navbar.navbar",
+  "textLen": 6420,
+  "fields": [
+   {
+    "el": "input#sph-newsletter-input-1a092b7adbe5d3cf0aba29c824d6089b.sph-email-input",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "e.g. email@example.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Food Menu",
+    "href": "https://nick-sams.com/food-menu"
+   },
+   {
+    "text": "Reserve",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse#"
+   },
+   {
+    "text": "buy gift card",
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave"
+   },
+   {
+    "text": "check balance",
+    "href": "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard"
+   },
+   {
+    "text": "Food Menu",
+    "href": "https://nick-sams.com/food-menu"
+   },
+   {
+    "text": "Reserve",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse#"
+   },
+   {
+    "text": "buy gift card",
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave"
+   },
+   {
+    "text": "check balance",
+    "href": "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard"
+   },
+   {
+    "text": "Cocktail menu",
+    "href": "https://nick-sams.com/drink-menu?menu_id=1560225"
+   },
+   {
+    "text": "Menu",
+    "href": "https://nick-sams.com/food-menu"
+   },
+   {
+    "text": "Reserve, you are leaving the website, op",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse"
+   },
+   {
+    "text": "Gift Cards, you are leaving the website,",
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave"
+   }
+  ],
+  "allLinks": [
+   "https://nick-sams.com/#content",
+   "https://nick-sams.com/#",
+   "https://nick-sams.com/",
+   "https://nick-sams.com/drink-menu",
+   "https://nick-sams.com/food-menu",
+   "https://nick-sams.com/our-cakes",
+   "https://nick-sams.com/sunday-supper",
+   "https://nick-sams.com/chefs-table-series",
+   "https://nick-sams.com/specials",
+   "https://www.opentable.com/nick-and-sams-steakhouse#",
+   "https://nick-sams.com/private-dining",
+   "https://nick-sams.com/events",
+   "https://tmt.spotapps.co/job-listings?spot_id=60750&callback_url=http://nick-sams.com/#",
+   "https://nick-sams.com/about",
+   "https://nick-sams.com/press",
+   "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave",
+   "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard",
+   "https://nick-sams.com/cater",
+   "https://www.google.com/search?q=Nick+%26+Sam%27s&oq=Nick+%26+Sam%27s&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGD0yBggHEEUYPdIBBzE1MWowajSoAgCwAgE&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x864e9933fd2ffe83:0x516b2ad22288be88,1,,,,",
+   "https://static.spotapps.co/spots/e8/b96238230d48bfb0e57d4fdab384c4/full",
+   "https://static.spotapps.co/spots/26/05d19e81e54eb4844e5a10ea8db982/full",
+   "https://static.spotapps.co/spots/ce/3fe62e8370495cbc0e0f63aee91538/full",
+   "https://static.spotapps.co/spots/6e/1c89ffacf445359f3656fc0cd44ffb/full",
+   "https://static.spotapps.co/spots/75/65112dcba240e1ae1193e3caf1149b/full",
+   "https://static.spotapps.co/spots/ed/530cadca15412cb60b3f04319b302d/full",
+   "https://static.spotapps.co/spots/95/0b2edb17da4a16b1acc161d7540b94/full",
+   "https://static.spotapps.co/spots/0f/4915c1e1ff4125bfb6fdcb702380d7/full",
+   "https://static.spotapps.co/spots/ed/55ddcfb0fa42a299ed1ad9042d7df3/full",
+   "https://static.spotapps.co/spots/c7/5058679e2a4c2eabd1653431f916bd/full",
+   "https://static.spotapps.co/spots/77/2f689b4947421387027ef0fe27ad9d/full",
+   "https://static.spotapps.co/spots/c3/bba7078c634934bc11626976c0fd75/full",
+   "https://static.spotapps.co/spots/10/77911a36ee42a19c356105bbe3aa4e/full",
+   "https://static.spotapps.co/spots/5b/3184cccdad446a94b24b19558b9fc0/full",
+   "https://static.spotapps.co/spots/89/06b6467cff4eb3a27cbe05152db2ee/full",
+   "https://static.spotapps.co/spots/e5/8610f65d1d47c1ae7cb121eda7df40/full",
+   "https://static.spotapps.co/spots/bf/3fba7cc79042d99ae4dd424f35c233/full",
+   "https://static.spotapps.co/spots/65/87b846773f4056b1cc58d13232bc51/full",
+   "https://static.spotapps.co/spots/4f/5f9915605d4406aa87c8b535287bd2/full",
+   "https://static.spotapps.co/spots/1c/300461aa9f41a69cfbe48671cf794f/full",
+   "https://static.spotapps.co/spots/fd/583b726d6441f094916f1152534ae1/full",
+   "https://static.spotapps.co/spots/09/48bf90e6f94749831ffdc73b884cbb/full",
+   "https://static.spotapps.co/spots/50/dd926fd85e493db454487a6dafad2f/full",
+   "https://static.spotapps.co/spots/b8/5c54e09a094aaeb0c419c066734f30/full",
+   "https://nick-sams.com/drink-menu?menu_id=1560225",
+   "http://leafletjs.com/",
+   "http://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps/dir/?api=1&destination=Nick%20%26%20Sam%27s&destination_place_id=ChIJg_4v_TOZToYRiL6IItIqa1E",
+   "https://www.spothopperapp.com/",
+   "https://www.spothopperapp.com/contact-us?contact_reason=demo",
+   "https://www.opentable.com/nick-and-sams-steakhouse",
+   "https://tmt.spotapps.co/job-listings?spot_id=60750&source=footer",
+   "https://nickandsams.tripleseat.com/dynamic_party_request/1578",
+   "https://nick-sams.com/catering",
+   "https://nick-sams.com/accessibility-page-01"
+  ],
+  "weight": 39850,
+  "title": "Nick & Sam's - Dallas, TX",
+  "roundtrip": {
+   "atBottom": {
+    "y": 9597,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-nick-sams-com.png",
+  "errors": [
+   "pageerror: /www.opentable.com'.",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: Not allowed to call enumerateDevices.",
+   "pageerror: /www.opentable.com'.",
+   "pageerror: /www.opentable.com'."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405"
+   ],
+   [
+    "FAIL",
+    "pageerror: /www.opentable.com'."
+   ],
+   [
+    "WARN",
+    "13 of 115 tap targets under 24px: button 15x15, button 15x15, button 15x15, button 15x15, a 22x22"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10261px tall"
+   ]
+  ],
+  "site": "https://nick-sams.com/",
+  "hop": "https://nick-sams.com/food-menu"
+ },
+ {
+  "url": "https://nick-sams.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 42.5,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 10267,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=408"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 10
+   },
+   {
+    "el": "nav#bottom-navbar.navbar-fixed-bottom",
+    "pos": "fixed",
+    "cover": 7
+   }
+  ],
+  "targets": 115,
+  "small": 13,
+  "smallList": [
+   "button 15x15",
+   "button 15x15",
+   "button 15x15",
+   "button 15x15",
+   "a 22x22"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#navbar.navbar",
+  "textLen": 6371,
+  "fields": [
+   {
+    "el": "input#sph-newsletter-input-a76e5b325fffb5d1741a4b92cdc293a6.sph-email-input",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "e.g. email@example.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Food Menu",
+    "href": "https://nick-sams.com/food-menu"
+   },
+   {
+    "text": "Reserve",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse#"
+   },
+   {
+    "text": "buy gift card",
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave"
+   },
+   {
+    "text": "check balance",
+    "href": "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard"
+   },
+   {
+    "text": "Food Menu",
+    "href": "https://nick-sams.com/food-menu"
+   },
+   {
+    "text": "Reserve",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse#"
+   },
+   {
+    "text": "buy gift card",
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave"
+   },
+   {
+    "text": "check balance",
+    "href": "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard"
+   },
+   {
+    "text": "Cocktail menu",
+    "href": "https://nick-sams.com/drink-menu?menu_id=1560225"
+   },
+   {
+    "text": "Menu",
+    "href": "https://nick-sams.com/food-menu"
+   },
+   {
+    "text": "Reserve, you are leaving the website, op",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse"
+   },
+   {
+    "text": "Gift Cards, you are leaving the website,",
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave"
+   }
+  ],
+  "allLinks": [
+   "https://nick-sams.com/#content",
+   "https://nick-sams.com/#",
+   "https://nick-sams.com/",
+   "https://nick-sams.com/drink-menu",
+   "https://nick-sams.com/food-menu",
+   "https://nick-sams.com/our-cakes",
+   "https://nick-sams.com/sunday-supper",
+   "https://nick-sams.com/chefs-table-series",
+   "https://nick-sams.com/specials",
+   "https://www.opentable.com/nick-and-sams-steakhouse#",
+   "https://nick-sams.com/private-dining",
+   "https://nick-sams.com/events",
+   "https://tmt.spotapps.co/job-listings?spot_id=60750&callback_url=http://nick-sams.com/#",
+   "https://nick-sams.com/about",
+   "https://nick-sams.com/press",
+   "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave",
+   "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard",
+   "https://nick-sams.com/cater",
+   "https://www.google.com/search?q=Nick+%26+Sam%27s&oq=Nick+%26+Sam%27s&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGD0yBggHEEUYPdIBBzE1MWowajSoAgCwAgE&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x864e9933fd2ffe83:0x516b2ad22288be88,1,,,,",
+   "https://static.spotapps.co/spots/e8/b96238230d48bfb0e57d4fdab384c4/full",
+   "https://static.spotapps.co/spots/26/05d19e81e54eb4844e5a10ea8db982/full",
+   "https://static.spotapps.co/spots/ce/3fe62e8370495cbc0e0f63aee91538/full",
+   "https://static.spotapps.co/spots/6e/1c89ffacf445359f3656fc0cd44ffb/full",
+   "https://static.spotapps.co/spots/75/65112dcba240e1ae1193e3caf1149b/full",
+   "https://static.spotapps.co/spots/ed/530cadca15412cb60b3f04319b302d/full",
+   "https://static.spotapps.co/spots/95/0b2edb17da4a16b1acc161d7540b94/full",
+   "https://static.spotapps.co/spots/0f/4915c1e1ff4125bfb6fdcb702380d7/full",
+   "https://static.spotapps.co/spots/ed/55ddcfb0fa42a299ed1ad9042d7df3/full",
+   "https://static.spotapps.co/spots/c7/5058679e2a4c2eabd1653431f916bd/full",
+   "https://static.spotapps.co/spots/77/2f689b4947421387027ef0fe27ad9d/full",
+   "https://static.spotapps.co/spots/c3/bba7078c634934bc11626976c0fd75/full",
+   "https://static.spotapps.co/spots/10/77911a36ee42a19c356105bbe3aa4e/full",
+   "https://static.spotapps.co/spots/5b/3184cccdad446a94b24b19558b9fc0/full",
+   "https://static.spotapps.co/spots/89/06b6467cff4eb3a27cbe05152db2ee/full",
+   "https://static.spotapps.co/spots/e5/8610f65d1d47c1ae7cb121eda7df40/full",
+   "https://static.spotapps.co/spots/bf/3fba7cc79042d99ae4dd424f35c233/full",
+   "https://static.spotapps.co/spots/65/87b846773f4056b1cc58d13232bc51/full",
+   "https://static.spotapps.co/spots/4f/5f9915605d4406aa87c8b535287bd2/full",
+   "https://static.spotapps.co/spots/1c/300461aa9f41a69cfbe48671cf794f/full",
+   "https://static.spotapps.co/spots/fd/583b726d6441f094916f1152534ae1/full",
+   "https://static.spotapps.co/spots/09/48bf90e6f94749831ffdc73b884cbb/full",
+   "https://static.spotapps.co/spots/50/dd926fd85e493db454487a6dafad2f/full",
+   "https://static.spotapps.co/spots/b8/5c54e09a094aaeb0c419c066734f30/full",
+   "https://nick-sams.com/drink-menu?menu_id=1560225",
+   "http://leafletjs.com/",
+   "http://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps/dir/?api=1&destination=Nick%20%26%20Sam%27s&destination_place_id=ChIJg_4v_TOZToYRiL6IItIqa1E",
+   "https://www.spothopperapp.com/",
+   "https://www.spothopperapp.com/contact-us?contact_reason=demo",
+   "https://www.opentable.com/nick-and-sams-steakhouse",
+   "https://tmt.spotapps.co/job-listings?spot_id=60750&source=footer",
+   "https://nickandsams.tripleseat.com/dynamic_party_request/1578",
+   "https://nick-sams.com/catering",
+   "https://nick-sams.com/accessibility-page-01"
+  ],
+  "weight": 39831,
+  "title": "Nick & Sam's - Dallas, TX",
+  "roundtrip": {
+   "atBottom": {
+    "y": 9540,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408"
+   ],
+   [
+    "WARN",
+    "13 of 115 tap targets under 24px: button 15x15, button 15x15, button 15x15, button 15x15, a 22x22"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10267px tall"
+   ]
+  ],
+  "site": "https://nick-sams.com/"
+ },
+ {
+  "url": "https://nick-sams.com/food-menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 18983,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=405"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 16,
+  "small": 2,
+  "smallList": [
+   "a#contact_us_v4_section_phone_link 101x18",
+   "a 146x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 8693,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Food Menu",
+    "href": "https://nick-sams.com/food-menu"
+   },
+   {
+    "text": "Reserve",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse#"
+   },
+   {
+    "text": "buy gift card",
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave"
+   },
+   {
+    "text": "check balance",
+    "href": "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard"
+   },
+   {
+    "text": "Food Menu",
+    "href": "https://nick-sams.com/food-menu"
+   },
+   {
+    "text": "Reserve",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse#"
+   },
+   {
+    "text": "buy gift card",
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave"
+   },
+   {
+    "text": "check balance",
+    "href": "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard"
+   },
+   {
+    "text": "Main Menu",
+    "href": "https://nick-sams.com/food-menu?menu_id=1560220"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://nick-sams.com/food-menu?menu_id=1560218"
+   },
+   {
+    "text": "Cake Order Form, you are leaving the web",
+    "href": "https://tally.so/r/NpLVOW"
+   },
+   {
+    "text": "Reserve, you are leaving the website, op",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse"
+   }
+  ],
+  "allLinks": [
+   "https://nick-sams.com/food-menu#content",
+   "https://nick-sams.com/#",
+   "https://nick-sams.com/",
+   "https://nick-sams.com/drink-menu",
+   "https://nick-sams.com/food-menu#",
+   "https://nick-sams.com/food-menu",
+   "https://nick-sams.com/our-cakes",
+   "https://nick-sams.com/sunday-supper",
+   "https://nick-sams.com/chefs-table-series",
+   "https://nick-sams.com/specials",
+   "https://www.opentable.com/nick-and-sams-steakhouse#",
+   "https://nick-sams.com/private-dining",
+   "https://nick-sams.com/events",
+   "https://tmt.spotapps.co/job-listings?spot_id=60750&callback_url=http://nick-sams.com/food-menu#",
+   "https://nick-sams.com/about",
+   "https://nick-sams.com/press",
+   "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave",
+   "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard",
+   "https://nick-sams.com/cater",
+   "https://www.google.com/search?q=Nick+%26+Sam%27s&oq=Nick+%26+Sam%27s&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGD0yBggHEEUYPdIBBzE1MWowajSoAgCwAgE&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x864e9933fd2ffe83:0x516b2ad22288be88,1,,,,",
+   "https://nick-sams.com/food-menu?menu_id=1560220",
+   "https://nick-sams.com/food-menu?menu_id=1560218",
+   "https://tally.so/r/NpLVOW",
+   "https://www.google.com/maps/dir/?api=1&destination=Nick%20%26%20Sam%27s&destination_place_id=ChIJg_4v_TOZToYRiL6IItIqa1E",
+   "https://www.opentable.com/nick-and-sams-steakhouse",
+   "https://tmt.spotapps.co/job-listings?spot_id=60750&source=footer",
+   "https://nickandsams.tripleseat.com/dynamic_party_request/1578",
+   "https://nick-sams.com/catering"
+  ],
+  "weight": 29050,
+  "title": "Nick & Sam's - Food Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 18319,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-nick-sams-com-food-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405"
+   ],
+   [
+    "WARN",
+    "2 of 16 tap targets under 24px: a#contact_us_v4_section_phone_link 101x18, a 146x18"
+   ],
+   [
+    "INFO",
+    "document scrolls, 18983px tall"
+   ]
+  ],
+  "site": "https://nick-sams.com/"
+ },
+ {
+  "url": "https://nick-sams.com/food-menu",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 19007,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=408"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 16,
+  "small": 2,
+  "smallList": [
+   "a#contact_us_v4_section_phone_link 100x18",
+   "a 146x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 8849,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Food Menu",
+    "href": "https://nick-sams.com/food-menu"
+   },
+   {
+    "text": "Reserve",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse#"
+   },
+   {
+    "text": "buy gift card",
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave"
+   },
+   {
+    "text": "check balance",
+    "href": "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard"
+   },
+   {
+    "text": "Food Menu",
+    "href": "https://nick-sams.com/food-menu"
+   },
+   {
+    "text": "Reserve",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse#"
+   },
+   {
+    "text": "buy gift card",
+    "href": "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave"
+   },
+   {
+    "text": "check balance",
+    "href": "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard"
+   },
+   {
+    "text": "Main Menu",
+    "href": "https://nick-sams.com/food-menu?menu_id=1560220"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://nick-sams.com/food-menu?menu_id=1560218"
+   },
+   {
+    "text": "Cake Order Form, you are leaving the web",
+    "href": "https://tally.so/r/NpLVOW"
+   },
+   {
+    "text": "Reserve, you are leaving the website, op",
+    "href": "https://www.opentable.com/nick-and-sams-steakhouse"
+   }
+  ],
+  "allLinks": [
+   "https://nick-sams.com/food-menu#content",
+   "https://nick-sams.com/#",
+   "https://nick-sams.com/",
+   "https://nick-sams.com/drink-menu",
+   "https://nick-sams.com/food-menu#",
+   "https://nick-sams.com/food-menu",
+   "https://nick-sams.com/our-cakes",
+   "https://nick-sams.com/sunday-supper",
+   "https://nick-sams.com/chefs-table-series",
+   "https://nick-sams.com/specials",
+   "https://www.opentable.com/nick-and-sams-steakhouse#",
+   "https://nick-sams.com/private-dining",
+   "https://nick-sams.com/events",
+   "https://tmt.spotapps.co/job-listings?spot_id=60750&callback_url=http://nick-sams.com/food-menu#",
+   "https://nick-sams.com/about",
+   "https://nick-sams.com/press",
+   "https://order.toasttab.com/egiftcards/nick-sams-3008-maple-ave",
+   "https://www.toasttab.com/nick-sams-3008-maple-ave/findcard",
+   "https://nick-sams.com/cater",
+   "https://www.google.com/search?q=Nick+%26+Sam%27s&oq=Nick+%26+Sam%27s&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIGCAUQRRg8MgYIBhBFGD0yBggHEEUYPdIBBzE1MWowajSoAgCwAgE&sourceid=chrome&source=chrome.ob&ie=UTF-8#lrd=0x864e9933fd2ffe83:0x516b2ad22288be88,1,,,,",
+   "https://nick-sams.com/food-menu?menu_id=1560220",
+   "https://nick-sams.com/food-menu?menu_id=1560218",
+   "https://tally.so/r/NpLVOW",
+   "https://www.google.com/maps/dir/?api=1&destination=Nick%20%26%20Sam%27s&destination_place_id=ChIJg_4v_TOZToYRiL6IItIqa1E",
+   "https://www.opentable.com/nick-and-sams-steakhouse",
+   "https://tmt.spotapps.co/job-listings?spot_id=60750&source=footer",
+   "https://nickandsams.tripleseat.com/dynamic_party_request/1578",
+   "https://nick-sams.com/catering"
+  ],
+  "weight": 29031,
+  "title": "Nick & Sam's - Food Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 18280,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408"
+   ],
+   [
+    "WARN",
+    "2 of 16 tap targets under 24px: a#contact_us_v4_section_phone_link 100x18, a 146x18"
+   ],
+   [
+    "INFO",
+    "document scrolls, 19007px tall"
+   ]
+  ],
+  "site": "https://nick-sams.com/"
+ },
+ {
+  "url": "https://www.themarketplaceatsteamtown.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.3,
+  "meta": "width=320, user-scalable=yes",
+  "vw": 320,
+  "vh": 544,
+  "docH": 4106,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#pageBackground_ngxoi.pageBackground_ngxoi",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#QUICK_ACTION_BAR.QUICK_ACTION_BAR",
+    "pos": "fixed",
+    "cover": 8
+   }
+  ],
+  "targets": 44,
+  "small": 9,
+  "smallList": [
+   "a.wixui-rich-text__text 78x19",
+   "a.wixui-rich-text__text 76x17",
+   "a.wixui-rich-text__text 43x19",
+   "a.wixui-rich-text__text 108x11",
+   "a.wixui-rich-text__text 131x20"
+  ],
+  "tiny": 26,
+  "tinyList": [
+   "span.wixui-rich-text__text 10px",
+   "span.wixui-rich-text__text 9px",
+   "span.wixui-rich-text__text 9px",
+   "p.font_8 9px"
+  ],
+  "headTop": 0,
+  "headTag": "header#SITE_HEADER.HQtdHX",
+  "textLen": 2592,
+  "fields": [
+   {
+    "el": "input#input_comp-kcxmt8e31.nbaJII",
+    "type": "text",
+    "name": "name",
+    "kind": "name",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Name"
+   },
+   {
+    "el": "input#input_comp-kcxmt8ec1.nbaJII",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Email"
+   },
+   {
+    "el": "textarea#textarea_comp-kcxmt8eg.XXgBXC",
+    "type": "textarea",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Add a message"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [
+   {
+    "el": "input#input_comp-kcxmt8e31.nbaJII",
+    "type": "text",
+    "name": "name",
+    "kind": "name",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Name"
+   },
+   {
+    "el": "input#input_comp-kcxmt8ec1.nbaJII",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "brokenImgs": [],
+  "moneyLinks": [],
+  "allLinks": [
+   "https://www.themarketplaceatsteamtown.com/",
+   "https://www.themarketplaceatsteamtown.com/parking",
+   "https://www.themarketplaceatsteamtown.com/directory",
+   "https://www.themarketplaceatsteamtown.com/leasing-information",
+   "https://www.themarketplaceatsteamtown.com/retail",
+   "https://www.themarketplaceatsteamtown.com/food-drink",
+   "https://www.themarketplaceatsteamtown.com/entertainment",
+   "https://www.themarketplaceatsteamtown.com/healthcare",
+   "https://www.themarketplaceatsteamtown.com/wellness-beauty",
+   "https://www.themarketplaceatsteamtown.com/art-education",
+   "https://www.themarketplaceatsteamtown.com/services",
+   "https://www.themarketplaceatsteamtown.com/events",
+   "https://www.themarketplaceatsteamtown.com/spm",
+   "https://www.themarketplaceatsteamtown.com/contact",
+   "https://www.themarketplaceatsteamtown.com/employment",
+   "https://www.themarketplaceatsteamtown.com/general-9",
+   "https://jzielen.wixsite.com/shopsmall",
+   "https://www.facebook.com/ScrantonPublicMarket",
+   "https://www.facebook.com/TheMarketplaceAtSteamtown",
+   "https://www.instagram.com/marketplaceatsteamtown/",
+   "https://twitter.com/search?q=%40MPatSteamtown%20&src=typd&lang=en",
+   "https://www.themarketplaceatsteamtown.com/post/identogo-slhda-information",
+   "https://www.thebasalygagroup.com/privacypolicy",
+   "https://www.thebasalygagroup.com/termsofservice"
+  ],
+  "weight": 138509,
+  "title": "Mixed-use Facility | The Marketplace at Steamtown | United States",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3561,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://jzielen.wixsite.com/shopsmall",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-themarketplaceatsteamtown-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "autofill disabled: name field 'Name' (input#input_comp-kcxmt8e31.nbaJII) has autocomplete=off"
+   ],
+   [
+    "WARN",
+    "autofill disabled: email field 'Email' (input#input_comp-kcxmt8ec1.nbaJII) has autocomplete=off"
+   ],
+   [
+    "FAIL",
+    "dead link: https://jzielen.wixsite.com/shopsmall answers 404"
+   ],
+   [
+    "WARN",
+    "viewport meta: width=320, user-scalable=yes"
+   ],
+   [
+    "WARN",
+    "fixed layer div#pageBackground_ngxoi.pageBackground_ngxoi covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "9 of 44 tap targets under 24px: a.wixui-rich-text__text 78x19, a.wixui-rich-text__text 76x17, a.wixui-rich-text__text 43x19, a.wixui-rich-text__text 108x11, a.wixui-rich-text__text 131x20"
+   ],
+   [
+    "WARN",
+    "26 text elements under 12px: span.wixui-rich-text__text 10px, span.wixui-rich-text__text 9px, span.wixui-rich-text__text 9px, p.font_8 9px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4106px tall"
+   ]
+  ],
+  "site": "https://www.themarketplaceatsteamtown.com/"
+ },
+ {
+  "url": "https://www.themarketplaceatsteamtown.com/",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.0,
+  "meta": "width=320, user-scalable=yes",
+  "vw": 320,
+  "vh": 592,
+  "docH": 4089,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#pageBackground_ngxoi.pageBackground_ngxoi",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#QUICK_ACTION_BAR.QUICK_ACTION_BAR",
+    "pos": "fixed",
+    "cover": 8
+   }
+  ],
+  "targets": 44,
+  "small": 9,
+  "smallList": [
+   "a.wixui-rich-text__text 78x19",
+   "a.wixui-rich-text__text 76x17",
+   "a.wixui-rich-text__text 43x19",
+   "a.wixui-rich-text__text 102x10",
+   "a.wixui-rich-text__text 131x20"
+  ],
+  "tiny": 26,
+  "tinyList": [
+   "span.wixui-rich-text__text 10px",
+   "span.wixui-rich-text__text 9px",
+   "span.wixui-rich-text__text 9px",
+   "p.font_8 9px"
+  ],
+  "headTop": 0,
+  "headTag": "header#SITE_HEADER.HQtdHX",
+  "textLen": 2605,
+  "fields": [
+   {
+    "el": "input#input_comp-kcxmt8e31.nbaJII",
+    "type": "text",
+    "name": "name",
+    "kind": "name",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Name"
+   },
+   {
+    "el": "input#input_comp-kcxmt8ec1.nbaJII",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Email"
+   },
+   {
+    "el": "textarea#textarea_comp-kcxmt8eg.XXgBXC",
+    "type": "textarea",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Add a message"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [
+   {
+    "el": "input#input_comp-kcxmt8e31.nbaJII",
+    "type": "text",
+    "name": "name",
+    "kind": "name",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Name"
+   },
+   {
+    "el": "input#input_comp-kcxmt8ec1.nbaJII",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": "off",
+    "inputmode": null,
+    "hint": "Email"
+   }
+  ],
+  "brokenImgs": [],
+  "moneyLinks": [],
+  "allLinks": [
+   "https://www.themarketplaceatsteamtown.com/",
+   "https://www.themarketplaceatsteamtown.com/parking",
+   "https://www.themarketplaceatsteamtown.com/directory",
+   "https://www.themarketplaceatsteamtown.com/leasing-information",
+   "https://www.themarketplaceatsteamtown.com/retail",
+   "https://www.themarketplaceatsteamtown.com/food-drink",
+   "https://www.themarketplaceatsteamtown.com/entertainment",
+   "https://www.themarketplaceatsteamtown.com/healthcare",
+   "https://www.themarketplaceatsteamtown.com/wellness-beauty",
+   "https://www.themarketplaceatsteamtown.com/art-education",
+   "https://www.themarketplaceatsteamtown.com/services",
+   "https://www.themarketplaceatsteamtown.com/events",
+   "https://www.themarketplaceatsteamtown.com/spm",
+   "https://www.themarketplaceatsteamtown.com/contact",
+   "https://www.themarketplaceatsteamtown.com/employment",
+   "https://www.themarketplaceatsteamtown.com/general-9",
+   "https://jzielen.wixsite.com/shopsmall",
+   "https://www.facebook.com/ScrantonPublicMarket",
+   "https://www.facebook.com/TheMarketplaceAtSteamtown",
+   "https://www.instagram.com/marketplaceatsteamtown/",
+   "https://twitter.com/search?q=%40MPatSteamtown%20&src=typd&lang=en",
+   "https://www.themarketplaceatsteamtown.com/post/identogo-slhda-information",
+   "https://www.thebasalygagroup.com/privacypolicy",
+   "https://www.thebasalygagroup.com/termsofservice"
+  ],
+  "weight": 300,
+  "title": "Mixed-use Facility | The Marketplace at Steamtown | United States",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3497,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "autofill disabled: name field 'Name' (input#input_comp-kcxmt8e31.nbaJII) has autocomplete=off"
+   ],
+   [
+    "WARN",
+    "autofill disabled: email field 'Email' (input#input_comp-kcxmt8ec1.nbaJII) has autocomplete=off"
+   ],
+   [
+    "WARN",
+    "viewport meta: width=320, user-scalable=yes"
+   ],
+   [
+    "WARN",
+    "fixed layer div#pageBackground_ngxoi.pageBackground_ngxoi covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "9 of 44 tap targets under 24px: a.wixui-rich-text__text 78x19, a.wixui-rich-text__text 76x17, a.wixui-rich-text__text 43x19, a.wixui-rich-text__text 102x10, a.wixui-rich-text__text 131x20"
+   ],
+   [
+    "WARN",
+    "26 text elements under 12px: span.wixui-rich-text__text 10px, span.wixui-rich-text__text 9px, span.wixui-rich-text__text 9px, p.font_8 9px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4089px tall"
+   ]
+  ],
+  "site": "https://www.themarketplaceatsteamtown.com/"
+ },
+ {
+  "url": "https://continentalmidtown.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.3,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 6897,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.onetrust-pc-dark-filter",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#onetrust-banner-sdk.otFloatingRounded",
+    "pos": "fixed",
+    "cover": 35
+   }
+  ],
+  "targets": 32,
+  "small": 2,
+  "smallList": [
+   "button.desktop-menu-toggle 20x20",
+   "a.ot-cookie-policy-link 75x17"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "button.event-enquiry-btn 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header.real_header",
+  "textLen": 2947,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Book A Table",
+    "href": "https://www.opentable.com/single.aspx?rid=114355"
+   },
+   {
+    "text": "Menu",
+    "href": "https://continentalmidtown.com/#menu-section"
+   },
+   {
+    "text": "Book a Table",
+    "href": "https://www.opentable.com/single.aspx?rid=114355"
+   },
+   {
+    "text": "Delivery",
+    "href": "https://order.online/business/continental-mid-town-116133?hideModal=true"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://starr-restaurants.com/shop-landing/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://starr-restaurants.com/shop-landing"
+   }
+  ],
+  "allLinks": [
+   "https://continentalmidtown.com/",
+   "https://www.opentable.com/single.aspx?rid=114355",
+   "https://continentalmidtown.com/#about-section",
+   "https://continentalmidtown.com/#cuisine-section",
+   "https://continentalmidtown.com/#menu-section",
+   "https://continentalmidtown.com/#group-dining",
+   "https://order.online/business/continental-mid-town-116133?hideModal=true",
+   "https://starr-restaurants.com/shop-landing/",
+   "https://continentalmidtown.com/wp-content/uploads/2026/09/MIDTOWN-beverage-092126.pdf",
+   "https://www.tripleseat.com/",
+   "https://www.google.com/maps/place/The+Continental+Mid-town/@39.9518671,-75.1726493,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6c630e8664577:0xa68250a1d1103460!8m2!3d39.951863!4d-75.1704606",
+   "https://www.facebook.com/continentalmidtownphilly",
+   "https://www.instagram.com/continental_midtown",
+   "https://open.spotify.com/user/starrrestaurants",
+   "https://www.linkedin.com/company/starr-restaurants/",
+   "https://starr-restaurants.com/careers/",
+   "https://starr-restaurants.com/shop-landing",
+   "https://forms.donationx.org/form/680f8b1c-caa9-4655-b74f-42a311e5c0ff",
+   "https://app.e2ma.net/app2/audience/signup/2008073/1809084",
+   "https://continentalmidtown.com/terms-of-use/",
+   "https://continentalmidtown.com/privacy-policy/",
+   "https://continentalmidtown.com/accessibility/",
+   "https://continentalmidtown.com/page-sitemap.xml",
+   "https://starr-restaurants.com/privacy-policy/",
+   "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "weight": 23785,
+  "title": "The Continental Midtown - Bold Flavors, Eclectic Dishes",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6233,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.online/business/continental-mid-town-116133?hideModal=true",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-continentalmidtown-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "2 of 32 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 75x17"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: button.event-enquiry-btn 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 6897px tall"
+   ]
+  ],
+  "site": "https://continentalmidtown.com/"
+ },
+ {
+  "url": "https://continentalmidtown.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.2,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 6983,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.onetrust-pc-dark-filter",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#onetrust-banner-sdk.otFloatingRounded",
+    "pos": "fixed",
+    "cover": 34
+   }
+  ],
+  "targets": 32,
+  "small": 2,
+  "smallList": [
+   "button.desktop-menu-toggle 20x20",
+   "a.ot-cookie-policy-link 70x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.real_header",
+  "textLen": 2970,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Book A Table",
+    "href": "https://www.opentable.com/single.aspx?rid=114355"
+   },
+   {
+    "text": "Menu",
+    "href": "https://continentalmidtown.com/#menu-section"
+   },
+   {
+    "text": "Book a Table",
+    "href": "https://www.opentable.com/single.aspx?rid=114355"
+   },
+   {
+    "text": "Delivery",
+    "href": "https://order.online/business/continental-mid-town-116133?hideModal=true"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://starr-restaurants.com/shop-landing/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://starr-restaurants.com/shop-landing"
+   }
+  ],
+  "allLinks": [
+   "https://continentalmidtown.com/",
+   "https://www.opentable.com/single.aspx?rid=114355",
+   "https://continentalmidtown.com/#about-section",
+   "https://continentalmidtown.com/#cuisine-section",
+   "https://continentalmidtown.com/#menu-section",
+   "https://continentalmidtown.com/#group-dining",
+   "https://order.online/business/continental-mid-town-116133?hideModal=true",
+   "https://starr-restaurants.com/shop-landing/",
+   "https://continentalmidtown.com/wp-content/uploads/2026/09/MIDTOWN-beverage-092126.pdf",
+   "https://www.tripleseat.com/",
+   "https://www.google.com/maps/place/The+Continental+Mid-town/@39.9518671,-75.1726493,17z/data=!3m1!4b1!4m5!3m4!1s0x89c6c630e8664577:0xa68250a1d1103460!8m2!3d39.951863!4d-75.1704606",
+   "https://www.facebook.com/continentalmidtownphilly",
+   "https://www.instagram.com/continental_midtown",
+   "https://open.spotify.com/user/starrrestaurants",
+   "https://www.linkedin.com/company/starr-restaurants/",
+   "https://starr-restaurants.com/careers/",
+   "https://starr-restaurants.com/shop-landing",
+   "https://forms.donationx.org/form/680f8b1c-caa9-4655-b74f-42a311e5c0ff",
+   "https://app.e2ma.net/app2/audience/signup/2008073/1809084",
+   "https://continentalmidtown.com/terms-of-use/",
+   "https://continentalmidtown.com/privacy-policy/",
+   "https://continentalmidtown.com/accessibility/",
+   "https://continentalmidtown.com/page-sitemap.xml",
+   "https://starr-restaurants.com/privacy-policy/",
+   "https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner"
+  ],
+  "weight": 23313,
+  "title": "The Continental Midtown - Bold Flavors, Eclectic Dishes",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6256,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "2 of 32 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 70x18"
+   ],
+   [
+    "INFO",
+    "document scrolls, 6983px tall"
+   ]
+  ],
+  "site": "https://continentalmidtown.com/"
+ },
+ {
+  "url": "https://belltowersalonspa.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.1,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 664,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": true,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.wsmobileheader",
+    "pos": "fixed",
+    "cover": 12
+   },
+   {
+    "el": "div.header-wrapper",
+    "pos": "fixed",
+    "cover": 6
+   }
+  ],
+  "targets": 48,
+  "small": 28,
+  "smallList": [
+   "a 167x21",
+   "a.image-link 52x21",
+   "a.image-link 52x21",
+   "a.image-link 52x21",
+   "a.image-link 52x21"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.tra-menu",
+  "textLen": 11824,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Card",
+    "href": "https://na0.meevo.com/EgiftApp/home?tenantId=100855"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://na0.meevo.com/CustomerPortal/onlinebooking/login?tenantId=100855"
+   },
+   {
+    "text": "Shop Rhelm",
+    "href": "https://rhelm.com/"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://na0.meevo.com/CustomerPortal/onlinebooking/login?tenantId=100855"
+   },
+   {
+    "text": "Shop 24/7 on Rhelm.com",
+    "href": "https://rhelm.com/"
+   },
+   {
+    "text": "Book an Appointment",
+    "href": "https://na0.meevo.com/CustomerPortal/onlinebooking/login?tenantId=100855"
+   },
+   {
+    "text": "Shop Rhelm",
+    "href": "https://rhelm.com/"
+   }
+  ],
+  "allLinks": [
+   "https://belltowersalonspa.com/",
+   "https://belltowersalonspa.com/#",
+   "https://belltowersalonspa.com/spa-services/massages",
+   "https://belltowersalonspa.com/spa-services/nails",
+   "https://belltowersalonspa.com/spa-services/skincare",
+   "https://belltowersalonspa.com/spa-services/medical-aesthetics",
+   "https://belltowersalonspa.com/salon-services",
+   "https://belltowersalonspa.com/teams",
+   "https://na0.meevo.com/EgiftApp/home?tenantId=100855",
+   "https://na0.meevo.com/CustomerPortal/onlinebooking/login?tenantId=100855",
+   "https://rhelm.com/",
+   "https://belltowersalonspa.com/contact-us",
+   "https://belltowersalonspa.com/storage/1512/1756748323_Light-make-up-2-.webp",
+   "https://belltowersalonspa.com/storage/1744/1772530665_color-wall-2.webp",
+   "https://belltowersalonspa.com/storage/1750/1772530672_IMG_6546.webp",
+   "https://belltowersalonspa.com/storage/1754/1772530677_Oribe-Product.webp",
+   "https://belltowersalonspa.com/storage/1756/1772530678_Oribe-Products-2.webp",
+   "https://belltowersalonspa.com/storage/1759/1772530680_reflexology-foot-pic-needed-2.webp",
+   "https://belltowersalonspa.com/gallery",
+   "https://belltowersalonspa.com/belltower-policy",
+   "https://belltowersalonspa.com/posts/in-your-face-toxbooster-package",
+   "https://belltowersalonspa.com/posts/half-off-medical-aesthetics-limited-time",
+   "https://belltowersalonspa.com/posts/fall-into-bliss",
+   "https://belltowersalonspa.com/posts/why-fall-is-the-perfect-time-for-laser-treatments",
+   "https://belltowersalonspa.com/posts/tox-booster-why-pairing-tox-with-a-chemical-peel-can-give-your-skin-a-little-extra-boost",
+   "https://belltowersalonspa.com/posts/premier-memberships",
+   "https://belltowersalonspa.com/blog",
+   "https://www.instagram.com/intherhelm/?hl=en",
+   "https://www.instagram.com/belltowersalonspa/",
+   "https://www.facebook.com/belltowersalonspa/",
+   "https://outtabubblegum.com/",
+   "https://belltowersalonspa.com/#top"
+  ],
+  "weight": 25801,
+  "title": "Salon & Spa in Wyomissing, PA - Bell Tower Salon & Spa",
+  "roundtrip": {
+   "atBottom": {
+    "y": 0,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-belltowersalonspa-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "28 of 48 tap targets under 24px: a 167x21, a.image-link 52x21, a.image-link 52x21, a.image-link 52x21, a.image-link 52x21"
+   ],
+   [
+    "INFO",
+    "locked shell, scrollers: "
+   ]
+  ],
+  "site": "https://belltowersalonspa.com/"
+ },
+ {
+  "url": "https://belltowersalonspa.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 727,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": true,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.wsmobileheader",
+    "pos": "fixed",
+    "cover": 11
+   },
+   {
+    "el": "div.header-wrapper",
+    "pos": "fixed",
+    "cover": 6
+   }
+  ],
+  "targets": 48,
+  "small": 28,
+  "smallList": [
+   "a 167x21",
+   "a.image-link 52x21",
+   "a.image-link 52x21",
+   "a.image-link 52x21",
+   "a.image-link 52x21"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.tra-menu",
+  "textLen": 11861,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Card",
+    "href": "https://na0.meevo.com/EgiftApp/home?tenantId=100855"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://na0.meevo.com/CustomerPortal/onlinebooking/login?tenantId=100855"
+   },
+   {
+    "text": "Shop Rhelm",
+    "href": "https://rhelm.com/"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://na0.meevo.com/CustomerPortal/onlinebooking/login?tenantId=100855"
+   },
+   {
+    "text": "Shop 24/7 on Rhelm.com",
+    "href": "https://rhelm.com/"
+   },
+   {
+    "text": "Book an Appointment",
+    "href": "https://na0.meevo.com/CustomerPortal/onlinebooking/login?tenantId=100855"
+   },
+   {
+    "text": "Shop Rhelm",
+    "href": "https://rhelm.com/"
+   }
+  ],
+  "allLinks": [
+   "https://belltowersalonspa.com/",
+   "https://belltowersalonspa.com/#",
+   "https://belltowersalonspa.com/spa-services/massages",
+   "https://belltowersalonspa.com/spa-services/nails",
+   "https://belltowersalonspa.com/spa-services/skincare",
+   "https://belltowersalonspa.com/spa-services/medical-aesthetics",
+   "https://belltowersalonspa.com/salon-services",
+   "https://belltowersalonspa.com/teams",
+   "https://na0.meevo.com/EgiftApp/home?tenantId=100855",
+   "https://na0.meevo.com/CustomerPortal/onlinebooking/login?tenantId=100855",
+   "https://rhelm.com/",
+   "https://belltowersalonspa.com/contact-us",
+   "https://belltowersalonspa.com/storage/1512/1756748323_Light-make-up-2-.webp",
+   "https://belltowersalonspa.com/storage/1744/1772530665_color-wall-2.webp",
+   "https://belltowersalonspa.com/storage/1750/1772530672_IMG_6546.webp",
+   "https://belltowersalonspa.com/storage/1754/1772530677_Oribe-Product.webp",
+   "https://belltowersalonspa.com/storage/1756/1772530678_Oribe-Products-2.webp",
+   "https://belltowersalonspa.com/storage/1759/1772530680_reflexology-foot-pic-needed-2.webp",
+   "https://belltowersalonspa.com/gallery",
+   "https://belltowersalonspa.com/belltower-policy",
+   "https://belltowersalonspa.com/posts/in-your-face-toxbooster-package",
+   "https://belltowersalonspa.com/posts/half-off-medical-aesthetics-limited-time",
+   "https://belltowersalonspa.com/posts/fall-into-bliss",
+   "https://belltowersalonspa.com/posts/why-fall-is-the-perfect-time-for-laser-treatments",
+   "https://belltowersalonspa.com/posts/tox-booster-why-pairing-tox-with-a-chemical-peel-can-give-your-skin-a-little-extra-boost",
+   "https://belltowersalonspa.com/posts/premier-memberships",
+   "https://belltowersalonspa.com/blog",
+   "https://www.instagram.com/intherhelm/?hl=en",
+   "https://www.instagram.com/belltowersalonspa/",
+   "https://www.facebook.com/belltowersalonspa/",
+   "https://outtabubblegum.com/",
+   "https://belltowersalonspa.com/#top"
+  ],
+  "weight": 25783,
+  "title": "Salon & Spa in Wyomissing, PA - Bell Tower Salon & Spa",
+  "roundtrip": {
+   "atBottom": {
+    "y": 0,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "28 of 48 tap targets under 24px: a 167x21, a.image-link 52x21, a.image-link 52x21, a.image-link 52x21, a.image-link 52x21"
+   ],
+   [
+    "INFO",
+    "locked shell, scrollers: "
+   ]
+  ],
+  "site": "https://belltowersalonspa.com/"
+ }
+]

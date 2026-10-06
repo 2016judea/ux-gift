@@ -1,0 +1,231 @@
+WARN iphone  https://www.rosariossa.com/
+WARN android https://www.rosariossa.com/
+WARN iphone  https://www.rosariossa.com/menu/
+WARN android https://www.rosariossa.com/menu/
+WARN iphone  https://elliottsoysterhouse.com/
+WARN android https://elliottsoysterhouse.com/
+WARN iphone  https://elliottsoysterhouse.com/reservations/
+WARN android https://elliottsoysterhouse.com/reservations/
+FAIL iphone  https://www.christkindlmarket.com/
+FAIL android https://www.christkindlmarket.com/
+FAIL iphone  https://www.christkindlmarket.com/gift-boxes-2024/
+FAIL android https://www.christkindlmarket.com/gift-boxes-2024/
+WARN iphone  https://www.franciscanrestaurant.com/
+WARN android https://www.franciscanrestaurant.com/
+FAIL iphone  https://www.franciscanrestaurant.com/makeareservation.html
+WARN android https://www.franciscanrestaurant.com/makeareservation.html
+FAIL iphone  https://savinasmexicankitchen.com/
+FAIL android https://savinasmexicankitchen.com/
+FAIL iphone  https://savinasmexicankitchen.com/?page_id=869
+FAIL android https://savinasmexicankitchen.com/?page_id=869
+FAIL iphone  https://www.greentop.com/
+WARN android https://www.greentop.com/
+FAIL iphone  https://www.greentop.com/shipping-info/
+WARN android https://www.greentop.com/shipping-info/
+FAIL iphone  https://www.thebagelcafelv.com/
+WARN android https://www.thebagelcafelv.com/
+FAIL iphone  https://www.thebagelcafelv.com/placeorder
+WARN android https://www.thebagelcafelv.com/placeorder
+WARN iphone  https://lachoperiajuarez.com/
+WARN android https://lachoperiajuarez.com/
+WARN iphone  https://lachoperiajuarez.com/reservacion/
+WARN android https://lachoperiajuarez.com/reservacion/
+WARN iphone  https://www.portagebaycafe.com/
+WARN android https://www.portagebaycafe.com/
+WARN iphone  https://nyhaircompany.com/
+WARN android https://nyhaircompany.com/
+WARN iphone  https://nyhaircompany.com/prices/
+WARN android https://nyhaircompany.com/prices/
+
+== findings (FAIL and WARN) ==
+
+https://www.rosariossa.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  18 of 40 tap targets under 24px: a 308x20, a.page-1 7x21, a.page-2 9x21, a.page-3 9x21, a.page-4 9x21
+
+https://www.rosariossa.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  18 of 40 tap targets under 24px: a 310x20, a.page-1 7x21, a.page-2 9x21, a.page-3 9x21, a.page-4 9x21
+
+https://www.rosariossa.com/menu/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  12 of 18 tap targets under 24px: a 46x23, a 50x23, a 96x23, a 96x23, a 92x23
+
+https://www.rosariossa.com/menu/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  12 of 18 tap targets under 24px: a 46x23, a 50x23, a 96x23, a 96x23, a 92x23
+
+https://elliottsoysterhouse.com/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  25 of 39 tap targets under 24px: button.dot 14x14, button.dot 14x14, button.dot 14x14, button.dot 14x14, button.dot 14x14
+  WARN  1 text elements under 12px: span.visually-hidden 11px
+
+https://elliottsoysterhouse.com/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  20 of 39 tap targets under 24px: button.dot 14x14, button.dot 14x14, button.dot 14x14, button.dot 14x14, button.dot 14x14
+
+https://elliottsoysterhouse.com/reservations/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  15 of 23 tap targets under 24px: a 89x16, a 97x18, a 89x18, a 167x18, a 116x18
+  WARN  1 text elements under 12px: span.visually-hidden 11px
+
+https://elliottsoysterhouse.com/reservations/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  10 of 23 tap targets under 24px: a 89x16, a 97x18, a 89x18, a 167x18, a 116x18
+
+https://www.christkindlmarket.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav.elementor-nav-menu--dropdown right=405, nav.elementor-nav-menu--dropdown right=405
+  FAIL  document locked (overflow hidden) with 3933px of content and no inner scroller
+  WARN  fixed layer div.cli-modal-backdrop covers 100% of the screen
+  WARN  19 of 49 tap targets under 24px: a 55x19, a 45x19, a 74x19, a 172x19, a 156x19
+  WARN  2 text elements under 12px: a 10px, a 10px
+
+https://www.christkindlmarket.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav.elementor-nav-menu--dropdown right=408, nav.elementor-nav-menu--dropdown right=408
+  FAIL  document locked (overflow hidden) with 4675px of content and no inner scroller
+  WARN  fixed layer div.cli-modal-backdrop covers 100% of the screen
+  WARN  19 of 49 tap targets under 24px: a 55x19, a 45x19, a 74x19, a 172x19, a 156x19
+  WARN  2 text elements under 12px: a 10px, a 10px
+
+https://www.christkindlmarket.com/gift-boxes-2024/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav.elementor-nav-menu--dropdown right=405, nav.elementor-nav-menu--dropdown right=405
+  FAIL  dead link: https://sandbox.square.online/app/website/editor-frame/home answers 404
+  FAIL  document locked (overflow hidden) with 5558px of content and no inner scroller
+  WARN  fixed layer div.cli-modal-backdrop covers 100% of the screen
+  WARN  10 of 37 tap targets under 24px: a.w-quill-link 43x22, a.w-quill-link 167x22, a 83x20, a 83x20, a 94x20
+  WARN  2 text elements under 12px: a 10px, a 10px
+
+https://www.christkindlmarket.com/gift-boxes-2024/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav.elementor-nav-menu--dropdown right=408, nav.elementor-nav-menu--dropdown right=408
+  FAIL  document locked (overflow hidden) with 6124px of content and no inner scroller
+  WARN  fixed layer div.cli-modal-backdrop covers 100% of the screen
+  WARN  10 of 39 tap targets under 24px: a.w-quill-link 43x22, a.w-quill-link 167x22, a 83x20, a 84x20, a 94x20
+  WARN  2 text elements under 12px: a 10px, a 10px
+
+https://www.franciscanrestaurant.com/  [iphone]
+  WARN  fixed layer div#signup covers 42% of the screen
+  WARN  2 of 12 tap targets under 24px: a 69x13, a 189x13
+  WARN  8 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://www.franciscanrestaurant.com/  [android]
+  WARN  2 of 11 tap targets under 24px: a 69x14, a 189x14
+  WARN  8 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://www.franciscanrestaurant.com/makeareservation.html  [iphone]
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  2 of 7 tap targets under 24px: a 69x13, a 189x13
+  WARN  4 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://www.franciscanrestaurant.com/makeareservation.html  [android]
+  WARN  2 of 7 tap targets under 24px: a 69x14, a 189x14
+  WARN  4 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://savinasmexicankitchen.com/  [iphone]
+  FAIL  page renders blank on a phone: 15 characters of visible text after load
+  FAIL  dead link: https://savinasmexicankitchen.com/?page_id=869 answers 404
+  FAIL  pageerror: Can't find variable: resyWidget
+
+https://savinasmexicankitchen.com/  [android]
+  FAIL  page renders blank on a phone: 15 characters of visible text after load
+  FAIL  pageerror: resyWidget is not defined
+  WARN  header at y=-273 after scrolling down and back up
+
+https://savinasmexicankitchen.com/?page_id=869  [iphone]
+  FAIL  HTTP 404
+  FAIL  dead link: https://savinasmexicankitchen.com/?page_id=869 answers 404
+  FAIL  pageerror: Can't find variable: resyWidget
+
+https://savinasmexicankitchen.com/?page_id=869  [android]
+  FAIL  HTTP 404
+  FAIL  pageerror: resyWidget is not defined
+
+https://www.greentop.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.modal-inner-wrap right=736, header.modal-header right=736, div#modal-title-5.modal-title right=726, button.action-close right=736, span right=703, div#modal-content-5.modal-content right=736
+  WARN  broken image: https://engine.gettopple.com/tag.php?goal=0731460a8a5ce1626210cbf4385ae0ef
+  WARN  broken image: https://bat.bing.com/action/0?ti=150000925&tm=gtm002&Ver=2&mid=59db13b6-bb6d-49fd-bfaf-8d4ff30e3be8&bo=1&sid=8da66130c1d211f18b98b9826067ddba&vid=8da66a10c1d211
+  FAIL  document locked (overflow hidden) with 10832px of content and no inner scroller
+  FAIL  pageerror: klevu.search.modules.kmcInputs.base.getKeywordUrlMap().forEach is not a function. (In 'klevu.search.modules.kmcInputs.base.getKeywordUrlMap(
+  WARN  fixed layer div.needsclick covers 100% of the screen
+  WARN  32 of 154 tap targets under 24px: a.gt-promo-link 293x18, a.crdv-button 199x17, a.crdv-button 223x17, a.crdv-button 221x17, a.crdv-button 227x17
+  WARN  6 text elements under 12px: span.RecSavings_label 8px, span 8px, span.RecSavings_label 8px, span 8px
+
+https://www.greentop.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.modal-inner-wrap right=742, header.modal-header right=742, div#modal-title-10.modal-title right=732, button.action-close right=742, span right=710, div#modal-content-10.modal-content right=742
+  WARN  broken image: https://engine.gettopple.com/tag.php?goal=0731460a8a5ce1626210cbf4385ae0ef
+  WARN  broken image: https://bat.bing.com/action/0?ti=150000925&tm=gtm002&Ver=2&mid=a21a9013-fea4-4ca4-baec-cf16fbf74bca&bo=1&sid=c4c0e1d0c1d211f195999307bb586806&vid=c4c11c00c1d211
+  WARN  32 of 150 tap targets under 24px: a.gt-promo-link 293x18, a.crdv-button 202x18, a.crdv-button 221x18, a.crdv-button 223x18, a.crdv-button 227x18
+  WARN  6 text elements under 12px: span.RecSavings_label 8px, span 8px, span.RecSavings_label 8px, span 8px
+
+https://www.greentop.com/shipping-info/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.modal-inner-wrap right=736, header.modal-header right=736, div#modal-title-10.modal-title right=726, button.action-close right=736, span right=703, div#modal-content-10.modal-content right=736
+  WARN  broken image: https://engine.gettopple.com/tag.php?goal=0731460a8a5ce1626210cbf4385ae0ef
+  WARN  broken image: https://bat.bing.com/action/0?ti=150000925&tm=gtm002&Ver=2&mid=56eab0a3-97b2-4584-9944-8992ae499a81&bo=1&sid=d9dac3d0c1d211f195eedd1efc19d1f4&vid=d9daef60c1d211
+  FAIL  document locked (overflow hidden) with 4696px of content and no inner scroller
+  WARN  fixed layer div.needsclick covers 100% of the screen
+  WARN  23 of 48 tap targets under 24px: a.gt-promo-link 293x18, a 98x21, a 100x18, a 101x18, a 207x18
+  WARN  2 text elements under 12px: p.gt-footer__social-label 11px, p.gt-footer__accepting-label 11px
+
+https://www.greentop.com/shipping-info/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.modal-inner-wrap right=742, header.modal-header right=742, div#modal-title-10.modal-title right=732, button.action-close right=742, span right=710, div#modal-content-10.modal-content right=742
+  WARN  broken image: https://engine.gettopple.com/tag.php?goal=0731460a8a5ce1626210cbf4385ae0ef
+  WARN  broken image: https://bat.bing.com/action/0?ti=150000925&tm=gtm002&Ver=2&mid=f15383f5-f017-49f8-9829-3b9c3835e7bf&bo=1&sid=e97fecf0c1d211f1a8533d10dd4a7bb0&vid=e97fe390c1d211
+  WARN  23 of 45 tap targets under 24px: a.gt-promo-link 293x18, a 98x21, a 100x19, a 101x19, a 207x19
+  WARN  2 text elements under 12px: p.gt-footer__social-label 11px, p.gt-footer__accepting-label 11px
+
+https://www.thebagelcafelv.com/  [iphone]
+  FAIL  dead link: https://squareup.com/gift/ML34JN98FDTAE/order?fbclid=IwAR3vtv5YyRd6On2hwvXQ5tl6EFM8lFblPZ-AIK4pSDQiaoQSMDyBOE5_qwc answers 404
+  WARN  viewport meta: width=320, user-scalable=yes
+  WARN  5 of 20 tap targets under 24px: a.v1smN8 6x6, a.v1smN8 6x6, a.v1smN8 6x6, button.nav-arrows-container 23x39, a.StylableButton2545352419__root 103x20
+
+https://www.thebagelcafelv.com/  [android]
+  WARN  viewport meta: width=320, user-scalable=yes
+  WARN  5 of 19 tap targets under 24px: a.v1smN8 6x6, a.v1smN8 6x6, a.v1smN8 6x6, button.nav-arrows-container 23x39, a.StylableButton2545352419__root 103x20
+
+https://www.thebagelcafelv.com/placeorder  [iphone]
+  FAIL  dead link: https://squareup.com/gift/ML34JN98FDTAE/order?fbclid=IwAR3vtv5YyRd6On2hwvXQ5tl6EFM8lFblPZ-AIK4pSDQiaoQSMDyBOE5_qwc answers 404
+  WARN  viewport meta: width=320, user-scalable=yes
+
+https://www.thebagelcafelv.com/placeorder  [android]
+  WARN  viewport meta: width=320, user-scalable=yes
+
+https://lachoperiajuarez.com/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+
+https://lachoperiajuarez.com/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+
+https://lachoperiajuarez.com/reservacion/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+
+https://lachoperiajuarez.com/reservacion/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+
+https://www.portagebaycafe.com/  [iphone]
+  WARN  18 of 35 tap targets under 24px: a 98x20, a 222x20, a 318x20, a 101x20, a 271x20
+
+https://www.portagebaycafe.com/  [android]
+  WARN  18 of 35 tap targets under 24px: a 98x20, a 222x20, a 318x20, a 101x20, a 271x20
+
+https://nyhaircompany.com/  [iphone]
+  WARN  9 of 31 tap targets under 24px: a 128x23, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6
+  WARN  1 text elements under 12px: h3.elementor-heading-title 10.944px
+
+https://nyhaircompany.com/  [android]
+  WARN  header at y=-302 after scrolling down and back up
+  WARN  9 of 31 tap targets under 24px: a 128x23, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6
+  WARN  1 text elements under 12px: h3.elementor-heading-title 10.944px
+
+https://nyhaircompany.com/prices/  [iphone]
+  WARN  2 of 81 tap targets under 24px: a 129x23, a 45x16
+
+https://nyhaircompany.com/prices/  [android]
+  WARN  header at y=-254 after scrolling down and back up
+  WARN  2 of 81 tap targets under 24px: a 129x23, a 44x16
+
+38 page-device rows, 21 FAIL findings

@@ -1,0 +1,5699 @@
+{
+ "https://www.hulahut.com/locations/austin/": {
+  "name": "Hula Hut",
+  "reviews": "7963",
+  "takes_money": "DoorDash storefront",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://www.hulahut.com/locations/austin/",
+    "dev": "iphone",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725",
+    "text": "Order Online With Favor",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overflow",
+    "where": "hop",
+    "url": "https://www.hulahut.com/menu/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 390px sideways): a right=417",
+    "panX": 390
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://www.hulahut.com/menu/",
+    "dev": "iphone",
+    "href": "https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725",
+    "text": "Order Online With Favor",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.shopthevalleymall.com/": {
+  "name": "Valley Mall",
+  "reviews": "6225",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.shopthevalleymall.com/directory",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.css-1gc0p4z-SearchBox-SearchBox at 15px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://thedandelionpub.com/": {
+  "name": "The Dandelion",
+  "reviews": "5433",
+  "takes_money": "DoorDash storefront; Resy reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://thedandelionpub.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://thedandelionpub.com/",
+    "dev": "android",
+    "msg": "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   }
+  ]
+ },
+ "https://tacopalenque.com/": {
+  "name": "Taco Palenque San Bernardo",
+  "reviews": "4861",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://tacopalenque.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-consent-container covers 52% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://tacopalenque.com/",
+    "dev": "android",
+    "msg": "fixed layer div.cky-consent-container covers 48% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://tacopalenque.com/menu",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-consent-container covers 52% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://tacopalenque.com/menu",
+    "dev": "android",
+    "msg": "fixed layer div.cky-consent-container covers 48% of the screen"
+   }
+  ]
+ },
+ "https://thestinkingrose.com/": {
+  "name": "The Stinking Rose",
+  "reviews": "4582",
+  "takes_money": "DoorDash storefront; Resy reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://thestinkingrose.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.pace covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://thestinkingrose.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#signup covers 42% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://thestinkingrose.com/",
+    "dev": "android",
+    "msg": "fixed layer div.pace covers 100% of the screen"
+   }
+  ]
+ },
+ "https://perryssteakhouse.com/locations/tx/dallas/park-district/": {
+  "name": "Perry's Steakhouse & Grille",
+  "reviews": "4187",
+  "takes_money": "DoorDash storefront; Olo ordering; OpenTable reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://perryssteakhouse.com/locations/tx/dallas/park-district/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 20px sideways): div#mobile-nav.mobile-nav right=780, div.info right=410, div.inner right=410",
+    "panX": 20
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://perryssteakhouse.com/start-your-reservation?loc=park-district",
+    "dev": "android",
+    "msg": "broken image: https://insight.adsrvr.org/track/conv/?adv=24gkx5f&ct=0:9i1ham9&fmt=3"
+   }
+  ]
+ },
+ "https://nashville.zanies.com/": {
+  "name": "Zanies Comedy Night Club",
+  "reviews": "3945",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://nashville.zanies.com/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville.zanie"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://nashville.zanies.com/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville."
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://nashville.zanies.com/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/taboola/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville.z"
+   },
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf",
+    "dev": "iphone",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://nashville.zanies.com/wp-content"
+   },
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf",
+    "dev": "android",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://nashville.zanies.com/wp-content"
+   }
+  ]
+ },
+ "https://www.themarketat7thstreet.com/": {
+  "name": "The Market at 7th Street",
+  "reviews": "3728",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.themarketat7thstreet.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#input-3195910360.advanced-form-input at 11px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.themarketat7thstreet.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#input-1376865340.advanced-form-input at 11px (needs 16px on touch)"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.themarketat7thstreet.com/",
+    "dev": "iphone",
+    "href": "https://www.themarketat7thstreet.com/services/template-service-1",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.themarketat7thstreet.com/",
+    "dev": "iphone",
+    "href": "https://www.themarketat7thstreet.com/services/template-service-2",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.themarketat7thstreet.com/",
+    "dev": "iphone",
+    "href": "https://www.themarketat7thstreet.com/services/template-service-3",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.themarketat7thstreet.com/",
+    "dev": "iphone",
+    "href": "https://www.themarketat7thstreet.com/services/template-service-4",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.wemakeitvivid.com/": {
+  "name": "Vivid Salon",
+  "reviews": "695",
+  "takes_money": "salon booking; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.wemakeitvivid.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://www.wemakeitvivid.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.wemakeitvivid.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://www.wemakeitvivid.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.wemakeitvivid.com/",
+    "dev": "android",
+    "msg": "broken image: https://www.wemakeitvivid.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.wemakeitvivid.com/",
+    "dev": "android",
+    "msg": "broken image: https://www.wemakeitvivid.com/"
+   }
+  ]
+ },
+ "https://lediplomatedc.com/": {
+  "name": "Le Diplomate",
+  "reviews": "7955",
+  "takes_money": "DoorDash storefront; Resy reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://lediplomatedc.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://lediplomatedc.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#onetrust-banner-sdk.otFloatingRounded covers 42% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://lediplomatedc.com/",
+    "dev": "android",
+    "msg": "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   }
+  ]
+ },
+ "https://shapiros.com/": {
+  "name": "Shapiro's Delicatessen",
+  "reviews": "7056",
+  "takes_money": "Toast ordering; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://shapiros.com/",
+    "dev": "iphone",
+    "href": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-catering-page",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531344",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531347",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531346",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531348",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531354",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531353",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531350",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531359",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531352",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531357",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531358",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/1163448",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/531356",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/407077",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu",
+    "dev": "iphone",
+    "href": "https://shapiros.com/1160852",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://webergrillrestaurant.com/chicago/": {
+  "name": "Weber Grill",
+  "reviews": "6184",
+  "takes_money": "Toast ordering; DoorDash storefront; OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://webergrillrestaurant.com/chicago/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 140px sideways): li.et_pb_tab_6 right=450, a right=450, li.et_pb_tab_7 right=530, a right=530",
+    "panX": 140
+   },
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://webergrillrestaurant.com/chicago/",
+    "dev": "android",
+    "msg": "sideways overflow (page pans 138px sideways): li.et_pb_tab_6 right=452, a right=452, li.et_pb_tab_7 right=531, a right=531",
+    "panX": 138
+   }
+  ]
+ },
+ "https://punchbowlsocial.com/location/denver": {
+  "name": "Punch Bowl Social",
+  "reviews": "4582",
+  "takes_money": "OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://punchbowlsocial.com/location/denver",
+    "dev": "iphone",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=187186610&tm=gtm002&Ver=2&mid=459d8357-4261-4d30-8e3d-e9e6bca0fa46&bo=1&sid=d62d0100c1d211f1bf51ed2302ecaf75&vid=d62d0c40c1d211"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://punchbowlsocial.com/location/denver",
+    "dev": "iphone",
+    "msg": "fixed layer button.site-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://punchbowlsocial.com/location/denver",
+    "dev": "iphone",
+    "msg": "fixed layer div#newsletter-popup.newsletter-popup covers 81% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://punchbowlsocial.com/location/denver",
+    "dev": "iphone",
+    "href": "https://punchbowlsocial.com/location",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://punchbowlsocial.com/location/denver",
+    "dev": "iphone",
+    "href": "https://www.eventbrite.com/cc/after-dark-saturdays-punch-bowl-social-4358683?utm-campaign=social&utm-content=creatorshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=escb",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://punchbowlsocial.com/location/denver",
+    "dev": "android",
+    "msg": "broken image: https://bat.bing.net/action/0?ti=187186610&tm=gtm002&Ver=2&mid=1405ca4b-2086-4a13-a5f5-4980214f1f8c&bo=2&gtm_tag_source=1&pi=0&lg=en-US&sw=393&sh=727&sc=24&nwd="
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://punchbowlsocial.com/monday-funday",
+    "dev": "iphone",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=187186610&tm=gtm002&Ver=2&mid=2f768f4a-e26e-4d44-b7e9-3ef67d043fef&bo=1&sid=1586abe0c1d311f19166cf9a062259f0&vid=1586a020c1d311"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://punchbowlsocial.com/monday-funday",
+    "dev": "iphone",
+    "msg": "fixed layer button.site-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://punchbowlsocial.com/monday-funday",
+    "dev": "iphone",
+    "msg": "fixed layer div#newsletter-popup.newsletter-popup covers 81% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://punchbowlsocial.com/monday-funday",
+    "dev": "android",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=187186610&tm=gtm002&Ver=2&mid=8c0da6d8-f3cd-42bd-a296-f45a385f214b&bo=1&sid=20fcefa0c1d311f181ecd5530c3c4bb9&vid=20fd0020c1d311"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://punchbowlsocial.com/monday-funday",
+    "dev": "android",
+    "msg": "fixed layer button.site-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://punchbowlsocial.com/monday-funday",
+    "dev": "android",
+    "msg": "fixed layer div#newsletter-popup.newsletter-popup covers 74% of the screen"
+   }
+  ]
+ },
+ "https://www.agorarestaurants.net/": {
+  "name": "Agora Dc Mediterranean Restaurant",
+  "reviews": "3945",
+  "takes_money": "Resy reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.agorarestaurants.net/",
+    "dev": "iphone",
+    "href": "https://www.agorarestaurants.net/?post_type=us_testimonial&p=145",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.agorarestaurants.net/",
+    "dev": "iphone",
+    "href": "https://www.agorarestaurants.net/?post_type=us_testimonial&p=144",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.agorarestaurants.net/",
+    "dev": "iphone",
+    "href": "https://www.agorarestaurants.net/?post_type=us_testimonial&p=143",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.agorarestaurants.net/",
+    "dev": "iphone",
+    "href": "https://www.agorarestaurants.net/?post_type=us_testimonial&p=142",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.agorarestaurants.net/",
+    "dev": "iphone",
+    "href": "https://www.agorarestaurants.net/?post_type=us_testimonial&p=141",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.agorarestaurants.net/",
+    "dev": "iphone",
+    "href": "https://www.agorarestaurants.net/?post_type=us_testimonial&p=140",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.agorarestaurants.net/",
+    "dev": "iphone",
+    "href": "https://www.agorarestaurants.net/dc-about-us/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.agorarestaurants.net/",
+    "dev": "iphone",
+    "href": "https://www.agorarestaurants.net/tysons-about-us/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.agorarestaurants.net/",
+    "dev": "iphone",
+    "href": "https://www.agorarestaurants.net/maryland/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://bricktownbrewery.com/location/downtown-okc/": {
+  "name": "Bricktown Brewery",
+  "reviews": "5716",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://bricktownbrewery.com/location/downtown-okc/",
+    "dev": "iphone",
+    "msg": "fixed layer div#CybotCookiebotDialog.CybotEdge covers 94% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://bricktownbrewery.com/location/downtown-okc/",
+    "dev": "iphone",
+    "href": "https://bricktownbrewery.com/location/downtown-okc/[",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://bricktownbrewery.com/location/downtown-okc/",
+    "dev": "android",
+    "msg": "fixed layer div#CybotCookiebotDialog.CybotEdge covers 94% of the screen"
+   },
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf",
+    "dev": "iphone",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://bricktownbrewery.com/wp-content"
+   },
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf",
+    "dev": "android",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://bricktownbrewery.com/wp-content"
+   }
+  ]
+ },
+ "https://hometeambbq.com/": {
+  "name": "Home Team BBQ",
+  "reviews": "4694",
+  "takes_money": "Toast ordering; WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://hometeambbq.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://hometeambbq.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://hometeambbq.com/",
+    "dev": "android",
+    "msg": "broken image: https://hometeambbq.com/"
+   }
+  ]
+ },
+ "https://www.hounddogspizza.com/": {
+  "name": "Hounddog's Pizza",
+  "reviews": "4263",
+  "takes_money": "WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://www.hounddogspizza.com/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 5px sideways): a right=395, img right=395",
+    "panX": 5
+   }
+  ]
+ },
+ "https://www.rays.com/": {
+  "name": "Ray's Boathouse",
+  "reviews": "3624",
+  "takes_money": "OpenTable reservations; Resy reservations; WooCommerce store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://www.rays.com/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 15px sideways): div.row right=405, div.col-sm-10 right=405, div.vc_row right=405, div.wpb_column right=405, div.vc_column-inner right=405, section.vc_section right=405",
+    "panX": 15
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.rays.com/boathouse/boathouse-menu/",
+    "dev": "iphone",
+    "href": "https://www.rays.com/cdn-cgi/l/email-protection",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://3littlebirdssalon.com/": {
+  "name": "3 Little Birds Salon \u2702",
+  "reviews": "603",
+  "takes_money": "WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://3littlebirdssalon.com/",
+    "dev": "iphone",
+    "href": "https://3littlebirdssalon.com/terms-conditions",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://3littlebirdssalon.com/",
+    "dev": "iphone",
+    "href": "https://3littlebirdssalon.com/privacy-policy",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://3littlebirdssalon.com/appointment/",
+    "dev": "iphone",
+    "href": "https://3littlebirdssalon.com/terms-conditions",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://3littlebirdssalon.com/appointment/",
+    "dev": "iphone",
+    "href": "https://3littlebirdssalon.com/privacy-policy",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://powerplantlive.com/": {
+  "name": "Power Plant Live!",
+  "reviews": "5706",
+  "takes_money": "Shopify store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://powerplantlive.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ctablock at 11px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://powerplantlive.com/parties-vip-tables",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ctablock at 11px (needs 16px on touch)"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://powerplantlive.com/parties-vip-tables",
+    "dev": "iphone",
+    "href": "https://www.sevenrooms.com/experiences/pbrnashville/vip-service-10515733161",
+    "text": ".",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://powerplantlive.com/parties-vip-tables",
+    "dev": "iphone",
+    "href": "https://www.nashvillelivedowntown.com/events",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://ophdfw.com/uptown-location/": {
+  "name": "The Original Pancake House DFW",
+  "reviews": "4914",
+  "takes_money": "WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://ophdfw.com/uptown-location/",
+    "dev": "iphone",
+    "msg": "fixed layer div#woocommerce-mini-cart-wrapper covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://ophdfw.com/uptown-location/",
+    "dev": "iphone",
+    "msg": "fixed layer div.ays-pb-modals covers 100% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://ophdfw.com/uptown-location/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/l/out?af0=af47dabf&adroll_fpc=d531068dd118a17b5a9330ea84ff3447-1791324605395&pv=29776528152.84792&arrfrr=https%3A%2F%2Fophdfw.com%2Fupto"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://ophdfw.com/uptown-location/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=d531068dd118a17b5a9330ea84ff3447-1791324605395&pv=29776528152.84792&arrfrr=https%3A%2F%2Fophdfw.com"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://ophdfw.com/uptown-location/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/taboola/out?af0=af47dabf&adroll_fpc=d531068dd118a17b5a9330ea84ff3447-1791324605395&pv=29776528152.84792&arrfrr=https%3A%2F%2Fophdfw.com%"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://ophdfw.com/uptown-location/",
+    "dev": "android",
+    "msg": "fixed layer div#woocommerce-mini-cart-wrapper covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://ophdfw.com/uptown-location/",
+    "dev": "android",
+    "msg": "fixed layer div.ays-pb-modals covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://ophdfw.com/menu/",
+    "dev": "iphone",
+    "msg": "fixed layer div#woocommerce-mini-cart-wrapper covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://ophdfw.com/menu/",
+    "dev": "iphone",
+    "msg": "fixed layer div.ays-pb-modals covers 100% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://ophdfw.com/menu/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=b31f3e6ec7ff1aba9fd1537d8f2de888-1791324686078&pv=22741958326.03148&arrfrr=https%3A%2F%2Fophdfw.com%2Fme"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://ophdfw.com/menu/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/l/out?af0=af47dabf&adroll_fpc=b31f3e6ec7ff1aba9fd1537d8f2de888-1791324686078&pv=22741958326.03148&arrfrr=https%3A%2F%2Fophdfw.com%2Fmenu"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://ophdfw.com/menu/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=b31f3e6ec7ff1aba9fd1537d8f2de888-1791324686078&pv=22741958326.03148&arrfrr=https%3A%2F%2Fophdfw.com"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://ophdfw.com/menu/",
+    "dev": "android",
+    "msg": "fixed layer div#woocommerce-mini-cart-wrapper covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://ophdfw.com/menu/",
+    "dev": "android",
+    "msg": "fixed layer div.ays-pb-modals covers 100% of the screen"
+   }
+  ]
+ },
+ "https://www.bigfishriverfront.com/": {
+  "name": "Big Fish Grill on the Riverfront",
+  "reviews": "4678",
+  "takes_money": "DoorDash storefront; OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.bigfishriverfront.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.bigfishriverfront.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://www.bigfishriverfront.com/wilmington-wilmington-big-fish-grill-on-the-riverfront-food-menu",
+    "dev": "iphone",
+    "href": "https://www.bigfishriverfront.com/61598",
+    "text": "Sushi Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.bigfishriverfront.com/wilmington-wilmington-big-fish-grill-on-the-riverfront-food-menu",
+    "dev": "iphone",
+    "href": "https://www.bigfishriverfront.com/53237",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.bigfishriverfront.com/wilmington-wilmington-big-fish-grill-on-the-riverfront-food-menu",
+    "dev": "iphone",
+    "href": "https://www.bigfishriverfront.com/53238",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.bigfishriverfront.com/wilmington-wilmington-big-fish-grill-on-the-riverfront-food-menu",
+    "dev": "iphone",
+    "href": "https://www.bigfishriverfront.com/53239",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.bigfishriverfront.com/wilmington-wilmington-big-fish-grill-on-the-riverfront-food-menu",
+    "dev": "iphone",
+    "href": "https://www.bigfishriverfront.com/66853",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.bigfishriverfront.com/wilmington-wilmington-big-fish-grill-on-the-riverfront-food-menu",
+    "dev": "iphone",
+    "href": "https://www.bigfishriverfront.com/53241",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.monkscafe.com": {
+  "name": "Monk's Cafe",
+  "reviews": "4257",
+  "takes_money": "Shopify store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://www.monkscafe.com",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 325px sideways): a right=431, a right=431, a right=431",
+    "panX": 325
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.monkscafe.com",
+    "dev": "iphone",
+    "msg": "broken image: https://www.monkscafe.com/images/mainLogoNav.png"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.monkscafe.com",
+    "dev": "iphone",
+    "href": "https://monks-cafe-merch.myshopify.com/products/monks-cafe-zip-up-hoodie",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.monkscafe.com",
+    "dev": "android",
+    "msg": "broken image: https://www.monkscafe.com/images/mainLogoNav.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.monkscafe.com/menu",
+    "dev": "iphone",
+    "msg": "broken image: https://www.monkscafe.com/images/mainLogoNav.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.monkscafe.com/menu",
+    "dev": "android",
+    "msg": "broken image: https://www.monkscafe.com/images/mainLogoNav.png"
+   }
+  ]
+ },
+ "https://bestiala.com/": {
+  "name": "Bestia",
+  "reviews": "4008",
+  "takes_money": "Toast ordering; OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://bestiala.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#form-field-email.elementor-field at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://bestiala.com/menu/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#form-field-email.elementor-field at 15px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://www.mcmullansirishpub.com/": {
+  "name": "McMullan's Irish Pub",
+  "reviews": "3591",
+  "takes_money": "Toast ordering",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.mcmullansirishpub.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#E-mail-Address.basic-form at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.mcmullansirishpub.com/sports",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#Date.basic-form at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.mcmullansirishpub.com/sports",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#Team-s.basic-form at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.mcmullansirishpub.com/sports",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#League.basic-form at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.mcmullansirishpub.com/sports",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#E-mail.basic-form at 14px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://juvenexspanyc.com/": {
+  "name": "JUVENEX SPA",
+  "reviews": "572",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://juvenexspanyc.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://www.adasitecompliance.com/img/APolicy.png"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://juvenexspanyc.com/",
+    "dev": "iphone",
+    "href": "https://juvenexspanyc.com/juvenexspanyc.com",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://juvenexspanyc.com/",
+    "dev": "android",
+    "msg": "broken image: https://www.adasitecompliance.com/img/APolicy.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://juvenexspanyc.com/giftcards/",
+    "dev": "iphone",
+    "msg": "broken image: https://www.adasitecompliance.com/img/APolicy.png"
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://juvenexspanyc.com/giftcards/",
+    "dev": "iphone",
+    "href": "https://juvenexspanyc.com/giftcards/juvenexspanyc.com",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://juvenexspanyc.com/giftcards/",
+    "dev": "android",
+    "msg": "broken image: https://www.adasitecompliance.com/img/APolicy.png"
+   }
+  ]
+ },
+ "https://www.bangersaustin.com/": {
+  "name": "Banger's Sausage House & Beer Garden",
+  "reviews": "7278",
+  "takes_money": "Toast ordering; Shopify store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.bangersaustin.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.parallax-mirror covers 50% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.bangersaustin.com/",
+    "dev": "android",
+    "msg": "fixed layer div.parallax-mirror covers 50% of the screen"
+   }
+  ]
+ },
+ "https://www.dukesbarandgrille.com/": {
+  "name": "Duke's Riverside Bar & Grille",
+  "reviews": "4908",
+  "takes_money": "Toast ordering; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.dukesbarandgrille.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.Background__Container-sc-e7fef316-0 covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.dukesbarandgrille.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.Popup__PopupContainer-sc-223d3ce6-1 covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.dukesbarandgrille.com/",
+    "dev": "android",
+    "msg": "fixed layer div.Background__Container-sc-e7fef316-0 covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.dukesbarandgrille.com/",
+    "dev": "android",
+    "msg": "fixed layer div.Popup__PopupContainer-sc-223d3ce6-1 covers 100% of the screen"
+   }
+  ]
+ },
+ "https://stevenssteakhouse.com/": {
+  "name": "Steven's Steak & Seafood House",
+  "reviews": "3978",
+  "takes_money": "OpenTable reservations; WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://stevenssteakhouse.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#et_pb_signup_email.input at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://stevenssteakhouse.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-consent-container covers 52% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://stevenssteakhouse.com/",
+    "dev": "android",
+    "msg": "fixed layer div.cky-consent-container covers 47% of the screen"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://stevenssteakhouse.com/patio-menu/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#et_pb_signup_email.input at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://stevenssteakhouse.com/patio-menu/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-consent-container covers 52% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://stevenssteakhouse.com/patio-menu/",
+    "dev": "android",
+    "msg": "fixed layer div.cky-consent-container covers 47% of the screen"
+   }
+  ]
+ },
+ "https://kingstonmines.com/?v=0b3b97fa6688": {
+  "name": "Kingston Mines",
+  "reviews": "3781",
+  "takes_money": "WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://kingstonmines.com/?v=0b3b97fa6688",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 400px sideways): div.navbar-header right=405, iframe right=800, div.row right=405, div.row right=405, div.container right=405, div.col-sm-6 right=396",
+    "panX": 400
+   },
+   {
+    "kind": "overflow",
+    "where": "hop",
+    "url": "https://kingstonmines.com/menu/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 16px sideways): div.navbar-header right=405, div.container-row right=406, span.price right=406, div.row right=405, div.row right=405, div.container right=405",
+    "panX": 16
+   }
+  ]
+ },
+ "https://www.bellairedermatology.com/": {
+  "name": "Bellaire Dermatology",
+  "reviews": "3569",
+  "takes_money": "WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.bellairedermatology.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#elementor-search-form-3083bdd.elementor-search-form__input at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.bellairedermatology.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#input_1_1.large at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.bellairedermatology.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#input_1_2.large at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.bellairedermatology.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#input_1_3.large at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.bellairedermatology.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.sgpb-theme-1-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.bellairedermatology.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.sgpb-popup-dialog-main-div-theme-wrapper-1 covers 59% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.bellairedermatology.com/",
+    "dev": "iphone",
+    "href": "https://www.bellairedermatology.com/acne/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.bellairedermatology.com/",
+    "dev": "iphone",
+    "href": "https://www.bellairedermatology.com/resonic/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.bellairedermatology.com/",
+    "dev": "android",
+    "msg": "fixed layer div.sgpb-theme-1-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.bellairedermatology.com/",
+    "dev": "android",
+    "msg": "fixed layer div.sgpb-popup-dialog-main-div-theme-wrapper-1 covers 54% of the screen"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.bellairedermatology.com/cart/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#elementor-search-form-3083bdd.elementor-search-form__input at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.bellairedermatology.com/cart/",
+    "dev": "iphone",
+    "href": "https://www.bellairedermatology.com/acne/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.bellairedermatology.com/cart/",
+    "dev": "iphone",
+    "href": "https://www.bellairedermatology.com/resonic/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://salontraselectsuites.com/": {
+  "name": "Salontra Select Suites",
+  "reviews": "568",
+  "takes_money": "'book an appointment' link",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://salontraselectsuites.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.wpcf7-form-control at 13px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://calhouns.com/": {
+  "name": "Calhoun's On The River",
+  "reviews": "7271",
+  "takes_money": "ChowNow ordering",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://calhouns.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#input_1_1.large at 15px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://elvezrestaurant.com/": {
+  "name": "El Vez",
+  "reviews": "6400",
+  "takes_money": "DoorDash storefront; OpenTable reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://elvezrestaurant.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://elvezrestaurant.com/",
+    "dev": "android",
+    "msg": "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   }
+  ]
+ },
+ "https://ediblebeats.com/restaurants/linger/": {
+  "name": "Linger",
+  "reviews": "5536",
+  "takes_money": "DoorDash storefront; OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://ediblebeats.com/restaurants/linger/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://ediblebeats.com/restaurants/linger/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input at 14px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://hogislandoysters.com/": {
+  "name": "Hog Island Oyster Co.",
+  "reviews": "3976",
+  "takes_money": "Resy reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://hogislandoysters.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://hogislandoysters.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://hogislandoysters.com/restaurants/the-hog-shack/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://hogislandoysters.com/restaurants/the-hog-shack/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input at 14px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://www.sweetpetescandy.com": {
+  "name": "Sweet Pete's Candy",
+  "reviews": "3776",
+  "takes_money": "Square; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://www.sweetpetescandy.com",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 6623px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.sweetpetescandy.com",
+    "dev": "iphone",
+    "msg": "fixed layer div#leadform-popup-widget-b5b8e8b5-d31c-4608-8e26-4d3cf7204599.leadform-popup-widget covers 100% of the screen"
+   },
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://www.sweetpetescandy.com",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 6563px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.sweetpetescandy.com",
+    "dev": "android",
+    "msg": "fixed layer div#leadform-popup-widget-b5b8e8b5-d31c-4608-8e26-4d3cf7204599.leadform-popup-widget covers 100% of the screen"
+   },
+   {
+    "kind": "locked",
+    "where": "hop",
+    "url": "https://www.sweetpetescandy.com/s/shop",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 4190px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.sweetpetescandy.com/s/shop",
+    "dev": "iphone",
+    "msg": "fixed layer div#leadform-popup-widget-b5b8e8b5-d31c-4608-8e26-4d3cf7204599.leadform-popup-widget covers 100% of the screen"
+   },
+   {
+    "kind": "locked",
+    "where": "hop",
+    "url": "https://www.sweetpetescandy.com/s/shop",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 4208px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.sweetpetescandy.com/s/shop",
+    "dev": "android",
+    "msg": "fixed layer div#leadform-popup-widget-b5b8e8b5-d31c-4608-8e26-4d3cf7204599.leadform-popup-widget covers 100% of the screen"
+   }
+  ]
+ },
+ "https://madersrestaurant.com/": {
+  "name": "Mader's Restaurant",
+  "reviews": "3565",
+  "takes_money": "Resy reservations; Shopify store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://madersrestaurant.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#q.searchbox__input at 13.6px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://madersrestaurant.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ECom-NewsletterForm-ecom-i8crb9m8nu.ecom-shopify__newsletter-form-field--input at 13.6px (needs 16px on touch)"
+   },
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://madersrestaurant.com/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 5px sideways): a.skip-link right=438, aside#slideout-quickview.slideout right=735, aside#slideout-store-availability.slideout right=735",
+    "panX": 5
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://madersrestaurant.com/",
+    "dev": "iphone",
+    "href": "https://madersrestaurant.com/customer_authentication/redirect?locale=en&region_country=US",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://madersrestaurant.com/cart",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#q.searchbox__input at 13.6px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://madersrestaurant.com/cart",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ECom-NewsletterForm-ecom-i8crb9m8nu.ecom-shopify__newsletter-form-field--input at 13.6px (needs 16px on touch)"
+   },
+   {
+    "kind": "overflow",
+    "where": "hop",
+    "url": "https://madersrestaurant.com/cart",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 5px sideways): a.skip-link right=438, aside#slideout-quickview.slideout right=735, aside#slideout-store-availability.slideout right=735",
+    "panX": 5
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://madersrestaurant.com/cart",
+    "dev": "iphone",
+    "href": "https://madersrestaurant.com/customer_authentication/redirect?locale=en&region_country=US",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   }
+  ]
+ },
+ "https://www.signaturemedspa.com/": {
+  "name": "Signature Medical Spa",
+  "reviews": "545",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.signaturemedspa.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#subscribe_newsletter_field_control_name.form-control at 14.591999px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.signaturemedspa.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#subscribe_newsletter_field_control_email.form-control at 14.591999px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.signaturemedspa.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#footer_form_field_control_first_name.form-control at 14.591999px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.signaturemedspa.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#footer_form_field_control_last_name.form-control at 14.591999px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.signaturemedspa.com/contact/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.saddr at 14.591999px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.signaturemedspa.com/contact/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#contact_page_form_field_control_first_name.form-control at 14.591999px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.signaturemedspa.com/contact/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#contact_page_form_field_control_last_name.form-control at 14.591999px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.signaturemedspa.com/contact/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#contact_page_form_field_control_email.form-control at 14.591999px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://www.houseofprimerib.net/": {
+  "name": "House of Prime Rib",
+  "reviews": "7239",
+  "takes_money": "OpenTable reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://www.houseofprimerib.net/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 8px sideways): div.row-gallery right=398, div.gallery right=398, div.gallery-item right=398, div.gallery-item right=398, div.gallery-item right=398, div.gallery-item right=398",
+    "panX": 8
+   }
+  ]
+ },
+ "https://frenchsoulfood.com/": {
+  "name": "Brenda's French Soul Food",
+  "reviews": "6282",
+  "takes_money": "DoorDash storefront; Resy reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://frenchsoulfood.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://frenchsoulfood.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://frenchsoulfood.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://frenchsoulfood.com/"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://frenchsoulfood.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#sf-modal-dialog.storefront-sdk-emotion-1fshec4 covers 100% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://frenchsoulfood.com/",
+    "dev": "android",
+    "msg": "broken image: https://frenchsoulfood.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://frenchsoulfood.com/",
+    "dev": "android",
+    "msg": "broken image: https://frenchsoulfood.com/"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://frenchsoulfood.com/",
+    "dev": "android",
+    "msg": "fixed layer div#sf-modal-dialog.storefront-sdk-emotion-1fshec4 covers 100% of the screen"
+   }
+  ]
+ },
+ "https://staxs.net/": {
+  "name": "Stax Omega Diner",
+  "reviews": "5501",
+  "takes_money": "ChowNow ordering; WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://staxs.net/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#s at 13px (needs 16px on touch)"
+   },
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://staxs.net/wp-content/uploads/2026/08/239011-NO-PRICES-Paper-Inserts-0826-Stax-Omega-Greenville-SC.pdf",
+    "dev": "iphone",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://staxs.net/wp-content/uploads/20"
+   },
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://staxs.net/wp-content/uploads/2026/08/239011-NO-PRICES-Paper-Inserts-0826-Stax-Omega-Greenville-SC.pdf",
+    "dev": "android",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://staxs.net/wp-content/uploads/20"
+   }
+  ]
+ },
+ "https://www.reggieslive.com/": {
+  "name": "Reggies Chicago",
+  "reviews": "4863",
+  "takes_money": "Shopify store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.reggieslive.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#s at 13px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.reggieslive.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#input_1_2.medium at 13px (needs 16px on touch)"
+   },
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://www.reggieslive.com/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 400px sideways): div#page.hfeed right=960, header#branding.clearfix right=960, div.container_24 right=960, div.grid_22 right=955, nav#access.clearfix right=915, div.skip-link right=915",
+    "panX": 400
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.reggieslive.com/menu/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#s at 13px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.reggieslive.com/menu/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#input_1_2.medium at 13px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.reggieslive.com/menu/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#input_10_1_3 at 13px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.reggieslive.com/menu/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#input_10_1_6 at 13px (needs 16px on touch)"
+   },
+   {
+    "kind": "overflow",
+    "where": "hop",
+    "url": "https://www.reggieslive.com/menu/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 400px sideways): div#page.hfeed right=960, header#branding.clearfix right=960, div.container_24 right=960, div.grid_22 right=955, nav#access.clearfix right=915, div.skip-link right=915",
+    "panX": 400
+   }
+  ]
+ },
+ "https://thekingspanj.com/": {
+  "name": "King Spa & Sauna",
+  "reviews": "4614",
+  "takes_money": "Shopify store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://thekingspanj.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-name.field__input at 13px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://thekingspanj.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-email.field__input at 13px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://thekingspanj.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-phone.field__input at 13px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://thekingspanj.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: textarea#ContactForm-template--19857683841316__f27cddcc-95f1-4843-8294-f853f32804e6-body.text-area at 13px (needs 16px on touch)"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://thekingspanj.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#sca-p-popup-main-popup-container.sca-p-popup-main-container covers 100% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://thekingspanj.com/",
+    "dev": "iphone",
+    "href": "https://thekingspanj.com/customer_authentication/redirect?locale=en&region_country=US",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://thekingspanj.com/pages/food-menu",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ContactFooter-email.field__input at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://thekingspanj.com/pages/food-menu",
+    "dev": "iphone",
+    "msg": "fixed layer div#sca-p-popup-main-popup-container.sca-p-popup-main-container covers 100% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://thekingspanj.com/pages/food-menu",
+    "dev": "iphone",
+    "href": "https://thekingspanj.com/customer_authentication/redirect?locale=en&region_country=US",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://thekingspanj.com/pages/food-menu",
+    "dev": "android",
+    "msg": "fixed layer div#sca-p-popup-main-popup-container.sca-p-popup-main-container covers 100% of the screen"
+   }
+  ]
+ },
+ "https://www.ponzios.com/": {
+  "name": "Ponzio's Diner-Bakery-Bar",
+  "reviews": "4205",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.ponzios.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://www.ponzios.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.ponzios.com/",
+    "dev": "android",
+    "msg": "broken image: https://www.ponzios.com/"
+   }
+  ]
+ },
+ "https://www.2foolstavern.com/": {
+  "name": "Two Fools Tavern",
+  "reviews": "3948",
+  "takes_money": "'gift cards' link",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.2foolstavern.com/",
+    "dev": "iphone",
+    "href": "http://www.affordablehealthcard.com/product/nizagara/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.gameworks.com/": {
+  "name": "GameWorks Seattle",
+  "reviews": "3775",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.gameworks.com/book-event/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#lead_first_name.text at 12px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.gameworks.com/book-event/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#lead_last_name.text at 12px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.gameworks.com/book-event/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#lead_email_address.text at 12px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.gameworks.com/book-event/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#lead_phone_number.text at 12px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://university.boardwalkbillys.com/": {
+  "name": "Boardwalk Billy's Raw Bar and Ribs",
+  "reviews": "5435",
+  "takes_money": "Toast ordering; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://university.boardwalkbillys.com/charlotte-uncc-boardwalk-billy-s-at-university-food-menu",
+    "dev": "iphone",
+    "href": "https://university.boardwalkbillys.com/55721",
+    "text": "Main Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://university.boardwalkbillys.com/charlotte-uncc-boardwalk-billy-s-at-university-food-menu",
+    "dev": "iphone",
+    "href": "https://university.boardwalkbillys.com/untappd_menu",
+    "text": "Drink Menu",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://deschutesbrewery.com/pages/portland-public-house": {
+  "name": "Deschutes Brewery Portland Public House",
+  "reviews": "4597",
+  "takes_money": "Toast ordering; DoorDash storefront; Shopify store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://deschutesbrewery.com/pages/portland-public-house",
+    "dev": "iphone",
+    "msg": "broken image: https://deschutesbrewery.com/pages/portland-public-house"
+   },
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://deschutesbrewery.com/pages/portland-public-house",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 14494px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://deschutesbrewery.com/pages/portland-public-house",
+    "dev": "iphone",
+    "msg": "fixed layer div.goodav_overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://deschutesbrewery.com/pages/portland-public-house",
+    "dev": "iphone",
+    "msg": "fixed layer div#goodav-app covers 59% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://deschutesbrewery.com/pages/portland-public-house",
+    "dev": "iphone",
+    "msg": "fixed layer div#ketch-banner.ketch-left-1 covers 58% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://deschutesbrewery.com/pages/portland-public-house",
+    "dev": "android",
+    "msg": "broken image: https://deschutesbrewery.com/pages/portland-public-house"
+   },
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://deschutesbrewery.com/pages/portland-public-house",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 14488px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://deschutesbrewery.com/pages/portland-public-house",
+    "dev": "android",
+    "msg": "fixed layer div.goodav_overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://deschutesbrewery.com/pages/portland-public-house",
+    "dev": "android",
+    "msg": "fixed layer div#goodav-app covers 54% of the screen"
+   },
+   {
+    "kind": "locked",
+    "where": "hop",
+    "url": "https://deschutesbrewery.com/pages/book-a-tour-in-bend",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 4689px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://deschutesbrewery.com/pages/book-a-tour-in-bend",
+    "dev": "iphone",
+    "msg": "fixed layer div.goodav_overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://deschutesbrewery.com/pages/book-a-tour-in-bend",
+    "dev": "iphone",
+    "msg": "fixed layer div#goodav-app covers 59% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://deschutesbrewery.com/pages/book-a-tour-in-bend",
+    "dev": "iphone",
+    "msg": "fixed layer div#ketch-banner.ketch-left-1 covers 58% of the screen"
+   },
+   {
+    "kind": "locked",
+    "where": "hop",
+    "url": "https://deschutesbrewery.com/pages/book-a-tour-in-bend",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 2751px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://deschutesbrewery.com/pages/book-a-tour-in-bend",
+    "dev": "android",
+    "msg": "fixed layer div.goodav_overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://deschutesbrewery.com/pages/book-a-tour-in-bend",
+    "dev": "android",
+    "msg": "fixed layer div#goodav-app covers 54% of the screen"
+   }
+  ]
+ },
+ "https://tommysjoynt.com/": {
+  "name": "Tommy's Joynt",
+  "reviews": "4197",
+  "takes_money": "Square",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://tommysjoynt.com/",
+    "dev": "iphone",
+    "href": "https://www.order.store/store/tommys-joynt/h_k375r4QsmwQ9Oy4hKE7Q",
+    "text": "ORDER DELIVERY",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.rasikarestaurant.com/": {
+  "name": "Rasika",
+  "reviews": "3946",
+  "takes_money": "Toast ordering; DoorDash storefront; Resy reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.rasikarestaurant.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#yui_3_17_2_1_1791324818424_366.image-container covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.rasikarestaurant.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#yui_3_17_2_1_1791324818424_461.yui3-widget covers 50% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.rasikarestaurant.com/",
+    "dev": "iphone",
+    "href": "https://www.rasikarestaurant.com/news",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.rasikarestaurant.com/",
+    "dev": "android",
+    "msg": "fixed layer div#yui_3_17_2_1_1791324836016_366.image-container covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.rasikarestaurant.com/",
+    "dev": "android",
+    "msg": "fixed layer div#yui_3_17_2_1_1791324836016_473.yui3-widget covers 50% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.rasikarestaurant.com/penn-quarter-menu",
+    "dev": "iphone",
+    "msg": "fixed layer div#yui_3_17_2_1_1791324841735_351.yui3-widget covers 50% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.rasikarestaurant.com/penn-quarter-menu",
+    "dev": "iphone",
+    "href": "http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Winelist-02.24.20.pdf",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.rasikarestaurant.com/penn-quarter-menu",
+    "dev": "iphone",
+    "href": "http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Rasika-PQ-Bar-Menu-02.22.20.pdf",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.rasikarestaurant.com/penn-quarter-menu",
+    "dev": "iphone",
+    "href": "https://www.rasikarestaurant.com/news",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.rasikarestaurant.com/penn-quarter-menu",
+    "dev": "android",
+    "msg": "fixed layer div#yui_3_17_2_1_1791324851532_348.yui3-widget covers 50% of the screen"
+   }
+  ]
+ },
+ "https://www.andinarestaurant.com/": {
+  "name": "Andina",
+  "reviews": "3537",
+  "takes_money": "Square; OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.andinarestaurant.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.andina-signup__input at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.andinarestaurant.com/giftcards",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.andina-signup__input at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.andinarestaurant.com/giftcards",
+    "dev": "iphone",
+    "href": "https://www.andinarestaurant.com/brunch",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.theosfayetteville.com/": {
+  "name": "Theo's",
+  "reviews": "534",
+  "takes_money": "Toast ordering; Resy reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.theosfayetteville.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#yui_3_17_2_1_1791324997140_178.yui3-widget covers 50% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.theosfayetteville.com/",
+    "dev": "android",
+    "msg": "fixed layer div#yui_3_17_2_1_1791325005309_178.yui3-widget covers 50% of the screen"
+   },
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://www.theosfayetteville.com/menus-1",
+    "dev": "iphone",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.theosfayetteville.com/menus"
+   },
+   {
+    "kind": "noload",
+    "where": "hop",
+    "url": "https://www.theosfayetteville.com/menus-1",
+    "dev": "android",
+    "msg": "did not load: Page.goto: Download is starting\nCall log:\n  - navigating to \"https://www.theosfayetteville.com/menus"
+   }
+  ]
+ },
+ "https://www.sadiesofnewmexico.com/": {
+  "name": "Sadie's of New Mexico",
+  "reviews": "7004",
+  "takes_money": "Toast ordering; WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.sadiesofnewmexico.com/",
+    "dev": "iphone",
+    "href": "https://www.sadiesofnewmexico.com/previous-slide",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.sadiesofnewmexico.com/",
+    "dev": "iphone",
+    "href": "https://www.sadiesofnewmexico.com/next-slide",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.kentuckyoaksmall.com/": {
+  "name": "Kentucky Oaks Mall",
+  "reviews": "6132",
+  "takes_money": "'gift cards' link",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://www.kentuckyoaksmall.com/",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 4468px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.kentuckyoaksmall.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.css-1u6o52r-Modal covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.kentuckyoaksmall.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.css-bpppi0-Modal covers 100% of the screen"
+   },
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://www.kentuckyoaksmall.com/",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 4481px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.kentuckyoaksmall.com/",
+    "dev": "android",
+    "msg": "fixed layer div.css-1u6o52r-Modal covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.kentuckyoaksmall.com/",
+    "dev": "android",
+    "msg": "fixed layer div.css-bpppi0-Modal covers 100% of the screen"
+   }
+  ]
+ },
+ "https://virtuefeedgrain.com/": {
+  "name": "Virtue Feed & Grain",
+  "reviews": "5323",
+  "takes_money": "Toast ordering; OpenTable reservations; WooCommerce store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://virtuefeedgrain.com/",
+    "dev": "android",
+    "msg": "broken image: https://www.weddingwire.com/assets/badges/BCA-2018/BCA2018-logo.png"
+   }
+  ]
+ },
+ "https://www.dutchsdaughter.com/": {
+  "name": "Dutch's Daughter",
+  "reviews": "4571",
+  "takes_money": "Toast ordering; WooCommerce store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.dutchsdaughter.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.et-search-field at 11px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.dutchsdaughter.com/menu/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.et-search-field at 11px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://www.brooklynbowl.com/brooklyn": {
+  "name": "Brooklyn Bowl",
+  "reviews": "3933",
+  "takes_money": "OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "msg": "broken image: https://www.brooklynbowl.com/brooklyn"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/events",
+    "text": "Buy Tickets",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/brooklyn-menus",
+    "text": "Menus",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/brooklyn-bowling",
+    "text": "Book Your Lane Today",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/events/detail/brooklyn-bowl-gift-card-10552025",
+    "text": "Gift Card",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/blog/detail/your-reservation-awaits-at-brooklyn-bowl-via-opentable",
+    "text": "Your Reservation Awaits at Brooklyn Bowl",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/accessibility",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/search",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/nashville",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/philadelphia",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/email-sign-up",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "http://www.brooklynbowl.com/merch",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/brooklyn-faqs",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/brooklyn-special-events",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/blog",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/vip-bowling-lane-add-on-white-denim-not-a-concert-ticket-k7vgf_3lpdo-w",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/white-denim-k7vgf_6ll2r3h",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/oteil-burbridge-performing-with-lamp-k7vgf_2n7fcia",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/vip-bowling-lane-add-on-oteil-burbridge-lamp-not-a-concert-ticket-k7vgf_3llhet6",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/the-rock-and-roll-playhouse-presents-uncle-jeb-s-farm-k7vgf_890jhgd",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/family-bowl-216",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/bertha-grateful-drag-k7vgf_1l7skwl",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/vip-bowling-lane-add-on-bertha-not-a-concert-ticket-k7vgf_3lczxht",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.brooklynbowl.com/brooklyn",
+    "dev": "android",
+    "msg": "broken image: https://www.brooklynbowl.com/brooklyn"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "msg": "broken image: https://www.brooklynbowl.com/events"
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/accessibility",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/search",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/nashville",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/shows/all",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/las-vegas/shows/all",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/nashville/shows/all",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/philadelphia/shows/all",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/food",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/bowling",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/special-events",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/news",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/nashville/events/detail/closed-13086261",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/nashville/events/detail/closed-13086262",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/vip-bowling-lane-add-on-white-denim-not-a-concert-ticket-k7vgf_3lpdo-w",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/white-denim-k7vgf_6ll2r3h",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/nashville/events/detail/closed-for-private-event-13085781",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/oteil-burbridge-performing-with-lamp-k7vgf_2n7fcia",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/philadelphia/events/detail/something-different-presents-unpopular-opinion-night-21-vv1aezkf-gkedbzzx",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/brooklyn/events/detail/vip-bowling-lane-add-on-oteil-burbridge-lamp-not-a-concert-ticket-k7vgf_3llhet6",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "iphone",
+    "href": "https://www.brooklynbowl.com/nashville/events/detail/public-image-ltd-this-is-not-the-last-tour-g5viz_kszw1cj",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.brooklynbowl.com/events",
+    "dev": "android",
+    "msg": "broken image: https://www.brooklynbowl.com/events"
+   }
+  ]
+ },
+ "https://www.christkindlmarket.com/": {
+  "name": "Christkindlmarket Chicago",
+  "reviews": "6104",
+  "takes_money": "WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://www.christkindlmarket.com/",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 3933px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.christkindlmarket.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cli-modal-backdrop covers 100% of the screen"
+   },
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://www.christkindlmarket.com/",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 4675px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.christkindlmarket.com/",
+    "dev": "android",
+    "msg": "fixed layer div.cli-modal-backdrop covers 100% of the screen"
+   },
+   {
+    "kind": "locked",
+    "where": "hop",
+    "url": "https://www.christkindlmarket.com/gift-boxes-2024/",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 5558px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.christkindlmarket.com/gift-boxes-2024/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cli-modal-backdrop covers 100% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.christkindlmarket.com/gift-boxes-2024/",
+    "dev": "iphone",
+    "href": "https://sandbox.square.online/app/website/editor-frame/home",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "locked",
+    "where": "hop",
+    "url": "https://www.christkindlmarket.com/gift-boxes-2024/",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 6124px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.christkindlmarket.com/gift-boxes-2024/",
+    "dev": "android",
+    "msg": "fixed layer div.cli-modal-backdrop covers 100% of the screen"
+   }
+  ]
+ },
+ "https://www.franciscanrestaurant.com/": {
+  "name": "Franciscan Crab Restaurant",
+  "reviews": "5303",
+  "takes_money": "DoorDash storefront; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.franciscanrestaurant.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#signup covers 42% of the screen"
+   }
+  ]
+ },
+ "https://savinasmexicankitchen.com/": {
+  "name": "Savina's Mexican Kitchen - Downtown Denver",
+  "reviews": "4824",
+  "takes_money": "'gift cards' link",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "blank",
+    "where": "home",
+    "url": "https://savinasmexicankitchen.com/",
+    "dev": "iphone",
+    "msg": "page renders blank on a phone: 15 characters of visible text after load"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://savinasmexicankitchen.com/",
+    "dev": "iphone",
+    "href": "https://savinasmexicankitchen.com/?page_id=869",
+    "text": "View Drinks Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "blank",
+    "where": "home",
+    "url": "https://savinasmexicankitchen.com/",
+    "dev": "android",
+    "msg": "page renders blank on a phone: 15 characters of visible text after load"
+   },
+   {
+    "kind": "hop_http",
+    "where": "hop",
+    "url": "https://savinasmexicankitchen.com/?page_id=869",
+    "dev": "iphone",
+    "msg": "HTTP 404"
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://savinasmexicankitchen.com/?page_id=869",
+    "dev": "iphone",
+    "href": "https://savinasmexicankitchen.com/?page_id=869",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "hop_http",
+    "where": "hop",
+    "url": "https://savinasmexicankitchen.com/?page_id=869",
+    "dev": "android",
+    "msg": "HTTP 404"
+   }
+  ]
+ },
+ "https://www.greentop.com/": {
+  "name": "Green Top Sporting Goods",
+  "reviews": "4495",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.greentop.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://engine.gettopple.com/tag.php?goal=0731460a8a5ce1626210cbf4385ae0ef"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.greentop.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=150000925&tm=gtm002&Ver=2&mid=59db13b6-bb6d-49fd-bfaf-8d4ff30e3be8&bo=1&sid=8da66130c1d211f18b98b9826067ddba&vid=8da66a10c1d211"
+   },
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://www.greentop.com/",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 10832px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.greentop.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.needsclick covers 100% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.greentop.com/",
+    "dev": "android",
+    "msg": "broken image: https://engine.gettopple.com/tag.php?goal=0731460a8a5ce1626210cbf4385ae0ef"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.greentop.com/",
+    "dev": "android",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=150000925&tm=gtm002&Ver=2&mid=a21a9013-fea4-4ca4-baec-cf16fbf74bca&bo=1&sid=c4c0e1d0c1d211f195999307bb586806&vid=c4c11c00c1d211"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.greentop.com/shipping-info/",
+    "dev": "iphone",
+    "msg": "broken image: https://engine.gettopple.com/tag.php?goal=0731460a8a5ce1626210cbf4385ae0ef"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.greentop.com/shipping-info/",
+    "dev": "iphone",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=150000925&tm=gtm002&Ver=2&mid=56eab0a3-97b2-4584-9944-8992ae499a81&bo=1&sid=d9dac3d0c1d211f195eedd1efc19d1f4&vid=d9daef60c1d211"
+   },
+   {
+    "kind": "locked",
+    "where": "hop",
+    "url": "https://www.greentop.com/shipping-info/",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 4696px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.greentop.com/shipping-info/",
+    "dev": "iphone",
+    "msg": "fixed layer div.needsclick covers 100% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.greentop.com/shipping-info/",
+    "dev": "android",
+    "msg": "broken image: https://engine.gettopple.com/tag.php?goal=0731460a8a5ce1626210cbf4385ae0ef"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.greentop.com/shipping-info/",
+    "dev": "android",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=150000925&tm=gtm002&Ver=2&mid=f15383f5-f017-49f8-9829-3b9c3835e7bf&bo=1&sid=e97fecf0c1d211f1a8533d10dd4a7bb0&vid=e97fe390c1d211"
+   }
+  ]
+ },
+ "https://www.thebagelcafelv.com/": {
+  "name": "The Bagel Cafe",
+  "reviews": "4155",
+  "takes_money": "Square",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://www.thebagelcafelv.com/",
+    "dev": "iphone",
+    "href": "https://squareup.com/gift/ML34JN98FDTAE/order?fbclid=IwAR3vtv5YyRd6On2hwvXQ5tl6EFM8lFblPZ-AIK4pSDQiaoQSMDyBOE5_qwc",
+    "text": "Buy Gift Card",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://www.thebagelcafelv.com/placeorder",
+    "dev": "iphone",
+    "href": "https://squareup.com/gift/ML34JN98FDTAE/order?fbclid=IwAR3vtv5YyRd6On2hwvXQ5tl6EFM8lFblPZ-AIK4pSDQiaoQSMDyBOE5_qwc",
+    "text": "Buy Gift Card",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://atlanticcity.landsharkbarandgrill.com/": {
+  "name": "LandShark Bar & Grill - Atlantic City",
+  "reviews": "6867",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://atlanticcity.landsharkbarandgrill.com/",
+    "dev": "iphone",
+    "href": "https://atlanticcity.landsharkbarandgrill.com/LSAC-Beach-Bar",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://steubens.com/": {
+  "name": "Steuben's Uptown",
+  "reviews": "6007",
+  "takes_money": "Toast ordering; DoorDash storefront; OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://steubens.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#promotion-pop-up.modal covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://steubens.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.modal-backdrop covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://steubens.com/",
+    "dev": "android",
+    "msg": "fixed layer div#promotion-pop-up.modal covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://steubens.com/",
+    "dev": "android",
+    "msg": "fixed layer div.modal-backdrop covers 100% of the screen"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://steubens.com/denver-uptown-steubens-food-menu",
+    "dev": "iphone",
+    "href": "https://steubens.com/450672",
+    "text": "Kids Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://steubens.com/denver-uptown-steubens-food-menu",
+    "dev": "iphone",
+    "href": "https://steubens.com/1211711",
+    "text": "Gluten Free Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://steubens.com/denver-uptown-steubens-food-menu",
+    "dev": "iphone",
+    "href": "https://steubens.com/1211725",
+    "text": "Dairy Free Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://steubens.com/denver-uptown-steubens-food-menu",
+    "dev": "iphone",
+    "href": "https://steubens.com/450674",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://steubens.com/denver-uptown-steubens-food-menu",
+    "dev": "iphone",
+    "href": "https://steubens.com/450670",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.sushiden.net/": {
+  "name": "Sushi Den",
+  "reviews": "5240",
+  "takes_money": "Toast ordering; WooCommerce store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.sushiden.net/",
+    "dev": "iphone",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/Sushi-Den-logo-alternative-2-1.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.sushiden.net/",
+    "dev": "iphone",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/Izakaya-Den-Logo-alternative.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.sushiden.net/",
+    "dev": "iphone",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/OTOTO-BC-logo-alternative-2-1.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.sushiden.net/",
+    "dev": "android",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/Sushi-Den-logo-alternative-2-1.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.sushiden.net/",
+    "dev": "android",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/Izakaya-Den-Logo-alternative.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.sushiden.net/",
+    "dev": "android",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/OTOTO-BC-logo-alternative-2-1.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.sushiden.net/our-menu/",
+    "dev": "iphone",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/Sushi-Den-logo-alternative-2-1.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.sushiden.net/our-menu/",
+    "dev": "iphone",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/Izakaya-Den-Logo-alternative.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.sushiden.net/our-menu/",
+    "dev": "iphone",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/OTOTO-BC-logo-alternative-2-1.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.sushiden.net/our-menu/",
+    "dev": "android",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/Sushi-Den-logo-alternative-2-1.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.sushiden.net/our-menu/",
+    "dev": "android",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/Izakaya-Den-Logo-alternative.png"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.sushiden.net/our-menu/",
+    "dev": "android",
+    "msg": "broken image: https://ototoden.com/wp-content/uploads/OTOTO-BC-logo-alternative-2-1.png"
+   }
+  ]
+ },
+ "http://docksidewillies.com/": {
+  "name": "Dockside Willies",
+  "reviews": "4432",
+  "takes_money": "Toast ordering; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "http://docksidewillies.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.Background__Container-sc-e7fef316-0 covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "http://docksidewillies.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.Popup__PopupContainer-sc-223d3ce6-1 covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "http://docksidewillies.com/",
+    "dev": "android",
+    "msg": "fixed layer div.Background__Container-sc-e7fef316-0 covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "http://docksidewillies.com/",
+    "dev": "android",
+    "msg": "fixed layer div.Popup__PopupContainer-sc-223d3ce6-1 covers 100% of the screen"
+   }
+  ]
+ },
+ "https://peglegporker.com/": {
+  "name": "Peg Leg Porker BBQ",
+  "reviews": "3922",
+  "takes_money": "Toast ordering; DoorDash storefront; ChowNow ordering; WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://peglegporker.com/",
+    "dev": "android",
+    "msg": "broken image: https://peglegporker.com/wp-content/smush-webp/2025/02/PhotoSep262022_80356PM-PhotoRoom-1024x1024.png.webp"
+   }
+  ]
+ },
+ "https://www.fondasanmiguel.com/": {
+  "name": "Fonda San Miguel",
+  "reviews": "3662",
+  "takes_money": "Toast ordering; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.fondasanmiguel.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#form-field-name.elementor-field at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.fondasanmiguel.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.fondasanmiguel.com/reservations/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#form-field-name.elementor-field at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.fondasanmiguel.com/reservations/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://goldskincare.com/": {
+  "name": "Gold Skin Care Center",
+  "reviews": "657",
+  "takes_money": "'book an appointment' link",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://goldskincare.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ff_3_input_text.ff-el-form-control at 15.07952px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://goldskincare.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ff_3_email.ff-el-form-control at 15.07952px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://goldskincare.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ff_3_phone.ff-el-form-control at 15.07952px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://goldskincare.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: select#ff_3_dropdown.ff-el-form-control at 15.07952px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://goldskincare.com/contact-us",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ff_3_input_text.ff-el-form-control at 15.07952px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://goldskincare.com/contact-us",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ff_3_email.ff-el-form-control at 15.07952px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://goldskincare.com/contact-us",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ff_3_phone.ff-el-form-control at 15.07952px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://goldskincare.com/contact-us",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: select#ff_3_dropdown.ff-el-form-control at 15.07952px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://esquiretavern-sa.com/": {
+  "name": "The Esquire Tavern",
+  "reviews": "5224",
+  "takes_money": "Toast ordering; OpenTable reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://esquiretavern-sa.com/fare-libations/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.selectric-input at 9px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://esquiretavern-sa.com/fare-libations/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.selectric-input at 9px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://www.alhambrapalacechicago.com/": {
+  "name": "Alhambra Palace Chicago",
+  "reviews": "4414",
+  "takes_money": "Toast ordering; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.alhambrapalacechicago.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.bgCover covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.alhambrapalacechicago.com/",
+    "dev": "android",
+    "msg": "fixed layer div.bgCover covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.alhambrapalacechicago.com/reservation-840038",
+    "dev": "iphone",
+    "msg": "fixed layer div.bgCover covers 100% of the screen"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://www.alhambrapalacechicago.com/reservation-840038",
+    "dev": "iphone",
+    "href": "https://alhambrapalacechicago.com/foodanddrink",
+    "text": "View Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://www.alhambrapalacechicago.com/reservation-840038",
+    "dev": "iphone",
+    "href": "https://alhambrapalacechicago.com/reservation",
+    "text": "Click here to reserve your table",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.alhambrapalacechicago.com/reservation-840038",
+    "dev": "iphone",
+    "href": "https://alhambrapalacechicago.com/happenings",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.alhambrapalacechicago.com/reservation-840038",
+    "dev": "iphone",
+    "href": "https://alhambrapalacechicago.com/privatedining",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.alhambrapalacechicago.com/reservation-840038",
+    "dev": "android",
+    "msg": "fixed layer div.bgCover covers 100% of the screen"
+   }
+  ]
+ },
+ "https://www.themarketplaceatsteamtown.com/": {
+  "name": "The Marketplace at Steamtown",
+  "reviews": "3906",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.themarketplaceatsteamtown.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#pageBackground_ngxoi.pageBackground_ngxoi covers 100% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.themarketplaceatsteamtown.com/",
+    "dev": "iphone",
+    "href": "https://jzielen.wixsite.com/shopsmall",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.themarketplaceatsteamtown.com/",
+    "dev": "android",
+    "msg": "fixed layer div#pageBackground_ngxoi.pageBackground_ngxoi covers 100% of the screen"
+   }
+  ]
+ },
+ "https://continentalmidtown.com/": {
+  "name": "The Continental Mid-town",
+  "reviews": "3654",
+  "takes_money": "DoorDash storefront; OpenTable reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://continentalmidtown.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://continentalmidtown.com/",
+    "dev": "android",
+    "msg": "fixed layer div.onetrust-pc-dark-filter covers 100% of the screen"
+   }
+  ]
+ },
+ "https://luclackitchen.com/": {
+  "name": "Luc Lac Vietnamese Kitchen",
+  "reviews": "6720",
+  "takes_money": "Toast ordering; DoorDash storefront",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://luclackitchen.com/",
+    "dev": "iphone",
+    "href": "https://postmates.com/merchant/luc-luc-vietnamese-kitchens-portland",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://shopcapitalcitymall.com/": {
+  "name": "Capital City Mall",
+  "reviews": "5898",
+  "takes_money": "gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://shopcapitalcitymall.com/directory",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.css-1gc0p4z-SearchBox-SearchBox at 15px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://www.connollyspubandrestaurant.com/": {
+  "name": "Connolly's",
+  "reviews": "5169",
+  "takes_money": "WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.connollyspubandrestaurant.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.connollyspubandrestaurant.com/menu/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://bluewaterseafoodsandiego.com/": {
+  "name": "Blue Water Seafood Market & Grill",
+  "reviews": "4784",
+  "takes_money": "Toast ordering; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://bluewaterseafoodsandiego.com/san-diego-ocean-beach-blue-water-seafood-food-menu",
+    "dev": "iphone",
+    "href": "https://bluewaterseafoodsandiego.com/18049",
+    "text": "Ocean Beach Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://bluewaterseafoodsandiego.com/san-diego-ocean-beach-blue-water-seafood-food-menu",
+    "dev": "iphone",
+    "href": "https://bluewaterseafoodsandiego.com/80759",
+    "text": "Mission Hills Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://bluewaterseafoodsandiego.com/san-diego-ocean-beach-blue-water-seafood-food-menu",
+    "dev": "iphone",
+    "href": "https://bluewaterseafoodsandiego.com/228076",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://bluewaterseafoodsandiego.com/san-diego-ocean-beach-blue-water-seafood-food-menu",
+    "dev": "iphone",
+    "href": "https://bluewaterseafoodsandiego.com/29751",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.waterbarsf.com/": {
+  "name": "Waterbar Restaurant",
+  "reviews": "4411",
+  "takes_money": "online ordering; OpenTable reservations; Resy reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.waterbarsf.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.termly-styles-root-b0aebb covers 52% of the screen"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://www.waterbarsf.com/",
+    "dev": "iphone",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=17035&restref=17035&experienceId=709934&utm_source=external&utm_medium=referral&utm_campaign=shared",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.waterbarsf.com/",
+    "dev": "android",
+    "msg": "broken image: https://www.opentable.com/restaurant-solutions/badge/ot/DC2-2025.png"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.waterbarsf.com/",
+    "dev": "android",
+    "msg": "fixed layer div.termly-styles-root-b0aebb covers 47% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.waterbarsf.com/menus/",
+    "dev": "iphone",
+    "msg": "fixed layer div.termly-styles-root-b0aebb covers 52% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.waterbarsf.com/menus/",
+    "dev": "android",
+    "msg": "fixed layer div.termly-styles-root-b0aebb covers 47% of the screen"
+   }
+  ]
+ },
+ "https://bluestardonuts.com/": {
+  "name": "Blue Star Donuts",
+  "reviews": "3654",
+  "takes_money": "Toast ordering; Shopify store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://bluestardonuts.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.needsclick covers 100% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://bluestardonuts.com/",
+    "dev": "iphone",
+    "href": "https://bluestardonuts.com/products/apple-fritter",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://bluestardonuts.com/",
+    "dev": "iphone",
+    "href": "https://bluestardonuts.com/products/blue-star-roast",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://bluestardonuts.com/",
+    "dev": "iphone",
+    "href": "https://bluestardonuts.com/products/enamel-pin",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://bluestardonuts.com/",
+    "dev": "android",
+    "msg": "fixed layer div.needsclick covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://bluestardonuts.com/pages/giftcards",
+    "dev": "iphone",
+    "msg": "fixed layer div.needsclick covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://bluestardonuts.com/pages/giftcards",
+    "dev": "android",
+    "msg": "fixed layer div.needsclick covers 100% of the screen"
+   }
+  ]
+ },
+ "https://therestorationhotel.com/": {
+  "name": "The Restoration Charleston",
+  "reviews": "629",
+  "takes_money": "WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://therestorationhotel.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.long at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://therestorationhotel.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/logo-therestoration-white.svg"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://therestorationhotel.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/icon-key.svg"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://therestorationhotel.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#cmplz-cookiebanner-1-optout.cmplz-cookiebanner covers 41% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://therestorationhotel.com/",
+    "dev": "android",
+    "msg": "broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/logo-therestoration-white.svg"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://therestorationhotel.com/",
+    "dev": "android",
+    "msg": "broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/icon-key.svg"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://therestorationhotel.com/experiences/shop-stroll-package/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input.long at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "overflow",
+    "where": "hop",
+    "url": "https://therestorationhotel.com/experiences/shop-stroll-package/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 130px sideways): div.booking-selector right=780, a.booking-selector__close-btn right=756, svg right=756, div.booking-selector__inner right=780, fieldset right=510, div right=510",
+    "panX": 130
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://therestorationhotel.com/experiences/shop-stroll-package/",
+    "dev": "iphone",
+    "msg": "broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/logo-therestoration-white.svg"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://therestorationhotel.com/experiences/shop-stroll-package/",
+    "dev": "iphone",
+    "msg": "fixed layer div#cmplz-cookiebanner-1-optout.cmplz-cookiebanner covers 41% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://therestorationhotel.com/experiences/shop-stroll-package/",
+    "dev": "android",
+    "msg": "broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/logo-therestoration-white.svg"
+   }
+  ]
+ },
+ "https://roundtheclockdiner.com/": {
+  "name": "Round the Clock Diner",
+  "reviews": "5897",
+  "takes_money": "WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://roundtheclockdiner.com/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 4px sideways): div.progression-masonry-margins right=394, div.progression-menu-masonry3 right=394, div.progression-masonry-item right=394, div.progression-menu-masonry-padding right=394, div.progression-masonry-item right=394, div.progression-menu-masonry-padding right=394",
+    "panX": 4
+   }
+  ]
+ },
+ "https://www.magnoliabakery.com/": {
+  "name": "Magnolia Bakery",
+  "reviews": "5128",
+  "takes_money": "Toast ordering; DoorDash storefront; Shopify store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.magnoliabakery.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#mobile_dropdown_input.mobile_dropdown_search_box at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.magnoliabakery.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ispbxii_1.SearchDrawer__input at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.magnoliabakery.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ispbxii_2.SearchDrawer__input at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.magnoliabakery.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://www.magnoliabakery.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.magnoliabakery.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=137017329&Ver=2&mid=f5c8dbd4-65f4-4177-aa1d-b0e2afe9438e&bo=1&sid=77982fc0c1d211f1a043abbec02b4bb5&vid=779851c0c1d211f1a201bf01"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.magnoliabakery.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://lantern.roeye.com/track.php?fingerprint=24ee1c3f-102b-4417-bf6a-48c63863fd0d&referrer=&landingpage=https%3A%2F%2Fwww.magnoliabakery.com%2F&useragent=Moz"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.magnoliabakery.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#sf-modal-dialog.storefront-sdk-emotion-1fshec4 covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.magnoliabakery.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#onetrust-banner-sdk.otFloatingRoundedCorner covers 42% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.magnoliabakery.com/",
+    "dev": "iphone",
+    "href": "https://www.ezcater.com/brand/pvt/magnolia-bakery",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.magnoliabakery.com/",
+    "dev": "android",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=137017329&Ver=2&mid=0bd413fb-0224-480d-86a6-d7f6c7fe2c47&bo=1&sid=90a98fb0c1d211f18cc5450496ca404d&vid=90a9c610c1d211f18e6e598e"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://www.magnoliabakery.com/",
+    "dev": "android",
+    "msg": "broken image: https://lantern.roeye.com/track.php?fingerprint=1ffe0a94-7b33-480f-bb7e-df2ba31f8aae&referrer=&landingpage=https%3A%2F%2Fwww.magnoliabakery.com%2F&useragent=Moz"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#mobile_dropdown_input.mobile_dropdown_search_box at 14px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ispbxii_1.SearchDrawer__input at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ispbxii_2.SearchDrawer__input at 15px (needs 16px on touch)"
+   },
+   {
+    "kind": "overflow",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 10px sideways): div#SliderCart.SliderCart right=710, div.Form__body right=400, button.Button right=410, i.Icon right=408, div#hs-interactives-modal-overlay.go1632949049 right=394",
+    "panX": 10
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "iphone",
+    "msg": "broken image: https://www.magnoliabakery.com/collections?delivery=Local"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "iphone",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=137017329&Ver=2&mid=5da5de43-99be-4824-bd76-cc5a46e4dcc9&bo=1&sid=a9c0e920c1d211f1a4c6c114e902050d&vid=a9c0f750c1d211f1828db3d1"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "iphone",
+    "msg": "broken image: https://lantern.roeye.com/track.php?fingerprint=9f567954-90c8-4608-84df-a3afe76f4ea8&referrer=&landingpage=https%3A%2F%2Fwww.magnoliabakery.com%2Fcollections%3F"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "iphone",
+    "msg": "fixed layer div#sf-modal-dialog.storefront-sdk-emotion-1fshec4 covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "iphone",
+    "msg": "fixed layer div#onetrust-banner-sdk.otFloatingRoundedCorner covers 42% of the screen"
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "iphone",
+    "href": "https://www.magnoliabakery.com/products/magnolia-bakery-gift-card",
+    "text": "GIFT CARDS",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "iphone",
+    "href": "https://www.ezcater.com/brand/pvt/magnolia-bakery",
+    "text": "",
+    "codes": [
+     406,
+     406
+    ]
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "android",
+    "msg": "broken image: https://bat.bing.com/action/0?ti=137017329&Ver=2&mid=5deabae4-1941-4681-b3bd-dbde3a4ef6f1&bo=1&sid=c126b680c1d211f1b6edd705ffbc583e&vid=c126c8e0c1d211f1900acbad"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://www.magnoliabakery.com/collections?delivery=Local",
+    "dev": "android",
+    "msg": "broken image: https://lantern.roeye.com/track.php?fingerprint=f17f15ba-8f02-450c-b932-b163369e3ed6&referrer=&landingpage=https%3A%2F%2Fwww.magnoliabakery.com%2Fcollections%3F"
+   }
+  ]
+ },
+ "https://fivepointspizza.com/": {
+  "name": "Five Points Pizza East",
+  "reviews": "4783",
+  "takes_money": "Toast ordering; ChowNow ordering; Resy reservations; WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://fivepointspizza.com/",
+    "dev": "iphone",
+    "href": "https://www.order.store/store/five-points-pizza-east/E24RbmRrRuOW-G_YNVzJ1Q",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://fivepointspizza.com/",
+    "dev": "iphone",
+    "href": "https://www.order.store/store/five-points-pizza-west/HnExINH4SgW4RQpxzwlrwg",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overflow",
+    "where": "hop",
+    "url": "https://fivepointspizza.com/shop/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 40px sideways): div.grecaptcha-badge right=576",
+    "panX": 40
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://fivepointspizza.com/shop/",
+    "dev": "iphone",
+    "href": "https://www.order.store/store/five-points-pizza-east/E24RbmRrRuOW-G_YNVzJ1Q",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://fivepointspizza.com/shop/",
+    "dev": "iphone",
+    "href": "https://www.order.store/store/five-points-pizza-west/HnExINH4SgW4RQpxzwlrwg",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://hobbitcafehtx.com/": {
+  "name": "Hobbit Cafe",
+  "reviews": "4409",
+  "takes_money": "Toast ordering; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "hop_http",
+    "where": "hop",
+    "url": "https://hobbitcafehtx.com/shop?olsPage=cart",
+    "dev": "iphone",
+    "msg": "HTTP 404"
+   },
+   {
+    "kind": "hop_http",
+    "where": "hop",
+    "url": "https://hobbitcafehtx.com/shop?olsPage=cart",
+    "dev": "android",
+    "msg": "HTTP 404"
+   }
+  ]
+ },
+ "https://www.edleysbbq.com/locations/12-south": {
+  "name": "Edley's Bar-B-Que",
+  "reviews": "4079",
+  "takes_money": "Square; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.edleysbbq.com/locations/12-south",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#name-yui_3_17_2_1_1553888888520_3744-fname-field.ngonnDl0lqs7ZArA at 15.2032px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.edleysbbq.com/locations/12-south",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#name-yui_3_17_2_1_1553888888520_3744-lname-field.ngonnDl0lqs7ZArA at 15.2032px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.edleysbbq.com/locations/12-south",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#email-yui_3_17_2_1_1553888888520_3745-field.ngonnDl0lqs7ZArA at 15.2032px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.edleysbbq.com/locations/12-south",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: textarea#textarea-yui_3_17_2_1_1553888888520_3747-field.qj2U4ppWTRohr5rP at 15.2032px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://www.thesouthernnashville.com/": {
+  "name": "The Southern Steak & Oyster",
+  "reviews": "3893",
+  "takes_money": "Toast ordering; Square; Resy reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.thesouthernnashville.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-consent-container covers 43% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.thesouthernnashville.com/",
+    "dev": "android",
+    "msg": "fixed layer div.cky-consent-container covers 40% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.thesouthernnashville.com/reservations-index",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-consent-container covers 43% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.thesouthernnashville.com/reservations-index",
+    "dev": "android",
+    "msg": "fixed layer div.cky-consent-container covers 40% of the screen"
+   }
+  ]
+ },
+ "https://www.hofbrauhauslasvegas.com/": {
+  "name": "Hofbrauhaus Las Vegas",
+  "reviews": "3638",
+  "takes_money": "OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.hofbrauhauslasvegas.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-consent-container covers 57% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.hofbrauhauslasvegas.com/",
+    "dev": "iphone",
+    "href": "http://hofbrauhausstg.wpenginepowered.com/affiliates/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.hofbrauhauslasvegas.com/",
+    "dev": "iphone",
+    "href": "http://hofbrauhausstg.wpenginepowered.com/locations/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.hofbrauhauslasvegas.com/",
+    "dev": "android",
+    "msg": "fixed layer div.cky-consent-container covers 52% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.hofbrauhauslasvegas.com/reservation/",
+    "dev": "iphone",
+    "msg": "fixed layer div.cky-consent-container covers 57% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.hofbrauhauslasvegas.com/reservation/",
+    "dev": "iphone",
+    "href": "http://hofbrauhausstg.wpenginepowered.com/affiliates/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.hofbrauhauslasvegas.com/reservation/",
+    "dev": "iphone",
+    "href": "http://hofbrauhausstg.wpenginepowered.com/locations/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://www.hofbrauhauslasvegas.com/reservation/",
+    "dev": "android",
+    "msg": "fixed layer div.cky-consent-container covers 52% of the screen"
+   }
+  ]
+ },
+ "https://www.bellasalonandspa.net": {
+  "name": "Bella Salon & Spa",
+  "reviews": "627",
+  "takes_money": "salon booking; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.bellasalonandspa.net",
+    "dev": "iphone",
+    "msg": "fixed layer iframe#promo_18845.promo covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://www.bellasalonandspa.net",
+    "dev": "android",
+    "msg": "fixed layer iframe#promo_18845.promo covers 100% of the screen"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.bellasalonandspa.net/birthday-gift-registry",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#textbox-0-0.fb-field-input at 15.066px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.bellasalonandspa.net/birthday-gift-registry",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#fullname-3-0-firstname.fb-field-input at 15.066px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.bellasalonandspa.net/birthday-gift-registry",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#fullname-3-0-lastname.fb-field-input at 15.066px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://www.bellasalonandspa.net/birthday-gift-registry",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#email-4-0.fb-field-input at 15.066px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://bonitomichoacan.com/": {
+  "name": "Bonito Michoacan Mexican Restaurant",
+  "reviews": "7551",
+  "takes_money": "ChowNow ordering",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://bonitomichoacan.com/",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 7840px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://bonitomichoacan.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#promotion-pop-up.modal covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://bonitomichoacan.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.modal-backdrop covers 100% of the screen"
+   },
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://bonitomichoacan.com/",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 7866px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://bonitomichoacan.com/",
+    "dev": "android",
+    "msg": "fixed layer div#promotion-pop-up.modal covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://bonitomichoacan.com/",
+    "dev": "android",
+    "msg": "fixed layer div.modal-backdrop covers 100% of the screen"
+   }
+  ]
+ },
+ "https://statesidelive.com/": {
+  "name": "Stateside Live!",
+  "reviews": "6631",
+  "takes_money": "Shopify store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://statesidelive.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ctablock at 11px (needs 16px on touch)"
+   },
+   {
+    "kind": "zoom",
+    "where": "hop",
+    "url": "https://statesidelive.com/parties-vip-tables",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#ctablock at 11px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://filomena.com/": {
+  "name": "Filomena Ristorante",
+  "reviews": "5782",
+  "takes_money": "OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://filomena.com/",
+    "dev": "iphone",
+    "href": "https://filomena.wpengine.com/gift-cards/",
+    "text": "Gift Cards",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://filomena.com/menu/",
+    "dev": "iphone",
+    "href": "https://filomena.wpengine.com/gift-cards/",
+    "text": "Gift Cards",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://filomena.com/menu/",
+    "dev": "iphone",
+    "href": "https://filomena.wpengine.com/dinner/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://filomena.com/menu/",
+    "dev": "iphone",
+    "href": "https://filomena.wpengine.com/lunch/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://filomena.com/menu/",
+    "dev": "iphone",
+    "href": "https://filomena.wpengine.com/desserts/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://filomena.com/menu/",
+    "dev": "iphone",
+    "href": "https://filomena.wpengine.com/wine/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://filomena.com/menu/",
+    "dev": "iphone",
+    "href": "https://filomena.wpengine.com/terms-of-use/",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://dirtyfranks.com/": {
+  "name": "Dirty Frank's Hot Dog Palace",
+  "reviews": "5068",
+  "takes_money": "Toast ordering; DoorDash storefront; Shopify store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://dirtyfranks.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.uabb-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://dirtyfranks.com/",
+    "dev": "android",
+    "msg": "fixed layer div.uabb-overlay covers 100% of the screen"
+   }
+  ]
+ },
+ "https://bouldincreekcafe.com/": {
+  "name": "Bouldin Creek Cafe",
+  "reviews": "4759",
+  "takes_money": "Toast ordering; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://bouldincreekcafe.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://bouldincreekcafe.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://bouldincreekcafe.com/",
+    "dev": "android",
+    "msg": "broken image: https://bouldincreekcafe.com/"
+   }
+  ]
+ },
+ "https://www.pikeplacefish.com/": {
+  "name": "Pike Place Fish Market",
+  "reviews": "4376",
+  "takes_money": "Toast ordering; Square",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.pikeplacefish.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input#email-yui_3_17_2_1_1620865679831_44428-field.newsletter-form-field-element at 15px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://www.rheinhausseattle.com/": {
+  "name": "Rhein Haus Seattle",
+  "reviews": "4021",
+  "takes_money": "Toast ordering; Square; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.rheinhausseattle.com/",
+    "dev": "iphone",
+    "href": "https://yesparade.com/jobs",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.rheinhausseattle.com/menus",
+    "dev": "iphone",
+    "href": "https://yesparade.com/jobs",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://stjohnsgrill.com/": {
+  "name": "St. John's Bar & Grill",
+  "reviews": "3637",
+  "takes_money": "WooCommerce store",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://stjohnsgrill.com/",
+    "dev": "iphone",
+    "href": "https://stjohnsgrill.com/4",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://spaghettiwarehouse.com/": {
+  "name": "The Spaghetti Warehouse",
+  "reviews": "7367",
+  "takes_money": "Toast ordering; OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://spaghettiwarehouse.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://www.facebook.com/tr/?id=810729440532885&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=MSV6BYA57FAFVEECST6E3A&cd[ar_segment_name]=14a31eb2"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://spaghettiwarehouse.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://www.facebook.com/tr/?id=810729440532885&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=MSV6BYA57FAFVEECST6E3A&cd[ar_segment_name]=14a31eb2"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://spaghettiwarehouse.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.sw-custom-popup-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://spaghettiwarehouse.com/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=b1cbc9ce3ad5fbbcbf7b273628890ec8-1791324368595&pv=29331472793.000317&arrfrr=https%3A%2F%2Fspaghettiwareh"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://spaghettiwarehouse.com/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/l/out?af0=af47dabf&adroll_fpc=b1cbc9ce3ad5fbbcbf7b273628890ec8-1791324368595&pv=29331472793.000317&arrfrr=https%3A%2F%2Fspaghettiwarehou"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://spaghettiwarehouse.com/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=b1cbc9ce3ad5fbbcbf7b273628890ec8-1791324368595&pv=29331472793.000317&arrfrr=https%3A%2F%2Fspaghetti"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://spaghettiwarehouse.com/",
+    "dev": "android",
+    "msg": "fixed layer div.sw-custom-popup-overlay covers 100% of the screen"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://spaghettiwarehouse.com/menu/",
+    "dev": "iphone",
+    "msg": "broken image: https://www.facebook.com/tr/?id=810729440532885&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=MSV6BYA57FAFVEECST6E3A&cd[ar_segment_name]=14a31eb2"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://spaghettiwarehouse.com/menu/",
+    "dev": "iphone",
+    "msg": "broken image: https://www.facebook.com/tr/?id=810729440532885&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=MSV6BYA57FAFVEECST6E3A&cd[ar_segment_name]=14a31eb2"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://spaghettiwarehouse.com/menu/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/l/out?af0=af47dabf&adroll_fpc=37729fd72c1e495c97981477a0a92234-1791324382537&pv=12840682604.277576&arrfrr=https%3A%2F%2Fspaghettiwarehou"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://spaghettiwarehouse.com/menu/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=37729fd72c1e495c97981477a0a92234-1791324382537&pv=12840682604.277576&arrfrr=https%3A%2F%2Fspaghetti"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://spaghettiwarehouse.com/menu/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/cm/taboola/out?af0=af47dabf&adroll_fpc=37729fd72c1e495c97981477a0a92234-1791324382537&pv=12840682604.277576&arrfrr=https%3A%2F%2Fspaghettiw"
+   }
+  ]
+ },
+ "https://hallschophousecharleston.com/": {
+  "name": "Halls Chophouse",
+  "reviews": "6599",
+  "takes_money": "Resy reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_money_link",
+    "where": "home",
+    "url": "https://hallschophousecharleston.com/",
+    "dev": "iphone",
+    "href": "https://www.hallmanagementgroup.com/store/gift-cards/",
+    "text": "Gift Cards",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://hallschophousecharleston.com/charleston-downtown-halls-chophouse-charleston-food-menu",
+    "dev": "iphone",
+    "href": "https://hallschophousecharleston.com/6926",
+    "text": "Bar Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://hallschophousecharleston.com/charleston-downtown-halls-chophouse-charleston-food-menu",
+    "dev": "iphone",
+    "href": "https://www.hallmanagementgroup.com/store/gift-cards/",
+    "text": "Gift Cards",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://hallschophousecharleston.com/charleston-downtown-halls-chophouse-charleston-food-menu",
+    "dev": "iphone",
+    "href": "https://hallschophousecharleston.com/6922",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://hallschophousecharleston.com/charleston-downtown-halls-chophouse-charleston-food-menu",
+    "dev": "iphone",
+    "href": "https://hallschophousecharleston.com/6923",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://hallschophousecharleston.com/charleston-downtown-halls-chophouse-charleston-food-menu",
+    "dev": "iphone",
+    "href": "https://hallschophousecharleston.com/197491",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://hallschophousecharleston.com/charleston-downtown-halls-chophouse-charleston-food-menu",
+    "dev": "iphone",
+    "href": "https://hallschophousecharleston.com/6925",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://cattlemensrestaurant.com/": {
+  "name": "Cattlemen's Steakhouse",
+  "reviews": "5736",
+  "takes_money": "OpenTable reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://cattlemensrestaurant.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#cookieFloatingBar covers 41% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "hop",
+    "url": "https://cattlemensrestaurant.com/beer-menu",
+    "dev": "iphone",
+    "msg": "fixed layer div#cookieFloatingBar covers 41% of the screen"
+   }
+  ]
+ },
+ "https://eatcbq.com/": {
+  "name": "Central BBQ - Midtown",
+  "reviews": "4716",
+  "takes_money": "Shopify store; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://eatcbq.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?adroll_tpc=lx3%3Dlex-9d456e07-fec4-4bd5-acef-f9da46059494&af0=3dcece8e&adroll_fpc=7c7f83"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://eatcbq.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?adroll_tpc=lx3%3Dlex-9d456e07-fec4-4bd5-acef-f9da46059494&af0=3dcece8e&adroll_fpc=7c7f83"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://eatcbq.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://d.adroll.com/uat/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?adroll_tpc=lx3%3Dlex-9d456e07-fec4-4bd5-acef-f9da46059494&af0=3dcece8e&adroll_fpc=7c7f83"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://eatcbq.com/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?af0=af47dabf&adroll_fpc=b6e61117f927f09cb67adb095d7ba944-1791324645003&pv=13481796764.25"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://eatcbq.com/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?af0=af47dabf&adroll_fpc=b6e61117f927f09cb67adb095d7ba944-1791324645003&pv=13481796764.25"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://eatcbq.com/",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/uat/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?af0=af47dabf&adroll_fpc=b6e61117f927f09cb67adb095d7ba944-1791324645003&pv=13481796764.25"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://eatcbq.com/pages/locations",
+    "dev": "iphone",
+    "msg": "broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?adroll_tpc=lx3%3Dlex-9d456e07-fec4-4bd5-acef-f9da46059494&af0=3dcece8e&adroll_fpc=eca24a"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://eatcbq.com/pages/locations",
+    "dev": "iphone",
+    "msg": "broken image: https://d.adroll.com/uat/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?adroll_tpc=lx3%3Dlex-9d456e07-fec4-4bd5-acef-f9da46059494&af0=3dcece8e&adroll_fpc=eca24a"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://eatcbq.com/pages/locations",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/uev/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?af0=af47dabf&adroll_fpc=97feccffc080c38caab76c2113b20071-1791324690771&pv=28708823825.50"
+   },
+   {
+    "kind": "broken_img",
+    "where": "hop",
+    "url": "https://eatcbq.com/pages/locations",
+    "dev": "android",
+    "msg": "broken image: https://d.adroll.com/uat/QHY42XL3PFBCBKJZ3RMPGC/EQZWVAUJTND7HJ3GHSHL65/?af0=af47dabf&adroll_fpc=97feccffc080c38caab76c2113b20071-1791324690771&pv=28708823825.50"
+   }
+  ]
+ },
+ "https://owlcafenm.com/": {
+  "name": "Owl Cafe",
+  "reviews": "4301",
+  "takes_money": "Toast ordering",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://owlcafenm.com/",
+    "dev": "iphone",
+    "msg": "document locked (overflow hidden) with 7657px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://owlcafenm.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div#promotion-pop-up.modal covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://owlcafenm.com/",
+    "dev": "iphone",
+    "msg": "fixed layer div.modal-backdrop covers 100% of the screen"
+   },
+   {
+    "kind": "locked",
+    "where": "home",
+    "url": "https://owlcafenm.com/",
+    "dev": "android",
+    "msg": "document locked (overflow hidden) with 7647px of content and no inner scroller"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://owlcafenm.com/",
+    "dev": "android",
+    "msg": "fixed layer div#promotion-pop-up.modal covers 100% of the screen"
+   },
+   {
+    "kind": "overlay",
+    "where": "home",
+    "url": "https://owlcafenm.com/",
+    "dev": "android",
+    "msg": "fixed layer div.modal-backdrop covers 100% of the screen"
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://owlcafenm.com/-food-menu?source=header&spot_id=105524&destination=food_menu&promotion=taco_day",
+    "dev": "iphone",
+    "href": "https://owlcafenm.com/671392",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://owlcafenm.com/-food-menu?source=header&spot_id=105524&destination=food_menu&promotion=taco_day",
+    "dev": "iphone",
+    "href": "https://owlcafenm.com/671418",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://owlcafenm.com/-food-menu?source=header&spot_id=105524&destination=food_menu&promotion=taco_day",
+    "dev": "iphone",
+    "href": "https://owlcafenm.com/667074",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://owlcafenm.com/-food-menu?source=header&spot_id=105524&destination=food_menu&promotion=taco_day",
+    "dev": "iphone",
+    "href": "https://owlcafenm.com/782244",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://sobelmanspubandgrill.com/": {
+  "name": "Sobelmans on St. Paul",
+  "reviews": "4017",
+  "takes_money": "'reservations' link",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://sobelmanspubandgrill.com/milwaukee-sobelman-s-food-menu",
+    "dev": "iphone",
+    "href": "https://sobelmanspubandgrill.com/42521",
+    "text": "Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_money_link",
+    "where": "hop",
+    "url": "https://sobelmanspubandgrill.com/milwaukee-sobelman-s-food-menu",
+    "dev": "iphone",
+    "href": "https://sobelmanspubandgrill.com/42532",
+    "text": "Catering Menu",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://sobelmanspubandgrill.com/milwaukee-sobelman-s-food-menu",
+    "dev": "iphone",
+    "href": "https://sobelmanspubandgrill.com/42528",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.beachchalet.com/": {
+  "name": "Beach Chalet Brewery and Restaurant",
+  "reviews": "3817",
+  "takes_money": "Toast ordering; DoorDash storefront; Square; Yelp reservations; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.beachchalet.com/",
+    "dev": "iphone",
+    "href": "https://order.ubereats.com/san-francisco/food-delivery/Park%20Chalet%20Coastal%20Beer%20Garden/uw_zZsJbTyyzB65EDR89IA/?utm_source=web-restaurant-manager",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.beachchalet.com/",
+    "dev": "iphone",
+    "href": "https://www.beachchalet.com/troublemaker-wine-dinner",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "home",
+    "url": "https://www.beachchalet.com/",
+    "dev": "iphone",
+    "href": "https://www.beachchalet.com/jeffersons-bourbon-dinner",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   },
+   {
+    "kind": "dead_link",
+    "where": "hop",
+    "url": "https://www.beachchalet.com/reservations",
+    "dev": "iphone",
+    "href": "https://order.ubereats.com/san-francisco/food-delivery/Park%20Chalet%20Coastal%20Beer%20Garden/uw_zZsJbTyyzB65EDR89IA/?utm_source=web-restaurant-manager",
+    "text": "",
+    "codes": [
+     404,
+     404
+    ]
+   }
+  ]
+ },
+ "https://www.lotusofsiamlv.com/": {
+  "name": "Lotus of Siam - Sahara Ave.",
+  "reviews": "3636",
+  "takes_money": "DoorDash storefront; Square; OpenTable reservations",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "zoom",
+    "where": "home",
+    "url": "https://www.lotusofsiamlv.com/",
+    "dev": "iphone",
+    "msg": "iOS zoom trap: input at 14px (needs 16px on touch)"
+   }
+  ]
+ },
+ "https://progressions.com/": {
+  "name": "Progressions Salon",
+  "reviews": "608",
+  "takes_money": "salon booking; gift cards",
+  "prior": "",
+  "findings": [
+   {
+    "kind": "overflow",
+    "where": "home",
+    "url": "https://progressions.com/",
+    "dev": "iphone",
+    "msg": "sideways overflow (page pans 20px sideways): div.header_text right=410, div.header_text right=410, div.ob-widget-container right=780, div.ob-widget-container-frame-container right=780",
+    "panX": 20
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://progressions.com/",
+    "dev": "iphone",
+    "msg": "broken image: https://progressions.com/"
+   },
+   {
+    "kind": "broken_img",
+    "where": "home",
+    "url": "https://progressions.com/",
+    "dev": "android",
+    "msg": "broken image: https://progressions.com/"
+   }
+  ]
+ }
+}

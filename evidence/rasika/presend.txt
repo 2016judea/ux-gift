@@ -1,0 +1,7 @@
+PASS rasika <rasika@rasikarestaurant.com>
+   ok  http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Winelist-02.24.20.pdf -> 404 (want 404)
+   ok  http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Rasika-PQ-Bar-Menu-02.22.20.pdf -> 404 (want 404)
+   ok  MX rasikarestaurant.com: 0 mail.rasikarestaurant.com.
+   ok  mailgun bounces: not listed
+   ok  mailgun complaints: not listed
+   ok  mailgun unsubscribes: not listed

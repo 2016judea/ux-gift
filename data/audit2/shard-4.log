@@ -1,0 +1,277 @@
+WARN iphone  https://www.felixsfishcamp.com/
+WARN android https://www.felixsfishcamp.com/
+WARN iphone  https://www.felixsfishcamp.com/menu
+WARN android https://www.felixsfishcamp.com/menu
+FAIL iphone  https://atlanticcity.landsharkbarandgrill.com/
+FAIL android https://atlanticcity.landsharkbarandgrill.com/
+FAIL iphone  https://atlanticcity.landsharkbarandgrill.com/menu
+FAIL android https://atlanticcity.landsharkbarandgrill.com/menu
+FAIL iphone  https://steubens.com/
+WARN android https://steubens.com/
+FAIL iphone  https://steubens.com/denver-uptown-steubens-food-menu
+WARN android https://steubens.com/denver-uptown-steubens-food-menu
+WARN iphone  https://www.sushiden.net/
+WARN android https://www.sushiden.net/
+WARN iphone  https://www.sushiden.net/our-menu/
+WARN android https://www.sushiden.net/our-menu/
+WARN iphone  https://chefjohnnyhernandez.com/la-gloria-pearl/
+WARN android https://chefjohnnyhernandez.com/la-gloria-pearl/
+WARN iphone  https://chefjohnnyhernandez.com/la-gloria-pearl-menu/
+WARN android https://chefjohnnyhernandez.com/la-gloria-pearl-menu/
+WARN iphone  http://docksidewillies.com/
+WARN android http://docksidewillies.com/
+WARN iphone  http://docksidewillies.com/menu
+WARN android http://docksidewillies.com/menu
+WARN iphone  https://rathskeller.com/
+WARN android https://rathskeller.com/
+WARN iphone  https://rathskeller.com/menus/
+WARN android https://rathskeller.com/menus/
+WARN iphone  https://peglegporker.com/
+WARN android https://peglegporker.com/
+WARN iphone  https://peglegporker.com/our-menu/
+WARN android https://peglegporker.com/our-menu/
+FAIL iphone  https://www.fondasanmiguel.com/
+FAIL android https://www.fondasanmiguel.com/
+FAIL iphone  https://www.fondasanmiguel.com/reservations/
+FAIL android https://www.fondasanmiguel.com/reservations/
+FAIL iphone  https://goldskincare.com/
+FAIL android https://goldskincare.com/
+FAIL iphone  https://goldskincare.com/contact-us
+FAIL android https://goldskincare.com/contact-us
+
+== findings (FAIL and WARN) ==
+
+https://www.felixsfishcamp.com/  [iphone]
+  WARN  viewport meta: initial-scale=1
+  WARN  1 of 23 tap targets under 24px: a 65x17
+
+https://www.felixsfishcamp.com/  [android]
+  WARN  viewport meta: initial-scale=1
+  WARN  1 of 23 tap targets under 24px: a 65x17
+
+https://www.felixsfishcamp.com/menu  [iphone]
+  WARN  viewport meta: initial-scale=1
+  WARN  1 of 26 tap targets under 24px: a 65x17
+
+https://www.felixsfishcamp.com/menu  [android]
+  WARN  viewport meta: initial-scale=1
+  WARN  1 of 26 tap targets under 24px: a 65x17
+
+https://atlanticcity.landsharkbarandgrill.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=640
+  FAIL  dead link: https://atlanticcity.landsharkbarandgrill.com/LSAC-Beach-Bar answers 404
+  FAIL  pageerror: undefined is not an object (evaluating 'ta.fn.on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 86 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://atlanticcity.landsharkbarandgrill.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=643
+  FAIL  pageerror: Cannot read properties of undefined (reading 'on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 86 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://atlanticcity.landsharkbarandgrill.com/menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=640
+  FAIL  pageerror: undefined is not an object (evaluating 'ta.fn.on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 59 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://atlanticcity.landsharkbarandgrill.com/menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=643
+  FAIL  pageerror: Cannot read properties of undefined (reading 'on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 59 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://steubens.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  16 of 63 tap targets under 24px: button.close 19x34, a 106x17, a.contact-icon 20x20, a.contact-icon 20x20, a.contact-icon 20x20
+  WARN  4 text elements under 12px: div.DateElement__Month-sc-76187219-2 9px, div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://steubens.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  16 of 63 tap targets under 24px: button.close 19x34, a 101x17, a.contact-icon 20x20, a.contact-icon 20x20, a.contact-icon 20x20
+  WARN  4 text elements under 12px: div.DateElement__Month-sc-76187219-2 9px, div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://steubens.com/denver-uptown-steubens-food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://steubens.com/450672 answers 404
+  FAIL  dead link: https://steubens.com/1211711 answers 404
+  FAIL  dead link: https://steubens.com/1211725 answers 404
+  FAIL  dead link: https://steubens.com/450674 answers 404
+  FAIL  dead link: https://steubens.com/450670 answers 404
+
+https://steubens.com/denver-uptown-steubens-food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://www.sushiden.net/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  broken image: https://ototoden.com/wp-content/uploads/Sushi-Den-logo-alternative-2-1.png
+  WARN  broken image: https://ototoden.com/wp-content/uploads/Izakaya-Den-Logo-alternative.png
+  WARN  broken image: https://ototoden.com/wp-content/uploads/OTOTO-BC-logo-alternative-2-1.png
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  10 of 29 tap targets under 24px: a 73x19, a 181x19, a 145x19, a 152x19, a 195x19
+  WARN  8 text elements under 12px: span.copyrights 10px, b 10px, a 10px, a 10px
+
+https://www.sushiden.net/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  broken image: https://ototoden.com/wp-content/uploads/Sushi-Den-logo-alternative-2-1.png
+  WARN  broken image: https://ototoden.com/wp-content/uploads/Izakaya-Den-Logo-alternative.png
+  WARN  broken image: https://ototoden.com/wp-content/uploads/OTOTO-BC-logo-alternative-2-1.png
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  10 of 29 tap targets under 24px: a 73x19, a 181x19, a 145x19, a 152x19, a 195x19
+  WARN  8 text elements under 12px: span.copyrights 10px, b 10px, a 10px, a 10px
+
+https://www.sushiden.net/our-menu/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  broken image: https://ototoden.com/wp-content/uploads/Sushi-Den-logo-alternative-2-1.png
+  WARN  broken image: https://ototoden.com/wp-content/uploads/Izakaya-Den-Logo-alternative.png
+  WARN  broken image: https://ototoden.com/wp-content/uploads/OTOTO-BC-logo-alternative-2-1.png
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  11 of 28 tap targets under 24px: a 180x22, a 73x19, a 181x19, a 145x19, a 152x19
+  WARN  8 text elements under 12px: span.copyrights 10px, b 10px, a 10px, a 10px
+
+https://www.sushiden.net/our-menu/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  broken image: https://ototoden.com/wp-content/uploads/Sushi-Den-logo-alternative-2-1.png
+  WARN  broken image: https://ototoden.com/wp-content/uploads/Izakaya-Den-Logo-alternative.png
+  WARN  broken image: https://ototoden.com/wp-content/uploads/OTOTO-BC-logo-alternative-2-1.png
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  11 of 28 tap targets under 24px: a 180x22, a 73x19, a 181x19, a 145x19, a 152x19
+  WARN  8 text elements under 12px: span.copyrights 10px, b 10px, a 10px, a 10px
+
+https://chefjohnnyhernandez.com/la-gloria-pearl/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  1 of 6 tap targets under 24px: a 127x17
+
+https://chefjohnnyhernandez.com/la-gloria-pearl/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  1 of 6 tap targets under 24px: a 127x17
+
+https://chefjohnnyhernandez.com/la-gloria-pearl-menu/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  1 of 1 tap targets under 24px: a 127x17
+
+https://chefjohnnyhernandez.com/la-gloria-pearl-menu/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  1 of 1 tap targets under 24px: a 127x17
+
+http://docksidewillies.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.offcanvas-menu right=710, a#scroll-top right=430, i.pe-7s-angle-up right=432
+  WARN  fixed layer div.Background__Container-sc-e7fef316-0 covers 100% of the screen
+  WARN  fixed layer div.Popup__PopupContainer-sc-223d3ce6-1 covers 100% of the screen
+  WARN  19 of 44 tap targets under 24px: a 170x20, a 133x21, a 248x21, a 257x21, a 133x21
+
+http://docksidewillies.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.offcanvas-menu right=713, a#scroll-top right=433, i.pe-7s-angle-up right=435
+  WARN  fixed layer div.Background__Container-sc-e7fef316-0 covers 100% of the screen
+  WARN  fixed layer div.Popup__PopupContainer-sc-223d3ce6-1 covers 100% of the screen
+  WARN  header at y=-102 after scrolling down and back up
+  WARN  19 of 43 tap targets under 24px: a 170x20, a 133x21, a 249x21, a 257x21, a 133x21
+
+http://docksidewillies.com/menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.offcanvas-menu right=710, a#scroll-top right=430, i.pe-7s-angle-up right=432
+  WARN  19 of 56 tap targets under 24px: a 170x20, a 133x21, a 248x21, a 257x21, a 133x21
+
+http://docksidewillies.com/menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.offcanvas-menu right=713, a#scroll-top right=433, i.pe-7s-angle-up right=435
+  WARN  19 of 54 tap targets under 24px: a 170x20, a 133x21, a 249x21, a 257x21, a 133x21
+
+https://rathskeller.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#evo_sp.evo_sp right=790
+  WARN  17 of 31 tap targets under 24px: a 49x22, a 125x22, a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14
+  WARN  12 text elements under 12px: a 11px, a 11px, a 11px, div 11px
+
+https://rathskeller.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#evo_sp.evo_sp right=793
+  WARN  17 of 31 tap targets under 24px: a 49x22, a 125x22, a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14
+  WARN  12 text elements under 12px: a 11px, a 11px, a 11px, div 11px
+
+https://rathskeller.com/menus/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#evo_sp.evo_sp right=790
+  WARN  11 of 29 tap targets under 24px: a 88x16, a 88x16, a 182x16, a 171x16, a 76x13
+  WARN  12 text elements under 12px: a 11px, a 11px, a 11px, div 11px
+
+https://rathskeller.com/menus/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#evo_sp.evo_sp right=793
+  WARN  11 of 29 tap targets under 24px: a 88x16, a 88x16, a 182x16, a 171x16, a 76x13
+  WARN  12 text elements under 12px: a 11px, a 11px, a 11px, div 11px
+
+https://peglegporker.com/  [iphone]
+  WARN  23 of 89 tap targets under 24px: a.social-link 20x23, a.social-link 15x23, a.social-link 23x23, a.social-link 26x23, a.social-link 20x23
+  WARN  6 text elements under 12px: p 10.88892px, a 10.88892px, a 10.88892px, p 10.88892px
+
+https://peglegporker.com/  [android]
+  WARN  broken image: https://peglegporker.com/wp-content/smush-webp/2025/02/PhotoSep262022_80356PM-PhotoRoom-1024x1024.png.webp
+  WARN  30 of 84 tap targets under 24px: a.social-link 20x23, a.social-link 15x23, a.social-link 23x23, a.social-link 26x23, a.social-link 20x23
+  WARN  6 text elements under 12px: p 10.8889px, a 10.8889px, a 10.8889px, p 10.8889px
+
+https://peglegporker.com/our-menu/  [iphone]
+  WARN  32 of 70 tap targets under 24px: a.social-link 20x23, a.social-link 15x23, a.social-link 23x23, a.social-link 26x23, a.social-link 20x23
+  WARN  6 text elements under 12px: p 10.88892px, a 10.88892px, a 10.88892px, p 10.88892px
+
+https://peglegporker.com/our-menu/  [android]
+  WARN  39 of 70 tap targets under 24px: a.social-link 20x23, a.social-link 15x23, a.social-link 23x23, a.social-link 26x23, a.social-link 20x23
+  WARN  6 text elements under 12px: p 10.8889px, a 10.8889px, a 10.8889px, p 10.8889px
+
+https://www.fondasanmiguel.com/  [iphone]
+  FAIL  iOS zoom trap: input#form-field-name.elementor-field at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)
+  WARN  9 of 19 tap targets under 24px: a 179x22, a 112x22, a 128x22, a 169x22, a.elementor-icon 20x20
+
+https://www.fondasanmiguel.com/  [android]
+  FAIL  iOS zoom trap: input#form-field-name.elementor-field at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)
+  WARN  9 of 19 tap targets under 24px: a 179x22, a 112x22, a 128x22, a 169x22, a.elementor-icon 20x20
+
+https://www.fondasanmiguel.com/reservations/  [iphone]
+  FAIL  iOS zoom trap: input#form-field-name.elementor-field at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)
+  WARN  5 of 14 tap targets under 24px: a.elementor-icon 20x20, a.elementor-icon 20x20, a.elementor-icon 20x20, a 106x14, a 109x14
+
+https://www.fondasanmiguel.com/reservations/  [android]
+  FAIL  iOS zoom trap: input#form-field-name.elementor-field at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)
+  WARN  5 of 14 tap targets under 24px: a.elementor-icon 20x20, a.elementor-icon 20x20, a.elementor-icon 20x20, a 106x15, a 109x15
+
+https://goldskincare.com/  [iphone]
+  FAIL  iOS zoom trap: input#ff_3_input_text.ff-el-form-control at 15.07952px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ff_3_email.ff-el-form-control at 15.07952px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ff_3_phone.ff-el-form-control at 15.07952px (needs 16px on touch)
+  FAIL  iOS zoom trap: select#ff_3_dropdown.ff-el-form-control at 15.07952px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#-off-canvas-1435-18-inner.offcanvas-inner right=780
+  WARN  5 of 149 tap targets under 24px: a#link_text-1444-18.ct-link-text 80x21, a#link_text-1456-18.ct-link-text 185x21, a#link_text-1556-18.ct-link-text 259x21, a#link_text-1586-18.ct-link-text 247x21, input 179x21
+
+https://goldskincare.com/  [android]
+  FAIL  iOS zoom trap: input#ff_3_input_text.ff-el-form-control at 15.0829px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ff_3_email.ff-el-form-control at 15.0829px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ff_3_phone.ff-el-form-control at 15.0829px (needs 16px on touch)
+  FAIL  iOS zoom trap: select#ff_3_dropdown.ff-el-form-control at 15.0829px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#-off-canvas-1435-18-inner.offcanvas-inner right=786
+  WARN  5 of 149 tap targets under 24px: a#link_text-1444-18.ct-link-text 80x21, a#link_text-1456-18.ct-link-text 185x21, a#link_text-1556-18.ct-link-text 259x21, a#link_text-1586-18.ct-link-text 247x21, input 152x20
+
+https://goldskincare.com/contact-us  [iphone]
+  FAIL  iOS zoom trap: input#ff_3_input_text.ff-el-form-control at 15.07952px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ff_3_email.ff-el-form-control at 15.07952px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ff_3_phone.ff-el-form-control at 15.07952px (needs 16px on touch)
+  FAIL  iOS zoom trap: select#ff_3_dropdown.ff-el-form-control at 15.07952px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#-off-canvas-1435-18-inner.offcanvas-inner right=780
+  WARN  5 of 112 tap targets under 24px: a#link_text-1444-18.ct-link-text 80x21, a#link_text-1456-18.ct-link-text 185x21, a#link_text-1556-18.ct-link-text 259x21, a#link_text-1586-18.ct-link-text 247x21, input 179x21
+
+https://goldskincare.com/contact-us  [android]
+  FAIL  iOS zoom trap: input#ff_3_input_text.ff-el-form-control at 15.0829px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ff_3_email.ff-el-form-control at 15.0829px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ff_3_phone.ff-el-form-control at 15.0829px (needs 16px on touch)
+  FAIL  iOS zoom trap: select#ff_3_dropdown.ff-el-form-control at 15.0829px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#-off-canvas-1435-18-inner.offcanvas-inner right=786
+  WARN  5 of 112 tap targets under 24px: a#link_text-1444-18.ct-link-text 80x21, a#link_text-1456-18.ct-link-text 185x21, a#link_text-1556-18.ct-link-text 259x21, a#link_text-1586-18.ct-link-text 247x21, input 152x20
+
+40 page-device rows, 35 FAIL findings

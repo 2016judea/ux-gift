@@ -1,0 +1,243 @@
+FAIL iphone  https://calhouns.com/
+FAIL android https://calhouns.com/
+WARN iphone  https://calhouns.com/menus/
+WARN android https://calhouns.com/menus/
+WARN iphone  https://elvezrestaurant.com/
+WARN android https://elvezrestaurant.com/
+FAIL iphone  https://ediblebeats.com/restaurants/linger/
+FAIL android https://ediblebeats.com/restaurants/linger/
+FAIL iphone  https://ediblebeats.com/gift-cards/
+FAIL android https://ediblebeats.com/gift-cards/
+WARN iphone  https://riversideartsmarket.org/
+WARN android https://riversideartsmarket.org/
+FAIL iphone  https://www.difarapizzany.com/
+ok   android https://www.difarapizzany.com/
+FAIL iphone  https://www.clydes.com/location/clydes-gallery-place/
+WARN android https://www.clydes.com/location/clydes-gallery-place/
+FAIL iphone  https://hogislandoysters.com/
+FAIL android https://hogislandoysters.com/
+FAIL iphone  https://hogislandoysters.com/restaurants/the-hog-shack/
+FAIL android https://hogislandoysters.com/restaurants/the-hog-shack/
+FAIL iphone  https://www.sweetpetescandy.com
+FAIL android https://www.sweetpetescandy.com
+FAIL iphone  https://www.sweetpetescandy.com/s/shop
+FAIL android https://www.sweetpetescandy.com/s/shop
+FAIL iphone  https://madersrestaurant.com/
+FAIL android https://madersrestaurant.com/
+FAIL iphone  https://madersrestaurant.com/cart
+FAIL android https://madersrestaurant.com/cart
+FAIL iphone  https://www.signaturemedspa.com/
+FAIL android https://www.signaturemedspa.com/
+FAIL iphone  https://www.signaturemedspa.com/contact/
+FAIL android https://www.signaturemedspa.com/contact/
+
+== findings (FAIL and WARN) ==
+
+https://calhouns.com/  [iphone]
+  FAIL  iOS zoom trap: input#input_1_1.large at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.off-canvas-menu-container right=780, div.grecaptcha-badge right=576
+  WARN  1 of 25 tap targets under 24px: a 67x23
+
+https://calhouns.com/  [android]
+  FAIL  iOS zoom trap: input#input_1_1.large at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.off-canvas-menu-container right=786, div.grecaptcha-badge right=579
+  WARN  header at y=-357 after scrolling down and back up
+  WARN  1 of 25 tap targets under 24px: a 67x23
+
+https://calhouns.com/menus/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.off-canvas-menu-container right=780, div.grecaptcha-badge right=576
+  WARN  1 of 36 tap targets under 24px: a 67x23
+
+https://calhouns.com/menus/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.off-canvas-menu-container right=786, div.grecaptcha-badge right=579
+  WARN  header at y=-514 after scrolling down and back up
+  WARN  1 of 37 tap targets under 24px: a 67x23
+
+https://elvezrestaurant.com/  [iphone]
+  WARN  fixed layer div.onetrust-pc-dark-filter covers 100% of the screen
+  WARN  2 of 33 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 75x17
+  WARN  1 text elements under 12px: button.event-enquiry-btn 11px
+
+https://elvezrestaurant.com/  [android]
+  WARN  fixed layer div.onetrust-pc-dark-filter covers 100% of the screen
+  WARN  2 of 33 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 70x18
+
+https://ediblebeats.com/restaurants/linger/  [iphone]
+  FAIL  iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#fws_6ac55b258d2fa.wpb_row right=413, div.row-bg-wrap right=413, div.row-bg right=413, div.row_col_wrap_12_inner right=413, div.vc_col-sm-12 right=391, div.vc_column-inner right=391
+  FAIL  pageerror: Syntax error, unrecognized expression: #!
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  5 of 22 tap targets under 24px: a.closed 22x20, a 43x20, a 87x20, a.uppercase 189x15, a 19x24
+  WARN  1 text elements under 12px: div.indicates-required 11px
+
+https://ediblebeats.com/restaurants/linger/  [android]
+  FAIL  iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.img-with-aniamtion-wrap right=413, h1.vc_custom_heading right=413, a.nectar-button right=413, a.nectar-button right=413, a.nectar-button right=413, a.nectar-button right=413
+  FAIL  pageerror: Syntax error, unrecognized expression: #!
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  header at y=-224 after scrolling down and back up
+  WARN  5 of 22 tap targets under 24px: a.closed 22x20, a 43x20, a 87x20, a.uppercase 189x15, a 19x24
+  WARN  1 text elements under 12px: div.indicates-required 11px
+
+https://ediblebeats.com/gift-cards/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#slide-out-widget-area.fullscreen-split right=410
+  FAIL  pageerror: Syntax error, unrecognized expression: #!
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  5 of 10 tap targets under 24px: a.closed 22x20, a 43x20, a 41x20, a.uppercase 189x15, a 19x24
+
+https://ediblebeats.com/gift-cards/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#slide-out-widget-area.fullscreen-split right=413
+  FAIL  pageerror: Syntax error, unrecognized expression: #!
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  header at y=-16 after scrolling down and back up
+  WARN  5 of 10 tap targets under 24px: a.closed 22x20, a 43x20, a 41x20, a.uppercase 189x15, a 19x24
+
+https://riversideartsmarket.org/  [iphone]
+  WARN  10 of 18 tap targets under 24px: a.fl-screen-reader-text 30x20, a 350x18, a 350x18, a 180x21, a 143x21
+
+https://riversideartsmarket.org/  [android]
+  WARN  10 of 18 tap targets under 24px: a.fl-screen-reader-text 30x20, a 353x18, a 353x18, a 180x21, a 143x21
+
+https://www.difarapizzany.com/  [iphone]
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+
+https://www.clydes.com/location/clydes-gallery-place/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  11 of 43 tap targets under 24px: a 101x18, a 101x18, a 101x18, a 42x18, a 101x18
+
+https://www.clydes.com/location/clydes-gallery-place/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  11 of 43 tap targets under 24px: a 101x18, a 101x18, a 101x18, a 42x18, a 101x18
+
+https://hogislandoysters.com/  [iphone]
+  FAIL  iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input at 14px (needs 16px on touch)
+  WARN  11 of 60 tap targets under 24px: a.awb-custom-text-color 73x14, a.awb-custom-text-color 120x14, a.awb-custom-text-color 72x14, a 21x23, a 24x23
+
+https://hogislandoysters.com/  [android]
+  FAIL  iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input at 14px (needs 16px on touch)
+  WARN  11 of 60 tap targets under 24px: a.awb-custom-text-color 73x14, a.awb-custom-text-color 120x14, a.awb-custom-text-color 72x14, a 21x22, a 24x22
+
+https://hogislandoysters.com/restaurants/the-hog-shack/  [iphone]
+  FAIL  iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input at 14px (needs 16px on touch)
+  WARN  13 of 61 tap targets under 24px: a.tell 148x22, a 36x22, a.awb-custom-text-color 73x14, a.awb-custom-text-color 120x14, a.awb-custom-text-color 72x14
+
+https://hogislandoysters.com/restaurants/the-hog-shack/  [android]
+  FAIL  iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input at 14px (needs 16px on touch)
+  WARN  13 of 61 tap targets under 24px: a.tell 148x22, a 36x22, a.awb-custom-text-color 73x14, a.awb-custom-text-color 120x14, a.awb-custom-text-color 72x14
+
+https://www.sweetpetescandy.com  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.cko right=780
+  FAIL  document locked (overflow hidden) with 6623px of content and no inner scroller
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#leadform-popup-widget-b5b8e8b5-d31c-4608-8e26-4d3cf7204599.leadform-popup-widget covers 100% of the screen
+  WARN  12 of 46 tap targets under 24px: span.swiper-pagination-bullet 8x8, span.swiper-pagination-bullet 8x8, span.swiper-pagination-bullet 8x8, a.w-button 350x16, a 59x23
+
+https://www.sweetpetescandy.com  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.cko right=786
+  FAIL  document locked (overflow hidden) with 6563px of content and no inner scroller
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#leadform-popup-widget-b5b8e8b5-d31c-4608-8e26-4d3cf7204599.leadform-popup-widget covers 100% of the screen
+  WARN  10 of 46 tap targets under 24px: span.swiper-pagination-bullet 8x8, span.swiper-pagination-bullet 8x8, span.swiper-pagination-bullet 8x8, a.w-button 353x16, input.📚19-10-3U4Dfn 244x19
+
+https://www.sweetpetescandy.com/s/shop  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.cko right=780
+  FAIL  document locked (overflow hidden) with 4190px of content and no inner scroller
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#leadform-popup-widget-b5b8e8b5-d31c-4608-8e26-4d3cf7204599.leadform-popup-widget covers 100% of the screen
+  WARN  6 of 92 tap targets under 24px: input.📚19-10-3U4Dfn 241x19, a 91x15, a 32x19, a 32x19, a 32x19
+
+https://www.sweetpetescandy.com/s/shop  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.cko right=786
+  FAIL  document locked (overflow hidden) with 4208px of content and no inner scroller
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#leadform-popup-widget-b5b8e8b5-d31c-4608-8e26-4d3cf7204599.leadform-popup-widget covers 100% of the screen
+  WARN  6 of 92 tap targets under 24px: input.📚19-10-3U4Dfn 244x19, a 91x15, a 32x19, a 32x19, a 32x19
+
+https://madersrestaurant.com/  [iphone]
+  FAIL  iOS zoom trap: input#q.searchbox__input at 13.6px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ECom-NewsletterForm-ecom-i8crb9m8nu.ecom-shopify__newsletter-form-field--input at 13.6px (needs 16px on touch)
+  FAIL  sideways overflow (page pans 5px sideways): a.skip-link right=438, aside#slideout-quickview.slideout right=735, aside#slideout-store-availability.slideout right=735
+  FAIL  dead link: https://madersrestaurant.com/customer_authentication/redirect?locale=en&region_country=US answers 406
+  FAIL  pageerror: undefined is not an object (evaluating 'flkty.nextButton.element')
+  WARN  5 of 18 tap targets under 24px: a 87x16, a 138x16, button.slideout__trigger-mobile-menu 50x18, input#ECom-NewsletterForm-ecom-i8crb9m8nu.ecom-shopify__newsletter-form-field--input 300x18, a 71x17
+  WARN  1 text elements under 12px: ranl 11px
+
+https://madersrestaurant.com/  [android]
+  FAIL  iOS zoom trap: input#q.searchbox__input at 13.6px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ECom-NewsletterForm-ecom-i8crb9m8nu.ecom-shopify__newsletter-form-field--input at 13.6px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): a.skip-link right=438, aside#slideout-quickview.slideout right=743, aside#slideout-store-availability.slideout right=743
+  FAIL  pageerror: Cannot read properties of undefined (reading 'element')
+  WARN  header at y=-175 after scrolling down and back up
+  WARN  5 of 18 tap targets under 24px: a 87x16, a 138x16, button.slideout__trigger-mobile-menu 50x18, input#ECom-NewsletterForm-ecom-i8crb9m8nu.ecom-shopify__newsletter-form-field--input 303x18, a 71x16
+  WARN  1 text elements under 12px: emdh 11px
+
+https://madersrestaurant.com/cart  [iphone]
+  FAIL  iOS zoom trap: input#q.searchbox__input at 13.6px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ECom-NewsletterForm-ecom-i8crb9m8nu.ecom-shopify__newsletter-form-field--input at 13.6px (needs 16px on touch)
+  FAIL  sideways overflow (page pans 5px sideways): a.skip-link right=438, aside#slideout-quickview.slideout right=735, aside#slideout-store-availability.slideout right=735
+  FAIL  dead link: https://madersrestaurant.com/customer_authentication/redirect?locale=en&region_country=US answers 406
+  FAIL  pageerror: Can't find variable: ShippingCalculator
+  WARN  6 of 16 tap targets under 24px: a 87x16, a 138x16, button.slideout__trigger-mobile-menu 50x18, a.ajax-cart__header__continue-link 12x17, input#ECom-NewsletterForm-ecom-i8crb9m8nu.ecom-shopify__newsletter-form-field--input 300x18
+  WARN  1 text elements under 12px: uqtt 11px
+
+https://madersrestaurant.com/cart  [android]
+  FAIL  iOS zoom trap: input#q.searchbox__input at 13.6px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ECom-NewsletterForm-ecom-i8crb9m8nu.ecom-shopify__newsletter-form-field--input at 13.6px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): a.skip-link right=438, aside#slideout-quickview.slideout right=743, aside#slideout-store-availability.slideout right=743
+  FAIL  pageerror: ShippingCalculator is not defined
+  WARN  header at y=-133 after scrolling down and back up
+  WARN  6 of 16 tap targets under 24px: a 87x16, a 138x16, button.slideout__trigger-mobile-menu 50x18, a.ajax-cart__header__continue-link 12x16, input#ECom-NewsletterForm-ecom-i8crb9m8nu.ecom-shopify__newsletter-form-field--input 303x18
+  WARN  1 text elements under 12px: slkh 11px
+
+https://www.signaturemedspa.com/  [iphone]
+  FAIL  iOS zoom trap: input#subscribe_newsletter_field_control_name.form-control at 14.591999px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#subscribe_newsletter_field_control_email.form-control at 14.591999px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#footer_form_field_control_first_name.form-control at 14.591999px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#footer_form_field_control_last_name.form-control at 14.591999px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  wrong phone keyboard: tel field 'Phone *' (input#footer_form_field_control_phone.form-control) is type=text, needs type=tel
+  WARN  49 of 112 tap targets under 24px: a 215x21, a.custom-logo-link 134x18, a.astra-button-link 109x18, button.astra-button 109x20, button.slick-prev 22x22
+  WARN  9 text elements under 12px: div.recaptcha-disclaimer-above-button 11px, a 11px, a 11px, div.recaptcha-disclaimer-above-button 11px
+
+https://www.signaturemedspa.com/  [android]
+  FAIL  iOS zoom trap: input#subscribe_newsletter_field_control_name.form-control at 14.592px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#subscribe_newsletter_field_control_email.form-control at 14.592px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#footer_form_field_control_first_name.form-control at 14.592px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#footer_form_field_control_last_name.form-control at 14.592px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  wrong phone keyboard: tel field 'Phone *' (input#footer_form_field_control_phone.form-control) is type=text, needs type=tel
+  WARN  header at y=-241 after scrolling down and back up
+  WARN  48 of 112 tap targets under 24px: a 215x21, a.custom-logo-link 134x17, a.astra-button-link 109x17, button.astra-button 109x20, button.slick-prev 22x22
+  WARN  9 text elements under 12px: div.recaptcha-disclaimer-above-button 11px, a 11px, a 11px, div.recaptcha-disclaimer-above-button 11px
+
+https://www.signaturemedspa.com/contact/  [iphone]
+  FAIL  iOS zoom trap: input.saddr at 14.591999px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#contact_page_form_field_control_first_name.form-control at 14.591999px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#contact_page_form_field_control_last_name.form-control at 14.591999px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#contact_page_form_field_control_email.form-control at 14.591999px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  wrong phone keyboard: tel field 'Phone *' (input#contact_page_form_field_control_phone.form-control) is type=text, needs type=tel
+  WARN  wrong phone keyboard: tel field 'Phone *' (input#footer_form_field_control_phone.form-control) is type=text, needs type=tel
+  WARN  28 of 60 tap targets under 24px: a 215x21, a.custom-logo-link 134x18, a 44x17, a 44x17, a 44x17
+  WARN  9 text elements under 12px: div.recaptcha-disclaimer-above-button 11px, a 11px, a 11px, div.recaptcha-disclaimer-above-button 11px
+
+https://www.signaturemedspa.com/contact/  [android]
+  FAIL  iOS zoom trap: input.saddr at 14.592px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#contact_page_form_field_control_first_name.form-control at 14.592px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#contact_page_form_field_control_last_name.form-control at 14.592px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#contact_page_form_field_control_email.form-control at 14.592px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  wrong phone keyboard: tel field 'Phone *' (input#contact_page_form_field_control_phone.form-control) is type=text, needs type=tel
+  WARN  wrong phone keyboard: tel field 'Phone *' (input#footer_form_field_control_phone.form-control) is type=text, needs type=tel
+  WARN  header at y=-349 after scrolling down and back up
+  WARN  28 of 60 tap targets under 24px: a 215x21, a.custom-logo-link 134x17, a 44x17, a 44x17, a 44x17
+  WARN  9 text elements under 12px: div.recaptcha-disclaimer-above-button 11px, a 11px, a 11px, div.recaptcha-disclaimer-above-button 11px
+
+32 page-device rows, 56 FAIL findings

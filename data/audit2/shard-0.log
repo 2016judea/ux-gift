@@ -1,0 +1,220 @@
+FAIL iphone  https://www.hulahut.com/locations/austin/
+WARN android https://www.hulahut.com/locations/austin/
+FAIL iphone  https://www.hulahut.com/menu/
+WARN android https://www.hulahut.com/menu/
+WARN iphone  https://ameliesfrenchbakery.com/
+WARN android https://ameliesfrenchbakery.com/
+WARN iphone  https://ameliesfrenchbakery.com/shop/
+WARN android https://ameliesfrenchbakery.com/shop/
+WARN iphone  https://www.shopthevalleymall.com/
+WARN android https://www.shopthevalleymall.com/
+FAIL iphone  https://www.shopthevalleymall.com/directory
+FAIL android https://www.shopthevalleymall.com/directory
+WARN iphone  https://thedandelionpub.com/
+WARN android https://thedandelionpub.com/
+WARN iphone  https://tacopalenque.com/
+WARN android https://tacopalenque.com/
+WARN iphone  https://tacopalenque.com/menu
+WARN android https://tacopalenque.com/menu
+WARN iphone  https://thestinkingrose.com/
+WARN android https://thestinkingrose.com/
+WARN iphone  https://thestinkingrose.com/buy-giiftcard.html
+WARN android https://thestinkingrose.com/buy-giiftcard.html
+FAIL iphone  https://perryssteakhouse.com/locations/tx/dallas/park-district/
+WARN android https://perryssteakhouse.com/locations/tx/dallas/park-district/
+FAIL iphone  https://perryssteakhouse.com/start-your-reservation?loc=park-district
+WARN android https://perryssteakhouse.com/start-your-reservation?loc=park-district
+WARN iphone  https://nashville.zanies.com/
+WARN android https://nashville.zanies.com/
+FAIL iphone  https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf
+FAIL android https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf
+FAIL iphone  https://www.themarketat7thstreet.com/
+FAIL android https://www.themarketat7thstreet.com/
+WARN iphone  https://www.wemakeitvivid.com/
+WARN android https://www.wemakeitvivid.com/
+
+== findings (FAIL and WARN) ==
+
+https://www.hulahut.com/locations/austin/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): a right=417
+  FAIL  dead link: https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725 answers 404
+  WARN  viewport meta: user-scalable=yes, initial-scale=1.0, maximum-scale=10
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 19 tap targets under 24px: a 181x21, a 33x21, a 43x21, a.hidden-md 119x21, a.color-brand-gray-dark 91x17
+
+https://www.hulahut.com/locations/austin/  [android]
+  WARN  viewport meta: user-scalable=yes, initial-scale=1.0, maximum-scale=10
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 19 tap targets under 24px: a 181x21, a 33x21, a 43x21, a.hidden-md 119x21, a.color-brand-gray-dark 92x17
+
+https://www.hulahut.com/menu/  [iphone]
+  FAIL  sideways overflow (page pans 390px sideways): a right=417
+  FAIL  dead link: https://favordelivery.com/order-delivery/hula-hut-604/3825-lake-austin-blvd-austin-tx-78703-2725 answers 404
+  WARN  viewport meta: user-scalable=yes, initial-scale=1.0, maximum-scale=10
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  15 of 29 tap targets under 24px: a.menu-nav-anchor 60x15, a.menu-nav-anchor 103x15, a.menu-nav-anchor 166x15, a.menu-nav-anchor 99x15, a.menu-nav-anchor 105x15
+
+https://www.hulahut.com/menu/  [android]
+  WARN  viewport meta: user-scalable=yes, initial-scale=1.0, maximum-scale=10
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  15 of 29 tap targets under 24px: a.menu-nav-anchor 60x15, a.menu-nav-anchor 103x15, a.menu-nav-anchor 166x15, a.menu-nav-anchor 99x15, a.menu-nav-anchor 105x15
+
+https://ameliesfrenchbakery.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.has_ae_slider right=394, div.elementor-element right=394, img.attachment-full right=394
+  WARN  1 of 19 tap targets under 24px: div 18x20
+
+https://ameliesfrenchbakery.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.has_ae_slider right=397, div.elementor-element right=397, img.attachment-full right=397
+  WARN  header at y=-215 after scrolling down and back up
+  WARN  1 of 19 tap targets under 24px: div 18x20
+
+https://ameliesfrenchbakery.com/shop/  [iphone]
+  WARN  3 of 33 tap targets under 24px: div 18x20, a.woocommerce-LoopProduct-link 310x21, a.woocommerce-LoopProduct-link 261x24
+
+https://ameliesfrenchbakery.com/shop/  [android]
+  WARN  header at y=-363 after scrolling down and back up
+  WARN  2 of 33 tap targets under 24px: div 18x20, a.woocommerce-LoopProduct-link 313x22
+
+https://www.shopthevalleymall.com/  [iphone]
+  WARN  22 of 38 tap targets under 24px: a.TrinketsView__link 138x17, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, button 20x20
+
+https://www.shopthevalleymall.com/  [android]
+  WARN  22 of 38 tap targets under 24px: a.TrinketsView__link 138x18, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, button 20x20
+
+https://www.shopthevalleymall.com/directory  [iphone]
+  FAIL  iOS zoom trap: input.css-1gc0p4z-SearchBox-SearchBox at 15px (needs 16px on touch)
+  WARN  18 of 25 tap targets under 24px: a.TrinketsView__link 138x17, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, input.css-1gc0p4z-SearchBox-SearchBox 294x23
+  WARN  19 text elements under 12px: div.DealFlag 10px, div.DealFlag 10px, div.CustomMessageFlag 10px, div.CustomMessageFlag 10px
+
+https://www.shopthevalleymall.com/directory  [android]
+  FAIL  iOS zoom trap: input.css-1gc0p4z-SearchBox-SearchBox at 15px (needs 16px on touch)
+  WARN  18 of 25 tap targets under 24px: a.TrinketsView__link 138x18, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, input.css-1gc0p4z-SearchBox-SearchBox 297x23
+  WARN  19 text elements under 12px: div.DealFlag 10px, div.DealFlag 10px, div.CustomMessageFlag 10px, div.CustomMessageFlag 10px
+
+https://thedandelionpub.com/  [iphone]
+  WARN  fixed layer div.onetrust-pc-dark-filter covers 100% of the screen
+  WARN  2 of 35 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 75x17
+  WARN  1 text elements under 12px: button.event-enquiry-btn 11px
+
+https://thedandelionpub.com/  [android]
+  WARN  fixed layer div.onetrust-pc-dark-filter covers 100% of the screen
+  WARN  2 of 35 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 70x18
+
+https://tacopalenque.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  6 of 41 tap targets under 24px: button.menu-icon 16x16, a 279x13, button 40x4, button.active 40x4, a 128x15
+
+https://tacopalenque.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649
+  WARN  fixed layer div.cky-consent-container covers 48% of the screen
+  WARN  6 of 41 tap targets under 24px: button.menu-icon 16x17, a 278x13, button 40x4, button.active 40x4, a 128x15
+
+https://tacopalenque.com/menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  4 of 259 tap targets under 24px: button.menu-icon 16x16, button 16x16, a 128x15, a 48x15
+  WARN  15 text elements under 12px: h3 11px, h3 11px, h3 11px, h3 11px
+
+https://tacopalenque.com/menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649
+  WARN  fixed layer div.cky-consent-container covers 48% of the screen
+  WARN  4 of 259 tap targets under 24px: button.menu-icon 16x17, button 16x17, a 128x15, a 48x15
+  WARN  15 text elements under 12px: h3 11px, h3 11px, h3 11px, h3 11px
+
+https://thestinkingrose.com/  [iphone]
+  WARN  fixed layer div.pace covers 100% of the screen
+  WARN  fixed layer div#signup covers 42% of the screen
+  WARN  3 of 12 tap targets under 24px: a 284x13, a 69x13, a 171x13
+  WARN  8 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://thestinkingrose.com/  [android]
+  WARN  fixed layer div.pace covers 100% of the screen
+  WARN  3 of 12 tap targets under 24px: a 284x14, a 69x14, a 171x14
+  WARN  8 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://thestinkingrose.com/buy-giiftcard.html  [iphone]
+  WARN  3 of 7 tap targets under 24px: a 284x13, a 69x13, a 171x13
+  WARN  4 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://thestinkingrose.com/buy-giiftcard.html  [android]
+  WARN  3 of 7 tap targets under 24px: a 284x14, a 69x14, a 171x14
+  WARN  4 text elements under 12px: div.address-mobile 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://perryssteakhouse.com/locations/tx/dallas/park-district/  [iphone]
+  FAIL  sideways overflow (page pans 20px sideways): div#mobile-nav.mobile-nav right=780, div.info right=410, div.inner right=410
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  9 of 102 tap targets under 24px: a.promo-2 198x14, a.dl-private 131x18, a.dl-bar 70x18, a 40x14, a 95x14
+  WARN  1 text elements under 12px: span 11px
+
+https://perryssteakhouse.com/locations/tx/dallas/park-district/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#mobile-nav.mobile-nav right=818
+  WARN  12 of 102 tap targets under 24px: a.promo-2 198x14, a 329x20, a 329x20, a 329x20, a.dl-private 131x18
+  WARN  1 text elements under 12px: span 11px
+
+https://perryssteakhouse.com/start-your-reservation?loc=park-district  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#mobile-nav.mobile-nav right=780
+  FAIL  pageerror: /data.stbuttons.click/data due to access control checks.
+  WARN  3 of 41 tap targets under 24px: a.promo-2 198x14, a 164x20, a 154x20
+  WARN  1 text elements under 12px: span 11px
+
+https://perryssteakhouse.com/start-your-reservation?loc=park-district  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#mobile-nav.mobile-nav right=786
+  WARN  broken image: https://insight.adsrvr.org/track/conv/?adv=24gkx5f&ct=0:9i1ham9&fmt=3
+  WARN  6 of 41 tap targets under 24px: a.promo-2 198x14, a 313x20, a 313x20, a 313x20, a 164x20
+  WARN  1 text elements under 12px: span 11px
+
+https://nashville.zanies.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.osano-cm-info-dialog__info right=710, div.osano-cm-info__info-dialog-header right=710, p#d86268ac-c875-4570-b43a-ca5f838d555c__label.osano-cm-info-dialog-header__header right=670, button.osano-cm-info-dialog-header__close right=702, div.osano-cm-info__info-views right=710
+  WARN  43 of 107 tap targets under 24px: a.osano-cm-storage-policy 109x20, a.osano-cm-powered-by__link 140x17, button.elementor-alert-dismiss 17x26, button.elementor-alert-dismiss 17x26, div.elementor-swiper-button 20x20
+  WARN  17 text elements under 12px: div#eventDate.mb-0 11px, div#eventDate.mb-0 11px, div.mb-0 11px, span 10px
+
+https://nashville.zanies.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.osano-cm-info-dialog__info right=713, div.osano-cm-info__info-dialog-header right=713, p#217ab2c0-f382-482b-b984-f8f7916bf571__label.osano-cm-info-dialog-header__header right=673, button.osano-cm-info-dialog-header__close right=705, div.osano-cm-info__info-views right=713
+  WARN  broken image: https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville.zanie
+  WARN  broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville.
+  WARN  broken image: https://d.adroll.com/cm/taboola/out?af0=af47dabf&adroll_fpc=431d8a52a344e9c96bfc1473785f6cd6-1791324885771&pv=37866289432.89869&arrfrr=https%3A%2F%2Fnashville.z
+  WARN  header at y=-353 after scrolling down and back up
+  WARN  43 of 107 tap targets under 24px: a.osano-cm-storage-policy 109x20, a.osano-cm-powered-by__link 140x17, button.elementor-alert-dismiss 17x26, button.elementor-alert-dismiss 17x26, div.elementor-swiper-button 20x20
+  WARN  17 text elements under 12px: div#eventDate.mb-0 11px, div#eventDate.mb-0 11px, div.mb-0 11px, span 10px
+
+https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf  [iphone]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://nashville.zanies.com/wp-content
+
+https://nashville.zanies.com/wp-content/uploads/2026/06/ZaniesMenu2026V2.pdf  [android]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://nashville.zanies.com/wp-content
+
+https://www.themarketat7thstreet.com/  [iphone]
+  FAIL  iOS zoom trap: input#input-3195910360.advanced-form-input at 11px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input-1376865340.advanced-form-input at 11px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#hamburger-drawer.hamburger-drawer right=702
+  FAIL  dead link: https://www.themarketat7thstreet.com/services/template-service-1 answers 404
+  FAIL  dead link: https://www.themarketat7thstreet.com/services/template-service-2 answers 404
+  FAIL  dead link: https://www.themarketat7thstreet.com/services/template-service-3 answers 404
+  FAIL  dead link: https://www.themarketat7thstreet.com/services/template-service-4 answers 404
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 35 tap targets under 24px: a#1381046718 110x19, a 90x19, a#1457333360 102x19, a#1534769587 83x19, a 241x19
+
+https://www.themarketat7thstreet.com/  [android]
+  FAIL  iOS zoom trap: input#input-3195910360.advanced-form-input at 13.3333px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input-1376865340.advanced-form-input at 13.3333px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#hamburger-drawer.hamburger-drawer right=707
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 35 tap targets under 24px: a#1381046718 110x19, a 90x19, a#1457333360 103x19, a#1534769587 83x19, a 241x19
+
+https://www.wemakeitvivid.com/  [iphone]
+  WARN  broken image: https://www.wemakeitvivid.com/
+  WARN  broken image: https://www.wemakeitvivid.com/
+  WARN  29 of 86 tap targets under 24px: a 100x18, a 201x18, a 82x18, a 222x18, a 248x18
+
+https://www.wemakeitvivid.com/  [android]
+  WARN  broken image: https://www.wemakeitvivid.com/
+  WARN  broken image: https://www.wemakeitvivid.com/
+  WARN  header at y=-201 after scrolling down and back up
+  WARN  29 of 86 tap targets under 24px: a 100x18, a 201x18, a 82x18, a 221x18, a 248x18
+
+34 page-device rows, 18 FAIL findings

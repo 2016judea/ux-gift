@@ -1,0 +1,287 @@
+WARN iphone  https://ironcactus.com/
+WARN android https://ironcactus.com/
+WARN iphone  https://ironcactus.com/menus/lunch-dinner-menus/
+WARN android https://ironcactus.com/menus/lunch-dinner-menus/
+FAIL iphone  https://www.sadiesofnewmexico.com/
+WARN android https://www.sadiesofnewmexico.com/
+WARN iphone  https://www.sadiesofnewmexico.com/menu/
+WARN android https://www.sadiesofnewmexico.com/menu/
+FAIL iphone  https://www.kentuckyoaksmall.com/
+FAIL android https://www.kentuckyoaksmall.com/
+WARN iphone  https://www.kentuckyoaksmall.com/directory
+WARN android https://www.kentuckyoaksmall.com/directory
+FAIL iphone  https://virtuefeedgrain.com/
+WARN android https://virtuefeedgrain.com/
+FAIL iphone  https://virtuefeedgrain.com/our-menus/
+WARN android https://virtuefeedgrain.com/our-menus/
+FAIL iphone  https://www.darfonsrestaurant.com/
+WARN android https://www.darfonsrestaurant.com/
+FAIL iphone  https://www.darfonsrestaurant.com/menus/
+WARN android https://www.darfonsrestaurant.com/menus/
+FAIL iphone  https://www.dutchsdaughter.com/
+FAIL android https://www.dutchsdaughter.com/
+FAIL iphone  https://www.dutchsdaughter.com/menu/
+FAIL android https://www.dutchsdaughter.com/menu/
+WARN iphone  https://www.cactusrestaurants.com/menus
+WARN android https://www.cactusrestaurants.com/menus
+WARN iphone  https://www.cactusrestaurants.com/order-pickup
+WARN android https://www.cactusrestaurants.com/order-pickup
+FAIL iphone  https://www.brooklynbowl.com/brooklyn
+WARN android https://www.brooklynbowl.com/brooklyn
+FAIL iphone  https://www.brooklynbowl.com/events
+WARN android https://www.brooklynbowl.com/events
+WARN iphone  https://riverfrontseafood.com/
+WARN android https://riverfrontseafood.com/
+WARN iphone  https://riverfrontseafood.com/-party?source=pop_up&spot_id=413488&destination=private_parties&promotion=private_parties
+WARN android https://riverfrontseafood.com/-party?source=pop_up&spot_id=413488&destination=private_parties&promotion=private_parties
+FAIL iphone  https://tylermason.com/
+FAIL android https://tylermason.com/
+FAIL iphone  https://tylermason.com/shop/
+FAIL android https://tylermason.com/shop/
+
+== findings (FAIL and WARN) ==
+
+https://ironcactus.com/  [iphone]
+  WARN  127 of 251 tap targets under 24px: button.h-1.5 25x7, button.h-1.5 6x6, button.h-1.5 6x6, a.eyebrow 112x20, a.eyebrow 106x20
+  WARN  158 text elements under 12px: figcaption.text-[8px] 8px, figcaption.text-[8px] 8px, figcaption.text-[8px] 8px, figcaption.text-[8px] 8px
+
+https://ironcactus.com/  [android]
+  WARN  header at y=-1204 after scrolling down and back up
+  WARN  127 of 251 tap targets under 24px: button.h-1.5 25x7, button.h-1.5 6x6, button.h-1.5 6x6, a.eyebrow 112x20, a.eyebrow 106x20
+  WARN  158 text elements under 12px: figcaption.text-[8px] 8px, figcaption.text-[8px] 8px, figcaption.text-[8px] 8px, figcaption.text-[8px] 8px
+
+https://ironcactus.com/menus/lunch-dinner-menus/  [iphone]
+  WARN  162 of 314 tap targets under 24px: button.mt-0.5 96x14, button.mt-0.5 96x14, button.flex 152x18, button.mt-0.5 96x14, button.flex 152x18
+  WARN  127 text elements under 12px: a.bg-clay 11px, a.border 11px, a.bg-clay 11px, a.border 11px
+
+https://ironcactus.com/menus/lunch-dinner-menus/  [android]
+  WARN  header at y=-478 after scrolling down and back up
+  WARN  163 of 314 tap targets under 24px: button.mt-0.5 96x14, button.mt-0.5 96x14, button.flex 153x18, button.mt-0.5 96x14, button.flex 153x18
+  WARN  127 text elements under 12px: a.bg-clay 11px, a.border 11px, a.bg-clay 11px, a.border 11px
+
+https://www.sadiesofnewmexico.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.cky-preference-center right=650, div.x-row-inner right=405, div.x-row-inner right=400, div.x-row-inner right=400, div.x-row-inner right=400
+  FAIL  dead link: https://www.sadiesofnewmexico.com/previous-slide answers 404
+  FAIL  dead link: https://www.sadiesofnewmexico.com/next-slide answers 404
+  WARN  7 of 27 tap targets under 24px: button.cky-banner-btn-close 9x9, a 86x16, a 125x19, a 116x19, a 113x19
+  WARN  1 text elements under 12px: div.x-colophon-content 11px
+
+https://www.sadiesofnewmexico.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.cky-preference-center right=649, div.x-row-inner right=408, div.x-row-inner right=403, div.x-row-inner right=403, div.x-row-inner right=403
+  WARN  7 of 27 tap targets under 24px: button.cky-banner-btn-close 9x9, a 86x16, a 125x19, a 116x19, a 113x19
+  WARN  1 text elements under 12px: div.x-colophon-content 11px
+
+https://www.sadiesofnewmexico.com/menu/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.cky-preference-center right=650, div.x-row-inner right=400, h1.x-text-content-text-primary right=392, h2.x-text-content-text-primary right=392, div.x-row-inner right=400
+  WARN  8 of 18 tap targets under 24px: button.cky-banner-btn-close 9x9, a 86x16, a 291x19, a 125x19, a 116x19
+  WARN  1 text elements under 12px: div.x-colophon-content 11px
+
+https://www.sadiesofnewmexico.com/menu/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.cky-preference-center right=649, div.x-row-inner right=403, h1.x-text-content-text-primary right=395, h2.x-text-content-text-primary right=395, div.x-row-inner right=403
+  WARN  8 of 18 tap targets under 24px: button.cky-banner-btn-close 9x9, a 86x16, a 291x19, a 125x19, a 116x19
+  WARN  1 text elements under 12px: div.x-colophon-content 11px
+
+https://www.kentuckyoaksmall.com/  [iphone]
+  FAIL  document locked (overflow hidden) with 4468px of content and no inner scroller
+  FAIL  pageerror: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev 
+  WARN  fixed layer div.css-1u6o52r-Modal covers 100% of the screen
+  WARN  fixed layer div.css-bpppi0-Modal covers 100% of the screen
+  WARN  30 of 152 tap targets under 24px: a.HeaderHours__link 128x18, button#headlessui-popover-button-:r5:.css-1phnz17-ProfileFlyout 19x20, a.css-2cgn0s-Link-phoneIcon 20x72, button.css-1bg2q7n-A11yWidget-adaIcon 20x72, button.SearchIcon 20x20
+  WARN  2 text elements under 12px: span.HeaderHours__text 11px, span.TodaysHours 11px
+
+https://www.kentuckyoaksmall.com/  [android]
+  FAIL  document locked (overflow hidden) with 4481px of content and no inner scroller
+  FAIL  pageerror: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev 
+  WARN  fixed layer div.css-1u6o52r-Modal covers 100% of the screen
+  WARN  fixed layer div.css-bpppi0-Modal covers 100% of the screen
+  WARN  29 of 151 tap targets under 24px: a.HeaderHours__link 128x18, button#headlessui-popover-button-:r5:.css-1phnz17-ProfileFlyout 19x20, a.css-2cgn0s-Link-phoneIcon 20x72, button.css-1bg2q7n-A11yWidget-adaIcon 20x72, button.SearchIcon 20x20
+  WARN  2 text elements under 12px: span.HeaderHours__text 11px, span.TodaysHours 11px
+
+https://www.kentuckyoaksmall.com/directory  [iphone]
+  WARN  93 of 200 tap targets under 24px: a.HeaderHours__link 128x18, button#headlessui-popover-button-:R2b9alandfm:.css-1phnz17-ProfileFlyout 19x20, a.css-2cgn0s-Link-phoneIcon 20x72, button.css-1bg2q7n-A11yWidget-adaIcon 20x72, button.SearchIcon 20x20
+  WARN  23 text elements under 12px: span.HeaderHours__text 11px, span.TodaysHours 11px, div.StoreBadge 11px, div.StoreBadge__sale 11px
+
+https://www.kentuckyoaksmall.com/directory  [android]
+  WARN  93 of 200 tap targets under 24px: a.HeaderHours__link 128x18, button#headlessui-popover-button-:R2b9alandfm:.css-1phnz17-ProfileFlyout 19x20, a.css-2cgn0s-Link-phoneIcon 20x72, button.css-1bg2q7n-A11yWidget-adaIcon 20x72, button.SearchIcon 20x20
+  WARN  23 text elements under 12px: span.HeaderHours__text 11px, span.TodaysHours 11px, div.StoreBadge 11px, div.StoreBadge__sale 11px
+
+https://virtuefeedgrain.com/  [iphone]
+  FAIL  pageerror: /data.stbuttons.click/data due to access control checks.
+  WARN  2 of 6 tap targets under 24px: a 101x20, a 56x17
+
+https://virtuefeedgrain.com/  [android]
+  WARN  broken image: https://www.weddingwire.com/assets/badges/BCA-2018/BCA2018-logo.png
+  WARN  2 of 6 tap targets under 24px: a 13x19, a 56x18
+
+https://virtuefeedgrain.com/our-menus/  [iphone]
+  FAIL  pageerror: /data.stbuttons.click/data due to access control checks.
+  WARN  12 of 15 tap targets under 24px: a 57x23, a 50x23, a 57x23, a 155x23, a 33x23
+
+https://virtuefeedgrain.com/our-menus/  [android]
+  WARN  12 of 15 tap targets under 24px: a 53x23, a 47x23, a 53x23, a 146x23, a 31x23
+
+https://www.darfonsrestaurant.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  7 of 18 tap targets under 24px: button.close 12x24, a.site-location__address 360x19, button#slick-slide-control10 20x20, button#slick-slide-control11 20x20, button#slick-slide-control12 20x20
+
+https://www.darfonsrestaurant.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  7 of 18 tap targets under 24px: button.close 12x24, a.site-location__address 363x19, button#slick-slide-control10 20x20, button#slick-slide-control11 20x20, button#slick-slide-control12 20x20
+
+https://www.darfonsrestaurant.com/menus/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  5 of 20 tap targets under 24px: a.site-location__address 360x19, button#slick-slide-control10 20x20, button#slick-slide-control11 20x20, button#slick-slide-control12 20x20, button#slick-slide-control13 20x20
+
+https://www.darfonsrestaurant.com/menus/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  5 of 20 tap targets under 24px: a.site-location__address 363x19, button#slick-slide-control10 20x20, button#slick-slide-control11 20x20, button#slick-slide-control12 20x20, button#slick-slide-control13 20x20
+
+https://www.dutchsdaughter.com/  [iphone]
+  FAIL  iOS zoom trap: input.et-search-field at 11px (needs 16px on touch)
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  4 of 12 tap targets under 24px: a 119x17, a 124x23, a 235x16, a 209x15
+
+https://www.dutchsdaughter.com/  [android]
+  FAIL  iOS zoom trap: input.et-search-field at 13.3333px (needs 16px on touch)
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  4 of 12 tap targets under 24px: a 119x18, a 124x22, a 235x16, a 209x15
+
+https://www.dutchsdaughter.com/menu/  [iphone]
+  FAIL  iOS zoom trap: input.et-search-field at 11px (needs 16px on touch)
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 14 tap targets under 24px: a 119x17, a 261x20, a 286x20, a 256x20, a 124x23
+
+https://www.dutchsdaughter.com/menu/  [android]
+  FAIL  iOS zoom trap: input.et-search-field at 13.3333px (needs 16px on touch)
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 14 tap targets under 24px: a 119x18, a 261x21, a 286x21, a 256x21, a 124x22
+
+https://www.cactusrestaurants.com/menus  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.shopify-buy-cart-wrapper right=740
+  WARN  25 of 40 tap targets under 24px: a.hover:underline 120x22, a.hover:underline 218x22, a.hover:underline 125x22, a.hover:underline 139x22, a.hover:underline 218x22
+
+https://www.cactusrestaurants.com/menus  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.shopify-buy-cart-wrapper right=743
+  WARN  header at y=-436 after scrolling down and back up
+  WARN  25 of 40 tap targets under 24px: a.hover:underline 120x21, a.hover:underline 218x21, a.hover:underline 125x21, a.hover:underline 139x21, a.hover:underline 218x21
+
+https://www.cactusrestaurants.com/order-pickup  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.shopify-buy-cart-wrapper right=740
+  WARN  25 of 38 tap targets under 24px: a.hover:underline 120x22, a.hover:underline 218x22, a.hover:underline 125x22, a.hover:underline 139x22, a.hover:underline 218x22
+
+https://www.cactusrestaurants.com/order-pickup  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.shopify-buy-cart-wrapper right=743
+  WARN  header at y=-469 after scrolling down and back up
+  WARN  25 of 38 tap targets under 24px: a.hover:underline 120x21, a.hover:underline 218x21, a.hover:underline 125x21, a.hover:underline 139x21, a.hover:underline 218x21
+
+https://www.brooklynbowl.com/brooklyn  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.nav_wrapper right=780
+  WARN  broken image: https://www.brooklynbowl.com/brooklyn
+  FAIL  dead link: https://www.brooklynbowl.com/events answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/brooklyn-menus answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/brooklyn-bowling answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/events/detail/brooklyn-bowl-gift-card-10552025 answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/blog/detail/your-reservation-awaits-at-brooklyn-bowl-via-opentable answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/accessibility answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/search answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/nashville answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/philadelphia answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/email-sign-up answers 406
+  FAIL  dead link: http://www.brooklynbowl.com/merch answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/brooklyn-faqs answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/brooklyn-special-events answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/blog answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/vip-bowling-lane-add-on-white-denim-not-a-concert-ticket-k7vgf_3lpdo-w answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/white-denim-k7vgf_6ll2r3h answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/oteil-burbridge-performing-with-lamp-k7vgf_2n7fcia answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/vip-bowling-lane-add-on-oteil-burbridge-lamp-not-a-concert-ticket-k7vgf_3llhet6 answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/the-rock-and-roll-playhouse-presents-uncle-jeb-s-farm-k7vgf_890jhgd answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/family-bowl-216 answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/bertha-grateful-drag-k7vgf_1l7skwl answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/vip-bowling-lane-add-on-bertha-not-a-concert-ticket-k7vgf_3lczxht answers 406
+  WARN  19 of 127 tap targets under 24px: a 87x16, a 47x16, button#nav-toggle 20x20, a.fa-brands 14x22, a.fa-brands 19x22
+  WARN  1 text elements under 12px: a.cc_btn 10.2px
+
+https://www.brooklynbowl.com/brooklyn  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.nav_wrapper right=786
+  WARN  broken image: https://www.brooklynbowl.com/brooklyn
+  WARN  19 of 127 tap targets under 24px: a 87x16, a 47x16, button#nav-toggle 20x20, a.fa-brands 14x22, a.fa-brands 19x22
+  WARN  1 text elements under 12px: a.cc_btn 10.2px
+
+https://www.brooklynbowl.com/events  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.nav_wrapper right=780
+  WARN  broken image: https://www.brooklynbowl.com/events
+  FAIL  dead link: https://www.brooklynbowl.com/accessibility answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/search answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/nashville answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/shows/all answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/las-vegas/shows/all answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/nashville/shows/all answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/philadelphia/shows/all answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/food answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/bowling answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/special-events answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/news answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/nashville/events/detail/closed-13086261 answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/nashville/events/detail/closed-13086262 answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/vip-bowling-lane-add-on-white-denim-not-a-concert-ticket-k7vgf_3lpdo-w answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/white-denim-k7vgf_6ll2r3h answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/nashville/events/detail/closed-for-private-event-13085781 answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/oteil-burbridge-performing-with-lamp-k7vgf_2n7fcia answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/philadelphia/events/detail/something-different-presents-unpopular-opinion-night-21-vv1aezkf-gkedbzzx answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/brooklyn/events/detail/vip-bowling-lane-add-on-oteil-burbridge-lamp-not-a-concert-ticket-k7vgf_3llhet6 answers 406
+  FAIL  dead link: https://www.brooklynbowl.com/nashville/events/detail/public-image-ltd-this-is-not-the-last-tour-g5viz_kszw1cj answers 406
+  WARN  14 of 48 tap targets under 24px: a 87x16, a 47x16, button#nav-toggle 20x20, a 370x17, a 370x17
+  WARN  1 text elements under 12px: a.cc_btn 10.2px
+
+https://www.brooklynbowl.com/events  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.nav_wrapper right=786
+  WARN  broken image: https://www.brooklynbowl.com/events
+  WARN  14 of 48 tap targets under 24px: a 87x16, a 47x16, button#nav-toggle 20x20, a 373x17, a 373x17
+  WARN  1 text elements under 12px: a.cc_btn 10.2px
+
+https://riverfrontseafood.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  37 of 253 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://riverfrontseafood.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  37 of 253 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://riverfrontseafood.com/-party?source=pop_up&spot_id=413488&destination=private_parties&promotion=private_parties  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://riverfrontseafood.com/-party?source=pop_up&spot_id=413488&destination=private_parties&promotion=private_parties  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://tylermason.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav#mobile-menu right=780, div.menu-primary-container right=780, ul#menu-primary.menu right=780, li#menu-item-9569.menu-item right=764, a.has-submenu-link right=764, ul.sub-menu right=780
+  FAIL  pageerror: null is not an object (evaluating 'document.querySelector('#barber').closest')
+  WARN  7 of 55 tap targets under 24px: span.swiper-pagination-bullet 12x12, span.swiper-pagination-bullet 12x12, span.swiper-pagination-bullet 12x12, a 12x26, a 16x26
+  WARN  3 text elements under 12px: p.source-org 11.2px, a 11.2px, a.inline-block 11.2px
+
+https://tylermason.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav#mobile-menu right=786, div.menu-primary-container right=786, ul#menu-primary.menu right=786, li#menu-item-9569.menu-item right=770, a.has-submenu-link right=770, ul.sub-menu right=786
+  FAIL  pageerror: Cannot read properties of null (reading 'closest')
+  WARN  header at y=-425 after scrolling down and back up
+  WARN  7 of 55 tap targets under 24px: span.swiper-pagination-bullet 12x12, span.swiper-pagination-bullet 12x12, span.swiper-pagination-bullet 12x12, a 12x26, a 16x26
+  WARN  3 text elements under 12px: p.source-org 11.2px, a 11.2px, a.inline-block 11.2px
+
+https://tylermason.com/shop/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav#mobile-menu right=780, div.menu-primary-container right=780, ul#menu-primary.menu right=780, li#menu-item-9569.menu-item right=764, a.has-submenu-link right=764, ul.sub-menu right=780
+  FAIL  pageerror: null is not an object (evaluating 'document.querySelector('#barber').closest')
+  WARN  5 of 88 tap targets under 24px: a 43x21, a 12x26, a 16x26, a 79x16, a.inline-block 144x15
+  WARN  3 text elements under 12px: p.source-org 11.2px, a 11.2px, a.inline-block 11.2px
+
+https://tylermason.com/shop/  [android]
+  FAIL  iOS zoom trap: input#dgwt-wcas-search-input-1.dgwt-wcas-search-input at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav#mobile-menu right=786, div.menu-primary-container right=786, ul#menu-primary.menu right=786, li#menu-item-9569.menu-item right=770, a.has-submenu-link right=770, ul.sub-menu right=786
+  FAIL  pageerror: Cannot read properties of null (reading 'closest')
+  WARN  5 of 88 tap targets under 24px: a 43x21, a 12x26, a 16x26, a 79x16, a.inline-block 144x15
+  WARN  3 text elements under 12px: p.source-org 11.2px, a 11.2px, a.inline-block 11.2px
+
+40 page-device rows, 61 FAIL findings

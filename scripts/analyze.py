@@ -4,7 +4,7 @@
 Big = a normal phone visitor would see it broken. Everything else the audit says
 (tap targets, small text, zoom caps, invisible console errors) is dropped here.
 
-    python scripts/analyze.py   -> data/big.json (site -> findings), prints a summary
+    python scripts/analyze.py [audit_dir pool.csv out.json]   -> data/big.json (site -> findings), prints a summary
 """
 from __future__ import annotations
 
@@ -18,10 +18,15 @@ ROOT = Path(__file__).resolve().parent.parent
 
 
 def main() -> None:
+    import sys
+    adir, poolf, outf = (sys.argv[1:4] + ["data/audit", "data/pool.csv", "data/big.json"][len(sys.argv[1:4]):])
     rows = []
-    for f in sorted(glob.glob(str(ROOT / "data/audit/shard-*.json"))):
-        rows += json.load(open(f))
-    pool = {r["website"]: r for r in csv.DictReader(open(ROOT / "data/pool.csv"))}
+    for f in sorted(glob.glob(str(ROOT / adir / "shard-*.json"))):
+        try:
+            rows += json.load(open(f))
+        except json.JSONDecodeError:
+            pass  # mid-write
+    pool = {r["website"]: r for r in csv.DictReader(open(ROOT / poolf))}
     by = defaultdict(list)
     for r in rows:
         by[r.get("site") or r["url"]].append(r)
@@ -60,7 +65,7 @@ def main() -> None:
             p = pool.get(site, {})
             big[site] = {"name": p.get("name"), "reviews": p.get("reviews"), "takes_money": p.get("takes_money"),
                          "prior": p.get("prior_contact"), "findings": out}
-    json.dump(big, open(ROOT / "data/big.json", "w"), indent=1)
+    json.dump(big, open(ROOT / outf, "w"), indent=1)
     kinds = defaultdict(int)
     for s in big.values():
         for k in {f["kind"] for f in s["findings"]}:

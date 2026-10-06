@@ -1,0 +1,246 @@
+WARN iphone  https://lediplomatedc.com/
+WARN android https://lediplomatedc.com/
+FAIL iphone  https://shapiros.com/
+WARN android https://shapiros.com/
+FAIL iphone  https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu
+WARN android https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu
+FAIL iphone  https://webergrillrestaurant.com/chicago/
+FAIL android https://webergrillrestaurant.com/chicago/
+FAIL iphone  https://webergrillrestaurant.com/locations/
+FAIL android https://webergrillrestaurant.com/locations/
+WARN iphone  https://rosamexicano.com/
+WARN android https://rosamexicano.com/
+FAIL iphone  https://rosamexicano.com/menus/
+WARN android https://rosamexicano.com/menus/
+FAIL iphone  https://www.watercoursefoods.com/
+WARN android https://www.watercoursefoods.com/
+WARN iphone  https://www.watercoursefoods.com/mainmenu
+WARN android https://www.watercoursefoods.com/mainmenu
+FAIL iphone  https://punchbowlsocial.com/location/denver
+WARN android https://punchbowlsocial.com/location/denver
+FAIL iphone  https://punchbowlsocial.com/monday-funday
+FAIL android https://punchbowlsocial.com/monday-funday
+WARN iphone  https://papasandbeermexican.com/
+WARN android https://papasandbeermexican.com/
+WARN iphone  https://papasandbeermexican.com/-food-menu?source=header&spot_id=495099&destination=food_menu&promotion=taco_day
+WARN android https://papasandbeermexican.com/-food-menu?source=header&spot_id=495099&destination=food_menu&promotion=taco_day
+FAIL iphone  https://www.agorarestaurants.net/
+WARN android https://www.agorarestaurants.net/
+WARN iphone  https://www.agorarestaurants.net/agora-tyson-menus/
+WARN android https://www.agorarestaurants.net/agora-tyson-menus/
+WARN iphone  https://www.portlandwings.com/
+WARN android https://www.portlandwings.com/
+WARN iphone  https://www.portlandwings.com/order-online
+WARN android https://www.portlandwings.com/order-online
+WARN iphone  https://www.complexions.com/
+WARN android https://www.complexions.com/
+WARN iphone  https://www.complexions.com/booking/
+WARN android https://www.complexions.com/booking/
+
+== findings (FAIL and WARN) ==
+
+https://lediplomatedc.com/  [iphone]
+  WARN  fixed layer div.onetrust-pc-dark-filter covers 100% of the screen
+  WARN  fixed layer div#onetrust-banner-sdk.otFloatingRounded covers 42% of the screen
+  WARN  2 of 34 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 75x17
+  WARN  1 text elements under 12px: button.event-enquiry-btn 11px
+
+https://lediplomatedc.com/  [android]
+  WARN  fixed layer div.onetrust-pc-dark-filter covers 100% of the screen
+  WARN  2 of 34 tap targets under 24px: button.desktop-menu-toggle 20x20, a.ot-cookie-policy-link 70x18
+
+https://shapiros.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-catering-page answers 404
+  WARN  17 of 134 tap targets under 24px: a 352x15, a 22x22, a 22x22, a 22x22, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://shapiros.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  17 of 134 tap targets under 24px: a 352x16, a 22x22, a 22x22, a 22x22, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://shapiros.com/531344 answers 404
+  FAIL  dead link: https://shapiros.com/531347 answers 404
+  FAIL  dead link: https://shapiros.com/531346 answers 404
+  FAIL  dead link: https://shapiros.com/531348 answers 404
+  FAIL  dead link: https://shapiros.com/531354 answers 404
+  FAIL  dead link: https://shapiros.com/531353 answers 404
+  FAIL  dead link: https://shapiros.com/531350 answers 404
+  FAIL  dead link: https://shapiros.com/531359 answers 404
+  FAIL  dead link: https://shapiros.com/531352 answers 404
+  FAIL  dead link: https://shapiros.com/531357 answers 404
+  FAIL  dead link: https://shapiros.com/531358 answers 404
+  FAIL  dead link: https://shapiros.com/1163448 answers 404
+  FAIL  dead link: https://shapiros.com/531356 answers 404
+  FAIL  dead link: https://shapiros.com/407077 answers 404
+  FAIL  dead link: https://shapiros.com/1160852 answers 404
+
+https://shapiros.com/indianapolis-stadium-village-babe-denny-shapiro-s-delicatessen-food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://webergrillrestaurant.com/chicago/  [iphone]
+  FAIL  sideways overflow (page pans 140px sideways): li.et_pb_tab_6 right=450, a right=450, li.et_pb_tab_7 right=530, a right=530
+  FAIL  pageerror: CE: multiple userscripts installed
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  22 of 49 tap targets under 24px: a.breakfast 76x21, a.kids 89x21, a.lunch 99x21, a.dinner 103x21, a.catering 118x21
+
+https://webergrillrestaurant.com/chicago/  [android]
+  FAIL  sideways overflow (page pans 138px sideways): li.et_pb_tab_6 right=452, a right=452, li.et_pb_tab_7 right=531, a right=531
+  FAIL  pageerror: CE: multiple userscripts installed
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  22 of 49 tap targets under 24px: a.breakfast 76x21, a.kids 89x21, a.lunch 99x21, a.dinner 103x21, a.catering 118x21
+
+https://webergrillrestaurant.com/locations/  [iphone]
+  FAIL  pageerror: CE: multiple userscripts installed
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  10 of 21 tap targets under 24px: a 37x16, a 50x16, a 41x16, a 50x16, a 48x16
+
+https://webergrillrestaurant.com/locations/  [android]
+  FAIL  pageerror: CE: multiple userscripts installed
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  10 of 23 tap targets under 24px: a 37x16, a 50x16, a 41x16, a 50x16, a 48x16
+
+https://rosamexicano.com/  [iphone]
+  WARN  19 of 60 tap targets under 24px: a 120x21, a 72x21, a 165x21, a 131x21, a 126x21
+
+https://rosamexicano.com/  [android]
+  WARN  19 of 60 tap targets under 24px: a 120x21, a 72x21, a 167x21, a 131x21, a 126x21
+
+https://rosamexicano.com/menus/  [iphone]
+  FAIL  pageerror: Refused to set unsafe header "origin"
+  WARN  19 of 35 tap targets under 24px: a 120x21, a 72x21, a 165x21, a 131x21, a 126x21
+
+https://rosamexicano.com/menus/  [android]
+  WARN  19 of 35 tap targets under 24px: a 120x21, a 72x21, a 167x21, a 131x21, a 126x21
+
+https://www.watercoursefoods.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  1 of 13 tap targets under 24px: a 142x19
+  WARN  1 text elements under 12px: span.sqsrte-text-color--custom 11.4px
+
+https://www.watercoursefoods.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786
+  WARN  header at y=-329 after scrolling down and back up
+  WARN  1 of 13 tap targets under 24px: a 142x19
+  WARN  1 text elements under 12px: span.sqsrte-text-color--custom 11.4px
+
+https://www.watercoursefoods.com/mainmenu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780
+
+https://www.watercoursefoods.com/mainmenu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786
+  WARN  header at y=-341 after scrolling down and back up
+
+https://punchbowlsocial.com/location/denver  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.reservations-drawer right=780, div.overflow-y-auto right=780
+  WARN  broken image: https://bat.bing.com/action/0?ti=187186610&tm=gtm002&Ver=2&mid=459d8357-4261-4d30-8e3d-e9e6bca0fa46&bo=1&sid=d62d0100c1d211f1bf51ed2302ecaf75&vid=d62d0c40c1d211
+  FAIL  dead link: https://punchbowlsocial.com/location answers 404
+  FAIL  dead link: https://www.eventbrite.com/cc/after-dark-saturdays-punch-bowl-social-4358683?utm-campaign=social&utm-content=creatorshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=escb answers 404
+  FAIL  pageerror: SyntaxError: The string did not match the expected pattern.
+  WARN  fixed layer button.site-overlay covers 100% of the screen
+  WARN  fixed layer div#newsletter-popup.newsletter-popup covers 81% of the screen
+  WARN  38 of 79 tap targets under 24px: button.hamburger 32x20, a 41x17, a 64x17, a 54x17, a.transition-colors 34x14
+  WARN  7 text elements under 12px: a.uppercase 8px, button.uppercase 8px, a.transition-colors 11.7px, a.transition-colors 11.7px
+
+https://punchbowlsocial.com/location/denver  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.reservations-drawer right=786, div.overflow-y-auto right=786
+  WARN  broken image: https://bat.bing.net/action/0?ti=187186610&tm=gtm002&Ver=2&mid=1405ca4b-2086-4a13-a5f5-4980214f1f8c&bo=2&gtm_tag_source=1&pi=0&lg=en-US&sw=393&sh=727&sc=24&nwd=
+  WARN  55 of 98 tap targets under 24px: button.hamburger 32x20, a 41x17, a 64x17, a 54x17, a.transition-colors 34x14
+  WARN  134 text elements under 12px: a.uppercase 8px, button.uppercase 8px, a.transition-colors 11.7px, a.transition-colors 11.7px
+
+https://punchbowlsocial.com/monday-funday  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.reservations-drawer right=780, div.overflow-y-auto right=780
+  WARN  broken image: https://bat.bing.com/action/0?ti=187186610&tm=gtm002&Ver=2&mid=2f768f4a-e26e-4d44-b7e9-3ef67d043fef&bo=1&sid=1586abe0c1d311f19166cf9a062259f0&vid=1586a020c1d311
+  FAIL  pageerror: SyntaxError: The string did not match the expected pattern.
+  WARN  fixed layer button.site-overlay covers 100% of the screen
+  WARN  fixed layer div#newsletter-popup.newsletter-popup covers 81% of the screen
+  WARN  38 of 55 tap targets under 24px: button.hamburger 32x20, a 41x17, a 112x17, input#footer-email.!border-bottom-white 358x22, input#footer-phone 358x22
+  WARN  129 text elements under 12px: a.uppercase 8px, button.uppercase 8px, div.cookiescript_category_strict 11px, div.cookiescript_category_performance 11px
+
+https://punchbowlsocial.com/monday-funday  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.reservations-drawer right=786, div.overflow-y-auto right=786
+  WARN  broken image: https://bat.bing.com/action/0?ti=187186610&tm=gtm002&Ver=2&mid=8c0da6d8-f3cd-42bd-a296-f45a385f214b&bo=1&sid=20fcefa0c1d311f181ecd5530c3c4bb9&vid=20fd0020c1d311
+  FAIL  pageerror: Unexpected token '<', "<?xml vers"... is not valid JSON
+  WARN  fixed layer button.site-overlay covers 100% of the screen
+  WARN  fixed layer div#newsletter-popup.newsletter-popup covers 74% of the screen
+  WARN  37 of 55 tap targets under 24px: button.hamburger 32x20, a 41x17, a 112x17, input#footer-email.!border-bottom-white 361x22, input#footer-phone 361x22
+  WARN  129 text elements under 12px: a.uppercase 8px, button.uppercase 8px, div.cookiescript_category_strict 11px, div.cookiescript_category_performance 11px
+
+https://papasandbeermexican.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  23 of 72 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://papasandbeermexican.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  23 of 72 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://papasandbeermexican.com/-food-menu?source=header&spot_id=495099&destination=food_menu&promotion=taco_day  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://papasandbeermexican.com/-food-menu?source=header&spot_id=495099&destination=food_menu&promotion=taco_day  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://www.agorarestaurants.net/  [iphone]
+  FAIL  dead link: https://www.agorarestaurants.net/?post_type=us_testimonial&p=145 answers 404
+  FAIL  dead link: https://www.agorarestaurants.net/?post_type=us_testimonial&p=144 answers 404
+  FAIL  dead link: https://www.agorarestaurants.net/?post_type=us_testimonial&p=143 answers 404
+  FAIL  dead link: https://www.agorarestaurants.net/?post_type=us_testimonial&p=142 answers 404
+  FAIL  dead link: https://www.agorarestaurants.net/?post_type=us_testimonial&p=141 answers 404
+  FAIL  dead link: https://www.agorarestaurants.net/?post_type=us_testimonial&p=140 answers 404
+  FAIL  dead link: https://www.agorarestaurants.net/dc-about-us/ answers 404
+  FAIL  dead link: https://www.agorarestaurants.net/tysons-about-us/ answers 404
+  FAIL  dead link: https://www.agorarestaurants.net/maryland/ answers 404
+  WARN  42 of 91 tap targets under 24px: a 130x22, a 143x22, a 145x22, a 209x22, a 63x22
+
+https://www.agorarestaurants.net/  [android]
+  WARN  42 of 91 tap targets under 24px: a 130x22, a 143x22, a 144x22, a 209x22, a 63x22
+
+https://www.agorarestaurants.net/agora-tyson-menus/  [iphone]
+  WARN  3 of 19 tap targets under 24px: a 129x19, a 167x19, a 188x19
+
+https://www.agorarestaurants.net/agora-tyson-menus/  [android]
+  WARN  3 of 19 tap targets under 24px: a 129x19, a 167x19, a 188x19
+
+https://www.portlandwings.com/  [iphone]
+  WARN  12 of 54 tap targets under 24px: a 139x16, a 150x16, button#yui_3_17_2_1_1791324858589_678 87x14, a 30x12, button#yui_3_17_2_1_1791324858589_723 87x14
+  WARN  9 text elements under 12px: button#yui_3_17_2_1_1791324858589_678 10px, span#yui_3_17_2_1_1791324858589_671 10px, a 10px, button#yui_3_17_2_1_1791324858589_723 10px
+
+https://www.portlandwings.com/  [android]
+  WARN  12 of 54 tap targets under 24px: a 139x16, a 150x16, button#yui_3_17_2_1_1791324875064_637 87x14, a 30x11, button#yui_3_17_2_1_1791324875064_686 87x14
+  WARN  9 text elements under 12px: button#yui_3_17_2_1_1791324875064_637 10px, span#yui_3_17_2_1_1791324875064_630 10px, a 10px, button#yui_3_17_2_1_1791324875064_686 10px
+
+https://www.portlandwings.com/order-online  [iphone]
+  WARN  6 of 38 tap targets under 24px: button#yui_3_17_2_1_1791324879592_508 87x14, a 30x12, button#yui_3_17_2_1_1791324879592_553 87x14, a 30x12, button#yui_3_17_2_1_1791324879592_598 87x14
+  WARN  9 text elements under 12px: button#yui_3_17_2_1_1791324879592_508 10px, span#yui_3_17_2_1_1791324879592_501 10px, a 10px, button#yui_3_17_2_1_1791324879592_553 10px
+
+https://www.portlandwings.com/order-online  [android]
+  WARN  6 of 38 tap targets under 24px: button#yui_3_17_2_1_1791324887279_512 87x14, a 30x11, button#yui_3_17_2_1_1791324887279_564 87x14, a 30x11, button#yui_3_17_2_1_1791324887279_616 87x14
+  WARN  9 text elements under 12px: button#yui_3_17_2_1_1791324887279_512 10px, span#yui_3_17_2_1_1791324887279_505 10px, a 10px, button#yui_3_17_2_1_1791324887279_564 10px
+
+https://www.complexions.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  52 of 118 tap targets under 24px: a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16
+  WARN  2 text elements under 12px: sr7-btn#SR7_4_1-62-12.sr7-btn 5px, sr7-txt#SR7_4_1-62-4.sr7-layer 6px
+
+https://www.complexions.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  52 of 118 tap targets under 24px: a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16
+  WARN  2 text elements under 12px: sr7-btn#SR7_4_1-62-12.sr7-btn 5px, sr7-txt#SR7_4_1-62-4.sr7-layer 6px
+
+https://www.complexions.com/booking/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  46 of 124 tap targets under 24px: a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16
+  WARN  4 text elements under 12px: span 10px, a 10px, span 10px, a 10px
+
+https://www.complexions.com/booking/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  47 of 126 tap targets under 24px: a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16
+  WARN  4 text elements under 12px: span 10px, a 10px, span 10px, a 10px
+
+38 page-device rows, 38 FAIL findings

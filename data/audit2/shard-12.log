@@ -1,0 +1,253 @@
+FAIL iphone  https://www.bangersaustin.com/
+FAIL android https://www.bangersaustin.com/
+FAIL iphone  https://www.bangersaustin.com/pages/menus
+FAIL android https://www.bangersaustin.com/pages/menus
+WARN iphone  https://www.ilovemole.com/
+WARN android https://www.ilovemole.com/
+FAIL iphone  https://www.ilovemole.com/collections/all-products
+WARN android https://www.ilovemole.com/collections/all-products
+WARN iphone  https://lanuevacentral.com/
+WARN android https://lanuevacentral.com/
+WARN iphone  https://www.dukesbarandgrille.com/
+WARN android https://www.dukesbarandgrille.com/
+WARN iphone  https://www.dukesbarandgrille.com/menu
+WARN android https://www.dukesbarandgrille.com/menu
+WARN iphone  https://torchystacos.com/
+WARN android https://torchystacos.com/
+WARN iphone  https://torchystacos.com/our-menu
+WARN android https://torchystacos.com/our-menu
+FAIL iphone  https://www.dallasbbq.com/
+WARN android https://www.dallasbbq.com/
+FAIL iphone  https://www.dallasbbq.com/drinks
+WARN android https://www.dallasbbq.com/drinks
+FAIL iphone  https://stevenssteakhouse.com/
+FAIL android https://stevenssteakhouse.com/
+FAIL iphone  https://stevenssteakhouse.com/patio-menu/
+FAIL android https://stevenssteakhouse.com/patio-menu/
+FAIL iphone  https://kingstonmines.com/?v=0b3b97fa6688
+WARN android https://kingstonmines.com/?v=0b3b97fa6688
+FAIL iphone  https://kingstonmines.com/menu/
+WARN android https://kingstonmines.com/menu/
+FAIL iphone  https://www.bellairedermatology.com/
+FAIL android https://www.bellairedermatology.com/
+FAIL iphone  https://www.bellairedermatology.com/cart/
+FAIL android https://www.bellairedermatology.com/cart/
+FAIL iphone  https://salontraselectsuites.com/
+FAIL android https://salontraselectsuites.com/
+WARN iphone  https://salontraselectsuites.com/locations/
+WARN android https://salontraselectsuites.com/locations/
+
+== findings (FAIL and WARN) ==
+
+https://www.bangersaustin.com/  [iphone]
+  FAIL  pageerror: TypeError: Cannot destructure property 'name' from null or undefined value
+  WARN  fixed layer div.parallax-mirror covers 50% of the screen
+  WARN  26 of 50 tap targets under 24px: button.btn 23x26, a 44x21, a 87x21, a 94x21, a 67x21
+
+https://www.bangersaustin.com/  [android]
+  FAIL  pageerror: Cannot destructure property 'name' of 'e' as it is undefined.
+  WARN  fixed layer div.parallax-mirror covers 50% of the screen
+  WARN  26 of 50 tap targets under 24px: button.btn 23x26, a 44x21, a 87x21, a 94x21, a 67x21
+
+https://www.bangersaustin.com/pages/menus  [iphone]
+  FAIL  pageerror: TypeError: Cannot destructure property 'name' from null or undefined value
+  WARN  29 of 44 tap targets under 24px: button.btn 23x26, a 360x22, a 360x22, a 360x22, a 44x21
+
+https://www.bangersaustin.com/pages/menus  [android]
+  FAIL  pageerror: Cannot destructure property 'name' of 'e' as it is undefined.
+  WARN  29 of 44 tap targets under 24px: button.btn 23x26, a 363x22, a 363x22, a 363x22, a 44x21
+
+https://www.ilovemole.com/  [iphone]
+  WARN  16 of 94 tap targets under 24px: a.product-item__title 139x13, a.product-item__title 139x13, a 268x19, a 277x19, a 259x19
+  WARN  2 text elements under 12px: span.visually-hidden 9.5625px, span.header-info-block__caption 11.6875px
+
+https://www.ilovemole.com/  [android]
+  WARN  16 of 94 tap targets under 24px: a.product-item__title 141x13, a.product-item__title 141x13, a 268x20, a 277x20, a 259x20
+  WARN  2 text elements under 12px: span.visually-hidden 9.5625px, span.header-info-block__caption 11.6875px
+
+https://www.ilovemole.com/collections/all-products  [iphone]
+  FAIL  pageerror: /otlp-http-production.shopifysvc.com/v1/metrics due to access control checks.
+  WARN  25 of 76 tap targets under 24px: a 35x17, a 66x17, a.product-item__title 328x13, a.product-item__title 328x13, a.product-item__title 328x13
+  WARN  1 text elements under 12px: span.visually-hidden 9.5625px
+
+https://www.ilovemole.com/collections/all-products  [android]
+  WARN  25 of 76 tap targets under 24px: a 35x17, a 66x17, a.product-item__title 331x13, a.product-item__title 331x13, a.product-item__title 331x13
+  WARN  1 text elements under 12px: span.visually-hidden 9.5625px
+
+https://lanuevacentral.com/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  5 of 19 tap targets under 24px: a 209x19, a 183x15, a 138x15, a 170x15, a 91x19
+
+https://lanuevacentral.com/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  5 of 19 tap targets under 24px: a 209x19, a 183x15, a 138x15, a 170x15, a 91x19
+
+https://www.dukesbarandgrille.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.offcanvas-menu right=710, a#scroll-top right=430, i.pe-7s-angle-up right=432
+  WARN  fixed layer div.Background__Container-sc-e7fef316-0 covers 100% of the screen
+  WARN  fixed layer div.Popup__PopupContainer-sc-223d3ce6-1 covers 100% of the screen
+  WARN  17 of 52 tap targets under 24px: a 133x21, a 252x21, a 219x21, a 133x21, a 242x21
+
+https://www.dukesbarandgrille.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.offcanvas-menu right=713, a#scroll-top right=433, i.pe-7s-angle-up right=435
+  WARN  fixed layer div.Background__Container-sc-e7fef316-0 covers 100% of the screen
+  WARN  fixed layer div.Popup__PopupContainer-sc-223d3ce6-1 covers 100% of the screen
+  WARN  header at y=-260 after scrolling down and back up
+  WARN  17 of 52 tap targets under 24px: a 133x21, a 252x21, a 219x21, a 133x21, a 242x21
+
+https://www.dukesbarandgrille.com/menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.offcanvas-menu right=710, a#scroll-top right=430, i.pe-7s-angle-up right=432
+  WARN  13 of 53 tap targets under 24px: a 133x21, a 252x21, a 219x21, a 133x21, a 242x21
+
+https://www.dukesbarandgrille.com/menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.offcanvas-menu right=713, a#scroll-top right=433, i.pe-7s-angle-up right=435
+  WARN  header at y=-241 after scrolling down and back up
+  WARN  13 of 53 tap targets under 24px: a 133x21, a 252x21, a 219x21, a 133x21, a 242x21
+
+https://torchystacos.com/  [iphone]
+  WARN  17 of 65 tap targets under 24px: a 158x21, a 32x12, a 32x12, a 32x12, a 32x12
+
+https://torchystacos.com/  [android]
+  WARN  30 of 65 tap targets under 24px: a 182x22, a 182x22, a 182x22, a 182x22, a 182x22
+
+https://torchystacos.com/our-menu  [iphone]
+  WARN  27 of 108 tap targets under 24px: a.nav-link 80x23, a.nav-link 115x23, a.nav-link 115x23, a.nav-link 92x23, a.nav-link 68x23
+
+https://torchystacos.com/our-menu  [android]
+  WARN  27 of 108 tap targets under 24px: a.nav-link 80x23, a.nav-link 115x23, a.nav-link 115x23, a.nav-link 92x23, a.nav-link 68x23
+
+https://www.dallasbbq.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.grecaptcha-badge right=576
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  header at y=-67 after scrolling down and back up
+  WARN  2 of 30 tap targets under 24px: a 157x20, input#plyr-seek-2707 370x14
+
+https://www.dallasbbq.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.grecaptcha-badge right=579
+  WARN  header at y=-66 after scrolling down and back up
+  WARN  2 of 30 tap targets under 24px: a 157x21, input#plyr-seek-7847 373x14
+
+https://www.dallasbbq.com/drinks  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.grecaptcha-badge right=576
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  header at y=-67 after scrolling down and back up
+  WARN  2 of 25 tap targets under 24px: input#plyr-seek-953 323x14, input#plyr-seek-2268 323x14
+
+https://www.dallasbbq.com/drinks  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.grecaptcha-badge right=579
+  WARN  header at y=-66 after scrolling down and back up
+  WARN  2 of 25 tap targets under 24px: input#plyr-seek-9401 326x14, input#plyr-seek-5160 326x14
+
+https://stevenssteakhouse.com/  [iphone]
+  FAIL  iOS zoom trap: input#et_pb_signup_email.input at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650
+  WARN  wrong phone keyboard: email field 'Email' (input#et_pb_signup_email.input) is type=text, needs type=email
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  2 of 15 tap targets under 24px: a 196x19, a 91x19
+
+https://stevenssteakhouse.com/  [android]
+  FAIL  iOS zoom trap: input#et_pb_signup_email.input at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649
+  WARN  wrong phone keyboard: email field 'Email' (input#et_pb_signup_email.input) is type=text, needs type=email
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.cky-consent-container covers 47% of the screen
+  WARN  5 of 18 tap targets under 24px: a 314x19, a 314x19, a 314x19, a 196x19, a 87x19
+
+https://stevenssteakhouse.com/patio-menu/  [iphone]
+  FAIL  iOS zoom trap: input#et_pb_signup_email.input at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650
+  WARN  wrong phone keyboard: email field 'Email' (input#et_pb_signup_email.input) is type=text, needs type=email
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  2 of 12 tap targets under 24px: a 196x19, a 91x19
+
+https://stevenssteakhouse.com/patio-menu/  [android]
+  FAIL  iOS zoom trap: input#et_pb_signup_email.input at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649
+  WARN  wrong phone keyboard: email field 'Email' (input#et_pb_signup_email.input) is type=text, needs type=email
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.cky-consent-container covers 47% of the screen
+  WARN  2 of 12 tap targets under 24px: a 196x19, a 87x19
+
+https://kingstonmines.com/?v=0b3b97fa6688  [iphone]
+  FAIL  sideways overflow (page pans 400px sideways): div.navbar-header right=405, iframe right=800, div.row right=405, div.row right=405, div.container right=405, div.col-sm-6 right=396
+  FAIL  pageerror: NotSupportedError: The operation is not supported.
+  WARN  11 of 16 tap targets under 24px: a 34x20, a.wpb_button 146x20, a 300x20, a 300x20, a 300x20
+  WARN  5 text elements under 12px: div.col-sm-6 10px, div.col-sm-6 10px, a 10px, p 11px
+
+https://kingstonmines.com/?v=0b3b97fa6688  [android]
+  WARN  11 of 16 tap targets under 24px: a 34x19, a.wpb_button 146x19, a 300x19, a 300x19, a 300x19
+  WARN  5 text elements under 12px: div.col-sm-6 10px, div.col-sm-6 10px, a 10px, p 11px
+
+https://kingstonmines.com/menu/  [iphone]
+  FAIL  sideways overflow (page pans 16px sideways): div.navbar-header right=405, div.container-row right=406, span.price right=406, div.row right=405, div.row right=405, div.container right=405
+  WARN  7 of 16 tap targets under 24px: a.link-font-color 141x18, a.link-font-color 60x18, a 15x12, a 19x12, a 19x12
+  WARN  5 text elements under 12px: div.col-sm-6 10px, div.col-sm-6 10px, a 10px, p 11px
+
+https://kingstonmines.com/menu/  [android]
+  WARN  7 of 16 tap targets under 24px: a.link-font-color 141x18, a.link-font-color 61x18, a 13x13, a 17x13, a 17x13
+  WARN  5 text elements under 12px: div.col-sm-6 10px, div.col-sm-6 10px, a 10px, p 11px
+
+https://www.bellairedermatology.com/  [iphone]
+  FAIL  iOS zoom trap: input#elementor-search-form-3083bdd.elementor-search-form__input at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_1_1.large at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_1_2.large at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_1_3.large at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): img.sgpb-background-image-5107 right=490, div.grecaptcha-badge right=576
+  WARN  wrong phone keyboard: email field 'Your Email' (input#input_1_2.large) is type=text, needs type=email
+  WARN  wrong phone keyboard: tel field 'Your Phone' (input#input_1_3.large) is type=text, needs type=tel
+  FAIL  dead link: https://www.bellairedermatology.com/acne/ answers 404
+  FAIL  dead link: https://www.bellairedermatology.com/resonic/ answers 404
+  WARN  fixed layer div.sgpb-theme-1-overlay covers 100% of the screen
+  WARN  fixed layer div.sgpb-popup-dialog-main-div-theme-wrapper-1 covers 59% of the screen
+  WARN  13 of 47 tap targets under 24px: a 370x17, a 121x18, a 71x18, select#input_1_7.large 340x18, input#input_1_8_1 12x12
+  WARN  5 text elements under 12px: a.elementor-item 10px, a.elementor-item 10px, a.elementor-item 10px, sub 11.25px
+
+https://www.bellairedermatology.com/  [android]
+  FAIL  iOS zoom trap: input#elementor-search-form-3083bdd.elementor-search-form__input at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_1_1.large at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_1_2.large at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#input_1_3.large at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): img.sgpb-background-image-5107 right=490, div.grecaptcha-badge right=579
+  WARN  wrong phone keyboard: email field 'Your Email' (input#input_1_2.large) is type=text, needs type=email
+  WARN  wrong phone keyboard: tel field 'Your Phone' (input#input_1_3.large) is type=text, needs type=tel
+  WARN  fixed layer div.sgpb-theme-1-overlay covers 100% of the screen
+  WARN  fixed layer div.sgpb-popup-dialog-main-div-theme-wrapper-1 covers 54% of the screen
+  WARN  12 of 47 tap targets under 24px: a 373x17, a 121x19, a 71x19, input#input_1_8_1 13x13, a 128x14
+  WARN  5 text elements under 12px: a.elementor-item 10px, a.elementor-item 10px, a.elementor-item 10px, sub 11.25px
+
+https://www.bellairedermatology.com/cart/  [iphone]
+  FAIL  iOS zoom trap: input#elementor-search-form-3083bdd.elementor-search-form__input at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  dead link: https://www.bellairedermatology.com/acne/ answers 404
+  FAIL  dead link: https://www.bellairedermatology.com/resonic/ answers 404
+  WARN  8 of 25 tap targets under 24px: a 370x17, a 108x16, a 108x16, a 108x16, a 108x16
+  WARN  3 text elements under 12px: a.elementor-item 10px, a.elementor-item 10px, a.elementor-item 10px
+
+https://www.bellairedermatology.com/cart/  [android]
+  FAIL  iOS zoom trap: input#elementor-search-form-3083bdd.elementor-search-form__input at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  8 of 25 tap targets under 24px: a 373x17, a 108x16, a 108x16, a 108x16, a 108x16
+  WARN  3 text elements under 12px: a.elementor-item 10px, a.elementor-item 10px, a.elementor-item 10px
+
+https://salontraselectsuites.com/  [iphone]
+  FAIL  iOS zoom trap: input.wpcf7-form-control at 13px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): section.mkdf-side-menu right=795, div.grecaptcha-badge right=576
+  WARN  13 of 29 tap targets under 24px: a.mkdf-social-icon-widget-holder 16x24, a 76x17, a 64x17, a 67x17, a 92x17
+
+https://salontraselectsuites.com/  [android]
+  FAIL  iOS zoom trap: input.wpcf7-form-control at 13px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): section.mkdf-side-menu right=798, div.grecaptcha-badge right=579
+  WARN  14 of 29 tap targets under 24px: a.mkdf-social-icon-widget-holder 16x24, a 76x18, a 64x18, a 67x18, a 92x18
+
+https://salontraselectsuites.com/locations/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): section.mkdf-side-menu right=795, div.grecaptcha-badge right=576
+  WARN  68 of 76 tap targets under 24px: a.mkdf-btn 300x12, a 260x20, a.mkdf-btn 260x13, a.mkdf-btn 260x13, a.mkdf-btn 260x13
+
+https://salontraselectsuites.com/locations/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): section.mkdf-side-menu right=798, div.grecaptcha-badge right=579
+  WARN  69 of 76 tap targets under 24px: a.mkdf-btn 300x12, a 260x19, a.mkdf-btn 260x13, a.mkdf-btn 260x13, a.mkdf-btn 260x13
+
+38 page-device rows, 31 FAIL findings

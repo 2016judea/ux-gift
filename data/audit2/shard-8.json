@@ -1,0 +1,5593 @@
+[
+ {
+  "url": "https://bonitomichoacan.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 4.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 7840,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=405"
+  ],
+  "docWider": false,
+  "docLocked": true,
+  "scrollers": [],
+  "unreachable": true,
+  "layers": [
+   {
+    "el": "div#promotion-pop-up.modal",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div.modal-backdrop",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 11
+   },
+   {
+    "el": "div#prom-bar-plugin.prom-bar",
+    "pos": "fixed",
+    "cover": 9
+   },
+   {
+    "el": "button#sh-generic-form-bubble.tw-fixed",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 71,
+  "small": 13,
+  "smallList": [
+   "button.close 17x34",
+   "button 15x15",
+   "button 15x15",
+   "button 15x15",
+   "a 22x22"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 61,
+  "headTag": "nav#navbar.navbar",
+  "textLen": 3565,
+  "fields": [
+   {
+    "el": "input#sph-newsletter-input-c6838aa9647249690f8a140146dd65eb.sph-email-input",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "e.g. email@example.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://direct.chownow.com/order/18468/locations/26496?source=pop_up&spot_id=80716&destination=order&promotion=order_online"
+   },
+   {
+    "text": "Book your party",
+    "href": "https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties"
+   },
+   {
+    "text": "View our menu",
+    "href": "https://bonitomichoacan.com/food-menu?source=header&spot_id=80716&destination=food_menu&promotion=taco_day"
+   },
+   {
+    "text": "Menu",
+    "href": "https://bonitomichoacan.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496#"
+   },
+   {
+    "text": "Menu",
+    "href": "https://bonitomichoacan.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496#"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496"
+   }
+  ],
+  "allLinks": [
+   "https://direct.chownow.com/order/18468/locations/26496?source=pop_up&spot_id=80716&destination=order&promotion=order_online",
+   "https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties",
+   "https://bonitomichoacan.com/-catering?source=pop_up&spot_id=80716&destination=catering&promotion=catering",
+   "https://bonitomichoacan.com/food-menu?source=header&spot_id=80716&destination=food_menu&promotion=taco_day",
+   "https://bonitomichoacan.com/#content",
+   "https://bonitomichoacan.com/#",
+   "https://bonitomichoacan.com/",
+   "https://bonitomichoacan.com/food-menu",
+   "https://bonitomichoacan.com/drink-menu",
+   "https://bonitomichoacan.com/events",
+   "https://direct.chownow.com/order/18468/locations/26496#",
+   "https://bonitomichoacan.com/party#",
+   "https://bonitomichoacan.com/catering#",
+   "https://tmt.spotapps.co/job-listings?spot_id=80716&callback_url=http://bonitomichoacan.com/#",
+   "https://bonitomichoacan.com/about",
+   "https://www.facebook.com/1486507191563598",
+   "https://www.instagram.com/bonitomichoacan",
+   "https://www.google.com/search?sca_esv=50ae17e33ffbd3d5&si=AMgyJEuzsz2NflaaWzrzdpjxXXRaJ2hfdMsbe_mSWso6src8s5SD4DKikhZt-w2slW-xIEAY_TUyhqGVEFQUmERUWj34Sm5YxQMISySFbKSCs1DBdlIH9ontZsaupXjpx9DydRnvsHjQgxuz4JW7JIBhFQSuK5Plo5x32Z-1XU6HG1pKl4A6pd4%3D&q=Bonito+Michoacan+Mexican+Restaurant+Reviews&sa=X&ved=2ahUKEwiTtt7nr7yPAxVM8bsIHbJxByYQ0bkNegQIOBAE&cshid=1756894981971145&biw=1536&bih=695&dpr=1.25#lrd=0x80c8c6b90ef877e7:0xa53c413721eeb787,1,,,,",
+   "https://direct.chownow.com/order/18468/locations/26496",
+   "https://bonitomichoacan.com/catering",
+   "https://bonitomichoacan.com/party",
+   "https://static.spotapps.co/spots/12/4244b4efc5494d985f2ca95a0155ce/full",
+   "https://static.spotapps.co/spots/13/a92728d9fe44189b5417cb21e3dabc/full",
+   "https://static.spotapps.co/spots/9d/ab7670c8c34fb28affec048c11506a/full",
+   "https://static.spotapps.co/spots/a2/12ba5664ae4019ace045296c8ba61a/full",
+   "https://static.spotapps.co/spots/f1/73d22f8fe94245a3e3af1c27b1f358/full",
+   "https://static.spotapps.co/spots/68/40097b931c4f0da1feb6a2ce21ffb0/full",
+   "https://static.spotapps.co/spots/54/a49764d7674aba87e5fad8307805f1/full",
+   "https://static.spotapps.co/spots/77/69b4c1904c43638659b848c69b0f5f/full",
+   "https://static.spotapps.co/spots/65/52f7bccebb411da8a5471197bc7c54/full",
+   "https://static.spotapps.co/spots/27/b85d8642c54d4092075f8c545625f7/full",
+   "https://static.spotapps.co/spots/9c/9559392a7a4c8584ae388405b62889/full",
+   "https://static.spotapps.co/spots/c1/49f70dfb5046a6a3d9e2b39ca642fa/full",
+   "https://static.spotapps.co/spots/42/573718f7fb4c409cb1d8b55e4f1c87/full",
+   "https://static.spotapps.co/spots/6c/d48d9acb2b43fa91a1d515b91967db/full",
+   "https://static.spotapps.co/spots/cc/de3a7a2b524250a011a1aa284e9539/full",
+   "https://static.spotapps.co/spots/f0/38c12f022748d59f22cfd7a986af46/full",
+   "https://static.spotapps.co/spots/8e/b92a3847804898a364ed7afd525927/full",
+   "https://static.spotapps.co/spots/c6/224ccc62f042a590ca8642af41b259/full",
+   "https://static.spotapps.co/spots/32/1138adcfbe48bc82c9420f8fae382e/full",
+   "https://static.spotapps.co/spots/3e/f8d49467114bb98a967c43b4eea253/full",
+   "https://static.spotapps.co/spots/9e/557606c4d84d809188de29cb36ee11/full",
+   "http://leafletjs.com/",
+   "http://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps/dir/?api=1&destination=Bonito%20Michoacan&destination_place_id=ChIJ53f4DrnGyIARh7fuITdBPKU",
+   "https://www.spothopperapp.com/",
+   "https://www.spothopperapp.com/contact-us?contact_reason=demo",
+   "https://tmt.spotapps.co/job-listings?spot_id=80716&source=footer",
+   "https://bonitomichoacan.com/-party",
+   "https://bonitomichoacan.com/-catering",
+   "https://www.spothopperapp.com/spots/80716/privacy_policy",
+   "https://www.spothopperapp.com/spots/80716/terms_and_conditions",
+   "https://bonitomichoacan.com/accessibility-page-01"
+  ],
+  "weight": 40407,
+  "title": "Bonito Michoacan \u2013 Authentic Mexican Restaurant Las Vegas",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7176,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 61
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-bonitomichoacan-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405"
+   ],
+   [
+    "FAIL",
+    "document locked (overflow hidden) with 7840px of content and no inner scroller"
+   ],
+   [
+    "WARN",
+    "fixed layer div#promotion-pop-up.modal covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "fixed layer div.modal-backdrop covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "13 of 71 tap targets under 24px: button.close 17x34, button 15x15, button 15x15, button 15x15, a 22x22"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "locked shell, scrollers: "
+   ]
+  ],
+  "site": "https://bonitomichoacan.com/",
+  "hop": "https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties"
+ },
+ {
+  "url": "https://bonitomichoacan.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 44.5,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 7866,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=408"
+  ],
+  "docWider": false,
+  "docLocked": true,
+  "scrollers": [],
+  "unreachable": true,
+  "layers": [
+   {
+    "el": "div#promotion-pop-up.modal",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div.modal-backdrop",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 10
+   },
+   {
+    "el": "div#prom-bar-plugin.prom-bar",
+    "pos": "fixed",
+    "cover": 8
+   },
+   {
+    "el": "nav#bottom-navbar.navbar-fixed-bottom",
+    "pos": "fixed",
+    "cover": 7
+   }
+  ],
+  "targets": 71,
+  "small": 13,
+  "smallList": [
+   "button.close 17x34",
+   "button 15x15",
+   "button 15x15",
+   "button 15x15",
+   "a 22x22"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 61,
+  "headTag": "nav#navbar.navbar",
+  "textLen": 3629,
+  "fields": [
+   {
+    "el": "input#sph-newsletter-input-649c190820996597ef4e2e47c69619b9.sph-email-input",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "e.g. email@example.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Order Online",
+    "href": "https://direct.chownow.com/order/18468/locations/26496?source=pop_up&spot_id=80716&destination=order&promotion=order_online"
+   },
+   {
+    "text": "Book your party",
+    "href": "https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties"
+   },
+   {
+    "text": "View our menu",
+    "href": "https://bonitomichoacan.com/food-menu?source=header&spot_id=80716&destination=food_menu&promotion=taco_day"
+   },
+   {
+    "text": "Menu",
+    "href": "https://bonitomichoacan.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496#"
+   },
+   {
+    "text": "Menu",
+    "href": "https://bonitomichoacan.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496#"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496"
+   }
+  ],
+  "allLinks": [
+   "https://direct.chownow.com/order/18468/locations/26496?source=pop_up&spot_id=80716&destination=order&promotion=order_online",
+   "https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties",
+   "https://bonitomichoacan.com/-catering?source=pop_up&spot_id=80716&destination=catering&promotion=catering",
+   "https://bonitomichoacan.com/food-menu?source=header&spot_id=80716&destination=food_menu&promotion=taco_day",
+   "https://bonitomichoacan.com/#content",
+   "https://bonitomichoacan.com/#",
+   "https://bonitomichoacan.com/",
+   "https://bonitomichoacan.com/food-menu",
+   "https://bonitomichoacan.com/drink-menu",
+   "https://bonitomichoacan.com/events",
+   "https://direct.chownow.com/order/18468/locations/26496#",
+   "https://bonitomichoacan.com/party#",
+   "https://bonitomichoacan.com/catering#",
+   "https://tmt.spotapps.co/job-listings?spot_id=80716&callback_url=http://bonitomichoacan.com/#",
+   "https://bonitomichoacan.com/about",
+   "https://www.facebook.com/1486507191563598",
+   "https://www.instagram.com/bonitomichoacan",
+   "https://www.google.com/search?sca_esv=50ae17e33ffbd3d5&si=AMgyJEuzsz2NflaaWzrzdpjxXXRaJ2hfdMsbe_mSWso6src8s5SD4DKikhZt-w2slW-xIEAY_TUyhqGVEFQUmERUWj34Sm5YxQMISySFbKSCs1DBdlIH9ontZsaupXjpx9DydRnvsHjQgxuz4JW7JIBhFQSuK5Plo5x32Z-1XU6HG1pKl4A6pd4%3D&q=Bonito+Michoacan+Mexican+Restaurant+Reviews&sa=X&ved=2ahUKEwiTtt7nr7yPAxVM8bsIHbJxByYQ0bkNegQIOBAE&cshid=1756894981971145&biw=1536&bih=695&dpr=1.25#lrd=0x80c8c6b90ef877e7:0xa53c413721eeb787,1,,,,",
+   "https://direct.chownow.com/order/18468/locations/26496",
+   "https://bonitomichoacan.com/catering",
+   "https://bonitomichoacan.com/party",
+   "https://static.spotapps.co/spots/12/4244b4efc5494d985f2ca95a0155ce/full",
+   "https://static.spotapps.co/spots/13/a92728d9fe44189b5417cb21e3dabc/full",
+   "https://static.spotapps.co/spots/9d/ab7670c8c34fb28affec048c11506a/full",
+   "https://static.spotapps.co/spots/a2/12ba5664ae4019ace045296c8ba61a/full",
+   "https://static.spotapps.co/spots/f1/73d22f8fe94245a3e3af1c27b1f358/full",
+   "https://static.spotapps.co/spots/68/40097b931c4f0da1feb6a2ce21ffb0/full",
+   "https://static.spotapps.co/spots/54/a49764d7674aba87e5fad8307805f1/full",
+   "https://static.spotapps.co/spots/77/69b4c1904c43638659b848c69b0f5f/full",
+   "https://static.spotapps.co/spots/65/52f7bccebb411da8a5471197bc7c54/full",
+   "https://static.spotapps.co/spots/27/b85d8642c54d4092075f8c545625f7/full",
+   "https://static.spotapps.co/spots/9c/9559392a7a4c8584ae388405b62889/full",
+   "https://static.spotapps.co/spots/c1/49f70dfb5046a6a3d9e2b39ca642fa/full",
+   "https://static.spotapps.co/spots/42/573718f7fb4c409cb1d8b55e4f1c87/full",
+   "https://static.spotapps.co/spots/6c/d48d9acb2b43fa91a1d515b91967db/full",
+   "https://static.spotapps.co/spots/cc/de3a7a2b524250a011a1aa284e9539/full",
+   "https://static.spotapps.co/spots/f0/38c12f022748d59f22cfd7a986af46/full",
+   "https://static.spotapps.co/spots/8e/b92a3847804898a364ed7afd525927/full",
+   "https://static.spotapps.co/spots/c6/224ccc62f042a590ca8642af41b259/full",
+   "https://static.spotapps.co/spots/32/1138adcfbe48bc82c9420f8fae382e/full",
+   "https://static.spotapps.co/spots/3e/f8d49467114bb98a967c43b4eea253/full",
+   "https://static.spotapps.co/spots/9e/557606c4d84d809188de29cb36ee11/full",
+   "http://leafletjs.com/",
+   "http://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps/dir/?api=1&destination=Bonito%20Michoacan&destination_place_id=ChIJ53f4DrnGyIARh7fuITdBPKU",
+   "https://www.spothopperapp.com/",
+   "https://www.spothopperapp.com/contact-us?contact_reason=demo",
+   "https://tmt.spotapps.co/job-listings?spot_id=80716&source=footer",
+   "https://bonitomichoacan.com/-party",
+   "https://bonitomichoacan.com/-catering",
+   "https://www.spothopperapp.com/spots/80716/privacy_policy",
+   "https://www.spothopperapp.com/spots/80716/terms_and_conditions",
+   "https://bonitomichoacan.com/accessibility-page-01"
+  ],
+  "weight": 40388,
+  "title": "Bonito Michoacan \u2013 Authentic Mexican Restaurant Las Vegas",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7139,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 61
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408"
+   ],
+   [
+    "FAIL",
+    "document locked (overflow hidden) with 7866px of content and no inner scroller"
+   ],
+   [
+    "WARN",
+    "fixed layer div#promotion-pop-up.modal covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "fixed layer div.modal-backdrop covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "13 of 71 tap targets under 24px: button.close 17x34, button 15x15, button 15x15, button 15x15, a 22x22"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "locked shell, scrollers: "
+   ]
+  ],
+  "site": "https://bonitomichoacan.com/"
+ },
+ {
+  "url": "https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 3223,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=405"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 10,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 106,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://bonitomichoacan.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496#"
+   },
+   {
+    "text": "Menu",
+    "href": "https://bonitomichoacan.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496#"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496"
+   }
+  ],
+  "allLinks": [
+   "https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties#content",
+   "https://bonitomichoacan.com/#",
+   "https://bonitomichoacan.com/",
+   "https://bonitomichoacan.com/food-menu",
+   "https://bonitomichoacan.com/drink-menu",
+   "https://bonitomichoacan.com/events",
+   "https://direct.chownow.com/order/18468/locations/26496#",
+   "https://bonitomichoacan.com/party#",
+   "https://bonitomichoacan.com/catering#",
+   "https://tmt.spotapps.co/job-listings?spot_id=80716&callback_url=http://bonitomichoacan.com/-party#&source=pop_up&destination=private_parties&promotion=private_parties",
+   "https://bonitomichoacan.com/about",
+   "https://www.facebook.com/1486507191563598",
+   "https://www.instagram.com/bonitomichoacan",
+   "https://www.google.com/search?sca_esv=50ae17e33ffbd3d5&si=AMgyJEuzsz2NflaaWzrzdpjxXXRaJ2hfdMsbe_mSWso6src8s5SD4DKikhZt-w2slW-xIEAY_TUyhqGVEFQUmERUWj34Sm5YxQMISySFbKSCs1DBdlIH9ontZsaupXjpx9DydRnvsHjQgxuz4JW7JIBhFQSuK5Plo5x32Z-1XU6HG1pKl4A6pd4%3D&q=Bonito+Michoacan+Mexican+Restaurant+Reviews&sa=X&ved=2ahUKEwiTtt7nr7yPAxVM8bsIHbJxByYQ0bkNegQIOBAE&cshid=1756894981971145&biw=1536&bih=695&dpr=1.25#lrd=0x80c8c6b90ef877e7:0xa53c413721eeb787,1,,,,",
+   "https://direct.chownow.com/order/18468/locations/26496",
+   "https://tmt.spotapps.co/job-listings?spot_id=80716&source=pop_up&destination=private_parties&promotion=private_parties",
+   "https://bonitomichoacan.com/-party",
+   "https://bonitomichoacan.com/-catering"
+  ],
+  "weight": 17662,
+  "title": "Bonito Michoacan - Groups and Parties",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2559,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-bonitomichoacan-com-party-source-pop-up-spot-id-80716-destination-private-parties-pr.png",
+  "errors": [
+   "console: Refused to apply a stylesheet because its hash, its nonce, or 'unsafe-inline' does not appear in the style-src directive of the Content Secu",
+   "console: [Report Only] Refused to apply a stylesheet because its hash, its nonce, or 'unsafe-inline' does not appear in the style-src directive of th",
+   "console: Refused to apply a stylesheet because its hash, its nonce, or 'unsafe-inline' does not appear in the style-src directive of the Content Secu"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405"
+   ],
+   [
+    "INFO",
+    "console: Refused to apply a stylesheet because its hash, its nonce, or 'unsafe-inline' does not appear in the style-src directive of the Content Secu"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3223px tall"
+   ]
+  ],
+  "site": "https://bonitomichoacan.com/"
+ },
+ {
+  "url": "https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.5,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3216,
+  "zoomTrap": [],
+  "leaks": [
+   "div.navbar-header right=408"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.navbar",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 10,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 107,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://bonitomichoacan.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496#"
+   },
+   {
+    "text": "Menu",
+    "href": "https://bonitomichoacan.com/food-menu"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496#"
+   },
+   {
+    "text": "Order",
+    "href": "https://direct.chownow.com/order/18468/locations/26496"
+   }
+  ],
+  "allLinks": [
+   "https://bonitomichoacan.com/-party?source=pop_up&spot_id=80716&destination=private_parties&promotion=private_parties#content",
+   "https://bonitomichoacan.com/#",
+   "https://bonitomichoacan.com/",
+   "https://bonitomichoacan.com/food-menu",
+   "https://bonitomichoacan.com/drink-menu",
+   "https://bonitomichoacan.com/events",
+   "https://direct.chownow.com/order/18468/locations/26496#",
+   "https://bonitomichoacan.com/party#",
+   "https://bonitomichoacan.com/catering#",
+   "https://tmt.spotapps.co/job-listings?spot_id=80716&callback_url=http://bonitomichoacan.com/-party#&source=pop_up&destination=private_parties&promotion=private_parties",
+   "https://bonitomichoacan.com/about",
+   "https://www.facebook.com/1486507191563598",
+   "https://www.instagram.com/bonitomichoacan",
+   "https://www.google.com/search?sca_esv=50ae17e33ffbd3d5&si=AMgyJEuzsz2NflaaWzrzdpjxXXRaJ2hfdMsbe_mSWso6src8s5SD4DKikhZt-w2slW-xIEAY_TUyhqGVEFQUmERUWj34Sm5YxQMISySFbKSCs1DBdlIH9ontZsaupXjpx9DydRnvsHjQgxuz4JW7JIBhFQSuK5Plo5x32Z-1XU6HG1pKl4A6pd4%3D&q=Bonito+Michoacan+Mexican+Restaurant+Reviews&sa=X&ved=2ahUKEwiTtt7nr7yPAxVM8bsIHbJxByYQ0bkNegQIOBAE&cshid=1756894981971145&biw=1536&bih=695&dpr=1.25#lrd=0x80c8c6b90ef877e7:0xa53c413721eeb787,1,,,,",
+   "https://direct.chownow.com/order/18468/locations/26496",
+   "https://tmt.spotapps.co/job-listings?spot_id=80716&source=pop_up&destination=private_parties&promotion=private_parties",
+   "https://bonitomichoacan.com/-party",
+   "https://bonitomichoacan.com/-catering"
+  ],
+  "weight": 17651,
+  "title": "Bonito Michoacan - Groups and Parties",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2489,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3216px tall"
+   ]
+  ],
+  "site": "https://bonitomichoacan.com/"
+ },
+ {
+  "url": "https://statesidelive.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 4.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 10022,
+  "zoomTrap": [
+   {
+    "el": "input#ctablock",
+    "fs": 11
+   }
+  ],
+  "leaks": [
+   "div.grecaptcha-badge right=576"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.AppBar_appBarButtonContainer__YOivl",
+    "pos": "fixed",
+    "cover": 2
+   }
+  ],
+  "targets": 62,
+  "small": 16,
+  "smallList": [
+   "a.TextButton_redrawUnderline_light__RdWYc 66x21",
+   "a.TextButton_redrawUnderline_light__RdWYc 100x21",
+   "a.DistrictFooter_phone__54ivV 112x18",
+   "a.TextButton_redrawUnderline_light__RdWYc 71x21",
+   "a.TextButton_redrawUnderline_light__RdWYc 87x21"
+  ],
+  "tiny": 7,
+  "tinyList": [
+   "button#ctablockJoin 11px",
+   "span.AppBar_appBarText__9QMMK 11px",
+   "p.DistrictFooter_copyright__Dr46y 11px",
+   "span 11px"
+  ],
+  "headTop": 9056,
+  "headTag": "nav.DistrictFooter_menu__EHOUb",
+  "textLen": 5486,
+  "fields": [
+   {
+    "el": "input#ctablock",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "\u00a0\u00a0email@domain.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Cards",
+    "href": "https://live-dining-entertainment.myshopify.com/products/stateside-live-gift-card"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://statesidelive.com/parties-vip-tables"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_mobile_button"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://live-dining-entertainment.myshopify.com/products/xfinity-live-gift-card"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button"
+   }
+  ],
+  "allLinks": [
+   "https://live-dining-entertainment.myshopify.com/products/stateside-live-gift-card",
+   "https://statesidelive.com/Careers",
+   "https://statesidelive.com/Contact-Us",
+   "https://www.facebook.com/statesideliveofficial/",
+   "https://www.instagram.com/statesideliveofficial/",
+   "https://www.linkedin.com/company/stateside-live",
+   "https://www.tiktok.com/@statesidelive",
+   "https://www.youtube.com/@statesidelive",
+   "https://x.com/stateside_live",
+   "https://statesidelive.com/",
+   "https://statesidelive.com/Eat-and-Drink",
+   "https://statesidelive.com/Events-and-Entertainment",
+   "https://statesidelive.com/Football-2026",
+   "https://statesidelive.com/Halloween-Weekend",
+   "https://statesidelive.com/Private-Events",
+   "https://statesidelive.com/Plan-Your-Visit",
+   "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button",
+   "https://statesidelive.com/search?query=",
+   "https://statesidelive.com/events-and-entertainment/events/birds-away-games",
+   "https://statesidelive.com/events-and-entertainment/events/welker",
+   "https://statesidelive.com/events-and-entertainment/events/philadelphia-vs-carolina",
+   "https://statesidelive.com/events-and-entertainment/events/street-food-festival",
+   "https://statesidelive.com/events-and-entertainment/events/philadelphia-vs-dallas",
+   "https://statesidelive.com/events-and-entertainment/events/halloween-movie-night",
+   "https://statesidelive.com/events-and-entertainment/events/afrojack---murda-beatz",
+   "https://statesidelive.com/events-and-entertainment/events/midnight-manor-halloween-party",
+   "https://statesidelive.com/events-and-entertainment/events/boozy-afterlife-brunch",
+   "https://statesidelive.com/events-and-entertainment/events/philadelphia-vs-new-york",
+   "https://statesidelive.com/events-and-entertainment/events",
+   "https://statesidelive.com/en/Eat-and-Drink/PBR-Philly",
+   "https://statesidelive.com/eat-and-drink/blue-moon-beer-garden",
+   "https://statesidelive.com/eat-and-drink/chickie-and-petes",
+   "https://statesidelive.com/eat-and-drink/genos-steaks",
+   "https://statesidelive.com/eat-and-drink/live-arena",
+   "https://statesidelive.com/eat-and-drink/lorenzo-and-sons-pizza",
+   "https://statesidelive.com/eat-and-drink/miller-time-beer-hall",
+   "https://statesidelive.com/eat-and-drink/pbr-philly",
+   "https://statesidelive.com/eat-and-drink/the-pub-room",
+   "https://statesidelive.com/eat-and-drink",
+   "https://statesidelive.com/events-and-entertainment/activities/silent-disco",
+   "https://statesidelive.com/events-and-entertainment/activities/live-bands",
+   "https://statesidelive.com/events-and-entertainment/activities/happy-hours-bottle-service-and-more",
+   "https://statesidelive.com/events-and-entertainment/activities/djs",
+   "https://statesidelive.com/events-and-entertainment/activities/bull-riding-and-more",
+   "https://statesidelive.com/events-and-entertainment/activities",
+   "https://statesidelive.com/parties-vip-tables",
+   "https://statesidelive.com/private-events",
+   "https://www.instagram.com/p/DeKhUgulwAC/",
+   "https://www.instagram.com/reel/DeHs0ImxFy-/",
+   "https://www.instagram.com/reel/DeFZ736My0K/",
+   "https://www.instagram.com/p/DeFN1ByEfSo/",
+   "https://www.instagram.com/reel/DeE4lTKRCjk/",
+   "https://www.instagram.com/p/DeBLa5CDBBK/",
+   "https://www.instagram.com/p/DeAFvlLDGVI/",
+   "https://www.instagram.com/p/Dd9FUV1l7A-/",
+   "https://www.instagram.com/reel/Dd7SaiaRTpp/",
+   "https://www.instagram.com/p/Dd4JEwIF_5M/",
+   "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_mobile_button",
+   "https://statesidelive.com/events-and-entertainment",
+   "https://statesidelive.com/careers",
+   "https://statesidelive.com/directory",
+   "https://statesidelive.com/plan-your-visit",
+   "https://statesidelive.com/contact-us",
+   "https://live-dining-entertainment.myshopify.com/products/xfinity-live-gift-card",
+   "https://statesidelive.com/news",
+   "https://statesidelive.com/privacy-policy",
+   "https://statesidelive.com/terms-of-use",
+   "https://policies.google.com/privacy",
+   "https://policies.google.com/terms"
+  ],
+  "weight": 45389,
+  "title": "Stateside Live! Events & Dining in Philadelphia",
+  "roundtrip": {
+   "atBottom": {
+    "y": 9358,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 9060
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_mobile_button",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-statesidelive-com.png",
+  "errors": [
+   "console: Button failed to load, iconName = invalid-placard, layoutTraits = [MacOSLayoutTraits Inline], src = blob:https://statesidelive.com/540a31e9-",
+   "console: Button failed to load, iconName = invalid-placard, layoutTraits = [MacOSLayoutTraits Inline], src = blob:https://statesidelive.com/540a31e9-",
+   "console: Button failed to load, iconName = invalid-placard, layoutTraits = [MacOSLayoutTraits Inline], src = blob:https://statesidelive.com/540a31e9-",
+   "console: Button failed to load, iconName = invalid-placard, layoutTraits = [MacOSLayoutTraits Inline], src = blob:https://statesidelive.com/540a31e9-",
+   "console: Button failed to load, iconName = pip-placard, layoutTraits = [MacOSLayoutTraits Inline], src = blob:https://statesidelive.com/bf6dec74-1bc9"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#ctablock at 11px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576"
+   ],
+   [
+    "WARN",
+    "16 of 62 tap targets under 24px: a.TextButton_redrawUnderline_light__RdWYc 66x21, a.TextButton_redrawUnderline_light__RdWYc 100x21, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 87x21"
+   ],
+   [
+    "WARN",
+    "7 text elements under 12px: button#ctablockJoin 11px, span.AppBar_appBarText__9QMMK 11px, p.DistrictFooter_copyright__Dr46y 11px, span 11px"
+   ],
+   [
+    "INFO",
+    "console: Button failed to load, iconName = invalid-placard, layoutTraits = [MacOSLayoutTraits Inline], src = blob:https://statesidelive.com/540a31e9-"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10022px tall"
+   ]
+  ],
+  "site": "https://statesidelive.com/",
+  "hop": "https://statesidelive.com/parties-vip-tables"
+ },
+ {
+  "url": "https://statesidelive.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 10003,
+  "zoomTrap": [
+   {
+    "el": "input#ctablock",
+    "fs": 13.3333
+   }
+  ],
+  "leaks": [
+   "div.grecaptcha-badge right=579"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.AppBar_appBarButtonContainer__YOivl",
+    "pos": "fixed",
+    "cover": 2
+   }
+  ],
+  "targets": 62,
+  "small": 16,
+  "smallList": [
+   "a.TextButton_redrawUnderline_light__RdWYc 66x21",
+   "a.TextButton_redrawUnderline_light__RdWYc 100x21",
+   "a.DistrictFooter_phone__54ivV 112x18",
+   "a.TextButton_redrawUnderline_light__RdWYc 71x21",
+   "a.TextButton_redrawUnderline_light__RdWYc 87x21"
+  ],
+  "tiny": 6,
+  "tinyList": [
+   "span.AppBar_appBarText__9QMMK 11px",
+   "p.DistrictFooter_copyright__Dr46y 11px",
+   "span 11px",
+   "div.recaptcha-legal 10px"
+  ],
+  "headTop": 8991,
+  "headTag": "nav.DistrictFooter_menu__EHOUb",
+  "textLen": 5430,
+  "fields": [
+   {
+    "el": "input#ctablock",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "\u00a0\u00a0email@domain.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Cards",
+    "href": "https://live-dining-entertainment.myshopify.com/products/stateside-live-gift-card"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button"
+   },
+   {
+    "text": "Book Now",
+    "href": "https://statesidelive.com/parties-vip-tables"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_mobile_button"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://live-dining-entertainment.myshopify.com/products/xfinity-live-gift-card"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button"
+   }
+  ],
+  "allLinks": [
+   "https://live-dining-entertainment.myshopify.com/products/stateside-live-gift-card",
+   "https://statesidelive.com/Careers",
+   "https://statesidelive.com/Contact-Us",
+   "https://www.facebook.com/statesideliveofficial/",
+   "https://www.instagram.com/statesideliveofficial/",
+   "https://www.linkedin.com/company/stateside-live",
+   "https://www.tiktok.com/@statesidelive",
+   "https://www.youtube.com/@statesidelive",
+   "https://x.com/stateside_live",
+   "https://statesidelive.com/",
+   "https://statesidelive.com/Eat-and-Drink",
+   "https://statesidelive.com/Events-and-Entertainment",
+   "https://statesidelive.com/Football-2026",
+   "https://statesidelive.com/Halloween-Weekend",
+   "https://statesidelive.com/Private-Events",
+   "https://statesidelive.com/Plan-Your-Visit",
+   "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button",
+   "https://statesidelive.com/search?query=",
+   "https://statesidelive.com/events-and-entertainment/events/birds-away-games",
+   "https://statesidelive.com/events-and-entertainment/events/welker",
+   "https://statesidelive.com/events-and-entertainment/events/philadelphia-vs-carolina",
+   "https://statesidelive.com/events-and-entertainment/events/street-food-festival",
+   "https://statesidelive.com/events-and-entertainment/events/philadelphia-vs-dallas",
+   "https://statesidelive.com/events-and-entertainment/events/halloween-movie-night",
+   "https://statesidelive.com/events-and-entertainment/events/afrojack---murda-beatz",
+   "https://statesidelive.com/events-and-entertainment/events/midnight-manor-halloween-party",
+   "https://statesidelive.com/events-and-entertainment/events/boozy-afterlife-brunch",
+   "https://statesidelive.com/events-and-entertainment/events/philadelphia-vs-new-york",
+   "https://statesidelive.com/events-and-entertainment/events",
+   "https://statesidelive.com/en/Eat-and-Drink/PBR-Philly",
+   "https://statesidelive.com/eat-and-drink/blue-moon-beer-garden",
+   "https://statesidelive.com/eat-and-drink/chickie-and-petes",
+   "https://statesidelive.com/eat-and-drink/genos-steaks",
+   "https://statesidelive.com/eat-and-drink/live-arena",
+   "https://statesidelive.com/eat-and-drink/lorenzo-and-sons-pizza",
+   "https://statesidelive.com/eat-and-drink/miller-time-beer-hall",
+   "https://statesidelive.com/eat-and-drink/pbr-philly",
+   "https://statesidelive.com/eat-and-drink/the-pub-room",
+   "https://statesidelive.com/eat-and-drink",
+   "https://statesidelive.com/events-and-entertainment/activities/silent-disco",
+   "https://statesidelive.com/events-and-entertainment/activities/live-bands",
+   "https://statesidelive.com/events-and-entertainment/activities/happy-hours-bottle-service-and-more",
+   "https://statesidelive.com/events-and-entertainment/activities/djs",
+   "https://statesidelive.com/events-and-entertainment/activities/bull-riding-and-more",
+   "https://statesidelive.com/events-and-entertainment/activities",
+   "https://statesidelive.com/parties-vip-tables",
+   "https://statesidelive.com/private-events",
+   "https://www.instagram.com/p/DeKhUgulwAC/",
+   "https://www.instagram.com/reel/DeHs0ImxFy-/",
+   "https://www.instagram.com/reel/DeFZ736My0K/",
+   "https://www.instagram.com/p/DeFN1ByEfSo/",
+   "https://www.instagram.com/reel/DeE4lTKRCjk/",
+   "https://www.instagram.com/p/DeBLa5CDBBK/",
+   "https://www.instagram.com/p/DeAFvlLDGVI/",
+   "https://www.instagram.com/p/Dd9FUV1l7A-/",
+   "https://www.instagram.com/reel/Dd7SaiaRTpp/",
+   "https://www.instagram.com/p/Dd4JEwIF_5M/",
+   "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_mobile_button",
+   "https://statesidelive.com/events-and-entertainment",
+   "https://statesidelive.com/careers",
+   "https://statesidelive.com/directory",
+   "https://statesidelive.com/plan-your-visit",
+   "https://statesidelive.com/contact-us",
+   "https://live-dining-entertainment.myshopify.com/products/xfinity-live-gift-card",
+   "https://statesidelive.com/news",
+   "https://statesidelive.com/privacy-policy",
+   "https://statesidelive.com/terms-of-use",
+   "https://policies.google.com/privacy",
+   "https://policies.google.com/terms"
+  ],
+  "weight": 45358,
+  "title": "Stateside Live! Events & Dining in Philadelphia",
+  "roundtrip": {
+   "atBottom": {
+    "y": 9276,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 9041
+  },
+  "panX": 0,
+  "errors": [
+   "console: requestStorageAccess: Permission denied."
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#ctablock at 13.3333px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579"
+   ],
+   [
+    "WARN",
+    "16 of 62 tap targets under 24px: a.TextButton_redrawUnderline_light__RdWYc 66x21, a.TextButton_redrawUnderline_light__RdWYc 100x21, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 87x21"
+   ],
+   [
+    "WARN",
+    "6 text elements under 12px: span.AppBar_appBarText__9QMMK 11px, p.DistrictFooter_copyright__Dr46y 11px, span 11px, div.recaptcha-legal 10px"
+   ],
+   [
+    "INFO",
+    "console: requestStorageAccess: Permission denied."
+   ],
+   [
+    "INFO",
+    "document scrolls, 10003px tall"
+   ]
+  ],
+  "site": "https://statesidelive.com/"
+ },
+ {
+  "url": "https://statesidelive.com/parties-vip-tables",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.1,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 5942,
+  "zoomTrap": [
+   {
+    "el": "input#ctablock",
+    "fs": 11
+   }
+  ],
+  "leaks": [
+   "div.grecaptcha-badge right=576"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 27,
+  "small": 15,
+  "smallList": [
+   "a.DistrictBreadcrumb_breadcrumbTextDark__SXJYa 95x19",
+   "a.DistrictFooter_phone__54ivV 112x18",
+   "a.TextButton_redrawUnderline_light__RdWYc 71x21",
+   "a.TextButton_redrawUnderline_light__RdWYc 87x21",
+   "a.TextButton_redrawUnderline_light__RdWYc 151x21"
+  ],
+  "tiny": 6,
+  "tinyList": [
+   "button#ctablockJoin 11px",
+   "p.DistrictFooter_copyright__Dr46y 11px",
+   "span 11px",
+   "div.recaptcha-legal 10px"
+  ],
+  "headTop": 582,
+  "headTag": "nav.DistrictBreadcrumb_breadcrumb__p_ta3",
+  "textLen": 2170,
+  "fields": [
+   {
+    "el": "input#ctablock",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "\u00a0\u00a0email@domain.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Cards",
+    "href": "https://live-dining-entertainment.myshopify.com/products/stateside-live-gift-card"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://live-dining-entertainment.myshopify.com/products/xfinity-live-gift-card"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button"
+   }
+  ],
+  "allLinks": [
+   "https://live-dining-entertainment.myshopify.com/products/stateside-live-gift-card",
+   "https://statesidelive.com/Careers",
+   "https://statesidelive.com/Contact-Us",
+   "https://www.facebook.com/statesideliveofficial/",
+   "https://www.instagram.com/statesideliveofficial/",
+   "https://www.linkedin.com/company/stateside-live",
+   "https://www.tiktok.com/@statesidelive",
+   "https://www.youtube.com/@statesidelive",
+   "https://x.com/stateside_live",
+   "https://statesidelive.com/",
+   "https://statesidelive.com/Eat-and-Drink",
+   "https://statesidelive.com/Events-and-Entertainment",
+   "https://statesidelive.com/Football-2026",
+   "https://statesidelive.com/Halloween-Weekend",
+   "https://statesidelive.com/Private-Events",
+   "https://statesidelive.com/Plan-Your-Visit",
+   "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button",
+   "https://statesidelive.com/search?query=",
+   "https://statesidelive.com/en/",
+   "https://statesidelive.com/eat-and-drink",
+   "https://statesidelive.com/private-events",
+   "https://statesidelive.com/events-and-entertainment",
+   "https://statesidelive.com/careers",
+   "https://statesidelive.com/directory",
+   "https://statesidelive.com/plan-your-visit",
+   "https://statesidelive.com/contact-us",
+   "https://live-dining-entertainment.myshopify.com/products/xfinity-live-gift-card",
+   "https://statesidelive.com/news",
+   "https://statesidelive.com/privacy-policy",
+   "https://statesidelive.com/terms-of-use",
+   "https://policies.google.com/privacy",
+   "https://policies.google.com/terms"
+  ],
+  "weight": 22487,
+  "title": "Parties & VIP Tables in [City], [State] | Stateside Live!",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5278,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 582
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-statesidelive-com-parties-vip-tables.png",
+  "errors": [
+   "console: No hiveBrandId provided",
+   "console: Failed to load resource: the server responded with a status of 401 ()"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#ctablock at 11px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576"
+   ],
+   [
+    "WARN",
+    "15 of 27 tap targets under 24px: a.DistrictBreadcrumb_breadcrumbTextDark__SXJYa 95x19, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 87x21, a.TextButton_redrawUnderline_light__RdWYc 151x21"
+   ],
+   [
+    "WARN",
+    "6 text elements under 12px: button#ctablockJoin 11px, p.DistrictFooter_copyright__Dr46y 11px, span 11px, div.recaptcha-legal 10px"
+   ],
+   [
+    "INFO",
+    "console: No hiveBrandId provided"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5942px tall"
+   ]
+  ],
+  "site": "https://statesidelive.com/"
+ },
+ {
+  "url": "https://statesidelive.com/parties-vip-tables",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.7,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 5919,
+  "zoomTrap": [
+   {
+    "el": "input#ctablock",
+    "fs": 13.3333
+   }
+  ],
+  "leaks": [
+   "div.grecaptcha-badge right=579"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 27,
+  "small": 15,
+  "smallList": [
+   "a.DistrictBreadcrumb_breadcrumbTextDark__SXJYa 95x19",
+   "a.DistrictFooter_phone__54ivV 112x18",
+   "a.TextButton_redrawUnderline_light__RdWYc 71x21",
+   "a.TextButton_redrawUnderline_light__RdWYc 87x21",
+   "a.TextButton_redrawUnderline_light__RdWYc 151x21"
+  ],
+  "tiny": 5,
+  "tinyList": [
+   "p.DistrictFooter_copyright__Dr46y 11px",
+   "span 11px",
+   "div.recaptcha-legal 10px",
+   "a.DistrictFooter_redrawUnderline_light__hRNPM 10px"
+  ],
+  "headTop": 582,
+  "headTag": "nav.DistrictBreadcrumb_breadcrumb__p_ta3",
+  "textLen": 2143,
+  "fields": [
+   {
+    "el": "input#ctablock",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "\u00a0\u00a0email@domain.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Cards",
+    "href": "https://live-dining-entertainment.myshopify.com/products/stateside-live-gift-card"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://live-dining-entertainment.myshopify.com/products/xfinity-live-gift-card"
+   },
+   {
+    "text": "Buy Tickets",
+    "href": "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button"
+   }
+  ],
+  "allLinks": [
+   "https://live-dining-entertainment.myshopify.com/products/stateside-live-gift-card",
+   "https://statesidelive.com/Careers",
+   "https://statesidelive.com/Contact-Us",
+   "https://www.facebook.com/statesideliveofficial/",
+   "https://www.instagram.com/statesideliveofficial/",
+   "https://www.linkedin.com/company/stateside-live",
+   "https://www.tiktok.com/@statesidelive",
+   "https://www.youtube.com/@statesidelive",
+   "https://x.com/stateside_live",
+   "https://statesidelive.com/",
+   "https://statesidelive.com/Eat-and-Drink",
+   "https://statesidelive.com/Events-and-Entertainment",
+   "https://statesidelive.com/Football-2026",
+   "https://statesidelive.com/Halloween-Weekend",
+   "https://statesidelive.com/Private-Events",
+   "https://statesidelive.com/Plan-Your-Visit",
+   "https://www.axs.com/venues/128137/xfinity-live-philadelphia-tickets?cid=website_homepage_button",
+   "https://statesidelive.com/search?query=",
+   "https://statesidelive.com/en/",
+   "https://statesidelive.com/eat-and-drink",
+   "https://statesidelive.com/private-events",
+   "https://statesidelive.com/events-and-entertainment",
+   "https://statesidelive.com/careers",
+   "https://statesidelive.com/directory",
+   "https://statesidelive.com/plan-your-visit",
+   "https://statesidelive.com/contact-us",
+   "https://live-dining-entertainment.myshopify.com/products/xfinity-live-gift-card",
+   "https://statesidelive.com/news",
+   "https://statesidelive.com/privacy-policy",
+   "https://statesidelive.com/terms-of-use",
+   "https://policies.google.com/privacy",
+   "https://policies.google.com/terms"
+  ],
+  "weight": 22429,
+  "title": "Parties & VIP Tables in [City], [State] | Stateside Live!",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5192,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 582
+  },
+  "panX": 0,
+  "errors": [
+   "console: No hiveBrandId provided",
+   "console: requestStorageAccess: Permission denied."
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#ctablock at 13.3333px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579"
+   ],
+   [
+    "WARN",
+    "15 of 27 tap targets under 24px: a.DistrictBreadcrumb_breadcrumbTextDark__SXJYa 95x19, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 87x21, a.TextButton_redrawUnderline_light__RdWYc 151x21"
+   ],
+   [
+    "WARN",
+    "5 text elements under 12px: p.DistrictFooter_copyright__Dr46y 11px, span 11px, div.recaptcha-legal 10px, a.DistrictFooter_redrawUnderline_light__hRNPM 10px"
+   ],
+   [
+    "INFO",
+    "console: No hiveBrandId provided"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5919px tall"
+   ]
+  ],
+  "site": "https://statesidelive.com/"
+ },
+ {
+  "url": "https://filomena.com/",
+  "device": "iphone",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.2,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 5373,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 30,
+  "small": 11,
+  "smallList": [
+   "a.custom-logo-link 144x19",
+   "a 360x19",
+   "a 300x19",
+   "a 127x24",
+   "a 145x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 2171,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Make a Reservation",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.com/gift-cards/"
+   },
+   {
+    "text": "Reserve A Table",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/r/filomena-ristorante-washington"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/r/filomena-ristorante-washington"
+   },
+   {
+    "text": "Book Now.",
+    "href": "https://www.opentable.com/restaurant/profile/1835/reserve?rid=1835&restref=1835"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.wpengine.com/gift-cards/"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://filomena.com/",
+   "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+   "https://filomena.com/about-us/",
+   "https://filomena.com/our-history/",
+   "https://filomena.com/in-the-news/",
+   "https://filomena.com/videos/",
+   "https://filomena.com/menu/",
+   "https://filomena.com/dinner/",
+   "https://filomena.com/lunch/",
+   "https://filomena.com/desserts/",
+   "https://filomena.com/wine/",
+   "https://filomena.com/catering/",
+   "https://filomena.com/#",
+   "https://filomena.com/delivery/",
+   "https://filomena.orderexperience.net/66993fd980745e8cd90d6fdf/menu",
+   "https://filomena-ristorante.goldbelly.com/",
+   "https://filomena-ristorante.goldbelly.com/categories/fresh-pasta",
+   "https://filomena-ristorante.goldbelly.com/categories/cakes",
+   "https://filomena-ristorante.goldbelly.com/categories/meat",
+   "https://filomena-ristorante.goldbelly.com/categories/italian-grocery",
+   "https://filomena.com/gift-cards/",
+   "https://filomena.cardfoundry.com/giftcards/card_details",
+   "https://filomena.cardfoundry.com/giftcards/card_balance",
+   "https://filomena.com/gallery/",
+   "https://filomena.com/holidays-at-filomena/",
+   "https://filomena.com/contact/",
+   "https://filomena.com/directions/",
+   "https://www.nbcwashington.com/news/local/simple-but-fresh-but-good-filomenas-secret-to-success-in-georgetown/3377202/?_branch_match_id=908111853758732138&utm_medium=share&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz0tKLk8szsjMSy%2FJz9NLLCjQy8nMy9Y3yPY2C%2FXw8jRzTAIAUX15rioAAAA%3D",
+   "https://www.opentable.com/r/filomena-ristorante-washington",
+   "https://www.opentable.com/restaurant/profile/1835/reserve?rid=1835&restref=1835",
+   "https://www.google.com/search?client=safari&rls=en&q=filomena+ristorante+washington+dc&ie=UTF-8&oe=UTF-8#lrd=0x89b7b64bfd853a3d:0x603d1999c9518ff6,1",
+   "https://www.tripadvisor.in/Restaurant_Review-g28970-d450360-Reviews-Filomena_Ristorante_Georgetown-Washington_DC_District_of_Columbia.html",
+   "https://www.yelp.com/biz/filomena-ristorante-washington",
+   "https://signup.delightmail.com/opt-in/?list=95e896f2-3f11-47ed-aeed-3dbc9e749f23",
+   "https://goo.gl/maps/KpAR6kGVjcv31p4F6",
+   "https://filomena.wpengine.com/gift-cards/",
+   "https://filomena.com/reviews/",
+   "https://www.facebook.com/FilomenaRistoranteDC/",
+   "https://www.instagram.com/filomenaristorante/",
+   "https://twitter.com/Filomena_DC",
+   "http://www.rivercitymarketing.com/",
+   "https://filomena.wpengine.com/terms-of-use/",
+   "https://filomena.wpengine.com/wp-content/uploads/2020/09/Filomena-Privacy-Policy-copy.pdf"
+  ],
+  "weight": 25556,
+  "title": "Best Italian Restaurant in Washington DC",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4709,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.opentable.com/r/filomena-ristorante-washington",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.opentable.com/restaurant/profile/1835/reserve?rid=1835&restref=1835",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://filomena.wpengine.com/gift-cards/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-filomena-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/gift-cards/ answers 404"
+   ],
+   [
+    "WARN",
+    "11 of 30 tap targets under 24px: a.custom-logo-link 144x19, a 360x19, a 300x19, a 127x24, a 145x19"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5373px tall"
+   ]
+  ],
+  "site": "https://filomena.com/",
+  "hop": "https://filomena.com/menu/"
+ },
+ {
+  "url": "https://filomena.com/",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 46.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 5855,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 35,
+  "small": 10,
+  "smallList": [
+   "a.custom-logo-link 144x18",
+   "a 363x18",
+   "a 300x18",
+   "a 145x19",
+   "a.menu-image-title-hide 24x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 2172,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Make a Reservation",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.com/gift-cards/"
+   },
+   {
+    "text": "Reserve A Table",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/r/filomena-ristorante-washington"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/r/filomena-ristorante-washington"
+   },
+   {
+    "text": "Book Now.",
+    "href": "https://www.opentable.com/restaurant/profile/1835/reserve?rid=1835&restref=1835"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.wpengine.com/gift-cards/"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://filomena.com/",
+   "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+   "https://filomena.com/about-us/",
+   "https://filomena.com/our-history/",
+   "https://filomena.com/in-the-news/",
+   "https://filomena.com/videos/",
+   "https://filomena.com/menu/",
+   "https://filomena.com/dinner/",
+   "https://filomena.com/lunch/",
+   "https://filomena.com/desserts/",
+   "https://filomena.com/wine/",
+   "https://filomena.com/catering/",
+   "https://filomena.com/#",
+   "https://filomena.com/delivery/",
+   "https://filomena.orderexperience.net/66993fd980745e8cd90d6fdf/menu",
+   "https://filomena-ristorante.goldbelly.com/",
+   "https://filomena-ristorante.goldbelly.com/categories/fresh-pasta",
+   "https://filomena-ristorante.goldbelly.com/categories/cakes",
+   "https://filomena-ristorante.goldbelly.com/categories/meat",
+   "https://filomena-ristorante.goldbelly.com/categories/italian-grocery",
+   "https://filomena.com/gift-cards/",
+   "https://filomena.cardfoundry.com/giftcards/card_details",
+   "https://filomena.cardfoundry.com/giftcards/card_balance",
+   "https://filomena.com/gallery/",
+   "https://filomena.com/holidays-at-filomena/",
+   "https://filomena.com/contact/",
+   "https://filomena.com/directions/",
+   "https://www.nbcwashington.com/news/local/simple-but-fresh-but-good-filomenas-secret-to-success-in-georgetown/3377202/?_branch_match_id=908111853758732138&utm_medium=share&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz0tKLk8szsjMSy%2FJz9NLLCjQy8nMy9Y3yPY2C%2FXw8jRzTAIAUX15rioAAAA%3D",
+   "https://www.opentable.com/r/filomena-ristorante-washington",
+   "https://www.opentable.com/restaurant/profile/1835/reserve?rid=1835&restref=1835",
+   "https://www.google.com/search?client=safari&rls=en&q=filomena+ristorante+washington+dc&ie=UTF-8&oe=UTF-8#lrd=0x89b7b64bfd853a3d:0x603d1999c9518ff6,1",
+   "https://www.tripadvisor.in/Restaurant_Review-g28970-d450360-Reviews-Filomena_Ristorante_Georgetown-Washington_DC_District_of_Columbia.html",
+   "https://www.yelp.com/biz/filomena-ristorante-washington",
+   "https://signup.delightmail.com/opt-in/?list=95e896f2-3f11-47ed-aeed-3dbc9e749f23",
+   "https://goo.gl/maps/KpAR6kGVjcv31p4F6",
+   "https://filomena.wpengine.com/gift-cards/",
+   "https://filomena.com/reviews/",
+   "https://www.facebook.com/FilomenaRistoranteDC/",
+   "https://www.instagram.com/filomenaristorante/",
+   "https://twitter.com/Filomena_DC",
+   "http://www.rivercitymarketing.com/",
+   "https://filomena.wpengine.com/terms-of-use/",
+   "https://filomena.wpengine.com/wp-content/uploads/2020/09/Filomena-Privacy-Policy-copy.pdf"
+  ],
+  "weight": 300,
+  "title": "Best Italian Restaurant in Washington DC",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1091,
+    "inner": null
+   },
+   "backY": 269,
+   "backInner": null,
+   "headTop": -269
+  },
+  "panX": 0,
+  "errors": [
+   "console: Access to font at 'https://www.filomena.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.wo",
+   "console: Failed to load resource: net::ERR_FAILED",
+   "console: Access to font at 'https://www.filomena.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.wo",
+   "console: Failed to load resource: net::ERR_FAILED"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-269 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "10 of 35 tap targets under 24px: a.custom-logo-link 144x18, a 363x18, a 300x18, a 145x19, a.menu-image-title-hide 24x19"
+   ],
+   [
+    "INFO",
+    "console: Access to font at 'https://www.filomena.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.wo"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5855px tall"
+   ]
+  ],
+  "site": "https://filomena.com/"
+ },
+ {
+  "url": "https://filomena.com/menu/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.4,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 3003,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 29,
+  "small": 11,
+  "smallList": [
+   "a.custom-logo-link 144x19",
+   "a 360x19",
+   "a 300x19",
+   "a 127x24",
+   "a 145x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 909,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Make a Reservation",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.com/gift-cards/"
+   },
+   {
+    "text": "Reserve A Table",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.wpengine.com/gift-cards/"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://filomena.com/",
+   "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+   "https://filomena.com/about-us/",
+   "https://filomena.com/our-history/",
+   "https://filomena.com/in-the-news/",
+   "https://filomena.com/videos/",
+   "https://filomena.com/menu/",
+   "https://filomena.com/dinner/",
+   "https://filomena.com/lunch/",
+   "https://filomena.com/desserts/",
+   "https://filomena.com/wine/",
+   "https://filomena.com/catering/",
+   "https://filomena.com/menu/#",
+   "https://filomena.com/delivery/",
+   "https://filomena.orderexperience.net/66993fd980745e8cd90d6fdf/menu",
+   "https://filomena-ristorante.goldbelly.com/",
+   "https://filomena-ristorante.goldbelly.com/categories/fresh-pasta",
+   "https://filomena-ristorante.goldbelly.com/categories/cakes",
+   "https://filomena-ristorante.goldbelly.com/categories/meat",
+   "https://filomena-ristorante.goldbelly.com/categories/italian-grocery",
+   "https://filomena.com/gift-cards/",
+   "https://filomena.cardfoundry.com/giftcards/card_details",
+   "https://filomena.cardfoundry.com/giftcards/card_balance",
+   "https://filomena.com/gallery/",
+   "https://filomena.com/holidays-at-filomena/",
+   "https://filomena.com/contact/",
+   "https://filomena.com/directions/",
+   "https://filomena.wpengine.com/dinner/",
+   "https://filomena.wpengine.com/lunch/",
+   "https://filomena.wpengine.com/desserts/",
+   "https://filomena.wpengine.com/wine/",
+   "https://goo.gl/maps/KpAR6kGVjcv31p4F6",
+   "https://filomena.wpengine.com/gift-cards/",
+   "https://filomena.com/reviews/",
+   "https://www.facebook.com/FilomenaRistoranteDC/",
+   "https://www.instagram.com/filomenaristorante/",
+   "https://twitter.com/Filomena_DC",
+   "http://www.rivercitymarketing.com/",
+   "https://filomena.wpengine.com/terms-of-use/",
+   "https://filomena.wpengine.com/wp-content/uploads/2020/09/Filomena-Privacy-Policy-copy.pdf"
+  ],
+  "weight": 13141,
+  "title": "Authentic Italian Food in Washington DC",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2339,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://filomena.wpengine.com/gift-cards/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://filomena.wpengine.com/dinner/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://filomena.wpengine.com/lunch/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://filomena.wpengine.com/desserts/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://filomena.wpengine.com/wine/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://filomena.wpengine.com/terms-of-use/",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-filomena-com-menu.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/gift-cards/ answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/dinner/ answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/lunch/ answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/desserts/ answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/wine/ answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://filomena.wpengine.com/terms-of-use/ answers 404"
+   ],
+   [
+    "WARN",
+    "11 of 29 tap targets under 24px: a.custom-logo-link 144x19, a 360x19, a 300x19, a 127x24, a 145x19"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3003px tall"
+   ]
+  ],
+  "site": "https://filomena.com/"
+ },
+ {
+  "url": "https://filomena.com/menu/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3908,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 29,
+  "small": 10,
+  "smallList": [
+   "a.custom-logo-link 144x18",
+   "a 363x18",
+   "a 300x18",
+   "a 145x19",
+   "a.menu-image-title-hide 24x19"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header",
+  "textLen": 905,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Make a Reservation",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.com/gift-cards/"
+   },
+   {
+    "text": "Reserve A Table",
+    "href": "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6"
+   },
+   {
+    "text": "Menus",
+    "href": "https://filomena.com/menu/"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://filomena.wpengine.com/gift-cards/"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://filomena.com/",
+   "https://www.opentable.com/restref/client/?rid=1835&restref=1835&corrid=19b6a758-f90f-4528-901c-fa569bbb40a6",
+   "https://filomena.com/about-us/",
+   "https://filomena.com/our-history/",
+   "https://filomena.com/in-the-news/",
+   "https://filomena.com/videos/",
+   "https://filomena.com/menu/",
+   "https://filomena.com/dinner/",
+   "https://filomena.com/lunch/",
+   "https://filomena.com/desserts/",
+   "https://filomena.com/wine/",
+   "https://filomena.com/catering/",
+   "https://filomena.com/menu/#",
+   "https://filomena.com/delivery/",
+   "https://filomena.orderexperience.net/66993fd980745e8cd90d6fdf/menu",
+   "https://filomena-ristorante.goldbelly.com/",
+   "https://filomena-ristorante.goldbelly.com/categories/fresh-pasta",
+   "https://filomena-ristorante.goldbelly.com/categories/cakes",
+   "https://filomena-ristorante.goldbelly.com/categories/meat",
+   "https://filomena-ristorante.goldbelly.com/categories/italian-grocery",
+   "https://filomena.com/gift-cards/",
+   "https://filomena.cardfoundry.com/giftcards/card_details",
+   "https://filomena.cardfoundry.com/giftcards/card_balance",
+   "https://filomena.com/gallery/",
+   "https://filomena.com/holidays-at-filomena/",
+   "https://filomena.com/contact/",
+   "https://filomena.com/directions/",
+   "https://filomena.wpengine.com/dinner/",
+   "https://filomena.wpengine.com/lunch/",
+   "https://filomena.wpengine.com/desserts/",
+   "https://filomena.wpengine.com/wine/",
+   "https://goo.gl/maps/KpAR6kGVjcv31p4F6",
+   "https://filomena.wpengine.com/gift-cards/",
+   "https://filomena.com/reviews/",
+   "https://www.facebook.com/FilomenaRistoranteDC/",
+   "https://www.instagram.com/filomenaristorante/",
+   "https://twitter.com/Filomena_DC",
+   "http://www.rivercitymarketing.com/",
+   "https://filomena.wpengine.com/terms-of-use/",
+   "https://filomena.wpengine.com/wp-content/uploads/2020/09/Filomena-Privacy-Policy-copy.pdf"
+  ],
+  "weight": 14025,
+  "title": "Authentic Italian Food in Washington DC",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1502,
+    "inner": null
+   },
+   "backY": 441,
+   "backInner": null,
+   "headTop": -441
+  },
+  "panX": 0,
+  "errors": [
+   "console: Access to font at 'https://www.filomena.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.wo",
+   "console: Failed to load resource: net::ERR_FAILED"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-441 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "10 of 29 tap targets under 24px: a.custom-logo-link 144x18, a 363x18, a 300x18, a 145x19, a.menu-image-title-hide 24x19"
+   ],
+   [
+    "INFO",
+    "console: Access to font at 'https://www.filomena.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.wo"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3908px tall"
+   ]
+  ],
+  "site": "https://filomena.com/"
+ },
+ {
+  "url": "https://dirtyfranks.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 7.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 5827,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.uabb-overlay",
+    "pos": "fixed",
+    "cover": 100
+   }
+  ],
+  "targets": 46,
+  "small": 32,
+  "smallList": [
+   "a 31x20",
+   "a 31x20",
+   "a 31x20",
+   "a 31x20",
+   "a 26x20"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead.site-header",
+  "textLen": 1471,
+  "fields": [
+   {
+    "el": "input#input_3_1.large",
+    "type": "email",
+    "name": "input_1",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "EMAIL ADDRESS"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Ace of Cups Menu",
+    "href": "https://dirtyfranks.com/ace-of-cups-menu/"
+   },
+   {
+    "text": "Downtown CBUS",
+    "href": "http://www.toasttab.com/dirty-franks/v3"
+   },
+   {
+    "text": "Worthington",
+    "href": "https://order.toasttab.com/online/df-worthington"
+   },
+   {
+    "text": "OSU Campus",
+    "href": "https://www.toasttab.com/dirty-franks-osu"
+   },
+   {
+    "text": "Ace of Cups",
+    "href": "https://order.toasttab.com/online/dirty-franks-aceofcups"
+   },
+   {
+    "text": "Shop",
+    "href": "https://dirty-franks-hot-dog-palace.myshopify.com/"
+   },
+   {
+    "text": "Ace of Cups Menu",
+    "href": "https://dirtyfranks.com/ace-of-cups-menu/"
+   },
+   {
+    "text": "Downtown CBUS",
+    "href": "http://www.toasttab.com/dirty-franks/v3"
+   },
+   {
+    "text": "Worthington",
+    "href": "https://order.toasttab.com/online/df-worthington"
+   },
+   {
+    "text": "OSU Campus",
+    "href": "https://www.toasttab.com/dirty-franks-osu"
+   },
+   {
+    "text": "Ace of Cups",
+    "href": "https://order.toasttab.com/online/dirty-franks-aceofcups"
+   },
+   {
+    "text": "Shop",
+    "href": "https://dirty-franks-hot-dog-palace.myshopify.com/"
+   }
+  ],
+  "allLinks": [
+   "https://dirtyfranks.com/#content",
+   "https://www.facebook.com/DirtyFranks/",
+   "https://www.instagram.com/dirtyfranksdogs/",
+   "https://twitter.com/dirtyfranksdogs",
+   "https://www.yelp.com/biz/dirty-franks-hot-dog-palace-columbus",
+   "https://goo.gl/maps/o49rcL1WPKSJqy9b8",
+   "https://dirtyfranks.com/locations/",
+   "https://dirtyfranks.com/",
+   "https://dirtyfranks.com/menu",
+   "https://dirtyfranks.com/menu-worthington/",
+   "https://dirtyfranks.com/osu-campus-menu/",
+   "https://dirtyfranks.com/ace-of-cups-menu/",
+   "http://www.toasttab.com/dirty-franks/v3",
+   "https://order.toasttab.com/online/df-worthington",
+   "https://www.toasttab.com/dirty-franks-osu",
+   "https://order.toasttab.com/online/dirty-franks-aceofcups",
+   "https://dirtyfranks.com/catering/",
+   "https://dirtyfranks.com/truck/",
+   "https://dirty-franks-hot-dog-palace.myshopify.com/",
+   "https://dirtyfranks.com/faqs/",
+   "https://dirtyfranks.com/contact/",
+   "https://dirtyfranks.com/location-worthington/",
+   "https://dirtyfranks.com/osu-campus-location/",
+   "https://dirtyfranks.com/ace-of-cups-location/",
+   "https://www.toasttab.com/dirty-franks/v3",
+   "https://www.hollywoodcolumbus.com/dining/dirty-franks",
+   "https://dirtyfranks.com/menu/",
+   "https://www.doordash.com/store/dirty-frank's-hot-dog-palace-columbus-26337983/",
+   "https://dirtyfranks.com/pics/",
+   "https://dirtyfranks.com/press/",
+   "http://www.robintek.com/"
+  ],
+  "weight": 47335,
+  "title": "Dirty Frank's Hot Dog Palace - Columbus, OH",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5163,
+    "inner": 5163
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "http://www.toasttab.com/dirty-franks/v3",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.toasttab.com/online/df-worthington",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.toasttab.com/dirty-franks-osu",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.toasttab.com/online/dirty-franks-aceofcups",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.toasttab.com/dirty-franks/v3",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.hollywoodcolumbus.com/dining/dirty-franks",
+    "codes": [
+     "TimeoutError",
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.doordash.com/store/dirty-frank's-hot-dog-palace-columbus-26337983/",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-dirtyfranks-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div.uabb-overlay covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "32 of 46 tap targets under 24px: a 31x20, a 31x20, a 31x20, a 31x20, a 26x20"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: a 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5827px tall"
+   ]
+  ],
+  "site": "https://dirtyfranks.com/",
+  "hop": "https://dirtyfranks.com/ace-of-cups-menu/"
+ },
+ {
+  "url": "https://dirtyfranks.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.2,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 5841,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.uabb-overlay",
+    "pos": "fixed",
+    "cover": 100
+   }
+  ],
+  "targets": 46,
+  "small": 32,
+  "smallList": [
+   "a 31x20",
+   "a 31x20",
+   "a 31x20",
+   "a 31x20",
+   "a 26x20"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead.site-header",
+  "textLen": 1479,
+  "fields": [
+   {
+    "el": "input#input_3_1.large",
+    "type": "email",
+    "name": "input_1",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "EMAIL ADDRESS"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Ace of Cups Menu",
+    "href": "https://dirtyfranks.com/ace-of-cups-menu/"
+   },
+   {
+    "text": "Downtown CBUS",
+    "href": "http://www.toasttab.com/dirty-franks/v3"
+   },
+   {
+    "text": "Worthington",
+    "href": "https://order.toasttab.com/online/df-worthington"
+   },
+   {
+    "text": "OSU Campus",
+    "href": "https://www.toasttab.com/dirty-franks-osu"
+   },
+   {
+    "text": "Ace of Cups",
+    "href": "https://order.toasttab.com/online/dirty-franks-aceofcups"
+   },
+   {
+    "text": "Shop",
+    "href": "https://dirty-franks-hot-dog-palace.myshopify.com/"
+   },
+   {
+    "text": "Ace of Cups Menu",
+    "href": "https://dirtyfranks.com/ace-of-cups-menu/"
+   },
+   {
+    "text": "Downtown CBUS",
+    "href": "http://www.toasttab.com/dirty-franks/v3"
+   },
+   {
+    "text": "Worthington",
+    "href": "https://order.toasttab.com/online/df-worthington"
+   },
+   {
+    "text": "OSU Campus",
+    "href": "https://www.toasttab.com/dirty-franks-osu"
+   },
+   {
+    "text": "Ace of Cups",
+    "href": "https://order.toasttab.com/online/dirty-franks-aceofcups"
+   },
+   {
+    "text": "Shop",
+    "href": "https://dirty-franks-hot-dog-palace.myshopify.com/"
+   }
+  ],
+  "allLinks": [
+   "https://dirtyfranks.com/#content",
+   "https://www.facebook.com/DirtyFranks/",
+   "https://www.instagram.com/dirtyfranksdogs/",
+   "https://twitter.com/dirtyfranksdogs",
+   "https://www.yelp.com/biz/dirty-franks-hot-dog-palace-columbus",
+   "https://goo.gl/maps/o49rcL1WPKSJqy9b8",
+   "https://dirtyfranks.com/locations/",
+   "https://dirtyfranks.com/",
+   "https://dirtyfranks.com/menu",
+   "https://dirtyfranks.com/menu-worthington/",
+   "https://dirtyfranks.com/osu-campus-menu/",
+   "https://dirtyfranks.com/ace-of-cups-menu/",
+   "http://www.toasttab.com/dirty-franks/v3",
+   "https://order.toasttab.com/online/df-worthington",
+   "https://www.toasttab.com/dirty-franks-osu",
+   "https://order.toasttab.com/online/dirty-franks-aceofcups",
+   "https://dirtyfranks.com/catering/",
+   "https://dirtyfranks.com/truck/",
+   "https://dirty-franks-hot-dog-palace.myshopify.com/",
+   "https://dirtyfranks.com/faqs/",
+   "https://dirtyfranks.com/contact/",
+   "https://dirtyfranks.com/location-worthington/",
+   "https://dirtyfranks.com/osu-campus-location/",
+   "https://dirtyfranks.com/ace-of-cups-location/",
+   "https://www.toasttab.com/dirty-franks/v3",
+   "https://www.hollywoodcolumbus.com/dining/dirty-franks",
+   "https://dirtyfranks.com/menu/",
+   "https://www.doordash.com/store/dirty-frank's-hot-dog-palace-columbus-26337983/",
+   "https://dirtyfranks.com/pics/",
+   "https://dirtyfranks.com/press/",
+   "http://www.robintek.com/"
+  ],
+  "weight": 47308,
+  "title": "Dirty Frank's Hot Dog Palace - Columbus, OH",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5114,
+    "inner": 5114
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div.uabb-overlay covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "32 of 46 tap targets under 24px: a 31x20, a 31x20, a 31x20, a 31x20, a 26x20"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: a 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5841px tall"
+   ]
+  ],
+  "site": "https://dirtyfranks.com/"
+ },
+ {
+  "url": "https://dirtyfranks.com/ace-of-cups-menu/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.4,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 2983,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 37,
+  "small": 32,
+  "smallList": [
+   "a 31x20",
+   "a 31x20",
+   "a 31x20",
+   "a 31x20",
+   "a 26x20"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead.site-header",
+  "textLen": 855,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Ace of Cups Menu",
+    "href": "https://dirtyfranks.com/ace-of-cups-menu/"
+   },
+   {
+    "text": "Downtown CBUS",
+    "href": "http://www.toasttab.com/dirty-franks/v3"
+   },
+   {
+    "text": "Worthington",
+    "href": "https://order.toasttab.com/online/df-worthington"
+   },
+   {
+    "text": "OSU Campus",
+    "href": "https://www.toasttab.com/dirty-franks-osu"
+   },
+   {
+    "text": "Ace of Cups",
+    "href": "https://order.toasttab.com/online/dirty-franks-aceofcups"
+   },
+   {
+    "text": "Shop",
+    "href": "https://dirty-franks-hot-dog-palace.myshopify.com/"
+   },
+   {
+    "text": "Ace of Cups Menu",
+    "href": "https://dirtyfranks.com/ace-of-cups-menu/"
+   },
+   {
+    "text": "Downtown CBUS",
+    "href": "http://www.toasttab.com/dirty-franks/v3"
+   },
+   {
+    "text": "Worthington",
+    "href": "https://order.toasttab.com/online/df-worthington"
+   },
+   {
+    "text": "OSU Campus",
+    "href": "https://www.toasttab.com/dirty-franks-osu"
+   },
+   {
+    "text": "Ace of Cups",
+    "href": "https://order.toasttab.com/online/dirty-franks-aceofcups"
+   },
+   {
+    "text": "Shop",
+    "href": "https://dirty-franks-hot-dog-palace.myshopify.com/"
+   }
+  ],
+  "allLinks": [
+   "https://dirtyfranks.com/ace-of-cups-menu/#content",
+   "https://www.facebook.com/DirtyFranks/",
+   "https://www.instagram.com/dirtyfranksdogs/",
+   "https://twitter.com/dirtyfranksdogs",
+   "https://www.yelp.com/biz/dirty-franks-hot-dog-palace-columbus",
+   "https://goo.gl/maps/o49rcL1WPKSJqy9b8",
+   "https://dirtyfranks.com/locations/",
+   "https://dirtyfranks.com/",
+   "https://dirtyfranks.com/menu",
+   "https://dirtyfranks.com/menu-worthington/",
+   "https://dirtyfranks.com/osu-campus-menu/",
+   "https://dirtyfranks.com/ace-of-cups-menu/",
+   "http://www.toasttab.com/dirty-franks/v3",
+   "https://order.toasttab.com/online/df-worthington",
+   "https://www.toasttab.com/dirty-franks-osu",
+   "https://order.toasttab.com/online/dirty-franks-aceofcups",
+   "https://dirtyfranks.com/catering/",
+   "https://dirtyfranks.com/truck/",
+   "https://dirty-franks-hot-dog-palace.myshopify.com/",
+   "https://dirtyfranks.com/faqs/",
+   "https://dirtyfranks.com/contact/",
+   "https://dirtyfranks.com/location-worthington/",
+   "https://dirtyfranks.com/osu-campus-location/",
+   "https://dirtyfranks.com/ace-of-cups-location/",
+   "https://dirtyfranks.com/wp-content/uploads/2024/10/df-osu-campus-menu.jpg",
+   "https://dirtyfranks.com/wp-content/uploads/2025/06/dirty-franks-aoc-menu-full.pdf",
+   "https://www.doordash.com/store/dirty-frank's-hot-dog-palace-columbus-26337983/",
+   "https://dirtyfranks.com/pics/",
+   "https://dirtyfranks.com/press/",
+   "http://www.robintek.com/"
+  ],
+  "weight": 30202,
+  "title": "Ace of Cups Menu | Dirty Frank's Hot Dog Palace",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2319,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "http://www.toasttab.com/dirty-franks/v3",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.toasttab.com/online/df-worthington",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.toasttab.com/dirty-franks-osu",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.toasttab.com/online/dirty-franks-aceofcups",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.doordash.com/store/dirty-frank's-hot-dog-palace-columbus-26337983/",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-dirtyfranks-com-ace-of-cups-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "32 of 37 tap targets under 24px: a 31x20, a 31x20, a 31x20, a 31x20, a 26x20"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: a 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 2983px tall"
+   ]
+  ],
+  "site": "https://dirtyfranks.com/"
+ },
+ {
+  "url": "https://dirtyfranks.com/ace-of-cups-menu/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 2990,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 37,
+  "small": 32,
+  "smallList": [
+   "a 31x20",
+   "a 31x20",
+   "a 31x20",
+   "a 31x20",
+   "a 26x20"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead.site-header",
+  "textLen": 866,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Ace of Cups Menu",
+    "href": "https://dirtyfranks.com/ace-of-cups-menu/"
+   },
+   {
+    "text": "Downtown CBUS",
+    "href": "http://www.toasttab.com/dirty-franks/v3"
+   },
+   {
+    "text": "Worthington",
+    "href": "https://order.toasttab.com/online/df-worthington"
+   },
+   {
+    "text": "OSU Campus",
+    "href": "https://www.toasttab.com/dirty-franks-osu"
+   },
+   {
+    "text": "Ace of Cups",
+    "href": "https://order.toasttab.com/online/dirty-franks-aceofcups"
+   },
+   {
+    "text": "Shop",
+    "href": "https://dirty-franks-hot-dog-palace.myshopify.com/"
+   },
+   {
+    "text": "Ace of Cups Menu",
+    "href": "https://dirtyfranks.com/ace-of-cups-menu/"
+   },
+   {
+    "text": "Downtown CBUS",
+    "href": "http://www.toasttab.com/dirty-franks/v3"
+   },
+   {
+    "text": "Worthington",
+    "href": "https://order.toasttab.com/online/df-worthington"
+   },
+   {
+    "text": "OSU Campus",
+    "href": "https://www.toasttab.com/dirty-franks-osu"
+   },
+   {
+    "text": "Ace of Cups",
+    "href": "https://order.toasttab.com/online/dirty-franks-aceofcups"
+   },
+   {
+    "text": "Shop",
+    "href": "https://dirty-franks-hot-dog-palace.myshopify.com/"
+   }
+  ],
+  "allLinks": [
+   "https://dirtyfranks.com/ace-of-cups-menu/#content",
+   "https://www.facebook.com/DirtyFranks/",
+   "https://www.instagram.com/dirtyfranksdogs/",
+   "https://twitter.com/dirtyfranksdogs",
+   "https://www.yelp.com/biz/dirty-franks-hot-dog-palace-columbus",
+   "https://goo.gl/maps/o49rcL1WPKSJqy9b8",
+   "https://dirtyfranks.com/locations/",
+   "https://dirtyfranks.com/",
+   "https://dirtyfranks.com/menu",
+   "https://dirtyfranks.com/menu-worthington/",
+   "https://dirtyfranks.com/osu-campus-menu/",
+   "https://dirtyfranks.com/ace-of-cups-menu/",
+   "http://www.toasttab.com/dirty-franks/v3",
+   "https://order.toasttab.com/online/df-worthington",
+   "https://www.toasttab.com/dirty-franks-osu",
+   "https://order.toasttab.com/online/dirty-franks-aceofcups",
+   "https://dirtyfranks.com/catering/",
+   "https://dirtyfranks.com/truck/",
+   "https://dirty-franks-hot-dog-palace.myshopify.com/",
+   "https://dirtyfranks.com/faqs/",
+   "https://dirtyfranks.com/contact/",
+   "https://dirtyfranks.com/location-worthington/",
+   "https://dirtyfranks.com/osu-campus-location/",
+   "https://dirtyfranks.com/ace-of-cups-location/",
+   "https://dirtyfranks.com/wp-content/uploads/2024/10/df-osu-campus-menu.jpg",
+   "https://dirtyfranks.com/wp-content/uploads/2025/06/dirty-franks-aoc-menu-full.pdf",
+   "https://www.doordash.com/store/dirty-frank's-hot-dog-palace-columbus-26337983/",
+   "https://dirtyfranks.com/pics/",
+   "https://dirtyfranks.com/press/",
+   "http://www.robintek.com/"
+  ],
+  "weight": 30184,
+  "title": "Ace of Cups Menu | Dirty Frank's Hot Dog Palace",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2263,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "32 of 37 tap targets under 24px: a 31x20, a 31x20, a 31x20, a 31x20, a 26x20"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: a 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 2990px tall"
+   ]
+  ],
+  "site": "https://dirtyfranks.com/"
+ },
+ {
+  "url": "https://bouldincreekcafe.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 34.1,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 6694,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.nav-v2",
+    "pos": "fixed",
+    "cover": 10
+   },
+   {
+    "el": "button#sh-generic-form-bubble.tw-fixed",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 59,
+  "small": 30,
+  "smallList": [
+   "a.fancybox 175x18",
+   "a.fancybox 175x18",
+   "a.fancybox 175x18",
+   "a.fancybox 175x18",
+   "a.fancybox 175x18"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#navbar-normal.nav-v2",
+  "textLen": 7317,
+  "fields": [
+   {
+    "el": "input#sph-newsletter-input-cb51cda39bedb554fd1748b959ebcf10.sph-email-input",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "e.g. email@example.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://bouldincreekcafe.com/"
+  ],
+  "moneyLinks": [
+   {
+    "text": "*Order Online",
+    "href": "https://www.toasttab.com/bouldin-creek-cafe/v3/?mode=fulfillment"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.toasttab.com/bouldin-creek-cafe/giftcards?utmCampaign=onlineOrdering"
+   },
+   {
+    "text": "Menu PDF",
+    "href": "https://static.spotapps.co/website_images/ab_websites/60273_website/menu_new_v2.pdf"
+   }
+  ],
+  "allLinks": [
+   "https://bouldincreekcafe.com/",
+   "https://bouldincreekcafe.com/#content",
+   "https://bouldincreekcafe.com/austin-bouldin-creek-cafe-art",
+   "https://bouldincreekcafe.com/austin-bouldin-creek-cafe-happy-hours-specials",
+   "https://tmt.spotapps.co/job-listings?spot_id=60273&callback_url=http://bouldincreekcafe.com/#",
+   "https://www.twitter.com/bouldincreekatx",
+   "https://www.facebook.com/100994179945305",
+   "https://www.instagram.com/bouldincreekcafeatx",
+   "https://bouldincreekcafe.com/austin-bouldin-creek-cafe-press",
+   "https://bouldincreekcafe.com/austin-bouldin-creek-cafe-catering-menu",
+   "https://www.toasttab.com/bouldin-creek-cafe/v3/?mode=fulfillment",
+   "https://www.yelp.com/waitlist/bouldin-creek-cafe-austin?party_size=2&utm_medium=waitlist_widget&utm_source=biz_details",
+   "https://www.toasttab.com/bouldin-creek-cafe/giftcards?utmCampaign=onlineOrdering",
+   "https://static.spotapps.co/website_images/ab_websites/60273_website/menu_new_v2.pdf",
+   "https://search.picknic.app/biz/bouldin-creek-cafe-austin?utm_source=restaurant&utm_medium=digital&mo=1",
+   "https://bouldincreekcafe.com/#map-v3-container",
+   "https://static.spotapps.co/spots/cb/57d6b9f1ee40acb5199c997987749f/full",
+   "https://static.spotapps.co/spots/5b/30e080aaf24cc9b25db301f408eaa8/full",
+   "https://static.spotapps.co/spots/e6/73e2cf2a534f399132c91cdde5f65a/full",
+   "https://static.spotapps.co/spots/3b/db0a3e73d1407abf4569e5c029ccb4/full",
+   "https://static.spotapps.co/spots/ce/6d1021f5f842b486c62771a57563de/full",
+   "https://static.spotapps.co/spots/a1/b2d506ec1f498da581a8c63f014685/full",
+   "https://static.spotapps.co/spots/ca/de6383e4e8437898adf11089574bbc/full",
+   "https://static.spotapps.co/spots/35/284d40149c45508f2f76061789440c/full",
+   "https://static.spotapps.co/spots/db/94256b0fc543cb8b7dc5dc21c9d29a/full",
+   "https://static.spotapps.co/spots/8f/ad4cc6e45147ed9c2719eeb442fcf2/full",
+   "https://static.spotapps.co/spots/d5/312c917a3242a0beedf51d857a9d7e/full",
+   "https://static.spotapps.co/spots/27/12f43725824d28b10d2dc6143560b6/full",
+   "https://static.spotapps.co/spots/1b/52f4de904d4d0e92625307df23fdc0/full",
+   "https://static.spotapps.co/spots/08/9f232bfce04f6090d01cab704b0fe5/full",
+   "https://static.spotapps.co/spots/ba/f466200f5c49a7b1c335aa85bca13b/full",
+   "https://static.spotapps.co/spots/47/f399a4adec44a8913118465c097f7e/full",
+   "https://bouldincreekcafe.com/austin-bouldin-creek-cafe-specials",
+   "https://bouldincreekcafe.com/#",
+   "http://leafletjs.com/",
+   "http://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps/dir/?api=1&destination=Bouldin%20Creek%20Cafe&destination_place_id=ChIJH-Sj5OK0RIYRjC-_RrNEotk",
+   "https://www.yelp.com/biz/bouldin-creek-cafe-austin",
+   "https://www.spothopperapp.com/",
+   "https://www.spothopperapp.com/contact-us?contact_reason=demo",
+   "https://bouldincreekcafe.com/accessibility-page-01"
+  ],
+  "weight": 27667,
+  "title": "Best Vegetarian Restaurant in Austin | Bouldin Creek Cafe",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6030,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.toasttab.com/bouldin-creek-cafe/v3/?mode=fulfillment",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.toasttab.com/bouldin-creek-cafe/giftcards?utmCampaign=onlineOrdering",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-bouldincreekcafe-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "broken image: https://bouldincreekcafe.com/"
+   ],
+   [
+    "WARN",
+    "30 of 59 tap targets under 24px: a.fancybox 175x18, a.fancybox 175x18, a.fancybox 175x18, a.fancybox 175x18, a.fancybox 175x18"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 6694px tall"
+   ]
+  ],
+  "site": "https://bouldincreekcafe.com/"
+ },
+ {
+  "url": "https://bouldincreekcafe.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 11.5,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 6770,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "nav#navbar.nav-v2",
+    "pos": "fixed",
+    "cover": 9
+   },
+   {
+    "el": "button#sh-generic-form-bubble.tw-fixed",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 59,
+  "small": 30,
+  "smallList": [
+   "a.fancybox 177x18",
+   "a.fancybox 177x18",
+   "a.fancybox 177x18",
+   "a.fancybox 177x18",
+   "a.fancybox 177x18"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "div.leaflet-control-attribution 11px",
+   "a 11px",
+   "a 11px"
+  ],
+  "headTop": 0,
+  "headTag": "nav#navbar-normal.nav-v2",
+  "textLen": 7337,
+  "fields": [
+   {
+    "el": "input#sph-newsletter-input-4ce8c97c4383c71992002d89d779492f.sph-email-input",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "e.g. email@example.com"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [
+   "https://bouldincreekcafe.com/"
+  ],
+  "moneyLinks": [
+   {
+    "text": "*Order Online",
+    "href": "https://www.toasttab.com/bouldin-creek-cafe/v3/?mode=fulfillment"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.toasttab.com/bouldin-creek-cafe/giftcards?utmCampaign=onlineOrdering"
+   },
+   {
+    "text": "Menu PDF",
+    "href": "https://static.spotapps.co/website_images/ab_websites/60273_website/menu_new_v2.pdf"
+   }
+  ],
+  "allLinks": [
+   "https://bouldincreekcafe.com/",
+   "https://bouldincreekcafe.com/#content",
+   "https://bouldincreekcafe.com/austin-bouldin-creek-cafe-art",
+   "https://bouldincreekcafe.com/austin-bouldin-creek-cafe-happy-hours-specials",
+   "https://tmt.spotapps.co/job-listings?spot_id=60273&callback_url=http://bouldincreekcafe.com/#",
+   "https://www.twitter.com/bouldincreekatx",
+   "https://www.facebook.com/100994179945305",
+   "https://www.instagram.com/bouldincreekcafeatx",
+   "https://bouldincreekcafe.com/austin-bouldin-creek-cafe-press",
+   "https://bouldincreekcafe.com/austin-bouldin-creek-cafe-catering-menu",
+   "https://www.toasttab.com/bouldin-creek-cafe/v3/?mode=fulfillment",
+   "https://www.yelp.com/waitlist/bouldin-creek-cafe-austin?party_size=2&utm_medium=waitlist_widget&utm_source=biz_details",
+   "https://www.toasttab.com/bouldin-creek-cafe/giftcards?utmCampaign=onlineOrdering",
+   "https://static.spotapps.co/website_images/ab_websites/60273_website/menu_new_v2.pdf",
+   "https://search.picknic.app/biz/bouldin-creek-cafe-austin?utm_source=restaurant&utm_medium=digital&mo=1",
+   "https://bouldincreekcafe.com/#map-v3-container",
+   "https://static.spotapps.co/spots/cb/57d6b9f1ee40acb5199c997987749f/full",
+   "https://static.spotapps.co/spots/5b/30e080aaf24cc9b25db301f408eaa8/full",
+   "https://static.spotapps.co/spots/e6/73e2cf2a534f399132c91cdde5f65a/full",
+   "https://static.spotapps.co/spots/3b/db0a3e73d1407abf4569e5c029ccb4/full",
+   "https://static.spotapps.co/spots/ce/6d1021f5f842b486c62771a57563de/full",
+   "https://static.spotapps.co/spots/a1/b2d506ec1f498da581a8c63f014685/full",
+   "https://static.spotapps.co/spots/ca/de6383e4e8437898adf11089574bbc/full",
+   "https://static.spotapps.co/spots/35/284d40149c45508f2f76061789440c/full",
+   "https://static.spotapps.co/spots/db/94256b0fc543cb8b7dc5dc21c9d29a/full",
+   "https://static.spotapps.co/spots/8f/ad4cc6e45147ed9c2719eeb442fcf2/full",
+   "https://static.spotapps.co/spots/d5/312c917a3242a0beedf51d857a9d7e/full",
+   "https://static.spotapps.co/spots/27/12f43725824d28b10d2dc6143560b6/full",
+   "https://static.spotapps.co/spots/1b/52f4de904d4d0e92625307df23fdc0/full",
+   "https://static.spotapps.co/spots/08/9f232bfce04f6090d01cab704b0fe5/full",
+   "https://static.spotapps.co/spots/ba/f466200f5c49a7b1c335aa85bca13b/full",
+   "https://static.spotapps.co/spots/47/f399a4adec44a8913118465c097f7e/full",
+   "https://bouldincreekcafe.com/austin-bouldin-creek-cafe-specials",
+   "https://bouldincreekcafe.com/#",
+   "http://leafletjs.com/",
+   "http://www.openstreetmap.org/copyright",
+   "https://www.google.com/maps/dir/?api=1&destination=Bouldin%20Creek%20Cafe&destination_place_id=ChIJH-Sj5OK0RIYRjC-_RrNEotk",
+   "https://www.yelp.com/biz/bouldin-creek-cafe-austin",
+   "https://www.spothopperapp.com/",
+   "https://www.spothopperapp.com/contact-us?contact_reason=demo",
+   "https://bouldincreekcafe.com/accessibility-page-01"
+  ],
+  "weight": 27656,
+  "title": "Best Vegetarian Restaurant in Austin | Bouldin Creek Cafe",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6043,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "broken image: https://bouldincreekcafe.com/"
+   ],
+   [
+    "WARN",
+    "30 of 59 tap targets under 24px: a.fancybox 177x18, a.fancybox 177x18, a.fancybox 177x18, a.fancybox 177x18, a.fancybox 177x18"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 6770px tall"
+   ]
+  ],
+  "site": "https://bouldincreekcafe.com/"
+ },
+ {
+  "url": "https://www.pikeplacefish.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 5.2,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4731,
+  "zoomTrap": [
+   {
+    "el": "input#email-yui_3_17_2_1_1620865679831_44428-field.newsletter-form-field-element",
+    "fs": 15
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "aside#ae_launcher.ae-module",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 23,
+  "small": 2,
+  "smallList": [
+   "a#yui_3_17_2_1_1791324705379_313 103x17",
+   "a 24x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 100,
+  "headTag": "nav#mobileNavigation",
+  "textLen": 1924,
+  "fields": [
+   {
+    "el": "input#email-yui_3_17_2_1_1620865679831_44428-field.newsletter-form-field-element",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": "email",
+    "inputmode": null,
+    "hint": "Email Address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Seattle Delivery & Pickup",
+    "href": "https://order.toasttab.com/online/pike-place-fish-market"
+   },
+   {
+    "text": "Seattle Delivery & Pickup",
+    "href": "https://order.toasttab.com/online/pike-place-fish-market"
+   },
+   {
+    "text": "Seattle Delivery & Pickup \u279e",
+    "href": "https://order.toasttab.com/online/pike-place-fish-market"
+   },
+   {
+    "text": "Shop Dungeness, Snow & King Crab",
+    "href": "https://pikeplacefish.goldbelly.com/categories/crab-and-shellfish"
+   },
+   {
+    "text": "Shop Wild Alaskan Salmon Fillets",
+    "href": "https://pikeplacefish.goldbelly.com/categories/salmon"
+   },
+   {
+    "text": "Shop Gift Packs\u2014Shipping Included",
+    "href": "https://pikeplacefish.goldbelly.com/categories/gift-packages"
+   }
+  ],
+  "allLinks": [
+   "https://www.pikeplacefish.com/#page",
+   "https://www.pikeplacefish.com/were-famous",
+   "https://www.pikeplacefish.com/about",
+   "https://www.pikeplacefish.com/events",
+   "https://www.pikeplacefish.com/recipes",
+   "https://www.pikeplacefish.com/faq",
+   "https://www.pikeplacefish.com/contact",
+   "https://pikeplacefish.goldbelly.com/",
+   "https://order.toasttab.com/online/pike-place-fish-market",
+   "https://www.pikeplacefish.com/",
+   "https://pikeplacefish.goldbelly.com/categories/crab-and-shellfish",
+   "https://pikeplacefish.goldbelly.com/categories/salmon",
+   "https://pikeplacefish.goldbelly.com/categories/gift-packages",
+   "https://www.facebook.com/pikeplacefish/",
+   "http://instagram.com/pikeplacefish",
+   "http://twitter.com/pikeplacefish",
+   "https://www.pinterest.com/pikeplacefishmarket/",
+   "https://www.pikeplacefish.com/#header",
+   "https://www.goldbelly.com/pike-place-fish-market",
+   "https://www.pikeplacefish.com/cart"
+  ],
+  "weight": 25554,
+  "title": "Seattle Fish Market | Fresh Seafood Delivery | Pike Place Fish",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4067,
+    "inner": 7
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 100
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/online/pike-place-fish-market",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-pikeplacefish-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 404 ()",
+   "console: Failed to load resource: the server responded with a status of 404 ()"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#email-yui_3_17_2_1_1620865679831_44428-field.newsletter-form-field-element at 15px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "2 of 23 tap targets under 24px: a#yui_3_17_2_1_1791324705379_313 103x17, a 24x18"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 404 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4731px tall"
+   ]
+  ],
+  "site": "https://www.pikeplacefish.com/"
+ },
+ {
+  "url": "https://www.pikeplacefish.com/",
+  "device": "android",
+  "status": 200,
+  "note": "networkidle never settled",
+  "load_s": 47.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4747,
+  "zoomTrap": [
+   {
+    "el": "input#email-yui_3_17_2_1_1620865679831_44428-field.newsletter-form-field-element",
+    "fs": 15
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "aside#ae_launcher.ae-module",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 23,
+  "small": 2,
+  "smallList": [
+   "a#yui_3_17_2_1_1791324759069_313 103x17",
+   "a 24x18"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 100,
+  "headTag": "nav#mobileNavigation",
+  "textLen": 1617,
+  "fields": [
+   {
+    "el": "input#email-yui_3_17_2_1_1620865679831_44428-field.newsletter-form-field-element",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": "email",
+    "inputmode": null,
+    "hint": "Email Address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Seattle Delivery & Pickup",
+    "href": "https://order.toasttab.com/online/pike-place-fish-market"
+   },
+   {
+    "text": "Seattle Delivery & Pickup",
+    "href": "https://order.toasttab.com/online/pike-place-fish-market"
+   },
+   {
+    "text": "Seattle Delivery & Pickup \u279e",
+    "href": "https://order.toasttab.com/online/pike-place-fish-market"
+   },
+   {
+    "text": "Shop Dungeness, Snow & King Crab",
+    "href": "https://pikeplacefish.goldbelly.com/categories/crab-and-shellfish"
+   },
+   {
+    "text": "Shop Wild Alaskan Salmon Fillets",
+    "href": "https://pikeplacefish.goldbelly.com/categories/salmon"
+   },
+   {
+    "text": "Shop Gift Packs\u2014Shipping Included",
+    "href": "https://pikeplacefish.goldbelly.com/categories/gift-packages"
+   }
+  ],
+  "allLinks": [
+   "https://www.pikeplacefish.com/#page",
+   "https://www.pikeplacefish.com/were-famous",
+   "https://www.pikeplacefish.com/about",
+   "https://www.pikeplacefish.com/events",
+   "https://www.pikeplacefish.com/recipes",
+   "https://www.pikeplacefish.com/faq",
+   "https://www.pikeplacefish.com/contact",
+   "https://pikeplacefish.goldbelly.com/",
+   "https://order.toasttab.com/online/pike-place-fish-market",
+   "https://www.pikeplacefish.com/",
+   "https://pikeplacefish.goldbelly.com/categories/crab-and-shellfish",
+   "https://pikeplacefish.goldbelly.com/categories/salmon",
+   "https://pikeplacefish.goldbelly.com/categories/gift-packages",
+   "https://www.facebook.com/pikeplacefish/",
+   "http://instagram.com/pikeplacefish",
+   "http://twitter.com/pikeplacefish",
+   "https://www.pinterest.com/pikeplacefishmarket/",
+   "https://www.pikeplacefish.com/#header",
+   "https://www.goldbelly.com/pike-place-fish-market",
+   "https://www.pikeplacefish.com/cart"
+  ],
+  "weight": 300,
+  "title": "Seattle Fish Market | Fresh Seafood Delivery | Pike Place Fish",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4020,
+    "inner": 7
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 100
+  },
+  "panX": 0,
+  "errors": [
+   "console: Access to font at 'https://static1.squarespace.com/assets/fonts/EagleBold.woff2' from origin 'https://www.pikeplacefish.com' has been blocke",
+   "console: Failed to load resource: net::ERR_FAILED",
+   "console: Access to font at 'https://static1.squarespace.com/assets/fonts/Eagle-Light.woff2' from origin 'https://www.pikeplacefish.com' has been bloc",
+   "console: Failed to load resource: net::ERR_FAILED",
+   "console: Failed to load resource: the server responded with a status of 401 ()"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input#email-yui_3_17_2_1_1620865679831_44428-field.newsletter-form-field-element at 15px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "2 of 23 tap targets under 24px: a#yui_3_17_2_1_1791324759069_313 103x17, a 24x18"
+   ],
+   [
+    "INFO",
+    "console: Access to font at 'https://static1.squarespace.com/assets/fonts/EagleBold.woff2' from origin 'https://www.pikeplacefish.com' has been blocke"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4747px tall"
+   ]
+  ],
+  "site": "https://www.pikeplacefish.com/"
+ },
+ {
+  "url": "https://www.rheinhausseattle.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 8.4,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 9577,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=780"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 40,
+  "small": 3,
+  "smallList": [
+   "a 151x22",
+   "a 224x23",
+   "a 301x23"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.black",
+  "textLen": 4427,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "Folder: Menus",
+    "href": "https://www.rheinhausseattle.com/menus-1"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "VIEW MENUS",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "RESERVE A TABLE",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   }
+  ],
+  "allLinks": [
+   "https://www.rheinhausseattle.com/#page",
+   "https://www.rheinhausseattle.com/",
+   "https://www.rheinhausseattle.com/menus",
+   "https://www.rheinhausseattle.com/menu-bier",
+   "https://www.rheinhausseattle.com/menu-happy-hour",
+   "https://www.rheinhausseattle.com/menu-dinner",
+   "https://www.rheinhausseattle.com/reservations",
+   "https://www.rheinhausseattle.com/event-calendar",
+   "https://www.rheinhausseattle.com/private-parties",
+   "https://www.rheinhausseattle.com/kuntenserven-drag-show",
+   "https://www.rheinhausseattle.com/baila-bar-weekends",
+   "https://www.rheinhausseattle.com/play-bocce",
+   "https://www.rheinhausseattle.com/about-rhein-haus",
+   "https://www.instagram.com/rheinhausseattle/",
+   "https://www.tiktok.com/@rheinhaus",
+   "https://www.facebook.com/rheinhausseattle/",
+   "https://www.rheinhausseattle.com/cart",
+   "https://www.toasttab.com/rhein-haus-seattle/v3",
+   "https://www.rheinhausseattle.com/menus-1",
+   "https://www.google.com/maps/place/rhein+haus+seattle/data=!4m2!3m1!1s0x54906aced90ca951:0xd18cf1dea2150182?sa=X&ved=1t:242&ictx=111",
+   "https://www.rheinhausseattle.com/private-events",
+   "https://www.rheinhausseattle.com/loyalty",
+   "https://www.instagram.com/rheinhausseattle/?hl=en",
+   "https://www.instagram.com/p/DVZ52pjCX90/",
+   "https://www.instagram.com/p/DVPEEWIgXNf/",
+   "https://www.instagram.com/p/DVH2L0hFlLw/",
+   "https://www.instagram.com/p/DU6yiTUDiKU/",
+   "https://www.instagram.com/p/DU37tUZkndQ/",
+   "https://www.instagram.com/p/DUHSqMYAYTc/",
+   "https://www.instagram.com/p/DTgqOv0km3O/",
+   "https://www.instagram.com/p/DTV7tQXEXX_/",
+   "https://www.toasttab.com/rhein-haus-seattle/marketing-signup",
+   "https://www.yesparade.com/donations",
+   "https://www.yesparade.com/giftcards",
+   "https://yesparade.com/jobs",
+   "https://www.rheinhausseattle.com/contact",
+   "https://yesparade.com/",
+   "https://www.rheinhausseattle.com/terms-privacy-policy"
+  ],
+  "weight": 51085,
+  "title": "Rhein Haus Seattle | German Restaurant and Bier Hall",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7979,
+    "inner": 217
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://yesparade.com/jobs",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-rheinhausseattle-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 401 ()",
+   "console: AxiosError: Request failed with status code 401"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780"
+   ],
+   [
+    "FAIL",
+    "dead link: https://yesparade.com/jobs answers 404"
+   ],
+   [
+    "WARN",
+    "3 of 40 tap targets under 24px: a 151x22, a 224x23, a 301x23"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 401 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 9577px tall"
+   ]
+  ],
+  "site": "https://www.rheinhausseattle.com/",
+  "hop": "https://www.rheinhausseattle.com/menus"
+ },
+ {
+  "url": "https://www.rheinhausseattle.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 9658,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=786"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 40,
+  "small": 3,
+  "smallList": [
+   "a 151x23",
+   "a 223x23",
+   "a 299x23"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.black",
+  "textLen": 4424,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "Folder: Menus",
+    "href": "https://www.rheinhausseattle.com/menus-1"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "VIEW MENUS",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "RESERVE A TABLE",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   }
+  ],
+  "allLinks": [
+   "https://www.rheinhausseattle.com/#page",
+   "https://www.rheinhausseattle.com/",
+   "https://www.rheinhausseattle.com/menus",
+   "https://www.rheinhausseattle.com/menu-bier",
+   "https://www.rheinhausseattle.com/menu-happy-hour",
+   "https://www.rheinhausseattle.com/menu-dinner",
+   "https://www.rheinhausseattle.com/reservations",
+   "https://www.rheinhausseattle.com/event-calendar",
+   "https://www.rheinhausseattle.com/private-parties",
+   "https://www.rheinhausseattle.com/kuntenserven-drag-show",
+   "https://www.rheinhausseattle.com/baila-bar-weekends",
+   "https://www.rheinhausseattle.com/play-bocce",
+   "https://www.rheinhausseattle.com/about-rhein-haus",
+   "https://www.instagram.com/rheinhausseattle/",
+   "https://www.tiktok.com/@rheinhaus",
+   "https://www.facebook.com/rheinhausseattle/",
+   "https://www.rheinhausseattle.com/cart",
+   "https://www.toasttab.com/rhein-haus-seattle/v3",
+   "https://www.rheinhausseattle.com/menus-1",
+   "https://www.google.com/maps/place/rhein+haus+seattle/data=!4m2!3m1!1s0x54906aced90ca951:0xd18cf1dea2150182?sa=X&ved=1t:242&ictx=111",
+   "https://www.rheinhausseattle.com/private-events",
+   "https://www.rheinhausseattle.com/loyalty",
+   "https://www.instagram.com/rheinhausseattle/?hl=en",
+   "https://www.instagram.com/p/DVZ52pjCX90/",
+   "https://www.instagram.com/p/DVPEEWIgXNf/",
+   "https://www.instagram.com/p/DVH2L0hFlLw/",
+   "https://www.instagram.com/p/DU6yiTUDiKU/",
+   "https://www.instagram.com/p/DU37tUZkndQ/",
+   "https://www.instagram.com/p/DUHSqMYAYTc/",
+   "https://www.instagram.com/p/DTgqOv0km3O/",
+   "https://www.instagram.com/p/DTV7tQXEXX_/",
+   "https://www.toasttab.com/rhein-haus-seattle/marketing-signup",
+   "https://www.yesparade.com/donations",
+   "https://www.yesparade.com/giftcards",
+   "https://yesparade.com/jobs",
+   "https://www.rheinhausseattle.com/contact",
+   "https://yesparade.com/",
+   "https://www.rheinhausseattle.com/terms-privacy-policy"
+  ],
+  "weight": 51040,
+  "title": "Rhein Haus Seattle | German Restaurant and Bier Hall",
+  "roundtrip": {
+   "atBottom": {
+    "y": 831,
+    "inner": 159
+   },
+   "backY": 144,
+   "backInner": 0,
+   "headTop": -144
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 401 ()",
+   "console: AxiosError: Request failed with status code 401\n    at t (https://assets.squarespace.com/universal/scripts-compressed/common-vendors-d4778a8"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786"
+   ],
+   [
+    "WARN",
+    "header at y=-144 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "3 of 40 tap targets under 24px: a 151x23, a 223x23, a 299x23"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 401 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 9658px tall"
+   ]
+  ],
+  "site": "https://www.rheinhausseattle.com/"
+ },
+ {
+  "url": "https://www.rheinhausseattle.com/menus",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.4,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 3433,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=780"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 20,
+  "small": 2,
+  "smallList": [
+   "a 224x23",
+   "a 301x23"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.black",
+  "textLen": 1240,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "Folder: Menus",
+    "href": "https://www.rheinhausseattle.com/menus-1"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "SIGN UP FOR OUR NEWSLETTER",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/marketing-signup"
+   },
+   {
+    "text": "VIEW MENUS",
+    "href": "https://www.rheinhausseattle.com/menus"
+   }
+  ],
+  "allLinks": [
+   "https://www.rheinhausseattle.com/menus#page",
+   "https://www.rheinhausseattle.com/",
+   "https://www.rheinhausseattle.com/menus",
+   "https://www.rheinhausseattle.com/menu-bier",
+   "https://www.rheinhausseattle.com/menu-happy-hour",
+   "https://www.rheinhausseattle.com/menu-dinner",
+   "https://www.rheinhausseattle.com/reservations",
+   "https://www.rheinhausseattle.com/event-calendar",
+   "https://www.rheinhausseattle.com/private-parties",
+   "https://www.rheinhausseattle.com/kuntenserven-drag-show",
+   "https://www.rheinhausseattle.com/baila-bar-weekends",
+   "https://www.rheinhausseattle.com/play-bocce",
+   "https://www.rheinhausseattle.com/about-rhein-haus",
+   "https://www.instagram.com/rheinhausseattle/",
+   "https://www.tiktok.com/@rheinhaus",
+   "https://www.facebook.com/rheinhausseattle/",
+   "https://www.rheinhausseattle.com/cart",
+   "https://www.toasttab.com/rhein-haus-seattle/v3",
+   "https://www.rheinhausseattle.com/menus-1",
+   "https://www.rheinhausseattle.com/s/Rhein-Haus-Seattle-Menu-2026.pdf",
+   "https://www.toasttab.com/rhein-haus-seattle/marketing-signup",
+   "https://www.google.com/maps/place/rhein+haus+seattle/data=!4m2!3m1!1s0x54906aced90ca951:0xd18cf1dea2150182?sa=X&ved=1t:242&ictx=111",
+   "https://www.rheinhausseattle.com/loyalty",
+   "https://www.yesparade.com/donations",
+   "https://www.yesparade.com/giftcards",
+   "https://yesparade.com/jobs",
+   "https://www.rheinhausseattle.com/contact",
+   "https://yesparade.com/",
+   "https://www.rheinhausseattle.com/terms-privacy-policy"
+  ],
+  "weight": 34540,
+  "title": "All Menus | Discover Great Food & Beers \u2014 Rhein Haus Seattle",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2769,
+    "inner": 217
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://yesparade.com/jobs",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-rheinhausseattle-com-menus.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780"
+   ],
+   [
+    "FAIL",
+    "dead link: https://yesparade.com/jobs answers 404"
+   ],
+   [
+    "WARN",
+    "2 of 20 tap targets under 24px: a 224x23, a 301x23"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3433px tall"
+   ]
+  ],
+  "site": "https://www.rheinhausseattle.com/"
+ },
+ {
+  "url": "https://www.rheinhausseattle.com/menus",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.5,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3493,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=786"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 20,
+  "small": 2,
+  "smallList": [
+   "a 223x23",
+   "a 299x23"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.black",
+  "textLen": 1237,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "Folder: Menus",
+    "href": "https://www.rheinhausseattle.com/menus-1"
+   },
+   {
+    "text": "Reservations",
+    "href": "https://www.rheinhausseattle.com/reservations"
+   },
+   {
+    "text": "ORDER TAKEOUT",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/v3"
+   },
+   {
+    "text": "All Menus",
+    "href": "https://www.rheinhausseattle.com/menus"
+   },
+   {
+    "text": "SIGN UP FOR OUR NEWSLETTER",
+    "href": "https://www.toasttab.com/rhein-haus-seattle/marketing-signup"
+   },
+   {
+    "text": "VIEW MENUS",
+    "href": "https://www.rheinhausseattle.com/menus"
+   }
+  ],
+  "allLinks": [
+   "https://www.rheinhausseattle.com/menus#page",
+   "https://www.rheinhausseattle.com/",
+   "https://www.rheinhausseattle.com/menus",
+   "https://www.rheinhausseattle.com/menu-bier",
+   "https://www.rheinhausseattle.com/menu-happy-hour",
+   "https://www.rheinhausseattle.com/menu-dinner",
+   "https://www.rheinhausseattle.com/reservations",
+   "https://www.rheinhausseattle.com/event-calendar",
+   "https://www.rheinhausseattle.com/private-parties",
+   "https://www.rheinhausseattle.com/kuntenserven-drag-show",
+   "https://www.rheinhausseattle.com/baila-bar-weekends",
+   "https://www.rheinhausseattle.com/play-bocce",
+   "https://www.rheinhausseattle.com/about-rhein-haus",
+   "https://www.instagram.com/rheinhausseattle/",
+   "https://www.tiktok.com/@rheinhaus",
+   "https://www.facebook.com/rheinhausseattle/",
+   "https://www.rheinhausseattle.com/cart",
+   "https://www.toasttab.com/rhein-haus-seattle/v3",
+   "https://www.rheinhausseattle.com/menus-1",
+   "https://www.rheinhausseattle.com/s/Rhein-Haus-Seattle-Menu-2026.pdf",
+   "https://www.toasttab.com/rhein-haus-seattle/marketing-signup",
+   "https://www.google.com/maps/place/rhein+haus+seattle/data=!4m2!3m1!1s0x54906aced90ca951:0xd18cf1dea2150182?sa=X&ved=1t:242&ictx=111",
+   "https://www.rheinhausseattle.com/loyalty",
+   "https://www.yesparade.com/donations",
+   "https://www.yesparade.com/giftcards",
+   "https://yesparade.com/jobs",
+   "https://www.rheinhausseattle.com/contact",
+   "https://yesparade.com/",
+   "https://www.rheinhausseattle.com/terms-privacy-policy"
+  ],
+  "weight": 34504,
+  "title": "All Menus | Discover Great Food & Beers \u2014 Rhein Haus Seattle",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1476,
+    "inner": 159
+   },
+   "backY": 440,
+   "backInner": 0,
+   "headTop": -440
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786"
+   ],
+   [
+    "WARN",
+    "header at y=-440 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "2 of 20 tap targets under 24px: a 223x23, a 299x23"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3493px tall"
+   ]
+  ],
+  "site": "https://www.rheinhausseattle.com/"
+ },
+ {
+  "url": "https://stagehousetavern.com/somerset/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 7080,
+  "zoomTrap": [],
+  "leaks": [
+   "iframe right=694"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.fluid",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 25,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.fluid",
+  "textLen": 1535,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://stagehousetavern.com/somerset/somerset-menu.html"
+   },
+   {
+    "text": "Order for Pick Up",
+    "href": "https://tabit.us/tabit-order?site=69cd4192f231e25e3638c586&step=enter"
+   },
+   {
+    "text": "Button to order online for pick up (open",
+    "href": "https://tabit.us/tabit-order?site=69cd4192f231e25e3638c586&step=enter"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://stagehousetavern.com/index.html",
+   "https://stagehousetavern.com/somerset/index.html",
+   "https://stagehousetavern.com/somerset/somerset-menu.html",
+   "https://stagehousetavern.com/somerset/somerset-menu.html#brunch",
+   "https://stagehousetavern.com/somerset/somerset-drinks.html",
+   "https://dusk.fm/venues/stagehousetavernsomerset",
+   "https://stagehousetavern.com/menus/Somerset-April2026-a.pdf",
+   "http://stagehousecatering.com/somerset/index.html",
+   "https://stagehousetavern.com/somerset/contact-somerset.html",
+   "https://tabit.us/tabit-order?site=69cd4192f231e25e3638c586&step=enter",
+   "https://www.doordash.com/store/stage-house-tavern-somerset-franklin-township-31639911/45648948/?event_type=autocomplete&pickup=false",
+   "https://stagehousetavern.com/team.html",
+   "https://www.facebook.com/StagehouseSomerset",
+   "https://www.instagram.com/stage_house_somerset/",
+   "http://visitor.r20.constantcontact.com/d.jsp?llr=yjtvqyeab&p=oi&m=1104629386552",
+   "https://stagehousetavern.com/mountainside/",
+   "https://stagehousetavern.com/scotchplains/",
+   "https://stagehousetavern.com/somerset/",
+   "http://stagehousecatering.com/",
+   "http://www.4printorweb.com/"
+  ],
+  "weight": 4223,
+  "title": "Stage House Tavern - Somerset NJ | Order Online",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6416,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.doordash.com/store/stage-house-tavern-somerset-franklin-township-31639911/45648948/?event_type=autocomplete&pickup=false",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-stagehousetavern-com-somerset.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): iframe right=694"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7080px tall"
+   ]
+  ],
+  "site": "https://stagehousetavern.com/somerset/",
+  "hop": "https://stagehousetavern.com/somerset/somerset-menu.html"
+ },
+ {
+  "url": "https://stagehousetavern.com/somerset/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.4,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 7088,
+  "zoomTrap": [],
+  "leaks": [
+   "iframe right=697"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.fluid",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 25,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.fluid",
+  "textLen": 1563,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://stagehousetavern.com/somerset/somerset-menu.html"
+   },
+   {
+    "text": "Order for Pick Up",
+    "href": "https://tabit.us/tabit-order?site=69cd4192f231e25e3638c586&step=enter"
+   },
+   {
+    "text": "Button to order online for pick up (open",
+    "href": "https://tabit.us/tabit-order?site=69cd4192f231e25e3638c586&step=enter"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://stagehousetavern.com/index.html",
+   "https://stagehousetavern.com/somerset/index.html",
+   "https://stagehousetavern.com/somerset/somerset-menu.html",
+   "https://stagehousetavern.com/somerset/somerset-menu.html#brunch",
+   "https://stagehousetavern.com/somerset/somerset-drinks.html",
+   "https://dusk.fm/venues/stagehousetavernsomerset",
+   "https://stagehousetavern.com/menus/Somerset-April2026-a.pdf",
+   "http://stagehousecatering.com/somerset/index.html",
+   "https://stagehousetavern.com/somerset/contact-somerset.html",
+   "https://tabit.us/tabit-order?site=69cd4192f231e25e3638c586&step=enter",
+   "https://www.doordash.com/store/stage-house-tavern-somerset-franklin-township-31639911/45648948/?event_type=autocomplete&pickup=false",
+   "https://stagehousetavern.com/team.html",
+   "https://www.facebook.com/StagehouseSomerset",
+   "https://www.instagram.com/stage_house_somerset/",
+   "http://visitor.r20.constantcontact.com/d.jsp?llr=yjtvqyeab&p=oi&m=1104629386552",
+   "https://stagehousetavern.com/mountainside/",
+   "https://stagehousetavern.com/scotchplains/",
+   "https://stagehousetavern.com/somerset/",
+   "http://stagehousecatering.com/",
+   "http://www.4printorweb.com/"
+  ],
+  "weight": 4214,
+  "title": "Stage House Tavern - Somerset NJ | Order Online",
+  "roundtrip": {
+   "atBottom": {
+    "y": 6361,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): iframe right=697"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7088px tall"
+   ]
+  ],
+  "site": "https://stagehousetavern.com/somerset/"
+ },
+ {
+  "url": "https://stagehousetavern.com/somerset/somerset-menu.html",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 5865,
+  "zoomTrap": [],
+  "leaks": [
+   "iframe right=694"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.fluid",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 24,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.fluid",
+  "textLen": 654,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://stagehousetavern.com/somerset/somerset-menu.html"
+   },
+   {
+    "text": "Order for Pick Up",
+    "href": "https://tabit.us/tabit-order?site=69cd4192f231e25e3638c586&step=enter"
+   },
+   {
+    "text": "Click here for a PDF menu",
+    "href": "https://stagehousetavern.com/menus/Somerset-August2026.pdf"
+   },
+   {
+    "text": "Click here for our Drink Menu",
+    "href": "https://stagehousetavern.com/somerset/somerset-drinks.html"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://stagehousetavern.com/index.html",
+   "https://stagehousetavern.com/somerset/index.html",
+   "https://stagehousetavern.com/somerset/somerset-menu.html",
+   "https://stagehousetavern.com/somerset/somerset-menu.html#brunch",
+   "https://stagehousetavern.com/somerset/somerset-drinks.html",
+   "https://dusk.fm/venues/stagehousetavernsomerset",
+   "https://stagehousetavern.com/menus/Somerset-April2026-a.pdf",
+   "http://stagehousecatering.com/somerset/index.html",
+   "https://stagehousetavern.com/somerset/contact-somerset.html",
+   "https://tabit.us/tabit-order?site=69cd4192f231e25e3638c586&step=enter",
+   "https://www.doordash.com/store/stage-house-tavern-somerset-franklin-township-31639911/45648948/?event_type=autocomplete&pickup=false",
+   "https://stagehousetavern.com/team.html",
+   "https://www.facebook.com/StagehouseSomerset",
+   "https://www.instagram.com/stage_house_somerset/",
+   "http://visitor.r20.constantcontact.com/d.jsp?llr=yjtvqyeab&p=oi&m=1104629386552",
+   "https://stagehousetavern.com/menus/Somerset-August2026.pdf",
+   "https://stagehousetavern.com/mountainside/",
+   "https://stagehousetavern.com/scotchplains/",
+   "https://stagehousetavern.com/somerset/",
+   "http://stagehousecatering.com/",
+   "http://www.4printorweb.com/"
+  ],
+  "weight": 3703,
+  "title": "Menu | Somerset, NJ Stage House Tavern",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5201,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.doordash.com/store/stage-house-tavern-somerset-franklin-township-31639911/45648948/?event_type=autocomplete&pickup=false",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-stagehousetavern-com-somerset-somerset-menu-html.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): iframe right=694"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5865px tall"
+   ]
+  ],
+  "site": "https://stagehousetavern.com/somerset/"
+ },
+ {
+  "url": "https://stagehousetavern.com/somerset/somerset-menu.html",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.0,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 5897,
+  "zoomTrap": [],
+  "leaks": [
+   "iframe right=697"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div.fluid",
+    "pos": "fixed",
+    "cover": 4
+   }
+  ],
+  "targets": 24,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.fluid",
+  "textLen": 674,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://stagehousetavern.com/somerset/somerset-menu.html"
+   },
+   {
+    "text": "Order for Pick Up",
+    "href": "https://tabit.us/tabit-order?site=69cd4192f231e25e3638c586&step=enter"
+   },
+   {
+    "text": "Click here for a PDF menu",
+    "href": "https://stagehousetavern.com/menus/Somerset-August2026.pdf"
+   },
+   {
+    "text": "Click here for our Drink Menu",
+    "href": "https://stagehousetavern.com/somerset/somerset-drinks.html"
+   }
+  ],
+  "allLinks": [
+   "https://accessibe.com/blog/knowledgebase/screen-reader-guide",
+   "https://stagehousetavern.com/index.html",
+   "https://stagehousetavern.com/somerset/index.html",
+   "https://stagehousetavern.com/somerset/somerset-menu.html",
+   "https://stagehousetavern.com/somerset/somerset-menu.html#brunch",
+   "https://stagehousetavern.com/somerset/somerset-drinks.html",
+   "https://dusk.fm/venues/stagehousetavernsomerset",
+   "https://stagehousetavern.com/menus/Somerset-April2026-a.pdf",
+   "http://stagehousecatering.com/somerset/index.html",
+   "https://stagehousetavern.com/somerset/contact-somerset.html",
+   "https://tabit.us/tabit-order?site=69cd4192f231e25e3638c586&step=enter",
+   "https://www.doordash.com/store/stage-house-tavern-somerset-franklin-township-31639911/45648948/?event_type=autocomplete&pickup=false",
+   "https://stagehousetavern.com/team.html",
+   "https://www.facebook.com/StagehouseSomerset",
+   "https://www.instagram.com/stage_house_somerset/",
+   "http://visitor.r20.constantcontact.com/d.jsp?llr=yjtvqyeab&p=oi&m=1104629386552",
+   "https://stagehousetavern.com/menus/Somerset-August2026.pdf",
+   "https://stagehousetavern.com/mountainside/",
+   "https://stagehousetavern.com/scotchplains/",
+   "https://stagehousetavern.com/somerset/",
+   "http://stagehousecatering.com/",
+   "http://www.4printorweb.com/"
+  ],
+  "weight": 3694,
+  "title": "Menu | Somerset, NJ Stage House Tavern",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5170,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): iframe right=697"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5897px tall"
+   ]
+  ],
+  "site": "https://stagehousetavern.com/somerset/"
+ },
+ {
+  "url": "https://stjohnsgrill.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4035,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "a.scroll-top",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 22,
+  "small": 3,
+  "smallList": [
+   "a 98x19",
+   "a 38x19",
+   "a 34x19"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "span 11.998px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead.site-header",
+  "textLen": 2167,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://stjohnsgrill.com/menu/"
+   },
+   {
+    "text": "BEER MENU",
+    "href": "https://stjohnsgrill.com/beer-menu/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://stjohnsgrill.com/menu/"
+   },
+   {
+    "text": "BEER MENU",
+    "href": "https://stjohnsgrill.com/beer-menu/"
+   },
+   {
+    "text": "Now accepting reservations for groups of",
+    "href": "https://stjohnsgrill.com/home/#specials"
+   }
+  ],
+  "allLinks": [
+   "https://stjohnsgrill.com/#site-navigation",
+   "https://stjohnsgrill.com/#content",
+   "https://stjohnsgrill.com/",
+   "https://stjohnsgrill.com/about/",
+   "https://stjohnsgrill.com/menu/",
+   "https://stjohnsgrill.com/beer-menu/",
+   "https://stjohnsgrill.com/events",
+   "https://stjohnsgrill.com/big-to-gos/",
+   "https://stjohnsgrill.com/gallery/",
+   "https://stjohnsgrill.com/wp-content/uploads/2022/09/CURRENT-SJ-Application_both-pages-Revised-09.21.22.pdf",
+   "https://stjohnsgrill.com/wp-content/uploads/2018/01/1505362862-Driving.pdf",
+   "https://stjohnsgrill.com/contact/",
+   "https://stjohnsgrill.com/gallery",
+   "https://stjohnsgrill.com/home/#specials",
+   "https://stjohnsgrill.com/about",
+   "https://stjohnsgrill.com/4",
+   "https://www.yelp.com/biz/st-johns-bar-and-grill-sunnyvale-2",
+   "https://www.facebook.com/St-Johns-Bar-Grill-244157821091/",
+   "https://www.godaddy.com/websites/ecommerce-website-design"
+  ],
+  "weight": 22963,
+  "title": "Home | St John's Grill | The Best Burgers in Silicon Valley",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3371,
+    "inner": 3371
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://stjohnsgrill.com/4",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-stjohnsgrill-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://stjohnsgrill.com/4 answers 404"
+   ],
+   [
+    "WARN",
+    "3 of 22 tap targets under 24px: a 98x19, a 38x19, a 34x19"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: span 11.998px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4035px tall"
+   ]
+  ],
+  "site": "https://stjohnsgrill.com/",
+  "hop": "https://stjohnsgrill.com/menu/"
+ },
+ {
+  "url": "https://stjohnsgrill.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.7,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3990,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "a.scroll-top",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 22,
+  "small": 3,
+  "smallList": [
+   "a 98x19",
+   "a 38x19",
+   "a 34x19"
+  ],
+  "tiny": 1,
+  "tinyList": [
+   "span 11.998px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead.site-header",
+  "textLen": 2269,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://stjohnsgrill.com/menu/"
+   },
+   {
+    "text": "BEER MENU",
+    "href": "https://stjohnsgrill.com/beer-menu/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://stjohnsgrill.com/menu/"
+   },
+   {
+    "text": "BEER MENU",
+    "href": "https://stjohnsgrill.com/beer-menu/"
+   },
+   {
+    "text": "Now accepting reservations for groups of",
+    "href": "https://stjohnsgrill.com/home/#specials"
+   }
+  ],
+  "allLinks": [
+   "https://stjohnsgrill.com/#site-navigation",
+   "https://stjohnsgrill.com/#content",
+   "https://stjohnsgrill.com/",
+   "https://stjohnsgrill.com/about/",
+   "https://stjohnsgrill.com/menu/",
+   "https://stjohnsgrill.com/beer-menu/",
+   "https://stjohnsgrill.com/events",
+   "https://stjohnsgrill.com/big-to-gos/",
+   "https://stjohnsgrill.com/gallery/",
+   "https://stjohnsgrill.com/wp-content/uploads/2022/09/CURRENT-SJ-Application_both-pages-Revised-09.21.22.pdf",
+   "https://stjohnsgrill.com/wp-content/uploads/2018/01/1505362862-Driving.pdf",
+   "https://stjohnsgrill.com/contact/",
+   "https://stjohnsgrill.com/gallery",
+   "https://stjohnsgrill.com/home/#specials",
+   "https://stjohnsgrill.com/about",
+   "https://stjohnsgrill.com/4",
+   "https://www.yelp.com/biz/st-johns-bar-and-grill-sunnyvale-2",
+   "https://www.facebook.com/St-Johns-Bar-Grill-244157821091/",
+   "https://www.godaddy.com/websites/ecommerce-website-design"
+  ],
+  "weight": 22936,
+  "title": "Home | St John's Grill | The Best Burgers in Silicon Valley",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3263,
+    "inner": 3263
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "3 of 22 tap targets under 24px: a 98x19, a 38x19, a 34x19"
+   ],
+   [
+    "WARN",
+    "1 text elements under 12px: span 11.998px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3990px tall"
+   ]
+  ],
+  "site": "https://stjohnsgrill.com/"
+ },
+ {
+  "url": "https://stjohnsgrill.com/menu/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 1.7,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 11383,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "a.scroll-top",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 15,
+  "small": 0,
+  "smallList": [],
+  "tiny": 1,
+  "tinyList": [
+   "span 11.998px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead.site-header",
+  "textLen": 7362,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://stjohnsgrill.com/menu/"
+   },
+   {
+    "text": "BEER MENU",
+    "href": "https://stjohnsgrill.com/beer-menu/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://stjohnsgrill.com/menu/"
+   },
+   {
+    "text": "BEER MENU",
+    "href": "https://stjohnsgrill.com/beer-menu/"
+   }
+  ],
+  "allLinks": [
+   "https://stjohnsgrill.com/menu/#site-navigation",
+   "https://stjohnsgrill.com/menu/#content",
+   "https://stjohnsgrill.com/",
+   "https://stjohnsgrill.com/about/",
+   "https://stjohnsgrill.com/menu/",
+   "https://stjohnsgrill.com/beer-menu/",
+   "https://stjohnsgrill.com/events",
+   "https://stjohnsgrill.com/big-to-gos/",
+   "https://stjohnsgrill.com/gallery/",
+   "https://stjohnsgrill.com/wp-content/uploads/2022/09/CURRENT-SJ-Application_both-pages-Revised-09.21.22.pdf",
+   "https://stjohnsgrill.com/wp-content/uploads/2018/01/1505362862-Driving.pdf",
+   "https://stjohnsgrill.com/contact/",
+   "https://www.godaddy.com/websites/ecommerce-website-design"
+  ],
+  "weight": 22827,
+  "title": "Menu | St John's Grill | The Best Burgers in Silicon Valley",
+  "roundtrip": {
+   "atBottom": {
+    "y": 10719,
+    "inner": 10719
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-stjohnsgrill-com-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "1 text elements under 12px: span 11.998px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 11383px tall"
+   ]
+  ],
+  "site": "https://stjohnsgrill.com/"
+ },
+ {
+  "url": "https://stjohnsgrill.com/menu/",
+  "device": "android",
+  "status": 200,
+  "load_s": 1.7,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 11310,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "a.scroll-top",
+    "pos": "fixed",
+    "cover": 1
+   }
+  ],
+  "targets": 15,
+  "small": 0,
+  "smallList": [],
+  "tiny": 1,
+  "tinyList": [
+   "span 11.998px"
+  ],
+  "headTop": 0,
+  "headTag": "header#masthead.site-header",
+  "textLen": 7449,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://stjohnsgrill.com/menu/"
+   },
+   {
+    "text": "BEER MENU",
+    "href": "https://stjohnsgrill.com/beer-menu/"
+   },
+   {
+    "text": "Menu",
+    "href": "https://stjohnsgrill.com/menu/"
+   },
+   {
+    "text": "BEER MENU",
+    "href": "https://stjohnsgrill.com/beer-menu/"
+   }
+  ],
+  "allLinks": [
+   "https://stjohnsgrill.com/menu/#site-navigation",
+   "https://stjohnsgrill.com/menu/#content",
+   "https://stjohnsgrill.com/",
+   "https://stjohnsgrill.com/about/",
+   "https://stjohnsgrill.com/menu/",
+   "https://stjohnsgrill.com/beer-menu/",
+   "https://stjohnsgrill.com/events",
+   "https://stjohnsgrill.com/big-to-gos/",
+   "https://stjohnsgrill.com/gallery/",
+   "https://stjohnsgrill.com/wp-content/uploads/2022/09/CURRENT-SJ-Application_both-pages-Revised-09.21.22.pdf",
+   "https://stjohnsgrill.com/wp-content/uploads/2018/01/1505362862-Driving.pdf",
+   "https://stjohnsgrill.com/contact/",
+   "https://www.godaddy.com/websites/ecommerce-website-design"
+  ],
+  "weight": 22782,
+  "title": "Menu | St John's Grill | The Best Burgers in Silicon Valley",
+  "roundtrip": {
+   "atBottom": {
+    "y": 10583,
+    "inner": 10583
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "1 text elements under 12px: span 11.998px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 11310px tall"
+   ]
+  ],
+  "site": "https://stjohnsgrill.com/"
+ },
+ {
+  "url": "https://numaspa.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 9.8,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 12838,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 32,
+  "small": 14,
+  "smallList": [
+   "div.elementor-swiper-button 20x20",
+   "div.elementor-swiper-button 20x20",
+   "span.swiper-pagination-bullet 6x6",
+   "span.swiper-pagination-bullet 6x6",
+   "span.swiper-pagination-bullet 6x6"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.elementor",
+  "textLen": 3805,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://www.joinblvd.com/b/numaspa/widget#/visit-type"
+   }
+  ],
+  "allLinks": [
+   "https://numaspa.com/#content",
+   "https://numaspa.com/coolsculpting/",
+   "https://numaspa.com/body-contouring",
+   "https://numaspa.com/pdo-threads",
+   "https://numaspa.com/",
+   "https://numaspa.com/chemical-peels",
+   "https://numaspa.com/microneedling",
+   "https://numaspa.com/hydrafacial",
+   "https://numaspa.com/about-us/",
+   "https://numaspa.com/membership/",
+   "https://numaspa.com/#",
+   "https://numaspa.com/facials/",
+   "https://numaspa.com/hydrafacial/",
+   "https://numaspa.com/chemical-peels/",
+   "https://numaspa.com/microneedling/",
+   "https://numaspa.com/ipl-photofacial/",
+   "https://numaspa.com/laser-hair-removal/",
+   "https://numaspa.com/frax-laser/",
+   "https://numaspa.com/matrix-pro-rf-microneedling/",
+   "https://numaspa.com/facial-balancing/",
+   "https://numaspa.com/botox/",
+   "https://numaspa.com/dermal-fillers/",
+   "https://numaspa.com/lip-filler/",
+   "https://numaspa.com/prp/",
+   "https://numaspa.com/sculptra/",
+   "https://numaspa.com/pdo-threads/",
+   "https://numaspa.com/spider-and-leg-vein-removal-sclerotherapy/",
+   "https://numaspa.com/weight-loss/",
+   "https://numaspa.com/hair-restoration/",
+   "https://numaspa.com/wellness/",
+   "https://numaspa.com/body-contouring/",
+   "https://numaspa.com/blog/",
+   "https://shop.numaspa.com/",
+   "https://numaspa.com/contact-us/",
+   "https://www.instagram.com/numaspa/",
+   "https://www.facebook.com/SPANUMA",
+   "https://numaspa.com/#book-now",
+   "https://numaspa.com/c/#book-now",
+   "https://numaspa.com/#book",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-3.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-2.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-1.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-irina.webp",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-tara.webp",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-darlene.webp",
+   "https://maps.app.goo.gl/aRWVGEAHjXDrfivx6",
+   "https://www.joinblvd.com/b/numaspa/widget#/visit-type",
+   "https://numaspa.com/terms-of-use/",
+   "https://numaspa.com/privacy-policy/",
+   "https://numaspa.com/about/",
+   "https://numaspa.com/contact/",
+   "https://maps.app.goo.gl/J1sFkvgfdS5MGPTh6",
+   "https://maps.app.goo.gl/ZViHwmCELKGL9hb87",
+   "https://pay.withcherry.com/numa-spa-acquisitions--llc-?utm_source=merchant&utm_medium=website-alle",
+   "https://numaspa.com/terms-of-use"
+  ],
+  "weight": 70941,
+  "title": "Home | Numa Spa",
+  "roundtrip": {
+   "atBottom": {
+    "y": 12174,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-numaspa-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "14 of 32 tap targets under 24px: div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6"
+   ],
+   [
+    "INFO",
+    "document scrolls, 12838px tall"
+   ]
+  ],
+  "site": "https://numaspa.com/",
+  "hop": "https://numaspa.com/c/"
+ },
+ {
+  "url": "https://numaspa.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 12839,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 32,
+  "small": 14,
+  "smallList": [
+   "div.elementor-swiper-button 20x20",
+   "div.elementor-swiper-button 20x20",
+   "span.swiper-pagination-bullet 6x6",
+   "span.swiper-pagination-bullet 6x6",
+   "span.swiper-pagination-bullet 6x6"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.elementor",
+  "textLen": 3806,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://www.joinblvd.com/b/numaspa/widget#/visit-type"
+   }
+  ],
+  "allLinks": [
+   "https://numaspa.com/#content",
+   "https://numaspa.com/coolsculpting/",
+   "https://numaspa.com/body-contouring",
+   "https://numaspa.com/pdo-threads",
+   "https://numaspa.com/",
+   "https://numaspa.com/chemical-peels",
+   "https://numaspa.com/microneedling",
+   "https://numaspa.com/hydrafacial",
+   "https://numaspa.com/about-us/",
+   "https://numaspa.com/membership/",
+   "https://numaspa.com/#",
+   "https://numaspa.com/facials/",
+   "https://numaspa.com/hydrafacial/",
+   "https://numaspa.com/chemical-peels/",
+   "https://numaspa.com/microneedling/",
+   "https://numaspa.com/ipl-photofacial/",
+   "https://numaspa.com/laser-hair-removal/",
+   "https://numaspa.com/frax-laser/",
+   "https://numaspa.com/matrix-pro-rf-microneedling/",
+   "https://numaspa.com/facial-balancing/",
+   "https://numaspa.com/botox/",
+   "https://numaspa.com/dermal-fillers/",
+   "https://numaspa.com/lip-filler/",
+   "https://numaspa.com/prp/",
+   "https://numaspa.com/sculptra/",
+   "https://numaspa.com/pdo-threads/",
+   "https://numaspa.com/spider-and-leg-vein-removal-sclerotherapy/",
+   "https://numaspa.com/weight-loss/",
+   "https://numaspa.com/hair-restoration/",
+   "https://numaspa.com/wellness/",
+   "https://numaspa.com/body-contouring/",
+   "https://numaspa.com/blog/",
+   "https://shop.numaspa.com/",
+   "https://numaspa.com/contact-us/",
+   "https://www.instagram.com/numaspa/",
+   "https://www.facebook.com/SPANUMA",
+   "https://numaspa.com/#book-now",
+   "https://numaspa.com/c/#book-now",
+   "https://numaspa.com/#book",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-3.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-2.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-1.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-irina.webp",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-tara.webp",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-darlene.webp",
+   "https://maps.app.goo.gl/aRWVGEAHjXDrfivx6",
+   "https://www.joinblvd.com/b/numaspa/widget#/visit-type",
+   "https://numaspa.com/terms-of-use/",
+   "https://numaspa.com/privacy-policy/",
+   "https://numaspa.com/about/",
+   "https://numaspa.com/contact/",
+   "https://maps.app.goo.gl/J1sFkvgfdS5MGPTh6",
+   "https://maps.app.goo.gl/ZViHwmCELKGL9hb87",
+   "https://pay.withcherry.com/numa-spa-acquisitions--llc-?utm_source=merchant&utm_medium=website-alle",
+   "https://numaspa.com/terms-of-use"
+  ],
+  "weight": 70850,
+  "title": "Home | Numa Spa",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1497,
+    "inner": null
+   },
+   "backY": 561,
+   "backInner": null,
+   "headTop": -561
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-561 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "14 of 32 tap targets under 24px: div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6"
+   ],
+   [
+    "INFO",
+    "document scrolls, 12839px tall"
+   ]
+  ],
+  "site": "https://numaspa.com/"
+ },
+ {
+  "url": "https://numaspa.com/c/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.1,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 10431,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 32,
+  "small": 13,
+  "smallList": [
+   "div.elementor-swiper-button 20x20",
+   "div.elementor-swiper-button 20x20",
+   "span.swiper-pagination-bullet 6x6",
+   "span.swiper-pagination-bullet 6x6",
+   "span.swiper-pagination-bullet 6x6"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.elementor",
+  "textLen": 3816,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   }
+  ],
+  "allLinks": [
+   "https://numaspa.com/c/#content",
+   "https://numaspa.com/coolsculpting/",
+   "https://numaspa.com/body-contouring",
+   "https://numaspa.com/pdo-threads",
+   "https://numaspa.com/",
+   "https://numaspa.com/chemical-peels",
+   "https://numaspa.com/microneedling",
+   "https://numaspa.com/hydrafacial",
+   "https://numaspa.com/about-us/",
+   "https://numaspa.com/membership/",
+   "https://numaspa.com/c/#",
+   "https://numaspa.com/facials/",
+   "https://numaspa.com/hydrafacial/",
+   "https://numaspa.com/chemical-peels/",
+   "https://numaspa.com/microneedling/",
+   "https://numaspa.com/ipl-photofacial/",
+   "https://numaspa.com/laser-hair-removal/",
+   "https://numaspa.com/frax-laser/",
+   "https://numaspa.com/matrix-pro-rf-microneedling/",
+   "https://numaspa.com/facial-balancing/",
+   "https://numaspa.com/botox/",
+   "https://numaspa.com/dermal-fillers/",
+   "https://numaspa.com/lip-filler/",
+   "https://numaspa.com/prp/",
+   "https://numaspa.com/sculptra/",
+   "https://numaspa.com/pdo-threads/",
+   "https://numaspa.com/spider-and-leg-vein-removal-sclerotherapy/",
+   "https://numaspa.com/weight-loss/",
+   "https://numaspa.com/hair-restoration/",
+   "https://numaspa.com/wellness/",
+   "https://numaspa.com/body-contouring/",
+   "https://numaspa.com/blog/",
+   "https://shop.numaspa.com/",
+   "https://numaspa.com/contact-us/",
+   "https://www.instagram.com/numaspa/",
+   "https://www.facebook.com/SPANUMA",
+   "https://numaspa.com/c/#book-now",
+   "https://numaspa.com/c/#book",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-3.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-2.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-1.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-darlene.webp",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-tara.webp",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-irina.webp",
+   "https://maps.app.goo.gl/tgFFMcJypRhYzA61A",
+   "https://numaspa.com/about/",
+   "https://numaspa.com/contact/",
+   "https://maps.app.goo.gl/J1sFkvgfdS5MGPTh6",
+   "https://maps.app.goo.gl/ZViHwmCELKGL9hb87",
+   "https://pay.withcherry.com/numa-spa-acquisitions--llc-?utm_source=merchant&utm_medium=website-alle",
+   "https://numaspa.com/privacy-policy/",
+   "https://numaspa.com/terms-of-use"
+  ],
+  "weight": 60921,
+  "title": "Confirmation | Numa Spa",
+  "roundtrip": {
+   "atBottom": {
+    "y": 9767,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-numaspa-com-c.png",
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "13 of 32 tap targets under 24px: div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10431px tall"
+   ]
+  ],
+  "site": "https://numaspa.com/"
+ },
+ {
+  "url": "https://numaspa.com/c/",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 10447,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 32,
+  "small": 13,
+  "smallList": [
+   "div.elementor-swiper-button 20x20",
+   "div.elementor-swiper-button 20x20",
+   "span.swiper-pagination-bullet 6x6",
+   "span.swiper-pagination-bullet 6x6",
+   "span.swiper-pagination-bullet 6x6"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header.elementor",
+  "textLen": 3818,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   },
+   {
+    "text": "Book Online",
+    "href": "https://numaspa.com/c/#book-now"
+   },
+   {
+    "text": "Shop",
+    "href": "https://shop.numaspa.com/"
+   }
+  ],
+  "allLinks": [
+   "https://numaspa.com/c/#content",
+   "https://numaspa.com/coolsculpting/",
+   "https://numaspa.com/body-contouring",
+   "https://numaspa.com/pdo-threads",
+   "https://numaspa.com/",
+   "https://numaspa.com/chemical-peels",
+   "https://numaspa.com/microneedling",
+   "https://numaspa.com/hydrafacial",
+   "https://numaspa.com/about-us/",
+   "https://numaspa.com/membership/",
+   "https://numaspa.com/c/#",
+   "https://numaspa.com/facials/",
+   "https://numaspa.com/hydrafacial/",
+   "https://numaspa.com/chemical-peels/",
+   "https://numaspa.com/microneedling/",
+   "https://numaspa.com/ipl-photofacial/",
+   "https://numaspa.com/laser-hair-removal/",
+   "https://numaspa.com/frax-laser/",
+   "https://numaspa.com/matrix-pro-rf-microneedling/",
+   "https://numaspa.com/facial-balancing/",
+   "https://numaspa.com/botox/",
+   "https://numaspa.com/dermal-fillers/",
+   "https://numaspa.com/lip-filler/",
+   "https://numaspa.com/prp/",
+   "https://numaspa.com/sculptra/",
+   "https://numaspa.com/pdo-threads/",
+   "https://numaspa.com/spider-and-leg-vein-removal-sclerotherapy/",
+   "https://numaspa.com/weight-loss/",
+   "https://numaspa.com/hair-restoration/",
+   "https://numaspa.com/wellness/",
+   "https://numaspa.com/body-contouring/",
+   "https://numaspa.com/blog/",
+   "https://shop.numaspa.com/",
+   "https://numaspa.com/contact-us/",
+   "https://www.instagram.com/numaspa/",
+   "https://www.facebook.com/SPANUMA",
+   "https://numaspa.com/c/#book-now",
+   "https://numaspa.com/c/#book",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-3.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-2.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/02/Numa-Spa-Newport-News-VA-why-choose-us-1.jpg",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-darlene.webp",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-tara.webp",
+   "https://numaspa.com/wp-content/uploads/2026/04/numa-spa-newport-news-va-irina.webp",
+   "https://maps.app.goo.gl/tgFFMcJypRhYzA61A",
+   "https://numaspa.com/about/",
+   "https://numaspa.com/contact/",
+   "https://maps.app.goo.gl/J1sFkvgfdS5MGPTh6",
+   "https://maps.app.goo.gl/ZViHwmCELKGL9hb87",
+   "https://pay.withcherry.com/numa-spa-acquisitions--llc-?utm_source=merchant&utm_medium=website-alle",
+   "https://numaspa.com/privacy-policy/",
+   "https://numaspa.com/terms-of-use"
+  ],
+  "weight": 60839,
+  "title": "Confirmation | Numa Spa",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1109,
+    "inner": null
+   },
+   "backY": 271,
+   "backInner": null,
+   "headTop": -271
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-271 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "13 of 32 tap targets under 24px: div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6, span.swiper-pagination-bullet 6x6"
+   ],
+   [
+    "INFO",
+    "document scrolls, 10447px tall"
+   ]
+  ],
+  "site": "https://numaspa.com/"
+ }
+]

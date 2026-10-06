@@ -1,0 +1,161 @@
+name,city,state,website,email,email_source,mx_ok,reviews,rating,types,takes_money,builder,https,prior_contact,score,origin
+Hula Hut,Austin,TX,https://www.hulahut.com/locations/austin/,hulahut@hulahut.com,homepage,True,7963,4.2,restaurant,DoorDash storefront,WordPress,True,,180.0,places_enriched
+Le Diplomate,Washington,DC,https://lediplomatedc.com/,lediplomate.info@starr-restaurants.com,homepage,True,7955,4.6,restaurant,DoorDash storefront; Resy reservations,WordPress,True,,180.0,places_enriched
+Iron Cactus Mexican Restaurant and Margarita Bar,San Antonio,TX,https://ironcactus.com/,ics@ironcactus.com,/contact-us,True,7941,4.1,restaurant,Toast ordering; gift cards,custom/other,True,,180.0,places_enriched
+Rosario's ComidaMex & Bar,San Antonio,TX,https://www.rosariossa.com/,info@rosariossa.com,/contact,True,7824,4.3,restaurant,Toast ordering; WooCommerce store; gift cards,WordPress,True,,180.0,places_enriched
+Felix's Fish Camp Restaurant,Mobile,AL,https://www.felixsfishcamp.com/,Felix@Felixsfishcamp.com,homepage,True,7787,4.5,bar,gift cards,Squarespace,True,,180.0,places_enriched
+House of Blues Dallas,Dallas,TX,https://dallas.houseofblues.com/,HOBDallasVIP@LiveNation.com,homepage,True,7709,4.4,night_club,SevenRooms,custom/other,True,,180.0,places_enriched
+Margaritaville - Atlantic City,Atlantic City,NJ,https://www.margaritavilleatlanticcity.com/,sales@margaritavilleatlanticcity.com,/contact,True,7642,4.1,restaurant,gift cards,custom/other,True,,180.0,places_enriched
+Screen Door Eastside,Portland,OR,https://screendoorrestaurant.com/east-side/,info@screendoorpdx.com,homepage,True,7626,4.7,restaurant,Toast ordering; Square; OpenTable reservations; gift cards,Squarespace,True,,180.0,places_enriched
+Bonito Michoacan Mexican Restaurant,Las Vegas,NV,https://bonitomichoacan.com/,Bonitomanagement@gmail.com,homepage,True,7551,4.5,restaurant,ChowNow ordering,custom/other,True,,180.0,places_enriched
+The Spaghetti Warehouse,Columbus,OH,https://spaghettiwarehouse.com/,columbus@spaghettiwarehouse.com,homepage,True,7367,4.1,restaurant,Toast ordering; OpenTable reservations; gift cards,WordPress,True,,180.0,places_enriched
+The Book Loft of German Village,Columbus,OH,https://bookloft.com/,info@bookloft.com,/contact-us,True,7355,4.8,book_store,gift cards,custom/other,True,,180.0,places_enriched
+Blues City Cafe,Memphis,TN,https://bluescitycafe.com/,sales@bluescitycafe.com,/contact,True,7354,4.4,restaurant,Shopify store,WordPress,True,,180.0,places_enriched
+Banger's Sausage House & Beer Garden,Austin,TX,https://www.bangersaustin.com/,info@bangersaustin.com,homepage,True,7278,4.5,bar,Toast ordering; Shopify store,Shopify,True,,180.0,places_enriched
+Calhoun's On The River,Knoxville,TN,https://calhouns.com/,info@coppercellar.com,/about,True,7271,4.3,restaurant,ChowNow ordering,WordPress,True,,180.0,places_enriched
+House of Prime Rib,San Francisco,CA,https://www.houseofprimerib.net/,houseofprimerib@aol.com,homepage,True,7239,4.7,restaurant,OpenTable reservations,custom/other,True,,180.0,places_enriched
+Margaritaville - Nashville,Nashville,TN,https://www.margaritavillenashville.com/,sales@margaritavillenashville.com,/contact,True,7155,4.2,bar,gift cards,custom/other,True,,180.0,places_enriched
+Amélie's French Bakery & Café,Charlotte,NC,https://ameliesfrenchbakery.com/,marketing@ameliesfrenchbakery.com,/contact,True,7088,4.6,bakery,WooCommerce store,WordPress,True,,180.0,places_enriched
+Shapiro's Delicatessen,Indianapolis,IN,https://shapiros.com/,deli@shapiros.com,homepage,True,7056,4.5,bakery,Toast ordering; gift cards,custom/other,True,,180.0,places_enriched
+Sadie's of New Mexico,Albuquerque,NM,https://www.sadiesofnewmexico.com/,gilbert@sadiesofnewmexico.com,/contact,True,7004,4.3,restaurant,Toast ordering; WooCommerce store,WordPress,True,,180.0,places_enriched
+Elliott's Oyster House,Seattle,WA,https://elliottsoysterhouse.com/,info@elliottsoysterhouse.com,/contact,True,6977,4.3,bar,'reservations' link,WordPress,True,,180.0,places_enriched
+LandShark Bar & Grill - Atlantic City,Atlantic City,NJ,https://atlanticcity.landsharkbarandgrill.com/,sales@margaritavilleatlanticcity.com,/contact,True,6867,4.1,restaurant,gift cards,custom/other,True,,180.0,places_enriched
+Gibsons Bar & Steakhouse,Chicago,IL,https://gibsonssteakhouse.com/gibsons-chicago/,donations@grgmc.com,/contact,True,6766,4.6,restaurant,DoorDash storefront; OpenTable reservations; WooCommerce store; gift cards,WordPress,True,,180.0,places_enriched
+Luc Lac Vietnamese Kitchen,Portland,OR,https://luclackitchen.com/,office@luclackitchen.com,homepage,True,6720,4.4,bar,Toast ordering; DoorDash storefront,custom/other,True,,180.0,places_enriched
+The Rave / Eagles Club,Milwaukee,WI,https://www.therave.com/main.asp,info@therave.com,homepage,True,6655,4.3,bar,gift cards,custom/other,True,,180.0,places_enriched
+Stateside Live!,Philadelphia,PA,https://statesidelive.com/,kbelle@statesidelive.com,homepage,True,6631,4.4,bar,Shopify store; gift cards,custom/other,True,,180.0,places_enriched
+Halls Chophouse,Charleston,SC,https://hallschophousecharleston.com/,ContactUs02@hallmanagementgroup.com,homepage,True,6599,4.8,bar,Resy reservations; gift cards,custom/other,True,,180.0,places_enriched
+House of Blues Houston,Houston,TX,https://houston.houseofblues.com/,RicAncira@livenation.com,/contact,True,6564,4.4,night_club,SevenRooms,custom/other,True,,180.0,places_enriched
+Toulouse Petit Kitchen & Lounge,Seattle,WA,https://www.toulousepetit.com/,reservations@toulousepetit.com,homepage,True,6488,4.4,bar,DoorDash storefront; OpenTable reservations,WordPress,True,,180.0,places_enriched
+Guelaguetza Restaurant,Los Angeles,CA,https://www.ilovemole.com/,hello@ilovemole.com,/contact-us,True,6486,4.3,bar,Toast ordering; OpenTable reservations; Shopify store; gift cards,Shopify,True,,180.0,places_enriched
+El Vez,Philadelphia,PA,https://elvezrestaurant.com/,elvez.info@starr-restaurants.com,homepage,True,6400,4.5,restaurant,DoorDash storefront; OpenTable reservations,WordPress,True,,180.0,places_enriched
+Brenda's French Soul Food,San Francisco,CA,https://frenchsoulfood.com/,andrew@frenchsoulfood.com,homepage,True,6282,4.5,restaurant,DoorDash storefront; Resy reservations,WordPress,True,,180.0,places_enriched
+City O' City,Denver,CO,https://www.cityocitydenver.com/,info@cityocitydenver.com,homepage,True,6273,4.5,cafe,Toast ordering; gift cards,Squarespace,True,,180.0,places_enriched
+Valley Mall,Hagerstown,MD,https://www.shopthevalleymall.com/,ValleyMallMarketing@preit.com,homepage,True,6225,4.2,shopping_mall,gift cards,custom/other,True,,180.0,places_enriched
+Weber Grill,Chicago,IL,https://webergrillrestaurant.com/chicago/,weberrestaurant@thewebergrill.com,homepage,True,6184,4.5,restaurant,Toast ordering; DoorDash storefront; OpenTable reservations; gift cards,WordPress,True,,180.0,places_enriched
+Kentucky Oaks Mall,Paducah,KY,https://www.kentuckyoaksmall.com/,marketingdirector@kentuckyoaksmall.net,homepage,True,6132,4.1,shopping_mall,'gift cards' link,custom/other,True,,180.0,places_enriched
+Christkindlmarket Chicago,Chicago,IL,https://www.christkindlmarket.com/,info@christkindlmarket.com,homepage,True,6104,4.2,point_of_interest,WooCommerce store,WordPress,True,,180.0,places_enriched
+Steuben's Uptown,Denver,CO,https://steubens.com/,shop@steubens.com,homepage,True,6007,4.4,restaurant,Toast ordering; DoorDash storefront; OpenTable reservations; gift cards,custom/other,True,,180.0,places_enriched
+Juan in a Million,Austin,TX,https://juaninamillion.com/,juaninamil@gmail.com,homepage,True,5960,4.5,restaurant,Toast ordering; gift cards,custom/other,True,,180.0,places_enriched
+Capital City Mall,Harrisburg,PA,https://shopcapitalcitymall.com/,CapitalCityMallMarketing@preit.com,homepage,True,5898,4.3,shopping_mall,gift cards,custom/other,True,,180.0,places_enriched
+Round the Clock Diner,York,PA,https://roundtheclockdiner.com/,info@roundtheclockdiner.com,/contact,True,5897,4.4,cafe,WooCommerce store,WordPress,True,,180.0,places_enriched
+Filomena Ristorante,Washington,DC,https://filomena.com/,info@filomena.com,homepage,True,5782,4.6,restaurant,OpenTable reservations; gift cards,WordPress,True,,180.0,places_enriched
+Cattlemen's Steakhouse,Oklahoma City,OK,https://cattlemensrestaurant.com/,david@cattlemensrestaurant.com,homepage,True,5736,4.5,bakery,OpenTable reservations; gift cards,custom/other,True,,180.0,places_enriched
+Bricktown Brewery,Oklahoma City,OK,https://bricktownbrewery.com/location/downtown-okc/,downtown@bricktownbrewery.com,homepage,True,5716,4.5,restaurant,gift cards,WordPress,True,,180.0,places_enriched
+Power Plant Live!,Baltimore,MD,https://powerplantlive.com/,experience@powerplantlive.com,/contact-us,True,5706,4.4,bar,Shopify store; gift cards,custom/other,True,,180.0,places_enriched
+La Nueva Central,El Paso,TX,https://lanuevacentral.com/,contacto@sandybrown-wombat-533712.hostingersite.com,/contact,True,5701,4.4,cafe,WooCommerce store,WordPress,True,,180.0,places_enriched
+Linger,Denver,CO,https://ediblebeats.com/restaurants/linger/,turnup@ediblebeats.com,homepage,True,5536,4.5,restaurant,DoorDash storefront; OpenTable reservations; gift cards,WordPress,True,,180.0,places_enriched
+Stax Omega Diner,Greenville,SC,https://staxs.net/,info@staxs.net,homepage,True,5501,4.5,restaurant,ChowNow ordering; WooCommerce store,WordPress,True,,180.0,places_enriched
+Boardwalk Billy's Raw Bar and Ribs,Charlotte,NC,https://university.boardwalkbillys.com/,admin@boardwalkbillys.com,homepage,True,5435,4.3,restaurant,Toast ordering; gift cards,WordPress,True,,180.0,places_enriched
+The Dandelion,Philadelphia,PA,https://thedandelionpub.com/,thedandelion.info@starr-restaurants.com,homepage,True,5433,4.6,restaurant,DoorDash storefront; Resy reservations,WordPress,True,,180.0,places_enriched
+Rosa Mexicano,Alexandria,VA,https://rosamexicano.com/,marketing@rosamexicano.com,/contact,True,5368,4.1,bar,gift cards,WordPress,True,,180.0,places_enriched
+Virtue Feed & Grain,Alexandria,VA,https://virtuefeedgrain.com/,Serina@VirtueFeedGrain.com,/contact,True,5323,4.5,restaurant,Toast ordering; OpenTable reservations; WooCommerce store; gift cards,WordPress,True,,180.0,places_enriched
+Franciscan Crab Restaurant,San Francisco,CA,https://www.franciscanrestaurant.com/,comments@franciscanrestaurant.com,homepage,True,5303,4.2,restaurant,DoorDash storefront; gift cards,custom/other,True,,180.0,places_enriched
+Sushi Den,Denver,CO,https://www.sushiden.net/,info@sushiden.net,homepage,True,5240,4.7,bar,Toast ordering; WooCommerce store; gift cards,WordPress,True,,180.0,places_enriched
+The Esquire Tavern,San Antonio,TX,https://esquiretavern-sa.com/,info@esquiretavern-sa.com,homepage,True,5224,4.4,bar,Toast ordering; OpenTable reservations,WordPress,True,,180.0,places_enriched
+Connolly's,New York,NY,https://www.connollyspubandrestaurant.com/,events45@connollyspubandrestaurant.com,homepage,True,5169,4.4,restaurant,WooCommerce store,WordPress,True,,180.0,places_enriched
+Magnolia Bakery,New York,NY,https://www.magnoliabakery.com/,hello@magnoliabakery.com,homepage,True,5128,4.3,bakery,Toast ordering; DoorDash storefront; Shopify store; gift cards,Shopify,True,,180.0,places_enriched
+Dirty Frank's Hot Dog Palace,Columbus,OH,https://dirtyfranks.com/,hello@dirtyfranks.com,homepage,True,5068,4.6,bar,Toast ordering; DoorDash storefront; Shopify store,WordPress,True,,180.0,places_enriched
+Cinemark Baldwin Hills Crenshaw and XD,Los Angeles,CA,https://www.cinemark.com/theatres/ca-los-angeles/cinemark-baldwin-hills-crenshaw-and-xd,1084@cinemark.com,homepage,True,4972,4.4,movie_theater,gift cards,custom/other,True,,180.0,places_enriched
+The Grove Restaurant & Bar,San Francisco,CA,https://www.thegrovesf.com/,hroffice@thegrovesf.com,homepage,True,4917,4.4,cafe,DoorDash storefront,Webflow,True,,180.0,places_enriched
+The Original Pancake House DFW,Dallas,TX,https://ophdfw.com/uptown-location/,comments@ophdfw.com,/contact,True,4914,4.6,cafe,WooCommerce store,WordPress,True,,180.0,places_enriched
+Duke's Riverside Bar & Grille,Harrisburg,PA,https://www.dukesbarandgrille.com/,DocksideWillies449@gmail.com,homepage,True,4908,4.3,restaurant,Toast ordering; gift cards,custom/other,True,,180.0,places_enriched
+Riverside Arts Market,Jacksonville,FL,https://riversideartsmarket.org/,info@riversideartsmarket.org,homepage,True,4897,4.7,point_of_interest,Square,WordPress,True,,180.0,places_enriched
+Reggies Chicago,Chicago,IL,https://www.reggieslive.com/,Info@reggieslive.com,/contact,True,4863,4.5,bar,Shopify store,WordPress,True,,180.0,places_enriched
+McGillin's Olde Ale House,Philadelphia,PA,https://mcgillins.com/,mcgillins@aol.com,homepage,True,4862,4.4,bar,Shopify store,WordPress,True,,180.0,places_enriched
+Taco Palenque San Bernardo,Laredo,TX,https://tacopalenque.com/,tacopfeedback@palenquegroup.com,/contact,True,4861,4.4,restaurant,gift cards,custom/other,True,,180.0,places_enriched
+Watercourse Foods,Denver,CO,https://www.watercoursefoods.com/,info@watercoursefoods.com,homepage,True,4848,4.6,bakery,Toast ordering; gift cards,Squarespace,True,,180.0,places_enriched
+Darfons Restaurant + Bar,Nashville,TN,https://www.darfonsrestaurant.com/,DarfonsRestaurant@yahoo.com,homepage,True,4828,4.6,bar,Toast ordering; online ordering; Resy reservations; gift cards,custom/other,True,,180.0,places_enriched
+Savina's Mexican Kitchen - Downtown Denver,Denver,CO,https://savinasmexicankitchen.com/,events@brinkerhoffco.com,homepage,True,4824,4.4,restaurant,'gift cards' link,WordPress,True,,180.0,places_enriched
+La Gloria,San Antonio,TX,https://chefjohnnyhernandez.com/la-gloria-pearl/,INFO@LAGLORIA.COM,homepage,True,4800,4,restaurant,WooCommerce store,WordPress,True,,180.0,places_enriched
+Mert's Heart And Soul,Charlotte,NC,https://mertscharlotte.com/,eat@mertscharlotte.com,/contact,True,4799,4.2,restaurant,ChowNow ordering; WooCommerce store,WordPress,True,,180.0,places_enriched
+Blue Water Seafood Market & Grill,San Diego,CA,https://bluewaterseafoodsandiego.com/,info@sdbluewater.com,homepage,True,4784,4.7,restaurant,Toast ordering; gift cards,custom/other,True,,180.0,places_enriched
+Five Points Pizza East,Nashville,TN,https://fivepointspizza.com/,info@fivepointspizza.com,homepage,True,4783,4.7,meal_takeaway,Toast ordering; ChowNow ordering; Resy reservations; WooCommerce store,WordPress,True,,180.0,places_enriched
+Bouldin Creek Cafe,Austin,TX,https://bouldincreekcafe.com/,info@bouldincreek.com,homepage,True,4759,4.7,cafe,Toast ordering; gift cards,custom/other,True,,180.0,places_enriched
+Central BBQ - Midtown,Memphis,TN,https://eatcbq.com/,info@eatcbq.com,homepage,True,4716,4.4,restaurant,Shopify store; gift cards,Shopify,True,,180.0,places_enriched
+Home Team BBQ,Charleston,SC,https://hometeambbq.com/,employment@hometeambbq.com,homepage,True,4694,4.6,bar,Toast ordering; WooCommerce store,WordPress,True,,180.0,places_enriched
+Big Fish Grill on the Riverfront,Wilmington,DE,https://www.bigfishriverfront.com/,davon.cameron@atlasrestaurantgroup.com,homepage,True,4678,4.4,restaurant,DoorDash storefront; OpenTable reservations; gift cards,custom/other,True,,180.0,places_enriched
+Torchy's Tacos,Fort Worth,TX,https://torchystacos.com/,torchy@torchystacos.com,homepage,True,4669,4.4,restaurant,gift cards,custom/other,True,,180.0,places_enriched
+Di Fara Pizza,New York,NY,https://www.difarapizzany.com/,yourname@email.com,/contact,True,4641,4.2,meal_takeaway,Square,Squarespace,True,,180.0,places_enriched
+King Spa & Sauna,Yonkers,NY,https://thekingspanj.com/,cs@thekingspa.com,homepage,True,4614,4.2,spa,Shopify store; gift cards,Shopify,True,,180.0,places_enriched
+Deschutes Brewery Portland Public House,Portland,OR,https://deschutesbrewery.com/pages/portland-public-house,PortlandPubEvents@deschutesbrewery.com,homepage,True,4597,4.5,bar,Toast ordering; DoorDash storefront; Shopify store; gift cards,Shopify,True,,180.0,places_enriched
+The Stinking Rose,San Francisco,CA,https://thestinkingrose.com/,sfcomments@thestinkingrose.com,homepage,True,4582,4.2,restaurant,DoorDash storefront; Resy reservations,custom/other,True,,180.0,places_enriched
+Punch Bowl Social,Denver,CO,https://punchbowlsocial.com/location/denver,marketing@punchbowlsocial.com,homepage,True,4582,4.2,restaurant,OpenTable reservations; gift cards,custom/other,True,,180.0,places_enriched
+Dutch's Daughter,Frederick,MD,https://www.dutchsdaughter.com/,togo@dutchsdaughter.com,homepage,True,4571,4.7,restaurant,Toast ordering; WooCommerce store; gift cards,Squarespace,True,,180.0,places_enriched
+Green Top Sporting Goods,Ashland,VA,https://www.greentop.com/,webcustserv@greentop.com,homepage,True,4495,4.6,clothing_store,gift cards,custom/other,True,,180.0,places_enriched
+Dockside Willies,Harrisburg,PA,http://docksidewillies.com/,DukesRiverside313@gmail.com,homepage,True,4432,4.4,restaurant,Toast ordering; gift cards,custom/other,False,,180.0,places_enriched
+Alhambra Palace Chicago,Chicago,IL,https://www.alhambrapalacechicago.com/,info@alhambrapalacechicago.com,homepage,True,4414,4.4,night_club,Toast ordering; gift cards,custom/other,True,,180.0,places_enriched
+Waterbar Restaurant,San Francisco,CA,https://www.waterbarsf.com/,info@waterbarsf.com,homepage,True,4411,4.5,restaurant,online ordering; OpenTable reservations; Resy reservations,custom/other,True,,180.0,places_enriched
+Hobbit Cafe,Houston,TX,https://hobbitcafehtx.com/,amkryukov@gmail.com,homepage,True,4409,4.5,bar,Toast ordering; gift cards,GoDaddy,True,,180.0,places_enriched
+Pike Place Fish Market,Seattle,WA,https://www.pikeplacefish.com/,pikeplacefish@pikeplacefish.com,/contact,True,4376,4.6,restaurant,Toast ordering; Square,Squarespace,True,,180.0,places_enriched
+Owl Cafe,Albuquerque,NM,https://owlcafenm.com/,corey@owlcafenm.com,homepage,True,4301,4.3,cafe,Toast ordering,custom/other,True,,180.0,places_enriched
+Hounddog's Pizza,Columbus,OH,https://www.hounddogspizza.com/,info@hounddogspizza.com,/contact,True,4263,4.5,restaurant,WooCommerce store,WordPress,True,,180.0,places_enriched
+Monk's Cafe,Philadelphia,PA,https://www.monkscafe.com,info@monkscafe.com,/contact-us,True,4257,4.7,liquor_store,Shopify store; gift cards,custom/other,True,,180.0,places_enriched
+Dallas BBQ Washington Heights,Yonkers,NY,https://www.dallasbbq.com/,hello@dallasbbq.com,/contact,True,4243,4.1,bar,DoorDash storefront; Square; gift cards,Squarespace,True,,180.0,places_enriched
+Clyde's of Gallery Place,Washington,DC,https://www.clydes.com/location/clydes-gallery-place/,gpevents@clydes.com,homepage,True,4224,4.3,restaurant,Toast ordering; online ordering; OpenTable reservations; Resy reservations,custom/other,True,,180.0,places_enriched
+Ponzio's Diner-Bakery-Bar,Camden,NJ,https://www.ponzios.com/,info@ponzios.com,homepage,True,4205,4.2,bakery,gift cards,custom/other,True,,180.0,places_enriched
+Tommy's Joynt,San Francisco,CA,https://tommysjoynt.com/,info@tommysjoynt.com,homepage,True,4197,4.4,restaurant,Square,Squarespace,True,,180.0,places_enriched
+Perry's Steakhouse & Grille,Dallas,TX,https://perryssteakhouse.com/locations/tx/dallas/park-district/,mark@perryssteakhouse.com,homepage,True,4187,4.5,restaurant,DoorDash storefront; Olo ordering; OpenTable reservations,WordPress,True,,180.0,places_enriched
+Papas & Beer,Greenville,SC,https://papasandbeermexican.com/,danfelix13@gmail.com,/contact-us,True,4183,4.3,bar,Clover ordering,custom/other,True,,180.0,places_enriched
+Cactus South Lake Union,Seattle,WA,https://www.cactusrestaurants.com/menus,info@cactusrestaurants.com,homepage,True,4158,4.4,bar,Toast ordering; DoorDash storefront; gift cards,WordPress,True,,180.0,places_enriched
+The Bagel Cafe,Las Vegas,NV,https://www.thebagelcafelv.com/,support@bagelcafe.info,homepage,True,4155,4.5,cafe,Square,Wix,True,,180.0,places_enriched
+The Rathskeller,Indianapolis,IN,https://rathskeller.com/,rathskellerevents@yahoo.com,homepage,True,4151,4.5,bar,OpenTable reservations; WooCommerce store,WordPress,True,,180.0,places_enriched
+Nick & Sam's,Dallas,TX,https://nick-sams.com/,info@nick-sams.com,homepage,True,4147,4.3,restaurant,Toast ordering; OpenTable reservations; gift cards,custom/other,True,,180.0,places_enriched
+The Franklin Fountain,Camden,NJ,https://franklinfountain.com/,hi@loremipsum.com,/contact,True,4100,4.5,store,DoorDash storefront; gift cards,WordPress,True,,180.0,places_enriched
+Edley's Bar-B-Que,Nashville,TN,https://www.edleysbbq.com/locations/12-south,orders@edleysbbq.com,homepage,True,4079,4.6,restaurant,Square; gift cards,Squarespace,True,,180.0,places_enriched
+Rhein Haus Seattle,Seattle,WA,https://www.rheinhausseattle.com/,info@rhdenver.com,homepage,True,4021,4.4,bar,Toast ordering; Square; gift cards,Squarespace,True,,180.0,places_enriched
+Sobelmans on St. Paul,Milwaukee,WI,https://sobelmanspubandgrill.com/,info@sobelmanspubandgrill.com,homepage,True,4017,4.6,restaurant,'reservations' link,custom/other,True,,180.0,places_enriched
+Metropolitan Grill,Seattle,WA,https://www.themetropolitangrill.com/,info@themetropolitangrill.com,/contact,True,4015,4.6,bar,Toast ordering,WordPress,True,,180.0,places_enriched
+Bestia,Los Angeles,CA,https://bestiala.com/,info@bestiala.com,/contact,True,4008,4.5,restaurant,Toast ordering; OpenTable reservations; gift cards,WordPress,True,,180.0,places_enriched
+Steven's Steak & Seafood House,Los Angeles,CA,https://stevenssteakhouse.com/,info@stevenssteakhouse.com,homepage,True,3978,4.3,restaurant,OpenTable reservations; WooCommerce store,WordPress,True,,180.0,places_enriched
+Hog Island Oyster Co.,San Francisco,CA,https://hogislandoysters.com/,tours@hogislandoysters.com,/contact,True,3976,4.6,restaurant,Resy reservations,WordPress,True,,180.0,places_enriched
+Two Fools Tavern,Albuquerque,NM,https://www.2foolstavern.com/,2foolstavern@gmail.com,homepage,True,3948,4.6,bar,'gift cards' link,WordPress,True,,180.0,places_enriched
+Rasika,Washington,DC,https://www.rasikarestaurant.com/,rasika@rasikarestaurant.com,homepage,True,3946,4.3,bar,Toast ordering; DoorDash storefront; Resy reservations; gift cards,Squarespace,True,,180.0,places_enriched
+Zanies Comedy Night Club,Nashville,TN,https://nashville.zanies.com/,info@zanies.com,/contact,True,3945,4.5,bar,gift cards,WordPress,True,,180.0,places_enriched
+Agora Dc Mediterranean Restaurant,Washington,DC,https://www.agorarestaurants.net/,info@agoradc.net,homepage,True,3945,4.6,bar,Resy reservations; gift cards,WordPress,True,,180.0,places_enriched
+Brooklyn Bowl,New York,NY,https://www.brooklynbowl.com/brooklyn,rock.androll@brooklynbowl.com,homepage,True,3933,4.4,bowling_alley,OpenTable reservations; gift cards,custom/other,True,,180.0,places_enriched
+La Choperia,El Paso,TX,https://lachoperiajuarez.com/,contacto@lachoperiajuarez.com,homepage,True,3931,4.5,bar,WooCommerce store,WordPress,True,,180.0,places_enriched
+Peg Leg Porker BBQ,Nashville,TN,https://peglegporker.com/,info@peglegporker.com,homepage,True,3922,4.5,restaurant,Toast ordering; DoorDash storefront; ChowNow ordering; WooCommerce store,WordPress,True,,180.0,places_enriched
+The Marketplace at Steamtown,Scranton,PA,https://www.themarketplaceatsteamtown.com/,info@themarketplaceatsteamtown.com,homepage,True,3906,3.9,shopping_mall,gift cards,Wix,True,,180.0,places_enriched
+Andy's Jazz Club & Restaurant,Chicago,IL,https://andysjazzclub.com/,info@andysjazzclub.com,homepage,True,3896,4.5,night_club,OpenTable reservations; gift cards,WordPress,True,,180.0,places_enriched
+The Southern Steak & Oyster,Nashville,TN,https://www.thesouthernnashville.com/,info@thesouthernnashville.com,homepage,True,3893,4.5,restaurant,Toast ordering; Square; Resy reservations; gift cards,Squarespace,True,,180.0,places_enriched
+Stage House Tavern Somerset,New Brunswick,NJ,https://stagehousetavern.com/somerset/,webmaster@stagehousetavern.com,/contact,True,3823,4.2,bar,DoorDash storefront; Tock,custom/other,True,,180.0,places_enriched
+Beach Chalet Brewery and Restaurant,San Francisco,CA,https://www.beachchalet.com/,beach@beachchalet.com,homepage,True,3817,4.1,bar,Toast ordering; DoorDash storefront; Square; Yelp reservations; gift cards,Squarespace,True,,180.0,places_enriched
+Johnny Foley's Irish House,San Francisco,CA,https://www.johnnyfoleys.com/eat,festie1@aol.com,homepage,True,3809,4.4,bar,Square,Squarespace,True,,180.0,places_enriched
+Baked & Wired,Washington,DC,https://bakedandwired.com/,info@bakedandwired.com,/contact,True,3782,4.5,bakery,Toast ordering; WooCommerce store,WordPress,True,,180.0,places_enriched
+Kingston Mines,Chicago,IL,https://kingstonmines.com/?v=0b3b97fa6688,dd37ac459595ebb8d0b5ade02e291a74cf6a24e79b83fa319d7287a48fff6b4d@group.calendar.google.com,homepage,True,3781,4.7,night_club,WooCommerce store,WordPress,True,,180.0,places_enriched
+Sweet Pete's Candy,Jacksonville,FL,https://www.sweetpetescandy.com,ninfo@sweetpetescandy.com,homepage,True,3776,4.7,restaurant,Square; gift cards,Weebly,True,,180.0,places_enriched
+GameWorks Seattle,Seattle,WA,https://www.gameworks.com/,jane@email.com,/contact,True,3775,4.1,restaurant,gift cards,WordPress,True,,180.0,places_enriched
+The Cowfish Sushi Burger Bar,Charlotte,NC,https://thecowfish.com/,feedback@thecowfish.com,homepage,True,3737,4.6,bar,Toast ordering; DoorDash storefront; Resy reservations; gift cards,WordPress,True,,180.0,places_enriched
+The Market at 7th Street,Charlotte,NC,https://www.themarketat7thstreet.com/,info@themarketat7th.com,homepage,True,3728,4.5,cafe,gift cards,Duda,True,,180.0,places_enriched
+Fire on the Mountain Buffalo Wings | Burnside,Portland,OR,https://www.portlandwings.com/,fotm@portlandwings.com,homepage,True,3693,4.5,bar,'order online' link,Squarespace,True,,180.0,places_enriched
+Riverfront Seafood Co,Kingsport,TN,https://riverfrontseafood.com/,russ@riverfrontseafood.com,homepage,True,3688,4.6,restaurant,Toast ordering; gift cards,custom/other,True,,180.0,places_enriched
+Portage Bay Cafe - South Lake Union,Seattle,WA,https://www.portagebaycafe.com/,roosevelt@portagebaycafe.com,homepage,True,3679,4.2,cafe,Toast ordering; OpenTable reservations; gift cards,Squarespace,True,,180.0,places_enriched
+Fonda San Miguel,Austin,TX,https://www.fondasanmiguel.com/,events@fondasanmiguel.com,homepage,True,3662,4.6,bar,Toast ordering; gift cards,WordPress,True,,180.0,places_enriched
+The Continental Mid-town,Philadelphia,PA,https://continentalmidtown.com/,midtown.info@starr-restaurants.com,homepage,True,3654,4.4,restaurant,DoorDash storefront; OpenTable reservations,WordPress,True,,180.0,places_enriched
+Blue Star Donuts,Portland,OR,https://bluestardonuts.com/,info@bluestardonuts.com,/contact,True,3654,4.4,cafe,Toast ordering; Shopify store; gift cards,Shopify,True,,180.0,places_enriched
+Hofbrauhaus Las Vegas,Las Vegas,NV,https://www.hofbrauhauslasvegas.com/,hb@hofbrauhauslasvegas.com,homepage,True,3638,4.4,bar,OpenTable reservations; gift cards,WordPress,True,,180.0,places_enriched
+St. John's Bar & Grill,San Jose,CA,https://stjohnsgrill.com/,brian@stjohnsgrill.com,homepage,True,3637,4.5,restaurant,WooCommerce store,WordPress,True,,180.0,places_enriched
+Lotus of Siam - Sahara Ave.,Las Vegas,NV,https://www.lotusofsiamlv.com/,reservations@lotusofsiamlv.com,homepage,True,3636,4.6,restaurant,DoorDash storefront; Square; OpenTable reservations,Webflow,True,,180.0,places_enriched
+Ray's Boathouse,Seattle,WA,https://www.rays.com/,rayscatering@rays.com,homepage,True,3624,4.5,restaurant,OpenTable reservations; Resy reservations; WooCommerce store; gift cards,WordPress,True,,180.0,places_enriched
+McMullan's Irish Pub,Las Vegas,NV,https://www.mcmullansirishpub.com/,info@mcmullansirishpub.com,homepage,True,3591,4.6,restaurant,Toast ordering,Webflow,True,,180.0,places_enriched
+Bellaire Dermatology,Houston,TX,https://www.bellairedermatology.com/,appointments@bellairedermatology.com,homepage,True,3569,4.9,beauty_salon,WooCommerce store,WordPress,True,,180.0,places_enriched
+Mader's Restaurant,Milwaukee,WI,https://madersrestaurant.com/,kweber@madersrestaurant.com,homepage,True,3565,4.4,restaurant,Resy reservations; Shopify store; gift cards,Shopify,True,,180.0,places_enriched
+Alamo Cafe,San Antonio,TX,https://alamocafe.com/,office@alamocafe.com,/contact-us,True,3551,4.2,bar,Toast ordering; ChowNow ordering; gift cards,custom/other,True,,180.0,places_enriched
+Andina,Portland,OR,https://www.andinarestaurant.com/,info@andinarestaurant.com,homepage,True,3537,4.6,bar,Square; OpenTable reservations; gift cards,Squarespace,True,,180.0,places_enriched
+Vivid Salon,Baltimore,MD,https://www.wemakeitvivid.com/,info@wemakeitvivid.com,homepage,True,695,4.9,hair_care,salon booking; gift cards,WordPress,True,,149.5,pool
+Complexions Spa for Beauty and Wellness,Albany,NY,https://www.complexions.com/,frontdesk@complexions.com,homepage,True,679,4.4,spa,gift cards,WordPress,True,,147.9,pool
+Tyler Mason Salon Spa,Indianapolis,IN,https://tylermason.com/,info@tylermason.com,homepage,True,676,4.7,hair_care,WooCommerce store; gift cards,WordPress,True,,147.6,pool
+NY Hair Company,Las Vegas,NV,https://nyhaircompany.com/,nyhair702@gmail.com,/contact,True,661,4.8,hair_care,Fresha booking; WooCommerce store,WordPress,True,,146.1,pool
+Gold Skin Care Center,Nashville,TN,https://goldskincare.com/,marketingmail@goldskincare.com,/contact-us,True,657,4.7,hair_care,'book an appointment' link,WordPress,True,,145.7,pool
+Bell Tower Salon Spa,Reading,PA,https://belltowersalonspa.com/,info@belltowersalonspa.com,/contact-us,True,642,4.7,beauty_salon,salon booking,custom/other,True,,144.2,pool
+The Restoration Charleston,Charleston,SC,https://therestorationhotel.com/,frontdesk@therestorationhotel.com,/contact-us,True,629,4.5,bar,WooCommerce store,WordPress,True,,142.9,pool
+Bella Salon & Spa,Hagerstown,MD,https://www.bellasalonandspa.net,guestservices@bellasalonandspa.net,/about,True,627,4.8,beauty_salon,salon booking; gift cards,custom/other,True,,142.7,pool
+Numa Spa,Hampton,VA,https://numaspa.com/,drg@numaspa.com,/about,True,614,4.9,beauty_salon,WooCommerce store,WordPress,True,,141.4,pool
+Progressions Salon,Rockville,MD,https://progressions.com/,info@progressions.com,homepage,True,608,4.8,beauty_salon,salon booking; gift cards,WordPress,True,,140.8,pool
+3 Little Birds Salon ✂,Denver,CO,https://3littlebirdssalon.com/,hi@powla.com,homepage,True,603,4.7,hair_care,WooCommerce store,WordPress,True,,140.3,pool
+JUVENEX SPA,New York,NY,https://juvenexspanyc.com/,info@juvenexspanyc.com,/about,True,572,3.9,spa,gift cards,WordPress,True,,137.2,pool
+Salontra Select Suites,Baltimore,MD,https://salontraselectsuites.com/,info@salontraselectsuites.com,homepage,True,568,4.5,beauty_salon,'book an appointment' link,WordPress,True,,136.8,pool
+Signature Medical Spa,Charlottesville,VA,https://www.signaturemedspa.com/,info@signaturemedspa.com,/contact,True,545,4.9,beauty_salon,gift cards,WordPress,True,,134.5,pool
+Craft Axe Throwing,Spartanburg,SC,https://craftaxethrowing.com/us/sc/spartanburg,spartanburg@craftaxethrowing.com,homepage,True,535,4.9,bar,gift cards,custom/other,True,,133.5,pool
+Theo's,Fayetteville,AR,https://www.theosfayetteville.com/,admin@theosfayetteville.com,homepage,True,534,4.5,bar,Toast ordering; Resy reservations; gift cards,Squarespace,True,,133.4,pool

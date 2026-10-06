@@ -1,0 +1,9 @@
+PASS filomena <info@filomena.com>
+   ok  https://filomena.wpengine.com/gift-cards/ -> 404 (want 404)
+   ok  https://filomena.wpengine.com/dinner/ -> 404 (want 404)
+   ok  https://filomena.com/ -> 200, /filomena\.wpengine\.com/gift-cards/ still there
+   ok  https://filomena.com/menu/ -> 200, /filomena\.wpengine\.com/dinner/ still there
+   ok  MX filomena.com: 0 filomena-com.mail.protection.outlook.com.
+   ok  mailgun bounces: not listed
+   ok  mailgun complaints: not listed
+   ok  mailgun unsubscribes: not listed

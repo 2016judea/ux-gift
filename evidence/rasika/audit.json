@@ -1,0 +1,789 @@
+[
+ {
+  "url": "https://www.rasikarestaurant.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.4,
+  "meta": "width=device-width,initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 8740,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791324818424_366.image-container",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#yui_3_17_2_1_1791324818424_461.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   }
+  ],
+  "targets": 24,
+  "small": 3,
+  "smallList": [
+   "a#top 221x16",
+   "a 11x25",
+   "a 11x25"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "nav.main-nav",
+  "textLen": 3595,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/penn-quarter-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery",
+    "href": "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/west-end-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika-west-end?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery By Doordash",
+    "href": "https://order.online/business/rasika-17101/en-US/?delivery=true"
+   },
+   {
+    "text": "Gift Cards (Penn)",
+    "href": "https://www.toasttab.com/rasika-penn-quarter-633-d-street-northwest/giftcards"
+   },
+   {
+    "text": "Gift Cards (West End)",
+    "href": "https://www.toasttab.com/rasika-west-end-1190-new-hampshire-ave-nw/giftcards"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/penn-quarter-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery",
+    "href": "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/west-end-menu"
+   }
+  ],
+  "allLinks": [
+   "https://www.rasikarestaurant.com/penn-quarter-menu",
+   "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2",
+   "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest",
+   "https://www.ubereats.com/store/rasika-penn-quarter/tpLwkcBCQzm9qzSYPojn6A",
+   "https://www.rasikarestaurant.com/penn-quarter-private-functions",
+   "https://www.rasikarestaurant.com/penn-quarter-reviews",
+   "https://www.rasikarestaurant.com/penn-quarter-team",
+   "https://www.rasikarestaurant.com/penn-quarter-bar",
+   "https://www.rasikarestaurant.com/penn-quarter-art",
+   "https://www.rasikarestaurant.com/west-end-menu",
+   "https://resy.com/cities/dc/rasika-west-end?date=2020-11-10&seats=2",
+   "https://order.online/business/rasika-17101/en-US/?delivery=true",
+   "https://www.ubereats.com/store/rasika-west-end-foggy-bottom/GRqYnWIuSTaMS7P7DQfVOQ",
+   "https://www.rasikarestaurant.com/west-end-catering-and-private-functions",
+   "https://www.rasikarestaurant.com/west-end-reviews",
+   "https://www.rasikarestaurant.com/west-end-our-team",
+   "https://www.rasikarestaurant.com/west-end-art",
+   "https://www.toasttab.com/rasika-penn-quarter-633-d-street-northwest/giftcards",
+   "https://www.toasttab.com/rasika-west-end-1190-new-hampshire-ave-nw/giftcards",
+   "https://knightsbridgerestaurantgroup.com/",
+   "https://www.rasikarestaurant.com/",
+   "https://www.rasikarestaurant.com/#modern-indian-cuisine",
+   "https://www.rasikarestaurant.com/#eat-together",
+   "https://resy.com/cities/dc/rasika?date=2020-11-02&seats=2",
+   "https://resy.com/cities/dc/rasika-west-end?date=2020-11-02&seats=2",
+   "https://www.washingtonpost.com/graphics/2019/food/dc-fall-restaurant-guide/",
+   "https://blog.resy.com/2019/02/dc-2019-james-beard-awards-semifinalists/",
+   "https://www.rasikarestaurant.com/#top",
+   "https://www.instagram.com/rasikadc/",
+   "https://www.facebook.com/pages/Rasika%20Restaurant/116531441705379/",
+   "https://www.rasikarestaurant.com/news",
+   "https://www.knightsbridgerestaurantgroup.com/locations-1"
+  ],
+  "weight": 24579,
+  "title": "Rasika",
+  "roundtrip": {
+   "atBottom": {
+    "y": 8076,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.online/business/rasika-17101/en-US/?delivery=true",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.toasttab.com/rasika-penn-quarter-633-d-street-northwest/giftcards",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.toasttab.com/rasika-west-end-1190-new-hampshire-ave-nw/giftcards",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ubereats.com/store/rasika-penn-quarter/tpLwkcBCQzm9qzSYPojn6A",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ubereats.com/store/rasika-west-end-foggy-bottom/GRqYnWIuSTaMS7P7DQfVOQ",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.rasikarestaurant.com/news",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-rasikarestaurant-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://www.rasikarestaurant.com/news answers 404"
+   ],
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791324818424_366.image-container covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791324818424_461.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "3 of 24 tap targets under 24px: a#top 221x16, a 11x25, a 11x25"
+   ],
+   [
+    "INFO",
+    "document scrolls, 8740px tall"
+   ]
+  ],
+  "site": "https://www.rasikarestaurant.com/",
+  "hop": "https://www.rasikarestaurant.com/penn-quarter-menu"
+ },
+ {
+  "url": "https://www.rasikarestaurant.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 5.1,
+  "meta": "width=device-width,initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 8822,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791324836016_366.image-container",
+    "pos": "fixed",
+    "cover": 100
+   },
+   {
+    "el": "div#yui_3_17_2_1_1791324836016_473.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   }
+  ],
+  "targets": 24,
+  "small": 3,
+  "smallList": [
+   "a#top 221x15",
+   "a 11x24",
+   "a 11x24"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "nav.main-nav",
+  "textLen": 3601,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/penn-quarter-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery",
+    "href": "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/west-end-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika-west-end?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery By Doordash",
+    "href": "https://order.online/business/rasika-17101/en-US/?delivery=true"
+   },
+   {
+    "text": "Gift Cards (Penn)",
+    "href": "https://www.toasttab.com/rasika-penn-quarter-633-d-street-northwest/giftcards"
+   },
+   {
+    "text": "Gift Cards (West End)",
+    "href": "https://www.toasttab.com/rasika-west-end-1190-new-hampshire-ave-nw/giftcards"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/penn-quarter-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery",
+    "href": "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/west-end-menu"
+   }
+  ],
+  "allLinks": [
+   "https://www.rasikarestaurant.com/penn-quarter-menu",
+   "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2",
+   "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest",
+   "https://www.ubereats.com/store/rasika-penn-quarter/tpLwkcBCQzm9qzSYPojn6A",
+   "https://www.rasikarestaurant.com/penn-quarter-private-functions",
+   "https://www.rasikarestaurant.com/penn-quarter-reviews",
+   "https://www.rasikarestaurant.com/penn-quarter-team",
+   "https://www.rasikarestaurant.com/penn-quarter-bar",
+   "https://www.rasikarestaurant.com/penn-quarter-art",
+   "https://www.rasikarestaurant.com/west-end-menu",
+   "https://resy.com/cities/dc/rasika-west-end?date=2020-11-10&seats=2",
+   "https://order.online/business/rasika-17101/en-US/?delivery=true",
+   "https://www.ubereats.com/store/rasika-west-end-foggy-bottom/GRqYnWIuSTaMS7P7DQfVOQ",
+   "https://www.rasikarestaurant.com/west-end-catering-and-private-functions",
+   "https://www.rasikarestaurant.com/west-end-reviews",
+   "https://www.rasikarestaurant.com/west-end-our-team",
+   "https://www.rasikarestaurant.com/west-end-art",
+   "https://www.toasttab.com/rasika-penn-quarter-633-d-street-northwest/giftcards",
+   "https://www.toasttab.com/rasika-west-end-1190-new-hampshire-ave-nw/giftcards",
+   "https://knightsbridgerestaurantgroup.com/",
+   "https://www.rasikarestaurant.com/",
+   "https://www.rasikarestaurant.com/#modern-indian-cuisine",
+   "https://www.rasikarestaurant.com/#eat-together",
+   "https://resy.com/cities/dc/rasika?date=2020-11-02&seats=2",
+   "https://resy.com/cities/dc/rasika-west-end?date=2020-11-02&seats=2",
+   "https://www.washingtonpost.com/graphics/2019/food/dc-fall-restaurant-guide/",
+   "https://blog.resy.com/2019/02/dc-2019-james-beard-awards-semifinalists/",
+   "https://www.rasikarestaurant.com/#top",
+   "https://www.instagram.com/rasikadc/",
+   "https://www.facebook.com/pages/Rasika%20Restaurant/116531441705379/",
+   "https://www.rasikarestaurant.com/news",
+   "https://www.knightsbridgerestaurantgroup.com/locations-1"
+  ],
+  "weight": 24543,
+  "title": "Rasika",
+  "roundtrip": {
+   "atBottom": {
+    "y": 8095,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791324836016_366.image-container covers 100% of the screen"
+   ],
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791324836016_473.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "3 of 24 tap targets under 24px: a#top 221x15, a 11x24, a 11x24"
+   ],
+   [
+    "INFO",
+    "document scrolls, 8822px tall"
+   ]
+  ],
+  "site": "https://www.rasikarestaurant.com/"
+ },
+ {
+  "url": "https://www.rasikarestaurant.com/penn-quarter-menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.3,
+  "meta": "width=device-width,initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 18572,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791324841735_351.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   }
+  ],
+  "targets": 22,
+  "small": 5,
+  "smallList": [
+   "a#top 221x16",
+   "a 91x22",
+   "a 95x22",
+   "a 11x25",
+   "a 11x25"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "nav.main-nav",
+  "textLen": 6156,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/penn-quarter-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery",
+    "href": "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/west-end-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika-west-end?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery By Doordash",
+    "href": "https://order.online/business/rasika-17101/en-US/?delivery=true"
+   },
+   {
+    "text": "Gift Cards (Penn)",
+    "href": "https://www.toasttab.com/rasika-penn-quarter-633-d-street-northwest/giftcards"
+   },
+   {
+    "text": "Gift Cards (West End)",
+    "href": "https://www.toasttab.com/rasika-west-end-1190-new-hampshire-ave-nw/giftcards"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/penn-quarter-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery",
+    "href": "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/west-end-menu"
+   }
+  ],
+  "allLinks": [
+   "https://www.rasikarestaurant.com/penn-quarter-menu",
+   "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2",
+   "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest",
+   "https://www.ubereats.com/store/rasika-penn-quarter/tpLwkcBCQzm9qzSYPojn6A",
+   "https://www.rasikarestaurant.com/penn-quarter-private-functions",
+   "https://www.rasikarestaurant.com/penn-quarter-reviews",
+   "https://www.rasikarestaurant.com/penn-quarter-team",
+   "https://www.rasikarestaurant.com/penn-quarter-bar",
+   "https://www.rasikarestaurant.com/penn-quarter-art",
+   "https://www.rasikarestaurant.com/west-end-menu",
+   "https://resy.com/cities/dc/rasika-west-end?date=2020-11-10&seats=2",
+   "https://order.online/business/rasika-17101/en-US/?delivery=true",
+   "https://www.ubereats.com/store/rasika-west-end-foggy-bottom/GRqYnWIuSTaMS7P7DQfVOQ",
+   "https://www.rasikarestaurant.com/west-end-catering-and-private-functions",
+   "https://www.rasikarestaurant.com/west-end-reviews",
+   "https://www.rasikarestaurant.com/west-end-our-team",
+   "https://www.rasikarestaurant.com/west-end-art",
+   "https://www.toasttab.com/rasika-penn-quarter-633-d-street-northwest/giftcards",
+   "https://www.toasttab.com/rasika-west-end-1190-new-hampshire-ave-nw/giftcards",
+   "https://knightsbridgerestaurantgroup.com/",
+   "https://www.rasikarestaurant.com/",
+   "https://www.rasikarestaurant.com/s/RW-RPQ-Dinner-55-Aug-2026.pdf",
+   "https://www.rasikarestaurant.com/s/RW-RPQ-Lunch-35-Aug-2026.pdf",
+   "https://www.rasikarestaurant.com/s/Sunday-Brunch-Menu-Rasika-Penn-Quarter.pdf",
+   "https://www.rasikarestaurant.com/s/Lunch-Menu-05122026.pdf",
+   "https://www.rasikarestaurant.com/s/Dinner-Menu-05112026.pdf",
+   "https://www.rasikarestaurant.com/s/pdf-Dessert-Menu-05262026.pdf",
+   "https://www.rasikarestaurant.com/s/Tasting-Menu-01012026.pdf",
+   "https://www.rasikarestaurant.com/s/PDF-Rasika-Penn_Wine-List_052226.pdf",
+   "https://www.rasikarestaurant.com/s/Rasika-PQ-Bar-Menu-05042026.pdf",
+   "http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Winelist-02.24.20.pdf",
+   "http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Rasika-PQ-Bar-Menu-02.22.20.pdf",
+   "https://www.rasikarestaurant.com/penn-quarter-menu#top",
+   "https://www.instagram.com/rasikadc/",
+   "https://www.facebook.com/pages/Rasika%20Restaurant/116531441705379/",
+   "https://www.rasikarestaurant.com/news",
+   "https://www.knightsbridgerestaurantgroup.com/locations-1"
+  ],
+  "weight": 30169,
+  "title": "Rasika Penn Quarter Menu \u2014 Rasika",
+  "roundtrip": {
+   "atBottom": {
+    "y": 17908,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://order.online/business/rasika-17101/en-US/?delivery=true",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.toasttab.com/rasika-penn-quarter-633-d-street-northwest/giftcards",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.toasttab.com/rasika-west-end-1190-new-hampshire-ave-nw/giftcards",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ubereats.com/store/rasika-penn-quarter/tpLwkcBCQzm9qzSYPojn6A",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.ubereats.com/store/rasika-west-end-foggy-bottom/GRqYnWIuSTaMS7P7DQfVOQ",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Winelist-02.24.20.pdf",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Rasika-PQ-Bar-Menu-02.22.20.pdf",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.rasikarestaurant.com/news",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-rasikarestaurant-com-penn-quarter-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Winelist-02.24.20.pdf answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Rasika-PQ-Bar-Menu-02.22.20.pdf answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.rasikarestaurant.com/news answers 404"
+   ],
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791324841735_351.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "5 of 22 tap targets under 24px: a#top 221x16, a 91x22, a 95x22, a 11x25, a 11x25"
+   ],
+   [
+    "INFO",
+    "document scrolls, 18572px tall"
+   ]
+  ],
+  "site": "https://www.rasikarestaurant.com/"
+ },
+ {
+  "url": "https://www.rasikarestaurant.com/penn-quarter-menu",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.2,
+  "meta": "width=device-width,initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 18585,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791324851532_348.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   }
+  ],
+  "targets": 22,
+  "small": 5,
+  "smallList": [
+   "a#top 221x15",
+   "a 91x23",
+   "a 95x23",
+   "a 11x24",
+   "a 11x24"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "nav.main-nav",
+  "textLen": 6164,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/penn-quarter-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery",
+    "href": "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/west-end-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika-west-end?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery By Doordash",
+    "href": "https://order.online/business/rasika-17101/en-US/?delivery=true"
+   },
+   {
+    "text": "Gift Cards (Penn)",
+    "href": "https://www.toasttab.com/rasika-penn-quarter-633-d-street-northwest/giftcards"
+   },
+   {
+    "text": "Gift Cards (West End)",
+    "href": "https://www.toasttab.com/rasika-west-end-1190-new-hampshire-ave-nw/giftcards"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/penn-quarter-menu"
+   },
+   {
+    "text": "Make Reservation",
+    "href": "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2"
+   },
+   {
+    "text": "Pick Up/Delivery",
+    "href": "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest"
+   },
+   {
+    "text": "Menu",
+    "href": "https://www.rasikarestaurant.com/west-end-menu"
+   }
+  ],
+  "allLinks": [
+   "https://www.rasikarestaurant.com/penn-quarter-menu",
+   "https://resy.com/cities/dc/rasika?date=2020-11-10&seats=2",
+   "https://order.toasttab.com/online/rasika-penn-quarter-633-d-street-northwest",
+   "https://www.ubereats.com/store/rasika-penn-quarter/tpLwkcBCQzm9qzSYPojn6A",
+   "https://www.rasikarestaurant.com/penn-quarter-private-functions",
+   "https://www.rasikarestaurant.com/penn-quarter-reviews",
+   "https://www.rasikarestaurant.com/penn-quarter-team",
+   "https://www.rasikarestaurant.com/penn-quarter-bar",
+   "https://www.rasikarestaurant.com/penn-quarter-art",
+   "https://www.rasikarestaurant.com/west-end-menu",
+   "https://resy.com/cities/dc/rasika-west-end?date=2020-11-10&seats=2",
+   "https://order.online/business/rasika-17101/en-US/?delivery=true",
+   "https://www.ubereats.com/store/rasika-west-end-foggy-bottom/GRqYnWIuSTaMS7P7DQfVOQ",
+   "https://www.rasikarestaurant.com/west-end-catering-and-private-functions",
+   "https://www.rasikarestaurant.com/west-end-reviews",
+   "https://www.rasikarestaurant.com/west-end-our-team",
+   "https://www.rasikarestaurant.com/west-end-art",
+   "https://www.toasttab.com/rasika-penn-quarter-633-d-street-northwest/giftcards",
+   "https://www.toasttab.com/rasika-west-end-1190-new-hampshire-ave-nw/giftcards",
+   "https://knightsbridgerestaurantgroup.com/",
+   "https://www.rasikarestaurant.com/",
+   "https://www.rasikarestaurant.com/s/RW-RPQ-Dinner-55-Aug-2026.pdf",
+   "https://www.rasikarestaurant.com/s/RW-RPQ-Lunch-35-Aug-2026.pdf",
+   "https://www.rasikarestaurant.com/s/Sunday-Brunch-Menu-Rasika-Penn-Quarter.pdf",
+   "https://www.rasikarestaurant.com/s/Lunch-Menu-05122026.pdf",
+   "https://www.rasikarestaurant.com/s/Dinner-Menu-05112026.pdf",
+   "https://www.rasikarestaurant.com/s/pdf-Dessert-Menu-05262026.pdf",
+   "https://www.rasikarestaurant.com/s/Tasting-Menu-01012026.pdf",
+   "https://www.rasikarestaurant.com/s/PDF-Rasika-Penn_Wine-List_052226.pdf",
+   "https://www.rasikarestaurant.com/s/Rasika-PQ-Bar-Menu-05042026.pdf",
+   "http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Winelist-02.24.20.pdf",
+   "http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Rasika-PQ-Bar-Menu-02.22.20.pdf",
+   "https://www.rasikarestaurant.com/penn-quarter-menu#top",
+   "https://www.instagram.com/rasikadc/",
+   "https://www.facebook.com/pages/Rasika%20Restaurant/116531441705379/",
+   "https://www.rasikarestaurant.com/news",
+   "https://www.knightsbridgerestaurantgroup.com/locations-1"
+  ],
+  "weight": 30133,
+  "title": "Rasika Penn Quarter Menu \u2014 Rasika",
+  "roundtrip": {
+   "atBottom": {
+    "y": 17858,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791324851532_348.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "5 of 22 tap targets under 24px: a#top 221x15, a 91x23, a 95x23, a 11x24, a 11x24"
+   ],
+   [
+    "INFO",
+    "document scrolls, 18585px tall"
+   ]
+  ],
+  "site": "https://www.rasikarestaurant.com/"
+ }
+]

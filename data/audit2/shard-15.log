@@ -1,0 +1,259 @@
+FAIL iphone  https://www.margaritavillenashville.com/
+FAIL android https://www.margaritavillenashville.com/
+FAIL iphone  https://www.margaritavillenashville.com/menu
+FAIL android https://www.margaritavillenashville.com/menu
+FAIL iphone  https://www.cityocitydenver.com/
+WARN android https://www.cityocitydenver.com/
+FAIL iphone  https://www.cityocitydenver.com/menu
+WARN android https://www.cityocitydenver.com/menu
+WARN iphone  https://university.boardwalkbillys.com/
+WARN android https://university.boardwalkbillys.com/
+FAIL iphone  https://university.boardwalkbillys.com/charlotte-uncc-boardwalk-billy-s-at-university-food-menu
+WARN android https://university.boardwalkbillys.com/charlotte-uncc-boardwalk-billy-s-at-university-food-menu
+WARN iphone  https://mcgillins.com/
+WARN android https://mcgillins.com/
+WARN iphone  https://mcgillins.com/menu/
+WARN android https://mcgillins.com/menu/
+FAIL iphone  https://deschutesbrewery.com/pages/portland-public-house
+FAIL android https://deschutesbrewery.com/pages/portland-public-house
+FAIL iphone  https://deschutesbrewery.com/pages/book-a-tour-in-bend
+FAIL android https://deschutesbrewery.com/pages/book-a-tour-in-bend
+FAIL iphone  https://tommysjoynt.com/
+WARN android https://tommysjoynt.com/
+WARN iphone  https://tommysjoynt.com/preorder-faq
+WARN android https://tommysjoynt.com/preorder-faq
+FAIL iphone  https://www.rasikarestaurant.com/
+WARN android https://www.rasikarestaurant.com/
+FAIL iphone  https://www.rasikarestaurant.com/penn-quarter-menu
+WARN android https://www.rasikarestaurant.com/penn-quarter-menu
+WARN iphone  https://thecowfish.com/
+WARN android https://thecowfish.com/
+WARN iphone  https://thecowfish.com/gift-cards/
+WARN android https://thecowfish.com/gift-cards/
+FAIL iphone  https://www.andinarestaurant.com/
+FAIL android https://www.andinarestaurant.com/
+FAIL iphone  https://www.andinarestaurant.com/giftcards
+FAIL android https://www.andinarestaurant.com/giftcards
+WARN iphone  https://www.theosfayetteville.com/
+WARN android https://www.theosfayetteville.com/
+FAIL iphone  https://www.theosfayetteville.com/menus-1
+FAIL android https://www.theosfayetteville.com/menus-1
+
+== findings (FAIL and WARN) ==
+
+https://www.margaritavillenashville.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=640
+  FAIL  pageerror: undefined is not an object (evaluating 'ta.fn.on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 84 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://www.margaritavillenashville.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=643
+  FAIL  pageerror: Cannot read properties of undefined (reading 'on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 84 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://www.margaritavillenashville.com/menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=640
+  FAIL  pageerror: undefined is not an object (evaluating 'ta.fn.on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 62 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://www.margaritavillenashville.com/menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=643
+  FAIL  pageerror: Cannot read properties of undefined (reading 'on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 62 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://www.cityocitydenver.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  1 of 15 tap targets under 24px: a 84x21
+
+https://www.cityocitydenver.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786
+  WARN  header at y=-404 after scrolling down and back up
+  WARN  1 of 15 tap targets under 24px: a 84x22
+
+https://www.cityocitydenver.com/menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  1 of 26 tap targets under 24px: a 84x21
+
+https://www.cityocitydenver.com/menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786
+  WARN  header at y=-217 after scrolling down and back up
+  WARN  1 of 26 tap targets under 24px: a 84x22
+
+https://university.boardwalkbillys.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  13 of 124 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://university.boardwalkbillys.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  13 of 124 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://university.boardwalkbillys.com/charlotte-uncc-boardwalk-billy-s-at-university-food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://university.boardwalkbillys.com/55721 answers 404
+  FAIL  dead link: https://university.boardwalkbillys.com/untappd_menu answers 404
+
+https://university.boardwalkbillys.com/charlotte-uncc-boardwalk-billy-s-at-university-food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://mcgillins.com/  [iphone]
+  WARN  32 of 51 tap targets under 24px: a.hotspot 53x8, a 78x16, a 88x19, a 37x22, a 227x22
+
+https://mcgillins.com/  [android]
+  WARN  32 of 51 tap targets under 24px: a.hotspot 53x8, a 78x16, a 88x19, a 37x22, a 227x22
+
+https://mcgillins.com/menu/  [iphone]
+  WARN  19 of 29 tap targets under 24px: a 78x16, a 88x19, a 49x20, a 115x20, a 143x20
+
+https://mcgillins.com/menu/  [android]
+  WARN  19 of 29 tap targets under 24px: a 78x16, a 88x19, a 49x20, a 115x20, a 143x20
+
+https://deschutesbrewery.com/pages/portland-public-house  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): input#Search-In-Modal.search__input right=392
+  WARN  broken image: https://deschutesbrewery.com/pages/portland-public-house
+  FAIL  document locked (overflow hidden) with 14494px of content and no inner scroller
+  WARN  fixed layer div.goodav_overlay covers 100% of the screen
+  WARN  fixed layer div#goodav-app covers 59% of the screen
+  WARN  fixed layer div#ketch-banner.ketch-left-1 covers 58% of the screen
+  WARN  132 of 204 tap targets under 24px: a.ketch-text-inherit 79x15, a.ketch-flex 115x20, a.header__heading-link 164x18, a 72x21, a 144x21
+  WARN  7 text elements under 12px: small.copyright__content 11px, a 11px, a 11px, a 11px
+
+https://deschutesbrewery.com/pages/portland-public-house  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): input#Search-In-Modal.search__input right=395
+  WARN  broken image: https://deschutesbrewery.com/pages/portland-public-house
+  FAIL  document locked (overflow hidden) with 14488px of content and no inner scroller
+  FAIL  pageerror: Cannot read properties of undefined (reading 'noConflict')
+  WARN  fixed layer div.goodav_overlay covers 100% of the screen
+  WARN  fixed layer div#goodav-app covers 54% of the screen
+  WARN  130 of 200 tap targets under 24px: a.header__heading-link 166x19, a 72x21, a 144x21, a 107x21, a 38x21
+  WARN  7 text elements under 12px: small.copyright__content 11px, a 11px, a 11px, a 11px
+
+https://deschutesbrewery.com/pages/book-a-tour-in-bend  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): input#Search-In-Modal.search__input right=392
+  FAIL  document locked (overflow hidden) with 4689px of content and no inner scroller
+  WARN  fixed layer div.goodav_overlay covers 100% of the screen
+  WARN  fixed layer div#goodav-app covers 59% of the screen
+  WARN  fixed layer div#ketch-banner.ketch-left-1 covers 58% of the screen
+  WARN  7 of 47 tap targets under 24px: a.ketch-text-inherit 79x15, a.ketch-flex 115x20, a.header__heading-link 164x18, a 48x21, a#powered_by_anyroad_link 390x21
+  WARN  7 text elements under 12px: small.copyright__content 11px, a 11px, a 11px, a 11px
+
+https://deschutesbrewery.com/pages/book-a-tour-in-bend  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): input#Search-In-Modal.search__input right=395
+  FAIL  document locked (overflow hidden) with 2751px of content and no inner scroller
+  WARN  fixed layer div.goodav_overlay covers 100% of the screen
+  WARN  fixed layer div#goodav-app covers 54% of the screen
+  WARN  5 of 43 tap targets under 24px: a.header__heading-link 166x19, a 48x21, a#powered_by_anyroad_link 393x21, a 97x15, a 71x21
+  WARN  7 text elements under 12px: small.copyright__content 11px, a 11px, a 11px, a 11px
+
+https://tommysjoynt.com/  [iphone]
+  FAIL  dead link: https://www.order.store/store/tommys-joynt/h_k375r4QsmwQ9Oy4hKE7Q answers 404
+  WARN  1 of 30 tap targets under 24px: a 91x18
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://tommysjoynt.com/  [android]
+  WARN  1 of 30 tap targets under 24px: a 91x17
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://tommysjoynt.com/preorder-faq  [iphone]
+  WARN  6 of 22 tap targets under 24px: a 90x18, a 131x18, a 90x18, a 215x18, a 188x18
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://tommysjoynt.com/preorder-faq  [android]
+  WARN  6 of 22 tap targets under 24px: a 91x18, a 131x18, a 91x18, a 215x18, a 188x18
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.rasikarestaurant.com/  [iphone]
+  FAIL  dead link: https://www.rasikarestaurant.com/news answers 404
+  WARN  fixed layer div#yui_3_17_2_1_1791324818424_366.image-container covers 100% of the screen
+  WARN  fixed layer div#yui_3_17_2_1_1791324818424_461.yui3-widget covers 50% of the screen
+  WARN  3 of 24 tap targets under 24px: a#top 221x16, a 11x25, a 11x25
+
+https://www.rasikarestaurant.com/  [android]
+  WARN  fixed layer div#yui_3_17_2_1_1791324836016_366.image-container covers 100% of the screen
+  WARN  fixed layer div#yui_3_17_2_1_1791324836016_473.yui3-widget covers 50% of the screen
+  WARN  3 of 24 tap targets under 24px: a#top 221x15, a 11x24, a 11x24
+
+https://www.rasikarestaurant.com/penn-quarter-menu  [iphone]
+  FAIL  dead link: http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Winelist-02.24.20.pdf answers 404
+  FAIL  dead link: http://www.rasikarestaurant.com/pennquarter/wp-content/uploads/2020/03/Rasika-PQ-Bar-Menu-02.22.20.pdf answers 404
+  FAIL  dead link: https://www.rasikarestaurant.com/news answers 404
+  WARN  fixed layer div#yui_3_17_2_1_1791324841735_351.yui3-widget covers 50% of the screen
+  WARN  5 of 22 tap targets under 24px: a#top 221x16, a 91x22, a 95x22, a 11x25, a 11x25
+
+https://www.rasikarestaurant.com/penn-quarter-menu  [android]
+  WARN  fixed layer div#yui_3_17_2_1_1791324851532_348.yui3-widget covers 50% of the screen
+  WARN  5 of 22 tap targets under 24px: a#top 221x15, a 91x23, a 95x23, a 11x24, a 11x24
+
+https://thecowfish.com/  [iphone]
+  WARN  3 of 16 tap targets under 24px: a 206x18, a 196x19, a 246x19
+
+https://thecowfish.com/  [android]
+  WARN  header at y=-446 after scrolling down and back up
+  WARN  3 of 16 tap targets under 24px: a 206x18, a 206x18, a 260x18
+
+https://thecowfish.com/gift-cards/  [iphone]
+  WARN  3 of 19 tap targets under 24px: a 70x19, a 196x19, a 246x19
+
+https://thecowfish.com/gift-cards/  [android]
+  WARN  header at y=-374 after scrolling down and back up
+  WARN  3 of 17 tap targets under 24px: a 74x18, a 206x18, a 260x18
+
+https://www.andinarestaurant.com/  [iphone]
+  FAIL  iOS zoom trap: input.andina-signup__input at 15px (needs 16px on touch)
+  WARN  viewport meta: initial-scale=1
+  WARN  6 of 83 tap targets under 24px: button.Mobile-bar-menu 23x41, a 43x22, a 124x22, a 148x22, a 157x22
+
+https://www.andinarestaurant.com/  [android]
+  FAIL  iOS zoom trap: input.andina-signup__input at 15px (needs 16px on touch)
+  WARN  viewport meta: initial-scale=1
+  WARN  6 of 83 tap targets under 24px: button.Mobile-bar-menu 23x41, a 43x22, a 124x22, a 148x22, a 157x22
+
+https://www.andinarestaurant.com/giftcards  [iphone]
+  FAIL  iOS zoom trap: input.andina-signup__input at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.shopify-buy-cart-wrapper right=740
+  FAIL  dead link: https://www.andinarestaurant.com/brunch answers 404
+  WARN  viewport meta: initial-scale=1
+  WARN  4 of 49 tap targets under 24px: button.Mobile-bar-menu 23x41, a 148x22, a 157x22, a 130x22
+
+https://www.andinarestaurant.com/giftcards  [android]
+  FAIL  iOS zoom trap: input.andina-signup__input at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.shopify-buy-cart-wrapper right=743
+  WARN  viewport meta: initial-scale=1
+  WARN  4 of 49 tap targets under 24px: button.Mobile-bar-menu 23x41, a 148x22, a 157x22, a 130x22
+
+https://www.theosfayetteville.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780
+  WARN  fixed layer div#yui_3_17_2_1_1791324997140_178.yui3-widget covers 50% of the screen
+  WARN  header at y=-95 after scrolling down and back up
+  WARN  1 of 13 tap targets under 24px: a 162x22
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.theosfayetteville.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786
+  WARN  fixed layer div#yui_3_17_2_1_1791325005309_178.yui3-widget covers 50% of the screen
+  WARN  header at y=-97 after scrolling down and back up
+  WARN  1 of 13 tap targets under 24px: a 162x22
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.theosfayetteville.com/menus-1  [iphone]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.theosfayetteville.com/menus
+
+https://www.theosfayetteville.com/menus-1  [android]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://www.theosfayetteville.com/menus
+
+40 page-device rows, 25 FAIL findings

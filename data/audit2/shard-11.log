@@ -1,0 +1,257 @@
+WARN iphone  https://bluescitycafe.com/
+WARN android https://bluescitycafe.com/
+WARN iphone  https://bluescitycafe.com/catering
+WARN android https://bluescitycafe.com/catering
+WARN iphone  https://www.toulousepetit.com/
+WARN android https://www.toulousepetit.com/
+WARN iphone  https://www.toulousepetit.com/our-menus/
+WARN android https://www.toulousepetit.com/our-menus/
+FAIL iphone  https://powerplantlive.com/
+FAIL android https://powerplantlive.com/
+FAIL iphone  https://powerplantlive.com/parties-vip-tables
+FAIL android https://powerplantlive.com/parties-vip-tables
+WARN iphone  https://ophdfw.com/uptown-location/
+WARN android https://ophdfw.com/uptown-location/
+WARN iphone  https://ophdfw.com/menu/
+WARN android https://ophdfw.com/menu/
+FAIL iphone  https://www.bigfishriverfront.com/
+FAIL android https://www.bigfishriverfront.com/
+FAIL iphone  https://www.bigfishriverfront.com/wilmington-wilmington-big-fish-grill-on-the-riverfront-food-menu
+WARN android https://www.bigfishriverfront.com/wilmington-wilmington-big-fish-grill-on-the-riverfront-food-menu
+FAIL iphone  https://www.monkscafe.com
+FAIL android https://www.monkscafe.com
+FAIL iphone  https://www.monkscafe.com/menu
+FAIL android https://www.monkscafe.com/menu
+FAIL iphone  https://bestiala.com/
+FAIL android https://bestiala.com/
+FAIL iphone  https://bestiala.com/menu/
+FAIL android https://bestiala.com/menu/
+WARN iphone  https://bakedandwired.com/
+WARN android https://bakedandwired.com/
+WARN iphone  https://bakedandwired.com/same-day-orders/
+WARN android https://bakedandwired.com/same-day-orders/
+FAIL iphone  https://www.mcmullansirishpub.com/
+FAIL android https://www.mcmullansirishpub.com/
+FAIL iphone  https://www.mcmullansirishpub.com/sports
+FAIL android https://www.mcmullansirishpub.com/sports
+FAIL iphone  https://juvenexspanyc.com/
+WARN android https://juvenexspanyc.com/
+FAIL iphone  https://juvenexspanyc.com/giftcards/
+WARN android https://juvenexspanyc.com/giftcards/
+
+== findings (FAIL and WARN) ==
+
+https://bluescitycafe.com/  [iphone]
+  WARN  viewport meta: width=1004
+  WARN  18 of 33 tap targets under 24px: a 16x21, a 16x21, a 18x21, a 79x21, a 108x21
+
+https://bluescitycafe.com/  [android]
+  WARN  viewport meta: width=1004
+  WARN  18 of 33 tap targets under 24px: a 16x21, a 16x21, a 18x21, a 79x21, a 108x21
+
+https://bluescitycafe.com/catering  [iphone]
+  WARN  viewport meta: width=1004
+  WARN  18 of 33 tap targets under 24px: a 16x21, a 16x21, a 18x21, a 79x21, a 108x21
+
+https://bluescitycafe.com/catering  [android]
+  WARN  viewport meta: width=1004
+  WARN  18 of 33 tap targets under 24px: a 16x21, a 16x21, a 18x21, a 79x21, a 108x21
+
+https://www.toulousepetit.com/  [iphone]
+  WARN  4 of 62 tap targets under 24px: a 233x15, a 86x15, a 46x15, a 76x20
+
+https://www.toulousepetit.com/  [android]
+  WARN  4 of 62 tap targets under 24px: a 233x15, a 86x15, a 46x15, a 76x20
+
+https://www.toulousepetit.com/our-menus/  [iphone]
+  WARN  4 of 73 tap targets under 24px: a 233x15, a 86x15, a 46x15, a 76x20
+
+https://www.toulousepetit.com/our-menus/  [android]
+  WARN  4 of 73 tap targets under 24px: a 233x15, a 86x15, a 46x15, a 76x20
+
+https://powerplantlive.com/  [iphone]
+  FAIL  iOS zoom trap: input#ctablock at 11px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  16 of 64 tap targets under 24px: a.TextButton_redrawUnderline_light__RdWYc 66x21, a.TextButton_redrawUnderline_light__RdWYc 100x21, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 151x21
+  WARN  7 text elements under 12px: button#ctablockJoin 11px, span.AppBar_appBarText__9QMMK 11px, p.DistrictFooter_copyright__Dr46y 11px, span 11px
+
+https://powerplantlive.com/  [android]
+  FAIL  iOS zoom trap: input#ctablock at 13.3333px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  16 of 64 tap targets under 24px: a.TextButton_redrawUnderline_light__RdWYc 66x21, a.TextButton_redrawUnderline_light__RdWYc 100x21, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 151x21
+  WARN  6 text elements under 12px: span.AppBar_appBarText__9QMMK 11px, p.DistrictFooter_copyright__Dr46y 11px, span 11px, div.recaptcha-legal 10px
+
+https://powerplantlive.com/parties-vip-tables  [iphone]
+  FAIL  iOS zoom trap: input#ctablock at 11px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  dead link: https://www.sevenrooms.com/experiences/pbrnashville/vip-service-10515733161 answers 404
+  FAIL  dead link: https://www.nashvillelivedowntown.com/events answers 404
+  WARN  16 of 31 tap targets under 24px: a.DistrictBreadcrumb_breadcrumbTextDark__SXJYa 111x19, a 7x38, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 151x21
+  WARN  6 text elements under 12px: button#ctablockJoin 11px, p.DistrictFooter_copyright__Dr46y 11px, span 11px, div.recaptcha-legal 10px
+
+https://powerplantlive.com/parties-vip-tables  [android]
+  FAIL  iOS zoom trap: input#ctablock at 13.3333px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  16 of 31 tap targets under 24px: a.DistrictBreadcrumb_breadcrumbTextDark__SXJYa 111x19, a 7x38, a.DistrictFooter_phone__54ivV 112x18, a.TextButton_redrawUnderline_light__RdWYc 71x21, a.TextButton_redrawUnderline_light__RdWYc 151x21
+  WARN  5 text elements under 12px: p.DistrictFooter_copyright__Dr46y 11px, span 11px, div.recaptcha-legal 10px, a.DistrictFooter_redrawUnderline_light__hRNPM 10px
+
+https://ophdfw.com/uptown-location/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.mobile_menu_wrapper right=790, div#woocommerce-mini-cart-flyout right=628, div.woocommerce-mini-cart-shopping-cart right=628, p.woocommerce-mini-cart__empty-message right=628
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#woocommerce-mini-cart-wrapper covers 100% of the screen
+  WARN  fixed layer div.ays-pb-modals covers 100% of the screen
+  WARN  22 of 52 tap targets under 24px: a#close_mobile_menu 22x40, a 271x22, a.wp-google-name 232x19, a.wp-google-name 232x19, a.wp-google-name 232x19
+
+https://ophdfw.com/uptown-location/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.mobile_menu_wrapper right=793, div#woocommerce-mini-cart-flyout right=631, div.woocommerce-mini-cart-shopping-cart right=631, p.woocommerce-mini-cart__empty-message right=631
+  WARN  broken image: https://d.adroll.com/cm/l/out?af0=af47dabf&adroll_fpc=d531068dd118a17b5a9330ea84ff3447-1791324605395&pv=29776528152.84792&arrfrr=https%3A%2F%2Fophdfw.com%2Fupto
+  WARN  broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=d531068dd118a17b5a9330ea84ff3447-1791324605395&pv=29776528152.84792&arrfrr=https%3A%2F%2Fophdfw.com
+  WARN  broken image: https://d.adroll.com/cm/taboola/out?af0=af47dabf&adroll_fpc=d531068dd118a17b5a9330ea84ff3447-1791324605395&pv=29776528152.84792&arrfrr=https%3A%2F%2Fophdfw.com%
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#woocommerce-mini-cart-wrapper covers 100% of the screen
+  WARN  fixed layer div.ays-pb-modals covers 100% of the screen
+  WARN  22 of 52 tap targets under 24px: a#close_mobile_menu 22x40, a 271x22, a.wp-google-name 235x19, a.wp-google-name 235x19, a.wp-google-name 235x19
+
+https://ophdfw.com/menu/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.mobile_menu_wrapper right=790, div#woocommerce-mini-cart-flyout right=628, div.woocommerce-mini-cart-shopping-cart right=628, p.woocommerce-mini-cart__empty-message right=628
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#woocommerce-mini-cart-wrapper covers 100% of the screen
+  WARN  fixed layer div.ays-pb-modals covers 100% of the screen
+  WARN  11 of 44 tap targets under 24px: a#close_mobile_menu 22x40, a 148x22, a 78x22, a 162x22, a 131x22
+
+https://ophdfw.com/menu/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.mobile_menu_wrapper right=793, div#woocommerce-mini-cart-flyout right=631, div.woocommerce-mini-cart-shopping-cart right=631, p.woocommerce-mini-cart__empty-message right=631
+  WARN  broken image: https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=b31f3e6ec7ff1aba9fd1537d8f2de888-1791324686078&pv=22741958326.03148&arrfrr=https%3A%2F%2Fophdfw.com%2Fme
+  WARN  broken image: https://d.adroll.com/cm/l/out?af0=af47dabf&adroll_fpc=b31f3e6ec7ff1aba9fd1537d8f2de888-1791324686078&pv=22741958326.03148&arrfrr=https%3A%2F%2Fophdfw.com%2Fmenu
+  WARN  broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=b31f3e6ec7ff1aba9fd1537d8f2de888-1791324686078&pv=22741958326.03148&arrfrr=https%3A%2F%2Fophdfw.com
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#woocommerce-mini-cart-wrapper covers 100% of the screen
+  WARN  fixed layer div.ays-pb-modals covers 100% of the screen
+  WARN  11 of 44 tap targets under 24px: a#close_mobile_menu 22x40, a 148x22, a 78x22, a 162x22, a 131x22
+
+https://www.bigfishriverfront.com/  [iphone]
+  FAIL  iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  24 of 75 tap targets under 24px: a.nav-pin-custom 143x20, a.nav-pin-custom 130x20, a 20x20, a 20x20, a 20x20
+  WARN  4 text elements under 12px: div.indicates-required 11px, div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://www.bigfishriverfront.com/  [android]
+  FAIL  iOS zoom trap: input#mce-EMAIL.required at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  24 of 75 tap targets under 24px: a.nav-pin-custom 143x19, a.nav-pin-custom 129x19, a 20x20, a 20x20, a 20x20
+  WARN  4 text elements under 12px: div.indicates-required 11px, div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://www.bigfishriverfront.com/wilmington-wilmington-big-fish-grill-on-the-riverfront-food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://www.bigfishriverfront.com/61598 answers 404
+  FAIL  dead link: https://www.bigfishriverfront.com/53237 answers 404
+  FAIL  dead link: https://www.bigfishriverfront.com/53238 answers 404
+  FAIL  dead link: https://www.bigfishriverfront.com/53239 answers 404
+  FAIL  dead link: https://www.bigfishriverfront.com/66853 answers 404
+  FAIL  dead link: https://www.bigfishriverfront.com/53241 answers 404
+  WARN  4 of 21 tap targets under 24px: a.nav-pin-custom 143x20, a.nav-pin-custom 130x20, a#contact_us_v3_section_phone_link 113x19, a 335x19
+
+https://www.bigfishriverfront.com/wilmington-wilmington-big-fish-grill-on-the-riverfront-food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  4 of 21 tap targets under 24px: a.nav-pin-custom 143x19, a.nav-pin-custom 129x19, a#contact_us_v3_section_phone_link 112x19, a 336x19
+
+https://www.monkscafe.com  [iphone]
+  FAIL  sideways overflow (page pans 325px sideways): a right=431, a right=431, a right=431
+  WARN  broken image: https://www.monkscafe.com/images/mainLogoNav.png
+  FAIL  dead link: https://monks-cafe-merch.myshopify.com/products/monks-cafe-zip-up-hoodie answers 404
+  FAIL  pageerror: $('#firstVisitModal').modal is not a function. (In '$('#firstVisitModal').modal('show')', '$('#firstVisitModal').modal' is undefined)
+  WARN  2 of 9 tap targets under 24px: a.main 315x18, a 258x16
+
+https://www.monkscafe.com  [android]
+  WARN  broken image: https://www.monkscafe.com/images/mainLogoNav.png
+  FAIL  pageerror: $(...).scrollspy is not a function
+  WARN  2 of 9 tap targets under 24px: a.main 315x18, a 258x16
+
+https://www.monkscafe.com/menu  [iphone]
+  WARN  broken image: https://www.monkscafe.com/images/mainLogoNav.png
+  FAIL  pageerror: $("body").scrollspy is not a function. (In '$("body").scrollspy({target:".navbar-fixed-top"})', '$("body").scrollspy' is undefined)
+  WARN  4 of 11 tap targets under 24px: a.text-bold 117x19, a.text-bold 108x19, a.white 303x19, a.main 172x15
+
+https://www.monkscafe.com/menu  [android]
+  WARN  broken image: https://www.monkscafe.com/images/mainLogoNav.png
+  FAIL  pageerror: $(...).scrollspy is not a function
+  WARN  4 of 11 tap targets under 24px: a.text-bold 117x19, a.text-bold 108x19, a.white 303x19, a.main 172x15
+
+https://bestiala.com/  [iphone]
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 15px (needs 16px on touch)
+  WARN  3 of 11 tap targets under 24px: a 31x21, a 92x21, a 91x21
+  WARN  1 text elements under 12px: p 11.2px
+
+https://bestiala.com/  [android]
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 15px (needs 16px on touch)
+  WARN  header at y=-87 after scrolling down and back up
+  WARN  3 of 11 tap targets under 24px: a 31x20, a 92x20, a 91x20
+  WARN  1 text elements under 12px: p 11.2px
+
+https://bestiala.com/menu/  [iphone]
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 15px (needs 16px on touch)
+  WARN  3 of 11 tap targets under 24px: a 31x21, a 92x21, a 91x21
+  WARN  1 text elements under 12px: p 11.2px
+
+https://bestiala.com/menu/  [android]
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 15px (needs 16px on touch)
+  WARN  header at y=-235 after scrolling down and back up
+  WARN  3 of 11 tap targets under 24px: a 31x20, a 92x20, a 91x20
+  WARN  1 text elements under 12px: p 11.2px
+
+https://bakedandwired.com/  [iphone]
+  WARN  4 of 18 tap targets under 24px: a 106x20, a 61x20, a.privacy-policy-link 108x20, a 99x20
+
+https://bakedandwired.com/  [android]
+  WARN  4 of 18 tap targets under 24px: a 106x20, a 61x20, a.privacy-policy-link 108x20, a 99x20
+
+https://bakedandwired.com/same-day-orders/  [iphone]
+  WARN  5 of 19 tap targets under 24px: a 91x15, a 106x20, a 61x20, a.privacy-policy-link 108x20, a 99x20
+
+https://bakedandwired.com/same-day-orders/  [android]
+  WARN  5 of 19 tap targets under 24px: a 90x15, a 106x20, a 61x20, a.privacy-policy-link 108x20, a 99x20
+
+https://www.mcmullansirishpub.com/  [iphone]
+  FAIL  iOS zoom trap: input#E-mail-Address.basic-form at 14px (needs 16px on touch)
+
+https://www.mcmullansirishpub.com/  [android]
+  FAIL  iOS zoom trap: input#E-mail-Address.basic-form at 14px (needs 16px on touch)
+
+https://www.mcmullansirishpub.com/sports  [iphone]
+  FAIL  iOS zoom trap: input#Date.basic-form at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#Team-s.basic-form at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#League.basic-form at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#E-mail.basic-form at 14px (needs 16px on touch)
+
+https://www.mcmullansirishpub.com/sports  [android]
+  FAIL  iOS zoom trap: input#Date.basic-form at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#Team-s.basic-form at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#League.basic-form at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#E-mail.basic-form at 14px (needs 16px on touch)
+
+https://juvenexspanyc.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.footer-widgets right=405, div.footer-block right=405, div.footer-block right=405, div.footer-block right=405, div.footer-block right=405
+  WARN  broken image: https://www.adasitecompliance.com/img/APolicy.png
+  FAIL  dead link: https://juvenexspanyc.com/juvenexspanyc.com answers 404
+  WARN  21 of 47 tap targets under 24px: a 268x22, a 268x22, a 268x22, a 390x22, a 351x22
+
+https://juvenexspanyc.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.footer-widgets right=408, div.footer-block right=408, div.footer-block right=408, div.footer-block right=408, div.footer-block right=408
+  WARN  broken image: https://www.adasitecompliance.com/img/APolicy.png
+  WARN  21 of 47 tap targets under 24px: a 268x22, a 268x22, a 268x22, a 393x22, a 354x22
+
+https://juvenexspanyc.com/giftcards/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#attachment_107297.wp-caption right=512, a right=502, img.wp-image-107297 right=502, p#caption-attachment-107297.wp-caption-text right=512, a right=492, img.wp-image-107298 right=492
+  WARN  broken image: https://www.adasitecompliance.com/img/APolicy.png
+  FAIL  dead link: https://juvenexspanyc.com/giftcards/juvenexspanyc.com answers 404
+  WARN  16 of 28 tap targets under 24px: a 465x22, a 455x22, a 180x22, a 41x22, a 28x22
+
+https://juvenexspanyc.com/giftcards/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#attachment_107297.wp-caption right=512, a right=502, img.wp-image-107297 right=502, p#caption-attachment-107297.wp-caption-text right=512, a right=492, img.wp-image-107298 right=492
+  WARN  broken image: https://www.adasitecompliance.com/img/APolicy.png
+  WARN  16 of 28 tap targets under 24px: a 465x22, a 455x22, a 180x22, a 41x22, a 28x22
+
+40 page-device rows, 39 FAIL findings

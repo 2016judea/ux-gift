@@ -1,0 +1,242 @@
+FAIL iphone  https://www.margaritavilleatlanticcity.com/
+FAIL android https://www.margaritavilleatlanticcity.com/
+FAIL iphone  https://www.margaritavilleatlanticcity.com/menu
+FAIL android https://www.margaritavilleatlanticcity.com/menu
+FAIL iphone  https://luclackitchen.com/
+FAIL android https://luclackitchen.com/
+WARN iphone  https://shopcapitalcitymall.com/
+WARN android https://shopcapitalcitymall.com/
+FAIL iphone  https://shopcapitalcitymall.com/directory
+FAIL android https://shopcapitalcitymall.com/directory
+FAIL iphone  https://www.connollyspubandrestaurant.com/
+FAIL android https://www.connollyspubandrestaurant.com/
+FAIL iphone  https://www.connollyspubandrestaurant.com/menu/
+FAIL android https://www.connollyspubandrestaurant.com/menu/
+WARN iphone  https://bluewaterseafoodsandiego.com/
+WARN android https://bluewaterseafoodsandiego.com/
+FAIL iphone  https://bluewaterseafoodsandiego.com/san-diego-ocean-beach-blue-water-seafood-food-menu
+WARN android https://bluewaterseafoodsandiego.com/san-diego-ocean-beach-blue-water-seafood-food-menu
+FAIL iphone  https://www.waterbarsf.com/
+FAIL android https://www.waterbarsf.com/
+FAIL iphone  https://www.waterbarsf.com/menus/
+FAIL android https://www.waterbarsf.com/menus/
+WARN iphone  https://franklinfountain.com/
+WARN android https://franklinfountain.com/
+WARN iphone  https://franklinfountain.com/menu/
+WARN android https://franklinfountain.com/menu/
+FAIL iphone  https://andysjazzclub.com/
+WARN android https://andysjazzclub.com/
+FAIL iphone  https://andysjazzclub.com/reservations/
+WARN android https://andysjazzclub.com/reservations/
+FAIL iphone  https://bluestardonuts.com/
+WARN android https://bluestardonuts.com/
+WARN iphone  https://bluestardonuts.com/pages/giftcards
+WARN android https://bluestardonuts.com/pages/giftcards
+FAIL iphone  https://therestorationhotel.com/
+FAIL android https://therestorationhotel.com/
+FAIL iphone  https://therestorationhotel.com/experiences/shop-stroll-package/
+FAIL android https://therestorationhotel.com/experiences/shop-stroll-package/
+
+== findings (FAIL and WARN) ==
+
+https://www.margaritavilleatlanticcity.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=640
+  FAIL  pageerror: undefined is not an object (evaluating 'ta.fn.on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 77 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://www.margaritavilleatlanticcity.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=643
+  FAIL  pageerror: Cannot read properties of undefined (reading 'on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 77 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://www.margaritavilleatlanticcity.com/menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=640
+  FAIL  pageerror: undefined is not an object (evaluating 'ta.fn.on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 61 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://www.margaritavilleatlanticcity.com/menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#nav-group right=643
+  FAIL  pageerror: Cannot read properties of undefined (reading 'on')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 61 tap targets under 24px: a#high-contrast-on-btn.btn 30x22, a#high-contrast-off-btn.btn 26x22
+  WARN  4 text elements under 12px: span.sr-only 10px, span 9px, strong 11.5px, a#high-contrast-on-btn.btn 11.5px
+
+https://luclackitchen.com/  [iphone]
+  FAIL  dead link: https://postmates.com/merchant/luc-luc-vietnamese-kitchens-portland answers 404
+  FAIL  pageerror: undefined is not an object (evaluating 'span.onclick = function() {
+        modal.style.display = "none";
+    }')
+  WARN  7 of 31 tap targets under 24px: a 80x19, a 112x19, a 112x19, a 80x19, a 80x19
+
+https://luclackitchen.com/  [android]
+  FAIL  pageerror: Cannot set properties of undefined (setting 'onclick')
+  WARN  7 of 31 tap targets under 24px: a 80x19, a 112x19, a 112x19, a 80x19, a 80x19
+
+https://shopcapitalcitymall.com/  [iphone]
+  WARN  22 of 38 tap targets under 24px: a.TrinketsView__link 138x17, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, button 20x20
+
+https://shopcapitalcitymall.com/  [android]
+  WARN  22 of 38 tap targets under 24px: a.TrinketsView__link 138x18, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, button 20x20
+
+https://shopcapitalcitymall.com/directory  [iphone]
+  FAIL  iOS zoom trap: input.css-1gc0p4z-SearchBox-SearchBox at 15px (needs 16px on touch)
+  WARN  18 of 25 tap targets under 24px: a.TrinketsView__link 138x17, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, input.css-1gc0p4z-SearchBox-SearchBox 294x23
+  WARN  29 text elements under 12px: div.DealFlag 10px, div.DealFlag 10px, div.DealFlag 10px, div.CustomMessageFlag 10px
+
+https://shopcapitalcitymall.com/directory  [android]
+  FAIL  iOS zoom trap: input.css-1gc0p4z-SearchBox-SearchBox at 15px (needs 16px on touch)
+  WARN  18 of 25 tap targets under 24px: a.TrinketsView__link 138x18, button.css-2uujei-A11yWidget 20x76, button.SearchIcon 20x76, button.css-1emgxtk-HamburgerButton-Header 20x20, input.css-1gc0p4z-SearchBox-SearchBox 297x23
+  WARN  29 text elements under 12px: div.DealFlag 10px, div.DealFlag 10px, div.DealFlag 10px, div.CustomMessageFlag 10px
+
+https://www.connollyspubandrestaurant.com/  [iphone]
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)
+  FAIL  pageerror: Can't find variable: jQuery
+  WARN  6 of 16 tap targets under 24px: a.elementor-item 351x22, a.elementor-item 351x22, a.elementor-item 351x22, a#sm-17913244551134268-1.elementor-item 351x22, a#sm-17913244551134268-3.elementor-item 351x22
+
+https://www.connollyspubandrestaurant.com/  [android]
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)
+  FAIL  pageerror: jQuery is not defined
+  WARN  6 of 16 tap targets under 24px: a.elementor-item 354x22, a.elementor-item 354x22, a.elementor-item 354x22, a#sm-17913244660462043-1.elementor-item 354x22, a#sm-17913244660462043-3.elementor-item 354x22
+
+https://www.connollyspubandrestaurant.com/menu/  [iphone]
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)
+  FAIL  pageerror: Can't find variable: jQuery
+  WARN  6 of 14 tap targets under 24px: a.elementor-item 351x22, a.elementor-item 351x22, a.elementor-item 351x22, a#sm-1791324468715008-1.elementor-item 351x22, a#sm-1791324468715008-3.elementor-item 351x22
+
+https://www.connollyspubandrestaurant.com/menu/  [android]
+  FAIL  iOS zoom trap: input#form-field-email.elementor-field at 14px (needs 16px on touch)
+  FAIL  pageerror: jQuery is not defined
+  WARN  6 of 14 tap targets under 24px: a.elementor-item 354x22, a.elementor-item 354x22, a.elementor-item 354x22, a#sm-17913244719529368-1.elementor-item 354x22, a#sm-17913244719529368-3.elementor-item 354x22
+
+https://bluewaterseafoodsandiego.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  13 of 61 tap targets under 24px: a 22x22, a 22x22, a 22x22, a.banner-pin 20x24, a.banner-pin 20x24
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://bluewaterseafoodsandiego.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  13 of 61 tap targets under 24px: a 22x22, a 22x22, a 22x22, a.banner-pin 20x24, a.banner-pin 20x24
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://bluewaterseafoodsandiego.com/san-diego-ocean-beach-blue-water-seafood-food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://bluewaterseafoodsandiego.com/18049 answers 404
+  FAIL  dead link: https://bluewaterseafoodsandiego.com/80759 answers 404
+  FAIL  dead link: https://bluewaterseafoodsandiego.com/228076 answers 404
+  FAIL  dead link: https://bluewaterseafoodsandiego.com/29751 answers 404
+
+https://bluewaterseafoodsandiego.com/san-diego-ocean-beach-blue-water-seafood-food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://www.waterbarsf.com/  [iphone]
+  FAIL  dead link: https://www.opentable.com/booking/experiences-availability?rid=17035&restref=17035&experienceId=709934&utm_source=external&utm_medium=referral&utm_campaign=shared answers 404
+  FAIL  pageerror: undefined is not an object (evaluating 'window.bentobox.overlayAlertComponent')
+  WARN  fixed layer div.termly-styles-root-b0aebb covers 52% of the screen
+  WARN  8 of 35 tap targets under 24px: span.termly-styles-root-d5f974 72x14, span.termly-styles-root-d5f974 64x14, a 356x23, a 203x23, a 250x23
+
+https://www.waterbarsf.com/  [android]
+  WARN  broken image: https://www.opentable.com/restaurant-solutions/badge/ot/DC2-2025.png
+  FAIL  pageerror: Cannot read properties of undefined (reading 'overlayAlertComponent')
+  WARN  fixed layer div.termly-styles-root-b0aebb covers 47% of the screen
+  WARN  2 of 35 tap targets under 24px: span.termly-styles-root-d5f974 71x14, span.termly-styles-root-d5f974 64x14
+
+https://www.waterbarsf.com/menus/  [iphone]
+  FAIL  pageerror: undefined is not an object (evaluating 'window.bentobox.overlayAlertComponent')
+  WARN  fixed layer div.termly-styles-root-b0aebb covers 52% of the screen
+  WARN  2 of 18 tap targets under 24px: span.termly-styles-root-d5f974 72x14, span.termly-styles-root-d5f974 64x14
+
+https://www.waterbarsf.com/menus/  [android]
+  FAIL  pageerror: Cannot read properties of undefined (reading 'overlayAlertComponent')
+  WARN  fixed layer div.termly-styles-root-b0aebb covers 47% of the screen
+  WARN  2 of 18 tap targets under 24px: span.termly-styles-root-d5f974 71x14, span.termly-styles-root-d5f974 64x14
+
+https://franklinfountain.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.fl-menu-mobile-flyout right=655
+  WARN  17 of 32 tap targets under 24px: a 292x20, a 370x20, a 390x20, a 370x20, a 370x20
+
+https://franklinfountain.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.fl-menu-mobile-flyout right=658
+  WARN  17 of 32 tap targets under 24px: a 294x20, a 373x20, a 393x20, a 373x20, a 373x20
+
+https://franklinfountain.com/menu/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.fl-menu-mobile-flyout right=655
+  WARN  1 of 28 tap targets under 24px: a 390x22
+
+https://franklinfountain.com/menu/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.fl-menu-mobile-flyout right=658
+  WARN  1 of 28 tap targets under 24px: a 393x22
+
+https://andysjazzclub.com/  [iphone]
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  10 of 14 tap targets under 24px: a.fusion-icon 21x21, a 107x17, a.fusion-no-lightbox 103x18, a.fusion-no-lightbox 103x18, a.fusion-no-lightbox 103x18
+
+https://andysjazzclub.com/  [android]
+  WARN  10 of 14 tap targets under 24px: a.fusion-icon 21x21, a 107x18, a.fusion-no-lightbox 104x19, a.fusion-no-lightbox 104x19, a.fusion-no-lightbox 104x19
+
+https://andysjazzclub.com/reservations/  [iphone]
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  6 of 10 tap targets under 24px: a.fusion-icon 21x21, a 107x17, a.fusion-no-lightbox 103x18, a.fusion-no-lightbox 103x18, a.fusion-no-lightbox 103x18
+
+https://andysjazzclub.com/reservations/  [android]
+  WARN  6 of 10 tap targets under 24px: a.fusion-icon 21x21, a 107x18, a.fusion-no-lightbox 104x19, a.fusion-no-lightbox 104x19, a.fusion-no-lightbox 104x19
+
+https://bluestardonuts.com/  [iphone]
+  FAIL  dead link: https://bluestardonuts.com/products/apple-fritter answers 404
+  FAIL  dead link: https://bluestardonuts.com/products/blue-star-roast answers 404
+  FAIL  dead link: https://bluestardonuts.com/products/enamel-pin answers 404
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.needsclick covers 100% of the screen
+  WARN  10 of 52 tap targets under 24px: a 69x13, a 95x21, a 69x21, a 154x21, a 103x21
+
+https://bluestardonuts.com/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.needsclick covers 100% of the screen
+  WARN  header at y=-152 after scrolling down and back up
+  WARN  10 of 52 tap targets under 24px: a 69x13, a 90x21, a 65x21, a 147x21, a 99x21
+
+https://bluestardonuts.com/pages/giftcards  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.needsclick covers 100% of the screen
+  WARN  9 of 32 tap targets under 24px: a 95x21, a 69x21, a 154x21, a 103x21, a 142x21
+
+https://bluestardonuts.com/pages/giftcards  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.needsclick covers 100% of the screen
+  WARN  header at y=-19 after scrolling down and back up
+  WARN  9 of 32 tap targets under 24px: a 90x21, a 65x21, a 147x21, a 99x21, a 133x21
+
+https://therestorationhotel.com/  [iphone]
+  FAIL  iOS zoom trap: input.long at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.booking-selector right=780, a.booking-selector__close-btn right=756, svg right=756, div.booking-selector__inner right=780, fieldset right=510, div right=510
+  WARN  broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/logo-therestoration-white.svg
+  WARN  broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/icon-key.svg
+  WARN  fixed layer div#cmplz-cookiebanner-1-optout.cmplz-cookiebanner covers 41% of the screen
+  WARN  15 of 53 tap targets under 24px: div.cmplz-close 20x20, a.cmplz-link 127x20, a.cmplz-link 88x20, a.mobile-menu 20x13, a 169x13
+
+https://therestorationhotel.com/  [android]
+  FAIL  iOS zoom trap: input.long at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.booking-selector right=786, a.booking-selector__close-btn right=762, svg right=762, div.booking-selector__inner right=786, fieldset right=510, div right=510
+  WARN  broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/logo-therestoration-white.svg
+  WARN  broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/icon-key.svg
+  WARN  15 of 53 tap targets under 24px: div.cmplz-close 20x20, a.cmplz-link 127x20, a.cmplz-link 88x20, a.mobile-menu 20x13, a 169x13
+
+https://therestorationhotel.com/experiences/shop-stroll-package/  [iphone]
+  FAIL  iOS zoom trap: input.long at 14px (needs 16px on touch)
+  FAIL  sideways overflow (page pans 130px sideways): div.booking-selector right=780, a.booking-selector__close-btn right=756, svg right=756, div.booking-selector__inner right=780, fieldset right=510, div right=510
+  WARN  broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/logo-therestoration-white.svg
+  WARN  fixed layer div#cmplz-cookiebanner-1-optout.cmplz-cookiebanner covers 41% of the screen
+  WARN  13 of 59 tap targets under 24px: div.cmplz-close 20x20, a.cmplz-link 127x20, a.cmplz-link 88x20, a.mobile-menu 20x13, a.elementor-item 370x20
+
+https://therestorationhotel.com/experiences/shop-stroll-package/  [android]
+  FAIL  iOS zoom trap: input.long at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.booking-selector right=1040, a.booking-selector__close-btn right=1016, svg right=1016, div.booking-selector__inner right=1040
+  WARN  broken image: https://therestorationhotel.com/wp-content/uploads/2022/01/logo-therestoration-white.svg
+  WARN  13 of 59 tap targets under 24px: div.cmplz-close 20x20, a.cmplz-link 127x20, a.cmplz-link 88x20, a.mobile-menu 20x13, a.elementor-item 373x20
+
+38 page-device rows, 36 FAIL findings

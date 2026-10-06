@@ -1,0 +1,200 @@
+WARN iphone  https://bookloft.com/
+WARN android https://bookloft.com/
+WARN iphone  https://bookloft.com/tour-store
+WARN android https://bookloft.com/tour-store
+WARN iphone  https://houston.houseofblues.com/
+WARN android https://houston.houseofblues.com/
+FAIL iphone  https://houston.houseofblues.com/foundation-room/lounge-menu
+FAIL android https://houston.houseofblues.com/foundation-room/lounge-menu
+FAIL iphone  https://bricktownbrewery.com/location/downtown-okc/
+WARN android https://bricktownbrewery.com/location/downtown-okc/
+FAIL iphone  https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf
+FAIL android https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf
+WARN iphone  https://www.thegrovesf.com/
+WARN android https://www.thegrovesf.com/
+WARN iphone  https://www.thegrovesf.com/menu
+WARN android https://www.thegrovesf.com/menu
+WARN iphone  https://hometeambbq.com/
+WARN android https://hometeambbq.com/
+WARN iphone  https://hometeambbq.com/catering
+WARN android https://hometeambbq.com/catering
+FAIL iphone  https://www.hounddogspizza.com/
+WARN android https://www.hounddogspizza.com/
+ok   iphone  https://www.hounddogspizza.com/menu/
+ok   android https://www.hounddogspizza.com/menu/
+WARN iphone  https://www.themetropolitangrill.com/
+WARN android https://www.themetropolitangrill.com/
+WARN iphone  https://www.themetropolitangrill.com/menus/happy-hour/
+WARN android https://www.themetropolitangrill.com/menus/happy-hour/
+WARN iphone  https://www.johnnyfoleys.com/eat
+WARN android https://www.johnnyfoleys.com/eat
+FAIL iphone  https://www.rays.com/
+WARN android https://www.rays.com/
+FAIL iphone  https://www.rays.com/boathouse/boathouse-menu/
+WARN android https://www.rays.com/boathouse/boathouse-menu/
+FAIL iphone  https://3littlebirdssalon.com/
+WARN android https://3littlebirdssalon.com/
+FAIL iphone  https://3littlebirdssalon.com/appointment/
+WARN android https://3littlebirdssalon.com/appointment/
+
+== findings (FAIL and WARN) ==
+
+https://bookloft.com/  [iphone]
+  WARN  15 of 116 tap targets under 24px: a 37x22, a 120x22, a 120x22, button.slick-autoplay-toggle-button 21x20, button 8x8
+  WARN  6 text elements under 12px: span.visually-hidden 0px, div.visually-hidden 0px, div.visually-hidden 0px, div.visually-hidden 0px
+
+https://bookloft.com/  [android]
+  WARN  15 of 116 tap targets under 24px: a 37x23, a 120x23, a 120x23, button.slick-autoplay-toggle-button 21x20, button 8x8
+  WARN  6 text elements under 12px: span.visually-hidden 0px, div.visually-hidden 0px, div.visually-hidden 0px, div.visually-hidden 0px
+
+https://bookloft.com/tour-store  [iphone]
+  WARN  10 of 30 tap targets under 24px: a 37x22, a 71x22, a 88x22, a 121x22, a 102x22
+  WARN  1 text elements under 12px: span.visually-hidden 0px
+
+https://bookloft.com/tour-store  [android]
+  WARN  10 of 30 tap targets under 24px: a 37x23, a 71x23, a 88x23, a 121x23, a 102x23
+  WARN  1 text elements under 12px: span.visually-hidden 0px
+
+https://houston.houseofblues.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  36 of 137 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20
+  WARN  7 text elements under 12px: p.chakra-text 10px, p.chakra-text 10px, a.chakra-link 10px, a.chakra-link 10px
+
+https://houston.houseofblues.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  36 of 137 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20
+  WARN  7 text elements under 12px: p.chakra-text 10px, p.chakra-text 10px, a.chakra-link 10px, a.chakra-link 10px
+
+https://houston.houseofblues.com/foundation-room/lounge-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environme
+  WARN  25 of 60 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20
+  WARN  10 text elements under 12px: button.chakra-button 10px, p 10px, p 10px, p.chakra-text 10px
+
+https://houston.houseofblues.com/foundation-room/lounge-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  FAIL  pageerror: Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environme
+  WARN  25 of 60 tap targets under 24px: a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20, a.chakra-linkbox__overlay 180x20
+  WARN  10 text elements under 12px: button.chakra-button 10px, p 10px, p 10px, p.chakra-text 10px
+
+https://bricktownbrewery.com/location/downtown-okc/  [iphone]
+  FAIL  dead link: https://bricktownbrewery.com/location/downtown-okc/[ answers 404
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#CybotCookiebotDialog.CybotEdge covers 94% of the screen
+  WARN  19 of 44 tap targets under 24px: a 24x17, a.closed 22x20, div.leaflet-marker-icon 12x12, a 48x13, a 78x13
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://bricktownbrewery.com/location/downtown-okc/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div#CybotCookiebotDialog.CybotEdge covers 94% of the screen
+  WARN  19 of 44 tap targets under 24px: a 24x17, a.closed 22x20, div.leaflet-marker-icon 12x12, a 48x12, a 78x12
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf  [iphone]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://bricktownbrewery.com/wp-content
+
+https://bricktownbrewery.com/wp-content/uploads/2026/09/Downtown-OKC-0826.pdf  [android]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://bricktownbrewery.com/wp-content
+
+https://www.thegrovesf.com/  [iphone]
+  WARN  17 of 39 tap targets under 24px: div.w-slider-dot 12x12, div.w-slider-dot 12x12, div.w-slider-dot 12x12, div.w-slider-dot 12x12, a.paragraph-link 40x19
+
+https://www.thegrovesf.com/  [android]
+  WARN  17 of 39 tap targets under 24px: div.w-slider-dot 12x12, div.w-slider-dot 12x12, div.w-slider-dot 12x12, div.w-slider-dot 12x12, a.paragraph-link 40x19
+
+https://www.thegrovesf.com/menu  [iphone]
+  WARN  11 of 30 tap targets under 24px: a.red-link-2 42x19, a 160x16, a 230x16, a 192x16, a.white-link 101x19
+
+https://www.thegrovesf.com/menu  [android]
+  WARN  11 of 30 tap targets under 24px: a.red-link-2 42x19, a 160x16, a 230x16, a 192x16, a.white-link 101x19
+
+https://hometeambbq.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.main-nav__inner right=780, div.menu-close right=753, svg#Layer_1 right=753, h6 right=674, svg#fieryrons right=598, div.menu-main-menu-container__outer right=674
+  WARN  broken image: https://hometeambbq.com/
+  WARN  header at y=-75 after scrolling down and back up
+  WARN  3 of 20 tap targets under 24px: a 299x11, a 12x26, a 22x26
+  WARN  3 text elements under 12px: span.top-bar__text 10px, h6 11px, h6.follow 11px
+
+https://hometeambbq.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.main-nav__inner right=786, div.menu-close right=759, svg#Layer_1 right=759, h6 right=680, svg#fieryrons right=601, div.menu-main-menu-container__outer right=680
+  WARN  broken image: https://hometeambbq.com/
+  WARN  header at y=-111 after scrolling down and back up
+  WARN  3 of 20 tap targets under 24px: a 299x11, a 12x26, a 22x26
+  WARN  3 text elements under 12px: span.top-bar__text 10px, h6 11px, h6.follow 11px
+
+https://hometeambbq.com/catering  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.main-nav__inner right=780, div.menu-close right=753, svg#Layer_1 right=753, h6 right=674, svg#fieryrons right=598, div.menu-main-menu-container__outer right=674
+  WARN  header at y=-67 after scrolling down and back up
+  WARN  3 of 24 tap targets under 24px: a 299x11, a 12x26, a 22x26
+  WARN  3 text elements under 12px: span.top-bar__text 10px, h6 11px, h6.follow 11px
+
+https://hometeambbq.com/catering  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.main-nav__inner right=786, div.menu-close right=759, svg#Layer_1 right=759, h6 right=680, svg#fieryrons right=601, div.menu-main-menu-container__outer right=680
+  WARN  header at y=-108 after scrolling down and back up
+  WARN  3 of 24 tap targets under 24px: a 299x11, a 12x26, a 22x26
+  WARN  3 text elements under 12px: span.top-bar__text 10px, h6 11px, h6.follow 11px
+
+https://www.hounddogspizza.com/  [iphone]
+  FAIL  sideways overflow (page pans 5px sideways): a right=395, img right=395
+  WARN  2 of 8 tap targets under 24px: a 250x18, a 200x18
+
+https://www.hounddogspizza.com/  [android]
+  WARN  2 of 8 tap targets under 24px: a 250x18, a 200x18
+
+https://www.themetropolitangrill.com/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  19 of 29 tap targets under 24px: a 87x18, a 103x18, a 137x18, a 94x18, a 96x18
+
+https://www.themetropolitangrill.com/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  19 of 29 tap targets under 24px: a 87x19, a 103x19, a 137x19, a 94x19, a 96x19
+
+https://www.themetropolitangrill.com/menus/happy-hour/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  15 of 22 tap targets under 24px: a 87x18, a 63x17, a 79x16, a 88x16, a 80x16
+
+https://www.themetropolitangrill.com/menus/happy-hour/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  15 of 22 tap targets under 24px: a 87x19, a 62x17, a 79x16, a 88x16, a 79x16
+
+https://www.johnnyfoleys.com/eat  [iphone]
+  WARN  header at y=-127 after scrolling down and back up
+
+https://www.johnnyfoleys.com/eat  [android]
+  WARN  header at y=-130 after scrolling down and back up
+
+https://www.rays.com/  [iphone]
+  FAIL  sideways overflow (page pans 15px sideways): div.row right=405, div.col-sm-10 right=405, div.vc_row right=405, div.wpb_column right=405, div.vc_column-inner right=405, section.vc_section right=405
+  WARN  18 of 48 tap targets under 24px: a 95x24, a 72x24, a 167x24, a 123x24, a 197x24
+
+https://www.rays.com/  [android]
+  WARN  5 of 48 tap targets under 24px: a 52x21, a 32x21, a 72x21, a 114x21, a 82x21
+
+https://www.rays.com/boathouse/boathouse-menu/  [iphone]
+  FAIL  dead link: https://www.rays.com/cdn-cgi/l/email-protection answers 404
+  WARN  14 of 30 tap targets under 24px: a 95x24, a 76x24, a 76x24, a 76x24, a 76x24
+
+https://www.rays.com/boathouse/boathouse-menu/  [android]
+  WARN  5 of 30 tap targets under 24px: a 52x21, a 32x21, a 72x21, a 114x21, a 82x21
+
+https://3littlebirdssalon.com/  [iphone]
+  FAIL  dead link: https://3littlebirdssalon.com/terms-conditions answers 404
+  FAIL  dead link: https://3littlebirdssalon.com/privacy-policy answers 404
+  WARN  10 of 19 tap targets under 24px: a.fusion-icon 19x20, a.fusion-flyout-menu-toggle 50x18, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16
+
+https://3littlebirdssalon.com/  [android]
+  WARN  10 of 19 tap targets under 24px: a.fusion-icon 19x21, a.fusion-flyout-menu-toggle 50x18, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16, a.fusion-social-network-icon 16x16
+
+https://3littlebirdssalon.com/appointment/  [iphone]
+  FAIL  dead link: https://3littlebirdssalon.com/terms-conditions answers 404
+  FAIL  dead link: https://3littlebirdssalon.com/privacy-policy answers 404
+  WARN  7 of 15 tap targets under 24px: a.fusion-icon 19x20, a.fusion-flyout-menu-toggle 50x18, a 122x16, a 230x16, a 200x22
+
+https://3littlebirdssalon.com/appointment/  [android]
+  WARN  7 of 15 tap targets under 24px: a.fusion-icon 19x21, a.fusion-flyout-menu-toggle 50x18, a 122x16, a 230x16, a 200x22
+
+38 page-device rows, 12 FAIL findings

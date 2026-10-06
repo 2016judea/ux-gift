@@ -1,0 +1,859 @@
+[
+ {
+  "url": "https://www.andinarestaurant.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 4.0,
+  "meta": "initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 11661,
+  "zoomTrap": [
+   {
+    "el": "input.andina-signup__input",
+    "fs": 15
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 83,
+  "small": 6,
+  "smallList": [
+   "button.Mobile-bar-menu 23x41",
+   "a 43x22",
+   "a 124x22",
+   "a 148x22",
+   "a 157x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 36,
+  "headTag": "nav.Mobile-overlay-nav",
+  "textLen": 2558,
+  "fields": [
+   {
+    "el": "input.andina-signup__input",
+    "type": "email",
+    "name": "EMAIL",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Your email address"
+   },
+   {
+    "el": "input",
+    "type": "text",
+    "name": "b_98e2c84e9047ae2db7d4df7b7_cdfcc5db94",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "b_98e2c84e9047ae2db7d4df7b7_cdfcc5db94"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Cards",
+    "href": "https://www.andinarestaurant.com/giftcards"
+   },
+   {
+    "text": "Dinner",
+    "href": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website"
+   },
+   {
+    "text": "Happy Hour",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Thanksgiving Dinner",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "book a table",
+    "href": "https://www.andinarestaurant.com/https/wwwopentablecom/r/andina-portland"
+   },
+   {
+    "text": "Dinner",
+    "href": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website"
+   },
+   {
+    "text": "Happy Hour",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Thanksgiving Dinner",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.andinarestaurant.com/menu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.andinarestaurant.com/giftcards"
+   },
+   {
+    "text": "book your table",
+    "href": "https://www.opentable.com/r/andina-reservations-portland?restref=3443&lang=en-US&ot_source=Restaurant%20website"
+   }
+  ],
+  "allLinks": [
+   "https://www.andinarestaurant.com/",
+   "https://www.andinarestaurant.com/weddings",
+   "https://www.andinarestaurant.com/private-dining",
+   "https://www.andinarestaurant.com/about",
+   "https://www.andinarestaurant.com/contact",
+   "https://www.andinarestaurant.com/giftcards",
+   "https://www.andinarestaurant.com/ongoing-events",
+   "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website",
+   "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared",
+   "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared",
+   "https://www.andinarestaurant.com/happy-hour",
+   "https://www.andinarestaurant.com/dinner",
+   "https://www.andinarestaurant.com/dessert",
+   "https://www.andinarestaurant.com/drinks",
+   "https://www.andinarestaurant.com/s/BTB-Summer-2026.pdf",
+   "https://www.andinarestaurant.com/https/wwwopentablecom/r/andina-portland",
+   "https://www.andinarestaurant.com/menu",
+   "https://www.opentable.com/r/andina-reservations-portland?restref=3443&lang=en-US&ot_source=Restaurant%20website",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1771801578548-FYSWA0FIKV1Q5IHLV8VE/AAA_2952.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1729925404791-70A5B12A2LX5859NKCQG/AAA_7902copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1691302730075-7YNI8Q68VAEAO4KGA7HY/AAA_3541.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786671415312-XZXCFVIS5Q9VKK35OIAA/sommtrailer1.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1765481996310-5JF9EGZ12VZR0RKUTLIS/AAA_5938copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1676068756488-I9QHMDNOFJ3WBG2FBZYB/AAA_4293.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786672076686-T0KMPDXOWYUSIJCANJW9/dessertTRAILER.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1765481986583-JCL7V0VK52Z00J7GFGC7/AAA_9687copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331147379-TFV4L33OFG4UHMCOTPP2/AAA_6073copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1765482025950-H1PVH1FASW2Q9AB66LLH/AAA_9870copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331401168-8DTAAH5CI9MUUBU3599Q/JohnandDorisinOregon%2C1975.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331391274-I2H92E517CPUD3L5K05K/AAA_8075copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786671533582-HN60YU7504GD3PVQ4GUP/PD4.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331063603-V49O4FFRCRDW1YNHV5QB/AAA_3469copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1765482309130-PI53X20WWXUJ7C90IC9H/AAA_0544copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331392412-52T31YSMBW2YOBC5S9KW/COVER.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786671788010-QTZSOYSQMVB4ZDWU8VIO/seaurchinCOVER.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331142869-XBLK1HZL261SM3X9BOS1/AAA_2700copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786671417256-VCUOUXGYQCCW501USAF4/AAA_3606+%281%29.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786671418021-E9FVHX38O8DH5HSGM50Y/HighTea2COVER.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786672089079-PSMC096T5JEGO1U3554I/AAA_9147copy+%281%29.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1676068613518-1MQIM42VPNZMNQD67SEH/AAA_0445.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1676068756763-KIFSO49NBRXYHSQ4DOHM/KAT_0159.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1667606734513-XGOR3VS6MZH6DZV2BUGP/MSW_7728.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786672092875-232ION4NNZZH67I955PJ/AAA_7274copy.jpg",
+   "https://www.andinarestaurant.com/s/BOTTLE-LIST-August-2025.pdf",
+   "https://www.andinarestaurant.com/brunch",
+   "https://www.andinarestaurant.com/#andina",
+   "https://www.andinarestaurant.com/#new-page-2",
+   "https://www.andinarestaurant.com/#about-our-food",
+   "https://www.andinarestaurant.com/#new-page-5",
+   "https://www.andinarestaurant.com/#new-page-90",
+   "https://www.andinarestaurant.com/#new-page",
+   "https://www.instagram.com/p/DZaq9kkgRm6/",
+   "https://www.instagram.com/p/DZODKEZy6AO/",
+   "https://www.instagram.com/p/DZI7WJ9kuks/",
+   "https://www.instagram.com/p/DY79KjMEr0c/",
+   "https://www.google.com/maps/place/Andina/@45.526334,-122.6871779,17z/data=!3m1!4b1!4m6!3m5!1s0x549509f8b8e1b5d5:0x2b06087b5044d20f!8m2!3d45.526334!4d-122.684603!16s%2Fg%2F1thnnh4v?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+   "https://www.andinarestaurant.com/employment",
+   "https://www.andinarestaurant.com/media",
+   "https://www.andinarestaurant.com/community",
+   "https://www.andinarestaurant.com/chicha",
+   "https://www.andinarestaurant.com/journal",
+   "https://www.andinarestaurant.com/comments",
+   "https://www.andinarestaurant.com/privacy",
+   "https://www.instagram.com/andinapdx/?igshid=t6bkxtmmqwch",
+   "https://www.facebook.com/andinapdx/"
+  ],
+  "weight": 36542,
+  "title": "Andina | Modern Peruvian Cuisine in the Pearl District | Since 2003",
+  "roundtrip": {
+   "atBottom": {
+    "y": 10997,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 36
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.andinarestaurant.com/https/wwwopentablecom/r/andina-portland",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.opentable.com/r/andina-reservations-portland?restref=3443&lang=en-US&ot_source=Restaurant%20website",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   }
+  ],
+  "shot": "data/shots/https-www-andinarestaurant-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 401 ()",
+   "console: AxiosError: Request failed with status code 401"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input.andina-signup__input at 15px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "viewport meta: initial-scale=1"
+   ],
+   [
+    "WARN",
+    "6 of 83 tap targets under 24px: button.Mobile-bar-menu 23x41, a 43x22, a 124x22, a 148x22, a 157x22"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 401 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 11661px tall"
+   ]
+  ],
+  "site": "https://www.andinarestaurant.com/",
+  "hop": "https://www.andinarestaurant.com/giftcards"
+ },
+ {
+  "url": "https://www.andinarestaurant.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.5,
+  "meta": "initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 11709,
+  "zoomTrap": [
+   {
+    "el": "input.andina-signup__input",
+    "fs": 15
+   }
+  ],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 83,
+  "small": 6,
+  "smallList": [
+   "button.Mobile-bar-menu 23x41",
+   "a 43x22",
+   "a 124x22",
+   "a 148x22",
+   "a 157x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 36,
+  "headTag": "nav.Mobile-overlay-nav",
+  "textLen": 2568,
+  "fields": [
+   {
+    "el": "input.andina-signup__input",
+    "type": "email",
+    "name": "EMAIL",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Your email address"
+   },
+   {
+    "el": "input",
+    "type": "text",
+    "name": "b_98e2c84e9047ae2db7d4df7b7_cdfcc5db94",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "b_98e2c84e9047ae2db7d4df7b7_cdfcc5db94"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Cards",
+    "href": "https://www.andinarestaurant.com/giftcards"
+   },
+   {
+    "text": "Dinner",
+    "href": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website"
+   },
+   {
+    "text": "Happy Hour",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Thanksgiving Dinner",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "book a table",
+    "href": "https://www.andinarestaurant.com/https/wwwopentablecom/r/andina-portland"
+   },
+   {
+    "text": "Dinner",
+    "href": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website"
+   },
+   {
+    "text": "Happy Hour",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Thanksgiving Dinner",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.andinarestaurant.com/menu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.andinarestaurant.com/giftcards"
+   },
+   {
+    "text": "book your table",
+    "href": "https://www.opentable.com/r/andina-reservations-portland?restref=3443&lang=en-US&ot_source=Restaurant%20website"
+   }
+  ],
+  "allLinks": [
+   "https://www.andinarestaurant.com/",
+   "https://www.andinarestaurant.com/weddings",
+   "https://www.andinarestaurant.com/private-dining",
+   "https://www.andinarestaurant.com/about",
+   "https://www.andinarestaurant.com/contact",
+   "https://www.andinarestaurant.com/giftcards",
+   "https://www.andinarestaurant.com/ongoing-events",
+   "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website",
+   "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared",
+   "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared",
+   "https://www.andinarestaurant.com/happy-hour",
+   "https://www.andinarestaurant.com/dinner",
+   "https://www.andinarestaurant.com/dessert",
+   "https://www.andinarestaurant.com/drinks",
+   "https://www.andinarestaurant.com/s/BTB-Summer-2026.pdf",
+   "https://www.andinarestaurant.com/https/wwwopentablecom/r/andina-portland",
+   "https://www.andinarestaurant.com/menu",
+   "https://www.opentable.com/r/andina-reservations-portland?restref=3443&lang=en-US&ot_source=Restaurant%20website",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1771801578548-FYSWA0FIKV1Q5IHLV8VE/AAA_2952.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1729925404791-70A5B12A2LX5859NKCQG/AAA_7902copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1691302730075-7YNI8Q68VAEAO4KGA7HY/AAA_3541.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786671415312-XZXCFVIS5Q9VKK35OIAA/sommtrailer1.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1765481996310-5JF9EGZ12VZR0RKUTLIS/AAA_5938copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1676068756488-I9QHMDNOFJ3WBG2FBZYB/AAA_4293.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786672076686-T0KMPDXOWYUSIJCANJW9/dessertTRAILER.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1765481986583-JCL7V0VK52Z00J7GFGC7/AAA_9687copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331147379-TFV4L33OFG4UHMCOTPP2/AAA_6073copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1765482025950-H1PVH1FASW2Q9AB66LLH/AAA_9870copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331401168-8DTAAH5CI9MUUBU3599Q/JohnandDorisinOregon%2C1975.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331391274-I2H92E517CPUD3L5K05K/AAA_8075copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786671533582-HN60YU7504GD3PVQ4GUP/PD4.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331063603-V49O4FFRCRDW1YNHV5QB/AAA_3469copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1765482309130-PI53X20WWXUJ7C90IC9H/AAA_0544copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331392412-52T31YSMBW2YOBC5S9KW/COVER.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786671788010-QTZSOYSQMVB4ZDWU8VIO/seaurchinCOVER.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1747331142869-XBLK1HZL261SM3X9BOS1/AAA_2700copy.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786671417256-VCUOUXGYQCCW501USAF4/AAA_3606+%281%29.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786671418021-E9FVHX38O8DH5HSGM50Y/HighTea2COVER.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786672089079-PSMC096T5JEGO1U3554I/AAA_9147copy+%281%29.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1676068613518-1MQIM42VPNZMNQD67SEH/AAA_0445.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1676068756763-KIFSO49NBRXYHSQ4DOHM/KAT_0159.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1667606734513-XGOR3VS6MZH6DZV2BUGP/MSW_7728.jpg",
+   "https://images.squarespace-cdn.com/content/v1/5b747f617e3c3a0811711c60/1786672092875-232ION4NNZZH67I955PJ/AAA_7274copy.jpg",
+   "https://www.andinarestaurant.com/s/BOTTLE-LIST-August-2025.pdf",
+   "https://www.andinarestaurant.com/brunch",
+   "https://www.andinarestaurant.com/#andina",
+   "https://www.andinarestaurant.com/#new-page-2",
+   "https://www.andinarestaurant.com/#about-our-food",
+   "https://www.andinarestaurant.com/#new-page-5",
+   "https://www.andinarestaurant.com/#new-page-90",
+   "https://www.andinarestaurant.com/#new-page",
+   "https://www.instagram.com/p/DZaq9kkgRm6/",
+   "https://www.instagram.com/p/DZODKEZy6AO/",
+   "https://www.instagram.com/p/DZI7WJ9kuks/",
+   "https://www.instagram.com/p/DY79KjMEr0c/",
+   "https://www.google.com/maps/place/Andina/@45.526334,-122.6871779,17z/data=!3m1!4b1!4m6!3m5!1s0x549509f8b8e1b5d5:0x2b06087b5044d20f!8m2!3d45.526334!4d-122.684603!16s%2Fg%2F1thnnh4v?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+   "https://www.andinarestaurant.com/employment",
+   "https://www.andinarestaurant.com/media",
+   "https://www.andinarestaurant.com/community",
+   "https://www.andinarestaurant.com/chicha",
+   "https://www.andinarestaurant.com/journal",
+   "https://www.andinarestaurant.com/comments",
+   "https://www.andinarestaurant.com/privacy",
+   "https://www.instagram.com/andinapdx/?igshid=t6bkxtmmqwch",
+   "https://www.facebook.com/andinapdx/"
+  ],
+  "weight": 36506,
+  "title": "Andina | Modern Peruvian Cuisine in the Pearl District | Since 2003",
+  "roundtrip": {
+   "atBottom": {
+    "y": 10982,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 36
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 401 ()",
+   "console: AxiosError: Request failed with status code 401\n    at t (https://assets.squarespace.com/universal/scripts-compressed/common-vendors-d4778a8"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input.andina-signup__input at 15px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "viewport meta: initial-scale=1"
+   ],
+   [
+    "WARN",
+    "6 of 83 tap targets under 24px: button.Mobile-bar-menu 23x41, a 43x22, a 124x22, a 148x22, a 157x22"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 401 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 11709px tall"
+   ]
+  ],
+  "site": "https://www.andinarestaurant.com/"
+ },
+ {
+  "url": "https://www.andinarestaurant.com/giftcards",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.5,
+  "meta": "initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4315,
+  "zoomTrap": [
+   {
+    "el": "input.andina-signup__input",
+    "fs": 15
+   }
+  ],
+  "leaks": [
+   "div.shopify-buy-cart-wrapper right=740"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 49,
+  "small": 4,
+  "smallList": [
+   "button.Mobile-bar-menu 23x41",
+   "a 148x22",
+   "a 157x22",
+   "a 130x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 36,
+  "headTag": "nav.Mobile-overlay-nav",
+  "textLen": 1027,
+  "fields": [
+   {
+    "el": "input.andina-signup__input",
+    "type": "email",
+    "name": "EMAIL",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Your email address"
+   },
+   {
+    "el": "input",
+    "type": "text",
+    "name": "b_98e2c84e9047ae2db7d4df7b7_cdfcc5db94",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "b_98e2c84e9047ae2db7d4df7b7_cdfcc5db94"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Cards",
+    "href": "https://www.andinarestaurant.com/giftcards"
+   },
+   {
+    "text": "Dinner",
+    "href": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website"
+   },
+   {
+    "text": "Happy Hour",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Thanksgiving Dinner",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "book a table",
+    "href": "https://www.andinarestaurant.com/https/wwwopentablecom/r/andina-portland"
+   },
+   {
+    "text": "Dinner",
+    "href": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website"
+   },
+   {
+    "text": "Happy Hour",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Thanksgiving Dinner",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.andinarestaurant.com/menu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.andinarestaurant.com/giftcards"
+   }
+  ],
+  "allLinks": [
+   "https://www.andinarestaurant.com/",
+   "https://www.andinarestaurant.com/weddings",
+   "https://www.andinarestaurant.com/private-dining",
+   "https://www.andinarestaurant.com/about",
+   "https://www.andinarestaurant.com/contact",
+   "https://www.andinarestaurant.com/giftcards",
+   "https://www.andinarestaurant.com/ongoing-events",
+   "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website",
+   "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared",
+   "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared",
+   "https://www.andinarestaurant.com/happy-hour",
+   "https://www.andinarestaurant.com/dinner",
+   "https://www.andinarestaurant.com/dessert",
+   "https://www.andinarestaurant.com/drinks",
+   "https://www.andinarestaurant.com/s/BTB-Summer-2026.pdf",
+   "https://www.andinarestaurant.com/https/wwwopentablecom/r/andina-portland",
+   "https://www.andinarestaurant.com/menu",
+   "https://app.upserve.com/b/andinas-restaurant/gift-card",
+   "https://www.instagram.com/p/DZaq9kkgRm6/",
+   "https://www.instagram.com/p/DZODKEZy6AO/",
+   "https://www.instagram.com/p/DZI7WJ9kuks/",
+   "https://www.instagram.com/p/DY79KjMEr0c/",
+   "https://www.google.com/maps/place/Andina/@45.526334,-122.6871779,17z/data=!3m1!4b1!4m6!3m5!1s0x549509f8b8e1b5d5:0x2b06087b5044d20f!8m2!3d45.526334!4d-122.684603!16s%2Fg%2F1thnnh4v?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+   "https://www.andinarestaurant.com/brunch",
+   "https://www.andinarestaurant.com/employment",
+   "https://www.andinarestaurant.com/media",
+   "https://www.andinarestaurant.com/community",
+   "https://www.andinarestaurant.com/chicha",
+   "https://www.andinarestaurant.com/journal",
+   "https://www.andinarestaurant.com/comments",
+   "https://www.andinarestaurant.com/privacy",
+   "https://www.instagram.com/andinapdx/?igshid=t6bkxtmmqwch",
+   "https://www.facebook.com/andinapdx/"
+  ],
+  "weight": 27783,
+  "title": "Reservations & Gift Cards \u2014 Andina Restaurant",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3651,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 36
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.andinarestaurant.com/https/wwwopentablecom/r/andina-portland",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.andinarestaurant.com/brunch",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-andinarestaurant-com-giftcards.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 401 ()",
+   "console: AxiosError: Request failed with status code 401"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input.andina-signup__input at 15px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.shopify-buy-cart-wrapper right=740"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.andinarestaurant.com/brunch answers 404"
+   ],
+   [
+    "WARN",
+    "viewport meta: initial-scale=1"
+   ],
+   [
+    "WARN",
+    "4 of 49 tap targets under 24px: button.Mobile-bar-menu 23x41, a 148x22, a 157x22, a 130x22"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 401 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4315px tall"
+   ]
+  ],
+  "site": "https://www.andinarestaurant.com/"
+ },
+ {
+  "url": "https://www.andinarestaurant.com/giftcards",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.5,
+  "meta": "initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4323,
+  "zoomTrap": [
+   {
+    "el": "input.andina-signup__input",
+    "fs": 15
+   }
+  ],
+  "leaks": [
+   "div.shopify-buy-cart-wrapper right=743"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 49,
+  "small": 4,
+  "smallList": [
+   "button.Mobile-bar-menu 23x41",
+   "a 148x22",
+   "a 157x22",
+   "a 130x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 36,
+  "headTag": "nav.Mobile-overlay-nav",
+  "textLen": 1030,
+  "fields": [
+   {
+    "el": "input.andina-signup__input",
+    "type": "email",
+    "name": "EMAIL",
+    "kind": "email",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Your email address"
+   },
+   {
+    "el": "input",
+    "type": "text",
+    "name": "b_98e2c84e9047ae2db7d4df7b7_cdfcc5db94",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "b_98e2c84e9047ae2db7d4df7b7_cdfcc5db94"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Gift Cards",
+    "href": "https://www.andinarestaurant.com/giftcards"
+   },
+   {
+    "text": "Dinner",
+    "href": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website"
+   },
+   {
+    "text": "Happy Hour",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Thanksgiving Dinner",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "book a table",
+    "href": "https://www.andinarestaurant.com/https/wwwopentablecom/r/andina-portland"
+   },
+   {
+    "text": "Dinner",
+    "href": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website"
+   },
+   {
+    "text": "Happy Hour",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Thanksgiving Dinner",
+    "href": "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared"
+   },
+   {
+    "text": "Menus",
+    "href": "https://www.andinarestaurant.com/menu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.andinarestaurant.com/giftcards"
+   }
+  ],
+  "allLinks": [
+   "https://www.andinarestaurant.com/",
+   "https://www.andinarestaurant.com/weddings",
+   "https://www.andinarestaurant.com/private-dining",
+   "https://www.andinarestaurant.com/about",
+   "https://www.andinarestaurant.com/contact",
+   "https://www.andinarestaurant.com/giftcards",
+   "https://www.andinarestaurant.com/ongoing-events",
+   "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=88cf1efd-e4e7-42be-a7e7-33aa943fd837&restRef=3443&otSource=Restaurant%20website",
+   "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=519604&utm_source=external&utm_medium=referral&utm_campaign=shared",
+   "https://www.opentable.com/booking/experiences-availability?rid=3443&restref=3443&experienceId=818685&utm_source=external&utm_medium=referral&utm_campaign=shared",
+   "https://www.andinarestaurant.com/happy-hour",
+   "https://www.andinarestaurant.com/dinner",
+   "https://www.andinarestaurant.com/dessert",
+   "https://www.andinarestaurant.com/drinks",
+   "https://www.andinarestaurant.com/s/BTB-Summer-2026.pdf",
+   "https://www.andinarestaurant.com/https/wwwopentablecom/r/andina-portland",
+   "https://www.andinarestaurant.com/menu",
+   "https://app.upserve.com/b/andinas-restaurant/gift-card",
+   "https://www.instagram.com/p/DZaq9kkgRm6/",
+   "https://www.instagram.com/p/DZODKEZy6AO/",
+   "https://www.instagram.com/p/DZI7WJ9kuks/",
+   "https://www.instagram.com/p/DY79KjMEr0c/",
+   "https://www.google.com/maps/place/Andina/@45.526334,-122.6871779,17z/data=!3m1!4b1!4m6!3m5!1s0x549509f8b8e1b5d5:0x2b06087b5044d20f!8m2!3d45.526334!4d-122.684603!16s%2Fg%2F1thnnh4v?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+   "https://www.andinarestaurant.com/brunch",
+   "https://www.andinarestaurant.com/employment",
+   "https://www.andinarestaurant.com/media",
+   "https://www.andinarestaurant.com/community",
+   "https://www.andinarestaurant.com/chicha",
+   "https://www.andinarestaurant.com/journal",
+   "https://www.andinarestaurant.com/comments",
+   "https://www.andinarestaurant.com/privacy",
+   "https://www.instagram.com/andinapdx/?igshid=t6bkxtmmqwch",
+   "https://www.facebook.com/andinapdx/"
+  ],
+  "weight": 27747,
+  "title": "Reservations & Gift Cards \u2014 Andina Restaurant",
+  "roundtrip": {
+   "atBottom": {
+    "y": 3596,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 36
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 401 ()",
+   "console: AxiosError: Request failed with status code 401\n    at t (https://assets.squarespace.com/universal/scripts-compressed/common-vendors-16c058f"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "iOS zoom trap: input.andina-signup__input at 15px (needs 16px on touch)"
+   ],
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.shopify-buy-cart-wrapper right=743"
+   ],
+   [
+    "WARN",
+    "viewport meta: initial-scale=1"
+   ],
+   [
+    "WARN",
+    "4 of 49 tap targets under 24px: button.Mobile-bar-menu 23x41, a 148x22, a 157x22, a 130x22"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 401 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4323px tall"
+   ]
+  ],
+  "site": "https://www.andinarestaurant.com/"
+ }
+]

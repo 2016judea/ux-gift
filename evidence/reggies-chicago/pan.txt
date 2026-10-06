@@ -1,0 +1,1 @@
+{'out': '/tmp/claude-501/v2/reggies.png', 'bytes': 118355, 'pan': 570, 'box': {'x': 0, 'y': 0, 'w': 960, 'h': 13958.859375, 'right': 960, 'el': 'div.hfeed'}, 'size': (585, 996)}
