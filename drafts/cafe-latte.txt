@@ -1,0 +1,19 @@
+To: Admin@cafelatte.com
+Subject: TODO
+
+I ran UX testing on your website.
+
+#1) On your homepage there is a bug where the links at the bottom of the page are broken. "order online", "menu", "catering", "events", "about" and "contact" all go to a "page not found" screen.
+Those footer links point at old page addresses (/gift-cards, /new-page, /services, /cafe-events, /about, /contact) that no longer exist. The real pages are live at /orderonline, /dailymenu and /contact-hours.
+Recommend to your developer that they point the footer links at the live pages.
+
+Forward this email to your website/developer to have them fix the above. 
+
+This was free of charge. No catch. But if interested we do also offer:
+ 
+  - More thorough testing -- $100
+  - Brand / website re-designs -- $500
+  - Anything else you can think of -- Ask me for a quote
+
+Thank you,
+Aidan.

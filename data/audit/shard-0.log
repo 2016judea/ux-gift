@@ -1,0 +1,354 @@
+FAIL iphone  https://leyla-charleston.com/
+FAIL android https://leyla-charleston.com/
+WARN iphone  https://leyla-charleston.com/-party?source=pop_up&spot_id=15935&destination=private_parties&promotion=private_parties
+WARN android https://leyla-charleston.com/-party?source=pop_up&spot_id=15935&destination=private_parties&promotion=private_parties
+FAIL iphone  https://coastbarandgrill.holycityhospitality.com/
+FAIL android https://coastbarandgrill.holycityhospitality.com/
+FAIL iphone  https://coastbarandgrill.holycityhospitality.com/food-menu
+WARN android https://coastbarandgrill.holycityhospitality.com/food-menu
+WARN iphone  https://luigischophouse.com/
+FAIL android https://luigischophouse.com/
+WARN iphone  https://luigischophouse.com/-party?source=pop_up&spot_id=466455&destination=private_parties&promotion=private_parties
+WARN android https://luigischophouse.com/-party?source=pop_up&spot_id=466455&destination=private_parties&promotion=private_parties
+FAIL iphone  https://phiasalon.com/
+WARN android https://phiasalon.com/
+WARN iphone  https://thegrocerycharleston.com/
+WARN android https://thegrocerycharleston.com/
+WARN iphone  https://thegrocerycharleston.com/menus/
+WARN android https://thegrocerycharleston.com/menus/
+WARN iphone  https://polishedspa.com/
+WARN android https://polishedspa.com/
+WARN iphone  https://polishedspa.com/gift-cards/
+WARN android https://polishedspa.com/gift-cards/
+WARN iphone  https://portercreek.com/
+WARN android https://portercreek.com/
+ok   iphone  https://portercreek.com/menu
+ok   android https://portercreek.com/menu
+FAIL iphone  https://www.moscowonthehill.com/
+WARN android https://www.moscowonthehill.com/
+FAIL iphone  https://www.moscowonthehill.com/menu
+WARN android https://www.moscowonthehill.com/menu
+FAIL iphone  https://stksteakhouse.com/en-us/location/nyc-chelsea/
+FAIL android https://stksteakhouse.com/en-us/location/nyc-chelsea/
+FAIL iphone  https://stksteakhouse.com/en-us/menus
+FAIL android https://stksteakhouse.com/en-us/menus
+WARN iphone  https://www.redroosterharlem.com/
+WARN android https://www.redroosterharlem.com/
+WARN iphone  https://www.redroosterharlem.com/reservations
+WARN android https://www.redroosterharlem.com/reservations
+WARN iphone  https://russiantearoomnyc.com/
+WARN android https://russiantearoomnyc.com/
+WARN iphone  https://russiantearoomnyc.com/menus/
+WARN android https://russiantearoomnyc.com/menus/
+WARN iphone  https://www.wurstkuche.com/
+WARN android https://www.wurstkuche.com/
+WARN iphone  https://www.wurstkuche.com/food-index
+WARN android https://www.wurstkuche.com/food-index
+WARN iphone  https://www.theberghoff.com/
+WARN android https://www.theberghoff.com/
+FAIL iphone  https://www.theberghoff.com/reservations/
+FAIL android https://www.theberghoff.com/reservations/
+WARN iphone  https://www.whirlyball.com/chicago
+WARN android https://www.whirlyball.com/chicago
+WARN iphone  https://www.whirlyball.com/giftcards
+WARN android https://www.whirlyball.com/giftcards
+FAIL iphone  https://www.benihana.com/locations/houston-i-downtown/
+FAIL android https://www.benihana.com/locations/houston-i-downtown/
+FAIL iphone  https://www.benihana.com/menus/
+FAIL android https://www.benihana.com/menus/
+
+== findings (FAIL and WARN) ==
+
+https://leyla-charleston.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  document locked (overflow hidden) with 7973px of content and no inner scroller
+  FAIL  pageerror: elem.className.indexOf is not a function. (In 'elem.className.indexOf("bottom-link")', 'elem.className.indexOf' is undefined)
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  17 of 57 tap targets under 24px: button.close 22x34, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  5 text elements under 12px: a 9px, a 9px, div.leaflet-control-attribution 11px, a 11px
+
+https://leyla-charleston.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  pageerror: elem.className.indexOf is not a function
+  WARN  16 of 55 tap targets under 24px: a 22x22, a 22x22, button 15x15, button 15x15, button 15x15
+  WARN  5 text elements under 12px: a 9px, a 9px, div.leaflet-control-attribution 11px, a 11px
+
+https://leyla-charleston.com/-party?source=pop_up&spot_id=15935&destination=private_parties&promotion=private_parties  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://leyla-charleston.com/-party?source=pop_up&spot_id=15935&destination=private_parties&promotion=private_parties  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://coastbarandgrill.holycityhospitality.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405, a right=440
+  FAIL  dead link: https://us-customer-profile-beta.tabit.cloud/9E56C0FF-A719-4FC7-BC61-2779B2AC90EB/auth/login?lang=en&t=1770223880 answers 404
+  FAIL  dead link: https://us-customer-profile.tabit.cloud/9E56C0FF-A719-4FC7-BC61-2779B2AC90EB/auth/login?lang=en&t=1775050669 answers 404
+  WARN  13 of 105 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://coastbarandgrill.holycityhospitality.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 8944px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  14 of 107 tap targets under 24px: button.close 19x34, a 22x22, a 22x22, a 22x22, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://coastbarandgrill.holycityhospitality.com/food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://us-customer-profile-beta.tabit.cloud/9E56C0FF-A719-4FC7-BC61-2779B2AC90EB/auth/login?lang=en&t=1770223880 answers 404
+
+https://coastbarandgrill.holycityhospitality.com/food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://luigischophouse.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  14 of 79 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, a 33x13
+  WARN  8 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px, a.bottom-link 11px
+
+https://luigischophouse.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 10487px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  14 of 81 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, a 33x12
+  WARN  8 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px, a.bottom-link 11px
+
+https://luigischophouse.com/-party?source=pop_up&spot_id=466455&destination=private_parties&promotion=private_parties  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  5 text elements under 12px: a.bottom-link 11px, a.bottom-link 11px, a.bottom-link 11px, a.bottom-link 11px
+
+https://luigischophouse.com/-party?source=pop_up&spot_id=466455&destination=private_parties&promotion=private_parties  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  5 text elements under 12px: a.bottom-link 11px, a.bottom-link 11px, a.bottom-link 11px, a.bottom-link 11px
+
+https://phiasalon.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.ob-widget-container right=780, div.ob-widget-container-frame-container right=780, div.ob-widget-container__header right=780, div.ob-widget-container__header__back right=440, button.ob-widget-container__header__back__arrow right=423, div.ob-widget-container__header__title right=730
+  FAIL  dead link: https://www.expertise.com/oh/columbus/hair-salons answers 404
+  WARN  32 of 60 tap targets under 24px: a 45x19, a 70x19, a 55x19, a 66x19, a 121x19
+  WARN  1 text elements under 12px: p 10px
+
+https://phiasalon.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.ob-widget-container right=786, div.ob-widget-container-frame-container right=786, div.ob-widget-container__header right=786, div.ob-widget-container__header__back right=443, button.ob-widget-container__header__back__arrow right=426, div.ob-widget-container__header__title right=736
+  WARN  32 of 60 tap targets under 24px: a 45x19, a 70x19, a 55x19, a 66x19, a 121x19
+  WARN  1 text elements under 12px: p 10px
+
+https://thegrocerycharleston.com/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 10 tap targets under 24px: a 58x20, a 83x20, a 104x20, a 73x18, a 80x18
+
+https://thegrocerycharleston.com/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 10 tap targets under 24px: a 59x21, a 83x21, a 104x21, a 73x18, a 80x18
+
+https://thegrocerycharleston.com/menus/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  4 of 8 tap targets under 24px: a 73x18, a 80x18, a 58x18, a.textlink 54x14
+
+https://thegrocerycharleston.com/menus/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  4 of 8 tap targets under 24px: a 73x18, a 80x18, a 58x18, a.textlink 54x14
+
+https://polishedspa.com/  [iphone]
+  WARN  1 of 27 tap targets under 24px: a.c-contact-info__email 184x17
+  WARN  1 text elements under 12px: span.whitespace-nowrap 11px
+
+https://polishedspa.com/  [android]
+  WARN  header at y=-218 after scrolling down and back up
+  WARN  1 of 27 tap targets under 24px: a.c-contact-info__email 184x17
+  WARN  1 text elements under 12px: span.whitespace-nowrap 11px
+
+https://polishedspa.com/gift-cards/  [iphone]
+  WARN  1 of 9 tap targets under 24px: a.c-contact-info__email 184x17
+  WARN  1 text elements under 12px: span.whitespace-nowrap 11px
+
+https://polishedspa.com/gift-cards/  [android]
+  WARN  header at y=-12 after scrolling down and back up
+  WARN  1 of 9 tap targets under 24px: a.c-contact-info__email 184x17
+  WARN  1 text elements under 12px: span.whitespace-nowrap 11px
+
+https://portercreek.com/  [iphone]
+  WARN  9 of 19 tap targets under 24px: div.x-el 10x10, div.x-el 10x10, div.x-el 10x10, div.x-el 10x10, div.x-el 10x10
+
+https://portercreek.com/  [android]
+  WARN  9 of 19 tap targets under 24px: div.x-el 10x10, div.x-el 10x10, div.x-el 10x10, div.x-el 10x10, div.x-el 10x10
+
+https://www.moscowonthehill.com/  [iphone]
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  header at y=-157 after scrolling down and back up
+  WARN  9 of 22 tap targets under 24px: a 49x23, a 54x23, a 94x23, a 44x23, a 58x23
+  WARN  3 text elements under 12px: a.header-skip-link 11.84064px, a 11.2032px, span.sqsrte-text-color--black 11.2032px
+
+https://www.moscowonthehill.com/  [android]
+  WARN  header at y=-152 after scrolling down and back up
+  WARN  9 of 22 tap targets under 24px: a 48x23, a 53x23, a 91x23, a 43x23, a 56x23
+  WARN  3 text elements under 12px: a.header-skip-link 11.8255px, a 11.1276px, span.sqsrte-text-color--black 11.1276px
+
+https://www.moscowonthehill.com/menu  [iphone]
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  header at y=-157 after scrolling down and back up
+  WARN  9 of 20 tap targets under 24px: a 49x23, a 54x23, a 94x23, a 44x23, a 58x23
+  WARN  42 text elements under 12px: a.header-skip-link 11.84064px, div.menu-item-description 11.2032px, div.menu-item-description 11.2032px, div.menu-item-description 11.2032px
+
+https://www.moscowonthehill.com/menu  [android]
+  WARN  header at y=-152 after scrolling down and back up
+  WARN  10 of 20 tap targets under 24px: a 106x12, a 48x23, a 53x23, a 91x23, a 43x23
+  WARN  42 text elements under 12px: a.header-skip-link 11.8255px, div.menu-item-description 11.1276px, div.menu-item-description 11.1276px, div.menu-item-description 11.1276px
+
+https://stksteakhouse.com/en-us/location/nyc-chelsea/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650, div.grecaptcha-badge right=576, div.grecaptcha-badge right=576
+  FAIL  pageerror: null is not an object (evaluating 'e.replace')
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer section#countryPopup.popup covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  34 of 71 tap targets under 24px: a.sr-only 29x14, button.absolute 16x16, a.fade 173x20, a.text-black 112x20, a 16x16
+
+https://stksteakhouse.com/en-us/location/nyc-chelsea/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649, div.grecaptcha-badge right=579, div.grecaptcha-badge right=579
+  WARN  broken image: https://www.opentable.com/restaurant-solutions/badge/ot/DC-2026.png
+  FAIL  pageerror: Cannot read properties of null (reading 'replace')
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer section#countryPopup.popup covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 47% of the screen
+  WARN  34 of 71 tap targets under 24px: a.sr-only 29x14, button.absolute 16x16, a.fade 173x19, a.text-black 112x19, a 16x16
+
+https://stksteakhouse.com/en-us/menus  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650, div.grecaptcha-badge right=576, div.grecaptcha-badge right=576
+  FAIL  pageerror: null is not an object (evaluating 'e.replace')
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer section#countryPopup.popup covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  17 of 36 tap targets under 24px: a.sr-only 29x14, button.absolute 16x16, a 16x16, a 16x16, a 16x16
+
+https://stksteakhouse.com/en-us/menus  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649, div.grecaptcha-badge right=579, div.grecaptcha-badge right=579
+  FAIL  pageerror: Cannot read properties of null (reading 'replace')
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer section#countryPopup.popup covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 47% of the screen
+  WARN  17 of 36 tap targets under 24px: a.sr-only 29x14, button.absolute 16x16, a 16x16, a 16x16, a 16x16
+
+https://www.redroosterharlem.com/  [iphone]
+  WARN  fixed layer div#yui_3_17_2_1_1791322097247_236.yui3-widget covers 50% of the screen
+
+https://www.redroosterharlem.com/  [android]
+  WARN  fixed layer div#yui_3_17_2_1_1791322111397_236.yui3-widget covers 50% of the screen
+  WARN  header at y=-140 after scrolling down and back up
+
+https://www.redroosterharlem.com/reservations  [iphone]
+  WARN  fixed layer div#yui_3_17_2_1_1791322114707_187.yui3-widget covers 50% of the screen
+  WARN  2 of 37 tap targets under 24px: button 87x14, a 28x12
+  WARN  3 text elements under 12px: button 10px, span 10px, a 10px
+
+https://www.redroosterharlem.com/reservations  [android]
+  WARN  fixed layer div#yui_3_17_2_1_1791322123016_187.yui3-widget covers 50% of the screen
+  WARN  header at y=-363 after scrolling down and back up
+  WARN  2 of 36 tap targets under 24px: button 87x14, a 28x11
+  WARN  3 text elements under 12px: button 10px, span 10px, a 10px
+
+https://russiantearoomnyc.com/  [iphone]
+  WARN  3 of 20 tap targets under 24px: a.fusion-no-lightbox 243x21, a 83x18, a 191x18
+
+https://russiantearoomnyc.com/  [android]
+  WARN  3 of 19 tap targets under 24px: a.fusion-no-lightbox 245x21, a 82x18, a 191x18
+
+https://russiantearoomnyc.com/menus/  [iphone]
+  WARN  3 of 22 tap targets under 24px: a.fusion-no-lightbox 243x21, a 83x18, a 191x18
+
+https://russiantearoomnyc.com/menus/  [android]
+  WARN  3 of 21 tap targets under 24px: a.fusion-no-lightbox 245x21, a 82x18, a 191x18
+
+https://www.wurstkuche.com/  [iphone]
+  WARN  7 of 23 tap targets under 24px: a 317x16, a 159x16, a 274x16, a 167x16, a 142x16
+
+https://www.wurstkuche.com/  [android]
+  WARN  7 of 22 tap targets under 24px: a 317x16, a 159x16, a 274x16, a 167x16, a 142x16
+
+https://www.wurstkuche.com/food-index  [iphone]
+  WARN  2 of 8 tap targets under 24px: a 60x16, a 59x16
+
+https://www.wurstkuche.com/food-index  [android]
+  WARN  2 of 7 tap targets under 24px: a 60x16, a 59x16
+
+https://www.theberghoff.com/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  19 of 31 tap targets under 24px: a.tp-link 84x10, a.arw-link 251x14, a.arw-link 301x14, a 158x22, a.arw-link 163x14
+  WARN  2 text elements under 12px: a.tp-link 10px, div.hmn-p1 10px
+
+https://www.theberghoff.com/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  19 of 30 tap targets under 24px: a.tp-link 84x10, a.arw-link 251x14, a.arw-link 301x14, a 158x22, a.arw-link 163x14
+  WARN  2 text elements under 12px: a.tp-link 10px, div.hmn-p1 10px
+
+https://www.theberghoff.com/reservations/  [iphone]
+  FAIL  pageerror: Cannot tween a null target.
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  14 of 21 tap targets under 24px: a.tp-link 84x10, a.arw-link 226x14, a 138x22, a 80x19, a 47x19
+  WARN  1 text elements under 12px: a.tp-link 10px
+
+https://www.theberghoff.com/reservations/  [android]
+  FAIL  pageerror: Cannot tween a null target.
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  14 of 20 tap targets under 24px: a.tp-link 84x10, a.arw-link 226x14, a 138x22, a 80x20, a 47x20
+  WARN  1 text elements under 12px: a.tp-link 10px
+
+https://www.whirlyball.com/chicago  [iphone]
+  WARN  broken image: https://www.facebook.com/tr/?id=1291421080874458&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=PFOPO7Z77FCQ3I2QJA6R3N&cd[ar_segment_name]=12f62336
+  WARN  broken image: https://www.facebook.com/tr/?id=1291421080874458&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=PFOPO7Z77FCQ3I2QJA6R3N&cd[ar_segment_name]=12f62336
+  WARN  broken image: https://bat.bing.com/action/0?ti=36000220&Ver=2&mid=af4b2701-39d9-4f4f-9a94-793260f1ab35&bo=1&sid=4192f180c1cd11f1a89371575f6ce8ce&vid=419316b0c1cd11f18abbb5e80
+  WARN  fixed layer iframe#frame covers 100% of the screen
+  WARN  18 of 35 tap targets under 24px: a.location-detail-block 114x19, a.location-detail-block 192x19, div#w-dropdown-toggle-2.dropdown-toggle-amenities 247x20, a.animated-button-link-only 147x18, a.animated-button-link-only 115x18
+
+https://www.whirlyball.com/chicago  [android]
+  WARN  broken image: https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=5e46e09afd579c687c2b9878674f088e-1791322282291&pv=38226471583.25716&arrfrr=https%3A%2F%2Fwww.whirlyball.
+  WARN  broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=5e46e09afd579c687c2b9878674f088e-1791322282291&pv=38226471583.25716&arrfrr=https%3A%2F%2Fwww.whirly
+  WARN  broken image: https://d.adroll.com/cm/taboola/out?af0=af47dabf&adroll_fpc=5e46e09afd579c687c2b9878674f088e-1791322282291&pv=38226471583.25716&arrfrr=https%3A%2F%2Fwww.whirlyb
+  WARN  fixed layer iframe#frame covers 100% of the screen
+  WARN  20 of 39 tap targets under 24px: a.location-detail-block 113x19, a.location-detail-block 192x19, div#w-dropdown-toggle-2.dropdown-toggle-amenities 247x20, a.animated-button-link-only 147x18, a.animated-button-link-only 115x18
+
+https://www.whirlyball.com/giftcards  [iphone]
+  WARN  broken image: https://www.facebook.com/tr/?id=1291421080874458&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=PFOPO7Z77FCQ3I2QJA6R3N&cd[ar_segment_name]=12f62336
+  WARN  broken image: https://www.facebook.com/tr/?id=1291421080874458&ev=Purchase&cd[value]=0&cd[currency]=USD&cd[segment_eid]=PFOPO7Z77FCQ3I2QJA6R3N&cd[ar_segment_name]=12f62336
+  WARN  broken image: https://bat.bing.com/action/0?ti=36000220&Ver=2&mid=1c791fee-c187-48b2-b0f9-45426795e5e5&bo=1&sid=64153ee0c1cd11f1a849ddd005a62010&vid=64154e60c1cd11f1b5427f364
+  WARN  fixed layer iframe#frame covers 100% of the screen
+  WARN  5 of 13 tap targets under 24px: a.footer-link 63x12, a.footer-link 81x12, a.footer-link 49x12, a.footer-link 30x12, a.footer-link 90x12
+
+https://www.whirlyball.com/giftcards  [android]
+  WARN  broken image: https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=821100f167d0eb1a041957a361e11247-1791322338535&pv=24334371683.595684&arrfrr=https%3A%2F%2Fwww.whirlyball
+  WARN  broken image: https://d.adroll.com/cm/l/out?af0=af47dabf&adroll_fpc=821100f167d0eb1a041957a361e11247-1791322338535&pv=24334371683.595684&arrfrr=https%3A%2F%2Fwww.whirlyball.c
+  WARN  broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=821100f167d0eb1a041957a361e11247-1791322338535&pv=24334371683.595684&arrfrr=https%3A%2F%2Fwww.whirl
+  WARN  fixed layer iframe#frame covers 100% of the screen
+  WARN  5 of 13 tap targets under 24px: a.footer-link 63x13, a.footer-link 81x13, a.footer-link 49x13, a.footer-link 30x13, a.footer-link 90x13
+
+https://www.benihana.com/locations/houston-i-downtown/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650, div.columnRight right=1170
+  FAIL  dead link: https://www.ezcater.com/brand/pvt/benihana answers 406
+  FAIL  pageerror: Can't find variable: grecaptcha
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  44 of 100 tap targets under 24px: a.sr-only 29x14, a 99x19, a 175x19, a 123x19, a 115x19
+
+https://www.benihana.com/locations/houston-i-downtown/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649, div.columnRight right=1179
+  WARN  broken image: https://www.opentable.com/restaurant-solutions/badge/ot/DC-2026.png
+  FAIL  pageerror: grecaptcha is not defined
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 47% of the screen
+  WARN  45 of 100 tap targets under 24px: a.sr-only 29x14, a 99x19, a 174x19, a 122x19, a 115x19
+
+https://www.benihana.com/menus/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650, div.columnRight right=1170
+  FAIL  pageerror: Can't find variable: grecaptcha
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  35 of 63 tap targets under 24px: a.sr-only 29x14, a.no-underline 116x16, a.no-underline 80x16, a.no-underline 156x16, a.no-underline 183x16
+
+https://www.benihana.com/menus/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649, div.columnRight right=1179
+  FAIL  pageerror: grecaptcha is not defined
+  WARN  fixed layer div.cky-overlay covers 100% of the screen
+  WARN  fixed layer div.cky-consent-container covers 47% of the screen
+  WARN  35 of 63 tap targets under 24px: a.sr-only 29x14, a.no-underline 116x16, a.no-underline 80x16, a.no-underline 157x16, a.no-underline 183x16
+
+58 page-device rows, 22 FAIL findings

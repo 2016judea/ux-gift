@@ -1,0 +1,331 @@
+FAIL iphone  https://vickerysshemcreek.com/
+WARN android https://vickerysshemcreek.com/
+WARN iphone  https://vickerysshemcreek.com/-party?source=pop_up&spot_id=16451&destination=private_parties&promotion=private_parties
+WARN android https://vickerysshemcreek.com/-party?source=pop_up&spot_id=16451&destination=private_parties&promotion=private_parties
+WARN iphone  https://henrysonthemarket.com/
+FAIL android https://henrysonthemarket.com/
+WARN iphone  https://henrysonthemarket.com/-party?source=pop_up&spot_id=110587&destination=private_parties&promotion=private_parties
+WARN android https://henrysonthemarket.com/-party?source=pop_up&spot_id=110587&destination=private_parties&promotion=private_parties
+FAIL iphone  https://www.kbjacks.com/fayetteville-nc
+WARN android https://www.kbjacks.com/fayetteville-nc
+FAIL iphone  https://www.kbjacks.com/menu?section=3
+WARN android https://www.kbjacks.com/menu?section=3
+WARN iphone  https://grazecharleston.com/
+FAIL android https://grazecharleston.com/
+WARN iphone  https://grazecharleston.com/?source=pop_up&spot_id=21697&destination=reservations&promotion=reservations
+WARN android https://grazecharleston.com/?source=pop_up&spot_id=21697&destination=reservations&promotion=reservations
+WARN iphone  https://www.vadaspa.com/
+WARN android https://www.vadaspa.com/
+FAIL iphone  https://www.sidepocketswichita.com/
+FAIL android https://www.sidepocketswichita.com/
+WARN iphone  https://www.sidepocketswichita.com/sp-reservation-request
+WARN android https://www.sidepocketswichita.com/sp-reservation-request
+FAIL iphone  https://www.5-8club.com/
+FAIL android https://www.5-8club.com/
+FAIL iphone  https://www.5-8club.com/menus/minneapolis
+FAIL android https://www.5-8club.com/menus/minneapolis
+FAIL iphone  https://first-avenue.com/venue/turf-club/
+FAIL android https://first-avenue.com/venue/turf-club/
+FAIL iphone  https://first-avenue.com/turfmenu-2-26-25/
+FAIL android https://first-avenue.com/turfmenu-2-26-25/
+WARN iphone  https://www.keens.com/
+FAIL android https://www.keens.com/
+FAIL iphone  https://www.keens.com/orderinfo/
+FAIL android https://www.keens.com/orderinfo/
+WARN iphone  https://e-a-t.nyc/
+WARN android https://e-a-t.nyc/
+WARN iphone  https://thinkcoffee.com/
+FAIL android https://thinkcoffee.com/
+WARN iphone  https://thinkcoffee.com/products/kellensoo-ethiopia
+FAIL android https://thinkcoffee.com/products/kellensoo-ethiopia
+WARN iphone  https://esmdeli.com/
+FAIL android https://esmdeli.com/
+WARN iphone  https://esmdeli.com/los-angeles-victor-heights-chinatown-eastside-italian-deli-food-menu
+WARN android https://esmdeli.com/los-angeles-victor-heights-chinatown-eastside-italian-deli-food-menu
+FAIL iphone  https://www.haymarketbeer.com/
+FAIL android https://www.haymarketbeer.com/
+FAIL iphone  https://pequodspizza.com/chicago/
+WARN android https://pequodspizza.com/chicago/
+WARN iphone  https://pequodspizza.com/chicago/menu/
+WARN android https://pequodspizza.com/chicago/menu/
+FAIL iphone  https://www.mcgonigels.com/
+WARN android https://www.mcgonigels.com/
+FAIL iphone  https://www.mcgonigels.com/lunch-dinner-food-and-drink-menus/
+WARN android https://www.mcgonigels.com/lunch-dinner-food-and-drink-menus/
+
+== findings (FAIL and WARN) ==
+
+https://vickerysshemcreek.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  document locked (overflow hidden) with 8609px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  16 of 60 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://vickerysshemcreek.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  16 of 58 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://vickerysshemcreek.com/-party?source=pop_up&spot_id=16451&destination=private_parties&promotion=private_parties  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://vickerysshemcreek.com/-party?source=pop_up&spot_id=16451&destination=private_parties&promotion=private_parties  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://henrysonthemarket.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  18 of 69 tap targets under 24px: a 117x20, a 22x22, a 22x22, a 22x22, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://henrysonthemarket.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 7458px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  18 of 71 tap targets under 24px: a 117x21, a 22x22, a 22x22, a 22x22, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://henrysonthemarket.com/-party?source=pop_up&spot_id=110587&destination=private_parties&promotion=private_parties  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://henrysonthemarket.com/-party?source=pop_up&spot_id=110587&destination=private_parties&promotion=private_parties  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://www.kbjacks.com/fayetteville-nc  [iphone]
+  FAIL  iOS zoom trap: select#edit-jump.ctools-jump-menu-select at 13px (needs 16px on touch)
+  FAIL  sideways overflow (page pans 12px sideways): div.views-field right=402, h2.field-content right=402, div.views-field right=402, div.views-field right=402, div.views-field right=402, div.views-field right=402
+  FAIL  dead link: http://www.cocg.co/ answers 404
+  WARN  19 of 25 tap targets under 24px: a.element-invisible 390x6, a 200x19, a 112x23, select#edit-jump.ctools-jump-menu-select 235x21, a.button 140x19
+  WARN  4 text elements under 12px: p 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://www.kbjacks.com/fayetteville-nc  [android]
+  WARN  17 of 25 tap targets under 24px: a.element-invisible 393x6, a 200x19, a 112x23, select#edit-jump.ctools-jump-menu-select 235x23, a 115x19
+  WARN  4 text elements under 12px: p 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://www.kbjacks.com/menu?section=3  [iphone]
+  FAIL  dead link: http://www.cocg.co/ answers 404
+  WARN  14 of 15 tap targets under 24px: a.element-invisible 390x6, a 200x19, a 140x19, a 103x19, a 86x13
+  WARN  4 text elements under 12px: p 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://www.kbjacks.com/menu?section=3  [android]
+  WARN  14 of 15 tap targets under 24px: a.element-invisible 393x6, a 200x19, a 140x19, a 103x19, a 86x13
+  WARN  4 text elements under 12px: p 11.2px, a 11.2px, a 11.2px, a 11.2px
+
+https://grazecharleston.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  14 of 103 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://grazecharleston.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 7772px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  15 of 105 tap targets under 24px: button.close 17x34, a 22x22, a 22x22, a 22x22, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://grazecharleston.com/?source=pop_up&spot_id=21697&destination=reservations&promotion=reservations  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  14 of 103 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://grazecharleston.com/?source=pop_up&spot_id=21697&destination=reservations&promotion=reservations  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  14 of 103 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://www.vadaspa.com/  [iphone]
+  WARN  29 of 67 tap targets under 24px: a.block 4x80, button.drawer-heading-toggle 4x85, button.drawer-heading-toggle 4x55, button.drawer-heading-toggle 4x85, button.drawer-heading-toggle 4x116
+  WARN  1 text elements under 12px: span.map-pin-label 11px
+
+https://www.vadaspa.com/  [android]
+  WARN  29 of 67 tap targets under 24px: a.block 4x80, button.drawer-heading-toggle 4x85, button.drawer-heading-toggle 4x55, button.drawer-heading-toggle 4x85, button.drawer-heading-toggle 4x116
+  WARN  1 text elements under 12px: span.map-pin-label 11px
+
+https://www.sidepocketswichita.com/  [iphone]
+  FAIL  pageerror: Can't create duplicate variable: 'checkRuleLogicOnFeEnabled'
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  4 of 35 tap targets under 24px: a#1897133225 160x22, a#1526649451 38x22, a#1617220688 327x22, a#1144928110 327x22
+
+https://www.sidepocketswichita.com/  [android]
+  FAIL  pageerror: Identifier 'checkRuleLogicOnFeEnabled' has already been declared
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  4 of 35 tap targets under 24px: a#1897133225 160x22, a#1526649451 38x22, a#1617220688 330x22, a#1144928110 330x22
+
+https://www.sidepocketswichita.com/sp-reservation-request  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 43 tap targets under 24px: a#1897133225 160x22, a#1526649451 38x22
+
+https://www.sidepocketswichita.com/sp-reservation-request  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  2 of 43 tap targets under 24px: a#1897133225 160x22, a#1526649451 38x22
+
+https://www.5-8club.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780
+  FAIL  pageerror: null is not an object (evaluating 'document.getElementById('my-store-203387').appendChild')
+  WARN  3 text elements under 12px: div.widCOETitle 10px, span.widCOEDateText 10px, div.widCOEReadReviews 10px
+
+https://www.5-8club.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786
+  FAIL  pageerror: Cannot read properties of null (reading 'appendChild')
+  WARN  header at y=-411 after scrolling down and back up
+  WARN  3 text elements under 12px: div.widCOETitle 10px, span.widCOEDateText 10px, div.widCOEReadReviews 10px
+
+https://www.5-8club.com/menus/minneapolis  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780
+  FAIL  pageerror: null is not an object (evaluating 'document.getElementById('my-store-203387').appendChild')
+
+https://www.5-8club.com/menus/minneapolis  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786
+  FAIL  pageerror: Cannot read properties of null (reading 'appendChild')
+  WARN  header at y=-347 after scrolling down and back up
+
+https://first-avenue.com/venue/turf-club/  [iphone]
+  FAIL  iOS zoom trap: input#_HIVE-email-1824.sm at 13.333333px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#_HIVE-phoneNumber-1824 at 15.333333px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#_HIVE-firstName-1824 at 15.333333px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#_HIVE-lastName-1824 at 15.333333px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  broken image: https://first-avenue.com/wp-content/themes/firstave/images/venues/icon-mpls-cpac.svg
+  WARN  17 of 79 tap targets under 24px: a.logo_link 157x19, a 103x21, a 253x21, a 99x21, a 253x21
+  WARN  23 text elements under 12px: h6.mb-1 11.333333px, h6.mt-5 11.333333px, h6.mt-5 11.333333px, div.month 10.777778px
+
+https://first-avenue.com/venue/turf-club/  [android]
+  FAIL  iOS zoom trap: input#_HIVE-email-1824.sm at 13.3333px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#_HIVE-phoneNumber-1824 at 15.3333px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#_HIVE-firstName-1824 at 15.3333px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#_HIVE-lastName-1824 at 15.3333px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  broken image: https://first-avenue.com/wp-content/themes/firstave/images/venues/icon-mpls-cpac.svg
+  WARN  header at y=-18 after scrolling down and back up
+  WARN  16 of 79 tap targets under 24px: a.logo_link 157x19, a 103x21, a 98x21, a 253x21, a.logo 120x23
+  WARN  23 text elements under 12px: h6.mb-1 11.3333px, h6.mt-5 11.3333px, h6.mt-5 11.3333px, div.month 10.7778px
+
+https://first-avenue.com/turfmenu-2-26-25/  [iphone]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://first-avenue.com/turfmenu-2-26-
+
+https://first-avenue.com/turfmenu-2-26-25/  [android]
+  FAIL  did not load: Page.goto: Download is starting
+Call log:
+  - navigating to "https://first-avenue.com/turfmenu-2-26-
+
+https://www.keens.com/  [iphone]
+  WARN  12 of 22 tap targets under 24px: a.chownow-order-online 236x12, a 263x14, a 105x18, a 177x18, a 154x15
+  WARN  3 text elements under 12px: a.chownow-order-online 10px, span#herecolor 10px, div.header_address_m 10px
+
+https://www.keens.com/  [android]
+  FAIL  did not load: Page.goto: net::ERR_CONNECTION_RESET at https://www.keens.com/
+Call log:
+  - navigating to "https://
+
+https://www.keens.com/orderinfo/  [iphone]
+  FAIL  did not load: Page.goto: A TLS error caused the secure connection to fail.
+Call log:
+  - navigating to "https://ww
+
+https://www.keens.com/orderinfo/  [android]
+  FAIL  did not load: Page.goto: net::ERR_CONNECTION_RESET at https://www.keens.com/orderinfo/
+Call log:
+  - navigating to
+
+https://e-a-t.nyc/  [iphone]
+  WARN  11 of 25 tap targets under 24px: a 41x20, button 14x9, button.gm-style-cc 102x14, a 28x12, a 166x20
+  WARN  3 text elements under 12px: span 10px, span 10px, a 10px
+
+https://e-a-t.nyc/  [android]
+  WARN  11 of 26 tap targets under 24px: a 41x20, button 14x9, button.gm-style-cc 102x14, a 28x11, a 166x20
+  WARN  3 text elements under 12px: span 10px, span 10px, a 10px
+
+https://thinkcoffee.com/  [iphone]
+  WARN  15 of 67 tap targets under 24px: a.hover:text-scheme-accent-1 29x14, a.hover:text-scheme-accent-1 72x14, a.hover:text-scheme-accent-1 34x14, a.hover:text-scheme-accent-1 76x14, a.hover:text-scheme-accent-1 26x14
+
+https://thinkcoffee.com/  [android]
+  FAIL  pageerror: Received "error" from /start
+  WARN  fixed layer div.needsclick covers 100% of the screen
+  WARN  16 of 73 tap targets under 24px: a.hover:text-scheme-accent-1 29x14, a.hover:text-scheme-accent-1 72x14, a.hover:text-scheme-accent-1 34x14, a.hover:text-scheme-accent-1 76x14, a.hover:text-scheme-accent-1 26x14
+
+https://thinkcoffee.com/products/kellensoo-ethiopia  [iphone]
+  WARN  19 of 74 tap targets under 24px: button.push-btn 20x20, button.push-btn 20x20, input#product_4559396634711_onetime.rc-radio__input 16x12, input#product_4559396634711_subsave.rc-radio__input 16x12, a.hover:text-scheme-accent-1 29x14
+
+https://thinkcoffee.com/products/kellensoo-ethiopia  [android]
+  FAIL  pageerror: Received "error" from /start
+  WARN  fixed layer div.needsclick covers 100% of the screen
+  WARN  20 of 79 tap targets under 24px: button.push-btn 20x20, button.push-btn 20x20, input#product_4559396634711_onetime.rc-radio__input 16x13, input#product_4559396634711_subsave.rc-radio__input 16x13, a.hover:text-scheme-accent-1 29x14
+
+https://esmdeli.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  11 of 87 tap targets under 24px: button 15x15, button 15x15, button 15x15, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://esmdeli.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 6538px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  11 of 89 tap targets under 24px: button 15x15, button 15x15, button 15x15, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://esmdeli.com/los-angeles-victor-heights-chinatown-eastside-italian-deli-food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://esmdeli.com/los-angeles-victor-heights-chinatown-eastside-italian-deli-food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://www.haymarketbeer.com/  [iphone]
+  FAIL  iOS zoom trap: input#email-yui_3_17_2_1_1737409802014_32725-field.newsletter-form-field-element at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: null is not an object (evaluating 'document.getElementById("copyYear").innerHTML = currentYear')
+  WARN  2 of 10 tap targets under 24px: a 196x15, a 227x15
+
+https://www.haymarketbeer.com/  [android]
+  FAIL  iOS zoom trap: input#email-yui_3_17_2_1_1737409802014_32725-field.newsletter-form-field-element at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  FAIL  pageerror: Cannot set properties of null (setting 'innerHTML')
+  WARN  2 of 10 tap targets under 24px: a 196x16, a 227x16
+
+https://pequodspizza.com/chicago/  [iphone]
+  FAIL  dead link: https://www.foodnetwork.com/shows/top-5-restaurants/photos/top-5-pizzas-in-america-top-5-restaurants answers 404
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  20 of 43 tap targets under 24px: a.txt-color 24x19, a 125x16, a.et-cart-info 26x17, a 312x19, a 83x20
+
+https://pequodspizza.com/chicago/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  20 of 43 tap targets under 24px: a.txt-color 24x19, a 126x16, a.et-cart-info 26x18, a 314x19, a 83x20
+
+https://pequodspizza.com/chicago/menu/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  15 of 24 tap targets under 24px: a.txt-color 24x19, a 125x16, a.et-cart-info 26x17, a 264x24, a 101x19
+  WARN  13 text elements under 12px: span.txt-mini 11px, span.txt-mini 11px, span.txt-mini 11px, span.txt-mini 11px
+
+https://pequodspizza.com/chicago/menu/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  15 of 24 tap targets under 24px: a.txt-color 24x19, a 126x16, a.et-cart-info 26x18, a 266x24, a 101x19
+  WARN  13 text elements under 12px: span.txt-mini 11px, span.txt-mini 11px, span.txt-mini 11px, span.txt-mini 11px
+
+https://www.mcgonigels.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576, div.cart-container right=1390
+  FAIL  dead link: https://www.mcgonigels.com/null answers 404
+  WARN  fixed layer div#cmplz-cookiebanner-1-optout.cmplz-cookiebanner covers 53% of the screen
+  WARN  107 of 214 tap targets under 24px: div.cmplz-close 20x20, a 50x18, a 366x18, a 366x18, a 366x18
+
+https://www.mcgonigels.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579, div.cart-container right=1393
+  WARN  fixed layer div#cmplz-cookiebanner-1-optout.cmplz-cookiebanner covers 48% of the screen
+  WARN  107 of 214 tap targets under 24px: div.cmplz-close 20x20, a 50x18, a 369x18, a 369x18, a 369x18
+
+https://www.mcgonigels.com/lunch-dinner-food-and-drink-menus/  [iphone]
+  FAIL  did not load: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://www.mcgonigels.com/lunch-d
+
+https://www.mcgonigels.com/lunch-dinner-food-and-drink-menus/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=581
+  WARN  broken image: https://mcgonigels-integration.tecture.net/wp-content/uploads/2022/04/uber-eats-badge.png
+  WARN  fixed layer div#cmplz-cookiebanner-1-optout.cmplz-cookiebanner covers 48% of the screen
+  WARN  7 of 17 tap targets under 24px: div.cmplz-close 20x20, a 16x18, a 179x18, a 126x18, a 55x18
+
+54 page-device rows, 36 FAIL findings

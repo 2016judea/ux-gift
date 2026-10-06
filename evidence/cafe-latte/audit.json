@@ -1,0 +1,824 @@
+[
+ {
+  "url": "https://www.cafelatte.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 3.2,
+  "meta": "width=device-width, initial-scale=1.0, shrink-to-fit=no",
+  "vw": 390,
+  "vh": 664,
+  "docH": 4805,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791322099296_394.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   },
+   {
+    "el": "div.cn-cta-mobile-container",
+    "pos": "fixed",
+    "cover": 13
+   }
+  ],
+  "targets": 49,
+  "small": 7,
+  "smallList": [
+   "a 46x22",
+   "a 46x22",
+   "a 66x22",
+   "a 53x22",
+   "a 47x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 18,
+  "headTag": "nav.mobile-primary-nav-links",
+  "textLen": 2093,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Daily Menu",
+    "href": "https://www.cafelatte.com/dailymenu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.cafelatte.com/giftcards"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.cafelatte.com/orderonline"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.cafelatte.com/shop"
+   },
+   {
+    "text": "Daily Menu",
+    "href": "https://www.cafelatte.com/dailymenu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.cafelatte.com/giftcards"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.cafelatte.com/orderonline"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.cafelatte.com/shop"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.cafelatte.com/new-page"
+   },
+   {
+    "text": "order online",
+    "href": "https://www.cafelatte.com/gift-cards"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/cafe-latte-850-grand-ave"
+   }
+  ],
+  "allLinks": [
+   "https://www.cafelatte.com/",
+   "https://www.cafelatte.com/dailymenu",
+   "https://www.cafelatte.com/desserts",
+   "https://www.cafelatte.com/bread-scones",
+   "https://www.cafelatte.com/pizza-wine",
+   "https://www.cafelatte.com/coffee-drinks",
+   "https://www.cafelatte.com/contact-hours",
+   "https://www.cafelatte.com/whoweare",
+   "https://www.cafelatte.com/donations",
+   "https://www.cafelatte.com/community",
+   "https://www.cafelatte.com/box-lunches",
+   "https://www.cafelatte.com/weddings",
+   "https://www.cafelatte.com/baby",
+   "https://www.cafelatte.com/events",
+   "https://www.cafelatte.com/music-eventscalendar",
+   "https://www.cafelatte.com/giftcards",
+   "https://www.cafelatte.com/join-our-team",
+   "https://www.cafelatte.com/orderonline",
+   "https://www.cafelatte.com/shop",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1781119314924-RAN24B88R68Z101VVG03/image-asset.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1780337886370-SB11G3RHW4DQJV9TWUK6/image-asset.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1780167382964-5EL1IRXRZVNAKEMYYEJU/image-asset.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1779835639799-RVRCG5EZZIT1TQ4IUUP0/image-asset.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1778601453424-4Q7GGITRG0A85MBIX7KQ/image-asset.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1778171644032-57VOX3QCKO561P3R6DSO/image-asset.jpeg",
+   "http://instagram.com/cafelattemn",
+   "https://facebook.com/cafelattemn",
+   "https://www.cafelatte.com/home",
+   "https://www.cafelatte.com/new-page",
+   "https://www.cafelatte.com/services",
+   "https://www.cafelatte.com/cafe-events",
+   "https://www.cafelatte.com/gift-cards",
+   "https://www.cafelatte.com/about",
+   "https://www.cafelatte.com/contact",
+   "https://www.toasttab.com/cafe-latte-850-grand-ave"
+  ],
+  "weight": 26460,
+  "title": "Cafe Latte",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4141,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 18
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.cafelatte.com/new-page",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.cafelatte.com/gift-cards",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.toasttab.com/cafe-latte-850-grand-ave",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.cafelatte.com/services",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.cafelatte.com/cafe-events",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.cafelatte.com/about",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.cafelatte.com/contact",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-cafelatte-com.png",
+  "errors": [
+   "console: Refused to execute https://www.toasttab.com/cafe-latte-850-grand-ave as script because \"X-Content-Type-Options: nosniff\" was given and its C",
+   "console: Failed to load resource: the server responded with a status of 401 ()",
+   "console: AxiosError: Request failed with status code 401"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/new-page answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/gift-cards answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/services answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/cafe-events answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/about answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/contact answers 404"
+   ],
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791322099296_394.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "7 of 49 tap targets under 24px: a 46x22, a 46x22, a 66x22, a 53x22, a 47x22"
+   ],
+   [
+    "INFO",
+    "console: Refused to execute https://www.toasttab.com/cafe-latte-850-grand-ave as script because \"X-Content-Type-Options: nosniff\" was given and its C"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4805px tall"
+   ]
+  ],
+  "site": "https://www.cafelatte.com/",
+  "hop": "https://www.cafelatte.com/dailymenu"
+ },
+ {
+  "url": "https://www.cafelatte.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.8,
+  "meta": "width=device-width, initial-scale=1.0, shrink-to-fit=no",
+  "vw": 393,
+  "vh": 727,
+  "docH": 4825,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791322108030_414.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   },
+   {
+    "el": "div.cn-cta-mobile-container",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 49,
+  "small": 7,
+  "smallList": [
+   "a 46x21",
+   "a 46x21",
+   "a 66x21",
+   "a 53x21",
+   "a 47x21"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": -326,
+  "headTag": "nav.mobile-primary-nav-links",
+  "textLen": 2381,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Daily Menu",
+    "href": "https://www.cafelatte.com/dailymenu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.cafelatte.com/giftcards"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.cafelatte.com/orderonline"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.cafelatte.com/shop"
+   },
+   {
+    "text": "Daily Menu",
+    "href": "https://www.cafelatte.com/dailymenu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.cafelatte.com/giftcards"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.cafelatte.com/orderonline"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.cafelatte.com/shop"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.cafelatte.com/new-page"
+   },
+   {
+    "text": "order online",
+    "href": "https://www.cafelatte.com/gift-cards"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.toasttab.com/cafe-latte-850-grand-ave"
+   }
+  ],
+  "allLinks": [
+   "https://www.cafelatte.com/",
+   "https://www.cafelatte.com/dailymenu",
+   "https://www.cafelatte.com/desserts",
+   "https://www.cafelatte.com/bread-scones",
+   "https://www.cafelatte.com/pizza-wine",
+   "https://www.cafelatte.com/coffee-drinks",
+   "https://www.cafelatte.com/contact-hours",
+   "https://www.cafelatte.com/whoweare",
+   "https://www.cafelatte.com/donations",
+   "https://www.cafelatte.com/community",
+   "https://www.cafelatte.com/box-lunches",
+   "https://www.cafelatte.com/weddings",
+   "https://www.cafelatte.com/baby",
+   "https://www.cafelatte.com/events",
+   "https://www.cafelatte.com/music-eventscalendar",
+   "https://www.cafelatte.com/giftcards",
+   "https://www.cafelatte.com/join-our-team",
+   "https://www.cafelatte.com/orderonline",
+   "https://www.cafelatte.com/shop",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1781119314924-RAN24B88R68Z101VVG03/image-asset.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1780337886370-SB11G3RHW4DQJV9TWUK6/image-asset.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1780167382964-5EL1IRXRZVNAKEMYYEJU/image-asset.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1779835639799-RVRCG5EZZIT1TQ4IUUP0/image-asset.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1778601453424-4Q7GGITRG0A85MBIX7KQ/image-asset.jpeg",
+   "https://images.squarespace-cdn.com/content/v1/5bad59ffd7456210a03ee0c7/1778171644032-57VOX3QCKO561P3R6DSO/image-asset.jpeg",
+   "http://instagram.com/cafelattemn",
+   "https://facebook.com/cafelattemn",
+   "https://www.cafelatte.com/home",
+   "https://www.cafelatte.com/new-page",
+   "https://www.cafelatte.com/services",
+   "https://www.cafelatte.com/cafe-events",
+   "https://www.cafelatte.com/gift-cards",
+   "https://www.cafelatte.com/about",
+   "https://www.cafelatte.com/contact",
+   "https://www.toasttab.com/cafe-latte-850-grand-ave"
+  ],
+  "weight": 26424,
+  "title": "Cafe Latte",
+  "roundtrip": {
+   "atBottom": {
+    "y": 4098,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 49
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 401 ()",
+   "console: AxiosError: Request failed with status code 401\n    at t (https://assets.squarespace.com/universal/scripts-compressed/common-vendors-d4778a8"
+  ],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791322108030_414.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "7 of 49 tap targets under 24px: a 46x21, a 46x21, a 66x21, a 53x21, a 47x21"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: the server responded with a status of 401 ()"
+   ],
+   [
+    "INFO",
+    "document scrolls, 4825px tall"
+   ]
+  ],
+  "site": "https://www.cafelatte.com/"
+ },
+ {
+  "url": "https://www.cafelatte.com/dailymenu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.7,
+  "meta": "width=device-width, initial-scale=1.0, shrink-to-fit=no",
+  "vw": 390,
+  "vh": 664,
+  "docH": 2886,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791322112431_281.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   },
+   {
+    "el": "div.cn-cta-mobile-container",
+    "pos": "fixed",
+    "cover": 13
+   }
+  ],
+  "targets": 40,
+  "small": 8,
+  "smallList": [
+   "a 132x22",
+   "a 46x22",
+   "a 46x22",
+   "a 66x22",
+   "a 53x22"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 18,
+  "headTag": "nav.mobile-primary-nav-links",
+  "textLen": 1182,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Daily Menu",
+    "href": "https://www.cafelatte.com/dailymenu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.cafelatte.com/giftcards"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.cafelatte.com/orderonline"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.cafelatte.com/shop"
+   },
+   {
+    "text": "Daily Menu",
+    "href": "https://www.cafelatte.com/dailymenu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.cafelatte.com/giftcards"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.cafelatte.com/orderonline"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.cafelatte.com/shop"
+   },
+   {
+    "text": "TOAST TAKEOUT",
+    "href": "https://order.toasttab.com/online/cafe-latte-850-grand-ave"
+   },
+   {
+    "text": "Daily Menu here - Soups, Salads, Sandwic",
+    "href": "https://order.toasttab.com/online/cafe-latte-850-grand-ave"
+   },
+   {
+    "text": "",
+    "href": "https://www.toasttab.com/cafe-latte-850-grand-ave"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.cafelatte.com/new-page"
+   }
+  ],
+  "allLinks": [
+   "https://www.cafelatte.com/",
+   "https://www.cafelatte.com/dailymenu",
+   "https://www.cafelatte.com/desserts",
+   "https://www.cafelatte.com/bread-scones",
+   "https://www.cafelatte.com/pizza-wine",
+   "https://www.cafelatte.com/coffee-drinks",
+   "https://www.cafelatte.com/contact-hours",
+   "https://www.cafelatte.com/whoweare",
+   "https://www.cafelatte.com/donations",
+   "https://www.cafelatte.com/community",
+   "https://www.cafelatte.com/box-lunches",
+   "https://www.cafelatte.com/weddings",
+   "https://www.cafelatte.com/baby",
+   "https://www.cafelatte.com/events",
+   "https://www.cafelatte.com/music-eventscalendar",
+   "https://www.cafelatte.com/giftcards",
+   "https://www.cafelatte.com/join-our-team",
+   "https://www.cafelatte.com/orderonline",
+   "https://www.cafelatte.com/shop",
+   "https://order.toasttab.com/online/cafe-latte-850-grand-ave",
+   "https://www.toasttab.com/cafe-latte-850-grand-ave",
+   "https://www.cafelatte.com/home",
+   "https://www.cafelatte.com/new-page",
+   "https://www.cafelatte.com/services",
+   "https://www.cafelatte.com/cafe-events",
+   "https://www.cafelatte.com/gift-cards",
+   "https://www.cafelatte.com/about",
+   "https://www.cafelatte.com/contact",
+   "http://instagram.com/cafelattemn",
+   "https://facebook.com/cafelattemn"
+  ],
+  "weight": 23254,
+  "title": "Daily Menu \u2014 Cafe Latte",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2222,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 18
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://order.toasttab.com/online/cafe-latte-850-grand-ave",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.toasttab.com/cafe-latte-850-grand-ave",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.cafelatte.com/new-page",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.cafelatte.com/services",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.cafelatte.com/cafe-events",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.cafelatte.com/gift-cards",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.cafelatte.com/about",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.cafelatte.com/contact",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-cafelatte-com-dailymenu.png",
+  "errors": [
+   "console: Refused to execute https://www.toasttab.com/cafe-latte-850-grand-ave as script because \"X-Content-Type-Options: nosniff\" was given and its C"
+  ],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/new-page answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/services answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/cafe-events answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/gift-cards answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/about answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.cafelatte.com/contact answers 404"
+   ],
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791322112431_281.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "8 of 40 tap targets under 24px: a 132x22, a 46x22, a 46x22, a 66x22, a 53x22"
+   ],
+   [
+    "INFO",
+    "console: Refused to execute https://www.toasttab.com/cafe-latte-850-grand-ave as script because \"X-Content-Type-Options: nosniff\" was given and its C"
+   ],
+   [
+    "INFO",
+    "document scrolls, 2886px tall"
+   ]
+  ],
+  "site": "https://www.cafelatte.com/"
+ },
+ {
+  "url": "https://www.cafelatte.com/dailymenu",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.8,
+  "meta": "width=device-width, initial-scale=1.0, shrink-to-fit=no",
+  "vw": 393,
+  "vh": 727,
+  "docH": 2879,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791322118182_281.yui3-widget",
+    "pos": "fixed",
+    "cover": 50
+   },
+   {
+    "el": "div.cn-cta-mobile-container",
+    "pos": "fixed",
+    "cover": 11
+   }
+  ],
+  "targets": 40,
+  "small": 8,
+  "smallList": [
+   "a 132x21",
+   "a 46x21",
+   "a 46x21",
+   "a 66x21",
+   "a 53x21"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 49,
+  "headTag": "nav.mobile-primary-nav-links",
+  "textLen": 1468,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Daily Menu",
+    "href": "https://www.cafelatte.com/dailymenu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.cafelatte.com/giftcards"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.cafelatte.com/orderonline"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.cafelatte.com/shop"
+   },
+   {
+    "text": "Daily Menu",
+    "href": "https://www.cafelatte.com/dailymenu"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://www.cafelatte.com/giftcards"
+   },
+   {
+    "text": "Order Online",
+    "href": "https://www.cafelatte.com/orderonline"
+   },
+   {
+    "text": "Shop",
+    "href": "https://www.cafelatte.com/shop"
+   },
+   {
+    "text": "TOAST TAKEOUT",
+    "href": "https://order.toasttab.com/online/cafe-latte-850-grand-ave"
+   },
+   {
+    "text": "Daily Menu here - Soups, Salads, Sandwic",
+    "href": "https://order.toasttab.com/online/cafe-latte-850-grand-ave"
+   },
+   {
+    "text": "",
+    "href": "https://www.toasttab.com/cafe-latte-850-grand-ave"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.cafelatte.com/new-page"
+   }
+  ],
+  "allLinks": [
+   "https://www.cafelatte.com/",
+   "https://www.cafelatte.com/dailymenu",
+   "https://www.cafelatte.com/desserts",
+   "https://www.cafelatte.com/bread-scones",
+   "https://www.cafelatte.com/pizza-wine",
+   "https://www.cafelatte.com/coffee-drinks",
+   "https://www.cafelatte.com/contact-hours",
+   "https://www.cafelatte.com/whoweare",
+   "https://www.cafelatte.com/donations",
+   "https://www.cafelatte.com/community",
+   "https://www.cafelatte.com/box-lunches",
+   "https://www.cafelatte.com/weddings",
+   "https://www.cafelatte.com/baby",
+   "https://www.cafelatte.com/events",
+   "https://www.cafelatte.com/music-eventscalendar",
+   "https://www.cafelatte.com/giftcards",
+   "https://www.cafelatte.com/join-our-team",
+   "https://www.cafelatte.com/orderonline",
+   "https://www.cafelatte.com/shop",
+   "https://order.toasttab.com/online/cafe-latte-850-grand-ave",
+   "https://www.toasttab.com/cafe-latte-850-grand-ave",
+   "https://www.cafelatte.com/home",
+   "https://www.cafelatte.com/new-page",
+   "https://www.cafelatte.com/services",
+   "https://www.cafelatte.com/cafe-events",
+   "https://www.cafelatte.com/gift-cards",
+   "https://www.cafelatte.com/about",
+   "https://www.cafelatte.com/contact",
+   "http://instagram.com/cafelattemn",
+   "https://facebook.com/cafelattemn"
+  ],
+  "weight": 23218,
+  "title": "Daily Menu \u2014 Cafe Latte",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2152,
+    "inner": null
+   },
+   "backY": 0,
+   "backInner": null,
+   "headTop": 49
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "fixed layer div#yui_3_17_2_1_1791322118182_281.yui3-widget covers 50% of the screen"
+   ],
+   [
+    "WARN",
+    "8 of 40 tap targets under 24px: a 132x21, a 46x21, a 46x21, a 66x21, a 53x21"
+   ],
+   [
+    "INFO",
+    "document scrolls, 2879px tall"
+   ]
+  ],
+  "site": "https://www.cafelatte.com/"
+ }
+]

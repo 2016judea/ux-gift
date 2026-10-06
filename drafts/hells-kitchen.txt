@@ -1,0 +1,19 @@
+To: talktous@hellskitcheninc.com
+Subject: TODO
+
+I ran UX testing on your website.
+
+#1) On your Day Menu page there is a bug where the "DAY MENU PDF" button goes to a "page not found" screen.
+The button links to a PDF (/s/2026-Midway-Menu-AM-1-s5td.pdf) that has been removed or renamed.
+Recommend to your developer that they re-upload the menu PDF and re-link the button.
+
+Forward this email to your website/developer to have them fix the above. 
+
+This was free of charge. No catch. But if interested we do also offer:
+ 
+  - More thorough testing -- $100
+  - Brand / website re-designs -- $500
+  - Anything else you can think of -- Ask me for a quote
+
+Thank you,
+Aidan.

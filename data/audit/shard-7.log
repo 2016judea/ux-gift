@@ -1,0 +1,418 @@
+WARN iphone  http://www.griffoncharleston.com/
+WARN android http://www.griffoncharleston.com/
+FAIL iphone  http://www.griffoncharleston.com/menu
+WARN android http://www.griffoncharleston.com/menu
+FAIL iphone  https://charlestonpourhouse.com/
+FAIL android https://charlestonpourhouse.com/
+FAIL iphone  https://charlestonpourhouse.com/cart/
+FAIL android https://charlestonpourhouse.com/cart/
+FAIL iphone  https://brilliantmassageandskin.com/
+FAIL android https://brilliantmassageandskin.com/
+FAIL iphone  https://brilliantmassageandskin.com/shop
+FAIL android https://brilliantmassageandskin.com/shop
+FAIL iphone  https://gerhardscafe.net/
+WARN android https://gerhardscafe.net/
+WARN iphone  https://gerhardscafe.net/-party?source=pop_up&spot_id=117945&destination=private_parties&promotion=private_parties
+WARN android https://gerhardscafe.net/-party?source=pop_up&spot_id=117945&destination=private_parties&promotion=private_parties
+FAIL iphone  https://idolizespa.com/steele-creek/
+FAIL android https://idolizespa.com/steele-creek/
+FAIL iphone  https://idolizespa.com/locations/
+FAIL android https://idolizespa.com/locations/
+FAIL iphone  https://www.bostons.com/
+WARN android https://www.bostons.com/
+FAIL iphone  https://www.bostons.com/locations/index.html
+WARN android https://www.bostons.com/locations/index.html
+FAIL iphone  https://www.cafelatte.com/
+WARN android https://www.cafelatte.com/
+FAIL iphone  https://www.cafelatte.com/dailymenu
+WARN android https://www.cafelatte.com/dailymenu
+FAIL iphone  https://www.tareendermatology.com/location/roseville/
+FAIL android https://www.tareendermatology.com/location/roseville/
+FAIL iphone  https://www.tareendermatology.com/scheduleanappointment/
+FAIL android https://www.tareendermatology.com/scheduleanappointment/
+FAIL iphone  https://thesmithrestaurant.com/location/midtown/
+WARN android https://thesmithrestaurant.com/location/midtown/
+FAIL iphone  https://thesmithrestaurant.com/gift-cards/
+WARN android https://thesmithrestaurant.com/gift-cards/
+FAIL iphone  https://mcgeespubny.com/
+FAIL android https://mcgeespubny.com/
+WARN iphone  https://mcgeespubny.com/-party?source=pop_up&spot_id=2451&destination=private_parties&promotion=private_parties
+WARN android https://mcgeespubny.com/-party?source=pop_up&spot_id=2451&destination=private_parties&promotion=private_parties
+FAIL iphone  https://www.locandaverdenyc.com/
+FAIL android https://www.locandaverdenyc.com/
+FAIL iphone  https://www.locandaverdenyc.com/reservations/
+FAIL android https://www.locandaverdenyc.com/reservations/
+FAIL iphone  https://www.beachwoodcafe.com/
+WARN android https://www.beachwoodcafe.com/
+FAIL iphone  https://www.beachwoodcafe.com/menus/
+WARN android https://www.beachwoodcafe.com/menus/
+WARN iphone  https://starofsiamchicago.com/
+FAIL android https://starofsiamchicago.com/
+WARN iphone  https://starofsiamchicago.com/-reservations?source=pop_up&spot_id=227027&destination=reservations&promotion=reservations
+WARN android https://starofsiamchicago.com/-reservations?source=pop_up&spot_id=227027&destination=reservations&promotion=reservations
+FAIL iphone  https://www.cycloneanaya.com/
+FAIL android https://www.cycloneanaya.com/
+FAIL iphone  https://www.cycloneanaya.com/menu/main-menu
+FAIL android https://www.cycloneanaya.com/menu/main-menu
+WARN iphone  https://pappasbros.com/
+WARN android https://pappasbros.com/
+WARN iphone  https://pappasbros.com/gift-cards
+WARN android https://pappasbros.com/gift-cards
+
+== findings (FAIL and WARN) ==
+
+http://www.griffoncharleston.com/  [iphone]
+  WARN  1 of 6 tap targets under 24px: a#site-title 96x22
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+http://www.griffoncharleston.com/  [android]
+  WARN  1 of 6 tap targets under 24px: a#site-title 97x22
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+http://www.griffoncharleston.com/menu  [iphone]
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  1 of 6 tap targets under 24px: a#site-title 96x22
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+http://www.griffoncharleston.com/menu  [android]
+  WARN  1 of 6 tap targets under 24px: a#site-title 97x22
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://charlestonpourhouse.com/  [iphone]
+  FAIL  iOS zoom trap: input#mce-EMAIL.email at 15px (needs 16px on touch)
+  WARN  3 of 67 tap targets under 24px: a.fusion-no-lightbox 173x23, button.tribe-events-c-subscribe-dropdown__button-text 179x21, a 121x16
+  WARN  1 text elements under 12px: sr7-txt#SR7_3_1-4-0.sr7-layer 6px
+
+https://charlestonpourhouse.com/  [android]
+  FAIL  iOS zoom trap: input#mce-EMAIL.email at 15px (needs 16px on touch)
+  WARN  3 of 67 tap targets under 24px: a.fusion-no-lightbox 174x23, button.tribe-events-c-subscribe-dropdown__button-text 179x21, a 121x15
+  WARN  1 text elements under 12px: sr7-txt#SR7_3_1-4-0.sr7-layer 6px
+
+https://charlestonpourhouse.com/cart/  [iphone]
+  FAIL  iOS zoom trap: input#mce-EMAIL.email at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  3 of 22 tap targets under 24px: a.fusion-no-lightbox 173x23, a.button 150x23, a 121x16
+
+https://charlestonpourhouse.com/cart/  [android]
+  FAIL  iOS zoom trap: input#mce-EMAIL.email at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  3 of 22 tap targets under 24px: a.fusion-no-lightbox 174x23, a.button 150x23, a 121x15
+
+https://brilliantmassageandskin.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.ktt10-flt right=858
+  FAIL  pageerror: Can't find variable: FacebookSignal
+  WARN  37 of 92 tap targets under 24px: a.jacqueline_skip_link 105x23, a.jacqueline_skip_link 92x23, a.sc_layouts_item_link 23x23, a.sc_layouts_logo 50x20, a 70x18
+  WARN  14 text elements under 12px: span.sc_button_title 11px, a#slider-1-slide-17-layer-10.rs-layer 11px, span.sc_button_title_first 11px, span.sc_button_title_first 11px
+
+https://brilliantmassageandskin.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.ktt10-flt right=865
+  FAIL  pageerror: FacebookSignal is not defined
+  WARN  header at y=-463 after scrolling down and back up
+  WARN  37 of 92 tap targets under 24px: a.jacqueline_skip_link 105x23, a.jacqueline_skip_link 92x23, a.sc_layouts_item_link 23x23, a.sc_layouts_logo 50x21, a 70x18
+  WARN  14 text elements under 12px: span.sc_button_title 11px, a#slider-1-slide-17-layer-10.rs-layer 11px, span.sc_button_title_first 11px, span.sc_button_title_first 11px
+
+https://brilliantmassageandskin.com/shop  [iphone]
+  FAIL  iOS zoom trap: select.orderby at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input.search_field at 13px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.ktt10-flt right=858
+  FAIL  pageerror: Can't find variable: FacebookSignal
+  WARN  41 of 132 tap targets under 24px: a.jacqueline_skip_link 105x23, a.jacqueline_skip_link 101x23, a.jacqueline_skip_link 92x23, a.sc_layouts_item_link 23x23, a.sc_layouts_logo 50x20
+  WARN  4 text elements under 12px: span.sc_button_title 11px, span.onsale 11px, button.search_button 11px, button.button 11px
+
+https://brilliantmassageandskin.com/shop  [android]
+  FAIL  iOS zoom trap: select.orderby at 15px (needs 16px on touch)
+  FAIL  iOS zoom trap: input.search_field at 13px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.ktt10-flt right=865
+  FAIL  pageerror: FacebookSignal is not defined
+  WARN  header at y=-223 after scrolling down and back up
+  WARN  41 of 132 tap targets under 24px: a.jacqueline_skip_link 105x23, a.jacqueline_skip_link 101x23, a.jacqueline_skip_link 92x23, a.sc_layouts_item_link 23x23, a.sc_layouts_logo 50x21
+  WARN  4 text elements under 12px: span.sc_button_title 11px, span.onsale 11px, button.search_button 11px, button.button 11px
+
+https://gerhardscafe.net/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  document locked (overflow hidden) with 8775px of content and no inner scroller
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  14 of 79 tap targets under 24px: button.close 22x34, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://gerhardscafe.net/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  13 of 77 tap targets under 24px: a 22x22, a 22x22, button 15x15, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://gerhardscafe.net/-party?source=pop_up&spot_id=117945&destination=private_parties&promotion=private_parties  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://gerhardscafe.net/-party?source=pop_up&spot_id=117945&destination=private_parties&promotion=private_parties  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://idolizespa.com/steele-creek/  [iphone]
+  FAIL  dead link: https://idolizespa.com/facials-and-skincare/ answers 404
+  FAIL  document locked (overflow hidden) with 10561px of content and no inner scroller
+  WARN  fixed layer div#pum-21482.pum covers 100% of the screen
+  WARN  23 of 72 tap targets under 24px: a 207x19, a 150x19, a 109x19, a 204x19, span.swiper-pagination-bullet 6x6
+  WARN  1 text elements under 12px: em 10px
+
+https://idolizespa.com/steele-creek/  [android]
+  FAIL  document locked (overflow hidden) with 10587px of content and no inner scroller
+  WARN  fixed layer div#pum-21482.pum covers 100% of the screen
+  WARN  23 of 72 tap targets under 24px: a 207x19, a 150x19, a 109x19, a 204x19, span.swiper-pagination-bullet 6x6
+  WARN  1 text elements under 12px: em 10px
+
+https://idolizespa.com/locations/  [iphone]
+  FAIL  iOS zoom trap: input#auto-complete-search.asl-search-address at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav.elementor-nav-menu--dropdown right=451
+  WARN  28 of 79 tap targets under 24px: a 109x20, a 201x20, a 107x20, a 187x20, a 112x20
+
+https://idolizespa.com/locations/  [android]
+  FAIL  iOS zoom trap: input#auto-complete-search.asl-search-address at 15px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav.elementor-nav-menu--dropdown right=454
+  WARN  header at y=-364 after scrolling down and back up
+  WARN  28 of 79 tap targets under 24px: a 109x20, a 201x20, a 107x20, a 187x20, a 111x20
+
+https://www.bostons.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.globalSidebar right=788, figure.homeHero__image-left right=394
+  FAIL  dead link: https://www.ezcater.com/brand/pvt/bostons-restaurant-and-sports-bar answers 406
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  1 of 44 tap targets under 24px: a.links__inline--saucy-red 89x24
+  WARN  4 text elements under 12px: a.globalEyebrow__link 10px, div.globalHeader__nav-button-text 10px, span.presentational__is-hidden 10px, div.globalSidebar__copyright 10px
+
+https://www.bostons.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.globalSidebar right=794, figure.homeHero__image-left right=397
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  1 of 44 tap targets under 24px: a.links__inline--saucy-red 89x24
+  WARN  4 text elements under 12px: a.globalEyebrow__link 10px, div.globalHeader__nav-button-text 10px, span.presentational__is-hidden 10px, div.globalSidebar__copyright 10px
+
+https://www.bostons.com/locations/index.html  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.globalSidebar right=788
+  FAIL  dead link: https://www.ezcater.com/brand/pvt/bostons-restaurant-and-sports-bar answers 406
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  1 of 52 tap targets under 24px: a.links__inline--saucy-red 89x24
+  WARN  4 text elements under 12px: a.globalEyebrow__link 10px, div.globalHeader__nav-button-text 10px, span.presentational__is-hidden 10px, div.globalSidebar__copyright 10px
+
+https://www.bostons.com/locations/index.html  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.globalSidebar right=794
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  1 of 52 tap targets under 24px: a.links__inline--saucy-red 89x24
+  WARN  4 text elements under 12px: a.globalEyebrow__link 10px, div.globalHeader__nav-button-text 10px, span.presentational__is-hidden 10px, div.globalSidebar__copyright 10px
+
+https://www.cafelatte.com/  [iphone]
+  FAIL  dead link: https://www.cafelatte.com/new-page answers 404
+  FAIL  dead link: https://www.cafelatte.com/gift-cards answers 404
+  FAIL  dead link: https://www.cafelatte.com/services answers 404
+  FAIL  dead link: https://www.cafelatte.com/cafe-events answers 404
+  FAIL  dead link: https://www.cafelatte.com/about answers 404
+  FAIL  dead link: https://www.cafelatte.com/contact answers 404
+  WARN  fixed layer div#yui_3_17_2_1_1791322099296_394.yui3-widget covers 50% of the screen
+  WARN  7 of 49 tap targets under 24px: a 46x22, a 46x22, a 66x22, a 53x22, a 47x22
+
+https://www.cafelatte.com/  [android]
+  WARN  fixed layer div#yui_3_17_2_1_1791322108030_414.yui3-widget covers 50% of the screen
+  WARN  7 of 49 tap targets under 24px: a 46x21, a 46x21, a 66x21, a 53x21, a 47x21
+
+https://www.cafelatte.com/dailymenu  [iphone]
+  FAIL  dead link: https://www.cafelatte.com/new-page answers 404
+  FAIL  dead link: https://www.cafelatte.com/services answers 404
+  FAIL  dead link: https://www.cafelatte.com/cafe-events answers 404
+  FAIL  dead link: https://www.cafelatte.com/gift-cards answers 404
+  FAIL  dead link: https://www.cafelatte.com/about answers 404
+  FAIL  dead link: https://www.cafelatte.com/contact answers 404
+  WARN  fixed layer div#yui_3_17_2_1_1791322112431_281.yui3-widget covers 50% of the screen
+  WARN  8 of 40 tap targets under 24px: a 132x22, a 46x22, a 46x22, a 66x22, a 53x22
+
+https://www.cafelatte.com/dailymenu  [android]
+  WARN  fixed layer div#yui_3_17_2_1_1791322118182_281.yui3-widget covers 50% of the screen
+  WARN  8 of 40 tap targets under 24px: a 132x21, a 46x21, a 46x21, a 66x21, a 53x21
+
+https://www.tareendermatology.com/location/roseville/  [iphone]
+  FAIL  sideways overflow (page pans 50px sideways): div#ckyPreferenceCenter.cky-preference-center right=650, div right=440
+  FAIL  pageerror: Can't find variable: grecaptcha
+  WARN  fixed layer div.cky-consent-container covers 56% of the screen
+  WARN  fixed layer dialog#td-event-popup covers 42% of the screen
+  WARN  10 of 71 tap targets under 24px: a 78x13, a.scroll-top 14x30, a 99x22, a 95x22, a 264x22
+  WARN  1 text elements under 12px: a.text-hide 0px
+
+https://www.tareendermatology.com/location/roseville/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=625
+  FAIL  pageerror: grecaptcha is not defined
+  WARN  fixed layer div.cky-consent-container covers 43% of the screen
+  WARN  10 of 71 tap targets under 24px: a 78x13, a.scroll-top 14x30, a 99x22, a 95x22, a 264x22
+  WARN  1 text elements under 12px: a.text-hide 0px
+
+https://www.tareendermatology.com/scheduleanappointment/  [iphone]
+  FAIL  sideways overflow (page pans 50px sideways): div#ckyPreferenceCenter.cky-preference-center right=650, div right=440
+  FAIL  pageerror: Can't find variable: grecaptcha
+  WARN  fixed layer div.cky-consent-container covers 56% of the screen
+  WARN  fixed layer dialog#td-event-popup covers 42% of the screen
+  WARN  4 of 32 tap targets under 24px: a 78x13, a.scroll-top 14x30, a 254x21, a 167x17
+  WARN  1 text elements under 12px: a.text-hide 0px
+
+https://www.tareendermatology.com/scheduleanappointment/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=625
+  FAIL  pageerror: grecaptcha is not defined
+  WARN  fixed layer div.cky-consent-container covers 43% of the screen
+  WARN  4 of 32 tap targets under 24px: a 78x13, a.scroll-top 14x30, a 254x21, a 167x17
+  WARN  1 text elements under 12px: a.text-hide 0px
+
+https://thesmithrestaurant.com/location/midtown/  [iphone]
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  12 of 49 tap targets under 24px: a.btn-menu 36x15, a 125x22, a 350x20, a.pop-up-form 350x20, a 147x22
+  WARN  5 text elements under 12px: a 0px, a.facebook 0px, a.twitter 0px, a.instagram 0px
+
+https://thesmithrestaurant.com/location/midtown/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  12 of 49 tap targets under 24px: a.btn-menu 36x15, a 125x22, a 353x20, a.pop-up-form 353x20, a 147x22
+  WARN  5 text elements under 12px: a 0px, a.facebook 0px, a.twitter 0px, a.instagram 0px
+
+https://thesmithrestaurant.com/gift-cards/  [iphone]
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  10 of 17 tap targets under 24px: a.btn-menu 36x15, a 350x20, a 350x20, a 50x22, a 35x22
+  WARN  5 text elements under 12px: a 0px, a.facebook 0px, a.twitter 0px, a.instagram 0px
+
+https://thesmithrestaurant.com/gift-cards/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  10 of 17 tap targets under 24px: a.btn-menu 36x15, a 353x20, a 353x20, a 50x23, a 35x23
+  WARN  5 text elements under 12px: a 0px, a.facebook 0px, a.twitter 0px, a.instagram 0px
+
+https://mcgeespubny.com/  [iphone]
+  FAIL  document locked (overflow hidden) with 5464px of content and no inner scroller
+  FAIL  pageerror: undefined is not an object (evaluating 'CBSNEWS.tracking.siteHier.map')
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  9 of 44 tap targets under 24px: a 20x20, a 20x20, a 20x20, a 20x20, a 33x13
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://mcgeespubny.com/  [android]
+  FAIL  document locked (overflow hidden) with 5477px of content and no inner scroller
+  FAIL  pageerror: Cannot read properties of undefined (reading 'map')
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  9 of 44 tap targets under 24px: a 20x20, a 20x20, a 20x20, a 20x20, a 33x12
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://mcgeespubny.com/-party?source=pop_up&spot_id=2451&destination=private_parties&promotion=private_parties  [iphone]
+  WARN  wrong phone keyboard: tel field 'Phone Number...' (input#rp-phone.ng-pristine) is type=text, needs type=tel
+
+https://mcgeespubny.com/-party?source=pop_up&spot_id=2451&destination=private_parties&promotion=private_parties  [android]
+  WARN  wrong phone keyboard: tel field 'Phone Number...' (input#rp-phone.ng-pristine) is type=text, needs type=tel
+
+https://www.locandaverdenyc.com/  [iphone]
+  FAIL  pageerror: undefined is not an object (evaluating 'window.bentobox.overlayAlertComponent')
+  WARN  fixed layer div.termly-styles-root-b0aebb covers 52% of the screen
+  WARN  2 of 14 tap targets under 24px: span.termly-styles-root-d5f974 72x14, span.termly-styles-root-d5f974 64x14
+
+https://www.locandaverdenyc.com/  [android]
+  FAIL  pageerror: Cannot read properties of undefined (reading 'overlayAlertComponent')
+  WARN  fixed layer div.termly-styles-root-b0aebb covers 47% of the screen
+  WARN  2 of 14 tap targets under 24px: span.termly-styles-root-d5f974 71x14, span.termly-styles-root-d5f974 64x14
+
+https://www.locandaverdenyc.com/reservations/  [iphone]
+  FAIL  pageerror: undefined is not an object (evaluating 'window.bentobox.overlayAlertComponent')
+  WARN  fixed layer div.termly-styles-root-b0aebb covers 52% of the screen
+  WARN  2 of 12 tap targets under 24px: span.termly-styles-root-d5f974 72x14, span.termly-styles-root-d5f974 64x14
+
+https://www.locandaverdenyc.com/reservations/  [android]
+  FAIL  pageerror: Cannot read properties of undefined (reading 'overlayAlertComponent')
+  WARN  fixed layer div.termly-styles-root-b0aebb covers 47% of the screen
+  WARN  2 of 12 tap targets under 24px: span.termly-styles-root-d5f974 71x14, span.termly-styles-root-d5f974 64x14
+
+https://www.beachwoodcafe.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  1 of 18 tap targets under 24px: a.site-location__address 356x16
+  WARN  2 text elements under 12px: span 10.8px, span 10.8px
+
+https://www.beachwoodcafe.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  1 of 18 tap targets under 24px: a.site-location__address 359x16
+  WARN  2 text elements under 12px: span 10.8px, span 10.8px
+
+https://www.beachwoodcafe.com/menus/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  1 of 12 tap targets under 24px: a.site-location__address 356x16
+  WARN  2 text elements under 12px: span 10.8px, span 10.8px
+
+https://www.beachwoodcafe.com/menus/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  1 of 12 tap targets under 24px: a.site-location__address 359x16
+  WARN  2 text elements under 12px: span 10.8px, span 10.8px
+
+https://starofsiamchicago.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  11 of 57 tap targets under 24px: a 22x22, a 22x22, button 15x15, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://starofsiamchicago.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 6665px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  11 of 59 tap targets under 24px: a 22x22, a 22x22, button 15x15, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://starofsiamchicago.com/-reservations?source=pop_up&spot_id=227027&destination=reservations&promotion=reservations  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://starofsiamchicago.com/-reservations?source=pop_up&spot_id=227027&destination=reservations&promotion=reservations  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://www.cycloneanaya.com/  [iphone]
+  FAIL  iOS zoom trap: select#location_id.chatBox__location at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.off-canvas__wrapper right=710, div.grecaptcha-badge right=576
+  FAIL  dead link: https://cycloneanayas.myguestaccount.com/en-us/guest/enroll?card-template=gz6U71JdL9Y&template=0 answers 404
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.website-bg covers 100% of the screen
+  WARN  4 of 59 tap targets under 24px: a 41x10, a 34x10, a 140x14, a 194x14
+  WARN  5 text elements under 12px: div.recaptcha-privacy 11.2px, a 11.2px, a 11.2px, a.footer-social-icon 11px
+
+https://www.cycloneanaya.com/  [android]
+  FAIL  iOS zoom trap: select#location_id.chatBox__location at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.off-canvas__wrapper right=713, div.grecaptcha-badge right=579
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.website-bg covers 100% of the screen
+  WARN  header at y=-196 after scrolling down and back up
+  WARN  4 of 59 tap targets under 24px: a 41x10, a 34x10, a 139x15, a 194x15
+  WARN  5 text elements under 12px: div.recaptcha-privacy 11.2px, a 11.2px, a 11.2px, a.footer-social-icon 11px
+
+https://www.cycloneanaya.com/menu/main-menu  [iphone]
+  FAIL  iOS zoom trap: select#location_id.chatBox__location at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.off-canvas__wrapper right=710, div.grecaptcha-badge right=576
+  FAIL  dead link: https://cycloneanayas.myguestaccount.com/en-us/guest/enroll?card-template=gz6U71JdL9Y&template=0 answers 404
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.website-bg covers 100% of the screen
+  WARN  11 of 51 tap targets under 24px: a 225x21, a 135x21, a 136x21, a 77x21, a 159x21
+  WARN  2 text elements under 12px: a.footer-social-icon 11px, a.footer-powered 11px
+
+https://www.cycloneanaya.com/menu/main-menu  [android]
+  FAIL  iOS zoom trap: select#location_id.chatBox__location at 14px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.off-canvas__wrapper right=713, div.grecaptcha-badge right=579
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div.website-bg covers 100% of the screen
+  WARN  header at y=-354 after scrolling down and back up
+  WARN  11 of 51 tap targets under 24px: a 225x21, a 135x21, a 136x21, a 77x21, a 159x21
+  WARN  2 text elements under 12px: a.footer-social-icon 11px, a.footer-powered 11px
+
+https://pappasbros.com/  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  24 of 41 tap targets under 24px: a 390x20, a 82x20, a 101x20, button.absolute 22x86, a 68x19
+  WARN  9 text elements under 12px: div.h6 10px, h6 10px, a.!h6 10px, a.!h6 10px
+
+https://pappasbros.com/  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  24 of 41 tap targets under 24px: a 393x20, a 82x20, a 101x20, button.absolute 22x86, a 68x19
+  WARN  9 text elements under 12px: div.h6 10px, h6 10px, a.!h6 10px, a.!h6 10px
+
+https://pappasbros.com/gift-cards  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  30 of 45 tap targets under 24px: a 390x20, a 82x20, a 101x20, a 77x23, a 114x19
+  WARN  13 text elements under 12px: h6 10px, div.h6 10px, div.h6 10px, div.h6 10px
+
+https://pappasbros.com/gift-cards  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  29 of 45 tap targets under 24px: a 393x20, a 82x20, a 101x20, a 114x19, a 48x19
+  WARN  13 text elements under 12px: h6 10px, div.h6 10px, div.h6 10px, div.h6 10px
+
+60 page-device rows, 58 FAIL findings

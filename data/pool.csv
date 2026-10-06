@@ -1,0 +1,919 @@
+name,city,state,website,email,email_source,mx_ok,reviews,rating,types,takes_money,builder,https,prior_contact,score
+Leyla Fine Lebanese Cuisine,Charleston,SC,https://leyla-charleston.com/,dolly_awkar@hotmail.com,homepage,True,1265,4.4,restaurant,DoorDash storefront; OpenTable reservations,custom/other,True,,180.0
+39 Rue de Jean,Charleston,SC,https://39ruedejean.holycityhospitality.com/,info@39ruedejean.com,/about,True,1734,4.2,bar,OpenTable reservations; gift cards,custom/other,True,,180.0
+Tommy Condon's Irish Pub & Restaurant,Charleston,SC,https://tommycondons.com/,info@tommycondons.com,homepage,True,2939,4.4,restaurant,Toast ordering,custom/other,True,,180.0
+Vickery's Bar & Grill,Charleston,SC,https://vickerysshemcreek.com/,events.vicks1313@gmail.com,/about,True,3165,4.2,bar,'reserve' link,custom/other,True,,180.0
+High Cotton Charleston Restaurant,Charleston,SC,https://highcottoncharleston.com/,contactus4@hallmanagementgroup.com,/about,True,2888,4.7,restaurant,Resy reservations; gift cards,custom/other,True,,180.0
+Slightly North of Broad Restaurant,Charleston,SC,https://snobcharleston.com/,contactus5@hallmanagementgroup.com,/about,True,2788,4.7,restaurant,Resy reservations; gift cards,custom/other,True,,180.0
+Five Loaves Cafe,Charleston,SC,https://www.fiveloavescafe.com/,fiveloavesmtptogo@gfhosp.com,homepage,True,1580,4.6,restaurant,Toast ordering; ChowNow ordering; gift cards,WordPress,True,,180.0
+The Griffon,Charleston,SC,http://www.griffoncharleston.com/,griffoncharleston@gmail.com,homepage,True,3086,4.5,bar,Toast ordering,Squarespace,False,,180.0
+The Gin Joint,Charleston,SC,https://www.theginjoint.com/,drinkproper@theginjoint.com,homepage,True,1093,4.3,bar,Square; gift cards,Squarespace,True,,180.0
+Water's Edge,Charleston,SC,https://waters-edge-restaurant.com/,events.watersedge1407@gmail.com,/about,True,3224,4.1,restaurant,Resy reservations,custom/other,True,,180.0
+Coast,Charleston,SC,https://coastbarandgrill.holycityhospitality.com/,info@coastbarandgrill.com,homepage,True,1782,4.3,bar,OpenTable reservations; gift cards,custom/other,True,,180.0
+Virginia's On King,Charleston,SC,https://virginiasonking.holycityhospitality.com/,info@virginiasonking.com,homepage,True,2027,4.3,bar,OpenTable reservations; gift cards,custom/other,True,,180.0
+Indaco,Charleston,SC,https://www.indacorestaurant.com/location/indaco-charleston/,indaco@theindigoroad.com,homepage,True,1513,4.6,bar,online ordering; OpenTable reservations; Resy reservations; gift cards,custom/other,True,,180.0
+Henry's On The Market,Charleston,SC,https://henrysonthemarket.com/,info@henrysonthemarket.com,homepage,True,2667,4.2,restaurant,gift cards,custom/other,True,,180.0
+Three Little Birds Cafe,Charleston,SC,http://www.threelittlebirdscafe.com/,threelittlebirdscafe@gmail.com,homepage,True,1070,4.5,cafe,Square,Squarespace,False,,180.0
+Prohibition,Charleston,SC,https://www.prohibitioncharleston.com/,info@prohibitioncharleston.com,homepage,True,2817,4.4,bar,Toast ordering; OpenTable reservations; gift cards,Webflow,True,,180.0
+The Windjammer,Charleston,SC,https://the-windjammer.com/,mgt@windjammeriop.com,homepage,True,2048,4.5,bar,WooCommerce store,WordPress,True,,180.0
+The Charleston Pour House,Charleston,SC,https://charlestonpourhouse.com/,alex@charlestonpourhouse.com,/contact,True,1666,4.7,bar,WooCommerce store,WordPress,True,,180.0
+Bubbas BBQ Bash,Spartanburg,SC,https://bubbasbbqandbash.com/,carolinaculinary@aol.com,homepage,True,1277,4.5,bar,ChowNow ordering,custom/other,True,,180.0
+La Paz Mexican Restaurant & Grill,Spartanburg,SC,https://lapazmexicanrestaurantgrill.com/,mauricio.bautista777@gmail.com,/about,True,1297,4.4,restaurant,ChowNow ordering,custom/other,True,,180.0
+Luigi's Italian Chophouse and Bar,Fayetteville,NC,https://luigischophouse.com/,info@luigischophouse.com,homepage,True,3501,4.6,bar,Toast ordering; ChowNow ordering; SevenRooms; gift cards,custom/other,True,,180.0
+MarketPlace Grill,Fayetteville,AR,http://marketplacegrill.com/,sdlmpg@marketplacegrill.com,/contact,True,12056,4.9,restaurant,DoorDash storefront; gift cards,custom/other,False,,180.0
+Ozark Natural Foods,Fayetteville,AR,https://onf.coop/,fullboard@onfboard.com,/about,True,1302,4.6,supermarket,Square,custom/other,True,,180.0
+Kickback Jack's Fayetteville,Fayetteville,NC,https://www.kbjacks.com/fayetteville-nc,jims@brginc.com,/contact,True,3430,4.1,bar,'order online' link,custom/other,True,,180.0
+Millstone 14,Fayetteville,NC,https://www.stonetheatres.com/millstone14cinemas,millstone@stonetheatres.com,homepage,True,1879,4.6,movie_theater,gift cards,custom/other,True,,180.0
+Therapy Hair Salon,Charlotte,NC,https://therapyhairsalons.com/,bill@gobluefin.com,/contact,True,1301,4.9,beauty_salon,WooCommerce store; gift cards,WordPress,True,,180.0
+Habitude Salon & Spa,Seattle,WA,https://www.habitude.com/,customerservice@habitude.com,/contact,True,1162,4.7,beauty_salon,salon booking; gift cards,WordPress,True,,180.0
+Brilliant Massage & Skin,Burlington,VT,https://brilliantmassageandskin.com/,Inquiries@brilliantmassageandskin.com,/contact,True,1111,4.9,beauty_salon,WooCommerce store,WordPress,True,,180.0
+Belleza Salon and Spa,Knoxville,TN,https://www.blza.com/locations/bearden/,customerservice@blza.com,/contact,True,1106,4.8,hair_care,salon booking,WordPress,True,,180.0
+Aesthetic Solutions,Durham,NC,https://aesthetic-solutions.com/,info@aesthetic-solutions.com,/contact-us,True,1148,4.9,beauty_salon,'book online' link,WordPress,True,,180.0
+Phia Salon,Columbus,OH,https://phiasalon.com/,guestservices@phiaconcepts.com,/contact,True,984,4.8,beauty_salon,gift cards,WordPress,True,,178.4
+Circa 1886 Restaurant,Charleston,SC,https://circa1886.com/,info@circa1886.com,/contact,True,978,4.8,bar,OpenTable reservations; gift cards,WordPress,True,,177.8
+Stella's Southern Brasserie,Greenville,SC,https://www.stellasbrasserie.com/,info@stellasbrasserie.com,homepage,True,960,4.5,restaurant,OpenTable reservations; WooCommerce store; gift cards,WordPress,True,,176.0
+Graze Restaurant,Charleston,SC,https://grazecharleston.com/,grazecharleston@yahoo.com,/about,True,890,4.6,restaurant,DoorDash storefront; Resy reservations,custom/other,True,,169.0
+The Red Drum,Charleston,SC,https://reddrumrestaurant.com/,thereddrumgastro@gmail.com,homepage,True,880,4.5,bar,OpenTable reservations; gift cards,custom/other,True,,168.0
+Anson Restaurant,Charleston,SC,https://ansonrestaurant.com/,info@ansonrestaurant.com,/contact,True,877,4.7,restaurant,gift cards,Squarespace,True,,167.7
+Spa Roma,Morgantown,WV,https://sparoma.com/,info@sparoma.com,/contact,True,868,4.9,hair_care,WooCommerce store; gift cards,Squarespace,True,,166.8
+Gerhard's Cafe,Spartanburg,SC,https://gerhardscafe.net/,chrisbrymer@morgansquarehospitality.com,homepage,True,867,4.6,restaurant,'reserve' link,custom/other,True,,166.7
+Dosha Salon Spa Hawthorne,Portland,OR,https://dosha.org/,info@dosha.org,homepage,True,863,4.5,beauty_salon,gift cards,custom/other,True,,166.3
+House of Dear,Dallas,TX,https://houseofdearhairsalon.com/,appointments@houseofdearhairsalon.com,/contact,True,831,4.5,hair_care,WooCommerce store; gift cards,WordPress,True,,163.1
+The Grocery,Charleston,SC,https://thegrocerycharleston.com/,info@thegrocerycharleston.com,/contact,True,825,4.4,restaurant,Resy reservations; gift cards,WordPress,True,,162.5
+Red Bowl Asian Bistro,Spartanburg,SC,https://www.redbowlspartanburg.com/mhome,redbowlspartanburgsc@gmail.com,/contact-us,True,819,4.2,restaurant,ChowNow ordering,custom/other,True,,161.9
+Crust Wood Fired Pizza,Charleston,SC,https://crustwoodfiredpizza.com/,info@crustwoodfiredpizza.com,homepage,True,811,4.5,meal_takeaway,Toast ordering; gift cards,WordPress,True,,161.1
+Vada Spa and Laser Center,New York,NY,https://www.vadaspa.com/,info@vadaspa.com,/contact,True,806,4.3,spa,salon booking; gift cards,custom/other,True,,160.6
+La Taverna,Spartanburg,SC,https://latavernaitaliancuisine.org/,lataverna2@gmail.com,homepage,True,804,4.3,restaurant,Toast ordering,custom/other,True,,160.4
+Grateful Brew,Greenville,SC,https://www.gratefulbrewgvl.com/,info@gratefulbrewgvl.com,homepage,True,800,4.7,cafe,Square,Squarespace,True,,160.0
+The Hair Loft at The Corner and Head Spa,New Brunswick,NJ,https://www.hairloftnj.com/,hello@hairloftnj.com,/contact,True,800,4.9,beauty_salon,salon booking,Squarespace,True,,160.0
+IDOLIZE Brows And Beauty Steele Creek,Charlotte,NC,https://idolizespa.com/steele-creek/,steelecreek@idolizespa.com,homepage,True,796,4.7,beauty_salon,salon booking,WordPress,True,,159.6
+DIAMOND NAILS,Austin,TX,https://diamondnailsouthlamar.com/,Hoangvudiaoc@gmail.com,homepage,True,788,4.5,beauty_salon,'book now' link,custom/other,True,,158.8
+Limón Salon,San Jose,CA,https://limonsalon.com/,sanjose@limonsalon.com,homepage,True,770,4.7,beauty_salon,'book online' link,Squarespace,True,,157.0
+"Polished Salon, Spa, & Wellness",Harrisburg,PA,https://polishedspa.com/,info@polishedspa.com,/contact,True,768,4.8,beauty_salon,gift cards,WordPress,True,,156.8
+exhale Spa Atlantic City,Atlantic City,NJ,https://exhalespa.com/atlantic-city/,everywhere.support@exhalespa.com,/contact-us,True,764,4.4,spa,Mindbody booking; salon booking; gift cards,WordPress,True,,156.4
+Transformations Salon and Spa,Indianapolis,IN,https://transformationssalonandspa.com/,guestservices@transformationssalonandspa.com,homepage,True,725,4.8,hair_care,gift cards,WordPress,True,,152.5
+Side Pockets Restaurant & Sports Bar,Wichita,KS,https://www.sidepocketswichita.com/,info@sidepocketswichita.com,homepage,True,1789,4.3,bar,'order online' link,Duda,True,sent_log 2026-05-16,150.0
+Knolla's Pizza | East,Wichita,KS,https://knollas-pizza.com/,knollaspizzaeast@gmail.com,/about,True,1007,4.4,restaurant,Toast ordering,custom/other,True,sent_log 2026-05-16,150.0
+Milkfloat,Wichita,KS,https://www.milkfloat.com/,Cora@milkfloat.com,/about,True,1321,4.6,cafe,Square; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Granite City Food & Brewery,Fargo,ND,https://www.gcfb.com/,sean@visionfriendly.com,/contact,True,1246,3.9,bar,Olo ordering; WooCommerce store; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Boston's Pizza Restaurant & Sports Bar,Fargo,ND,https://www.bostons.com/,mybostons@bostons.com,homepage,True,1255,4.2,restaurant,gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Pounds,Fargo,ND,https://poundsfargo.com/,yo.pounds@gmail.com,/contact,True,1292,4.4,meal_takeaway,'order online' link,custom/other,True,sent_log 2026-05-16,150.0
+Doolittles Woodfire Grill,Fargo,ND,https://doolittles.com/,sebastian@aldusleaf.org,/contact,True,2435,4.4,restaurant,DoorDash storefront; gift cards,GoDaddy,True,sent_log 2026-05-16,150.0
+Porter Creek Hardwood Grill,Fargo,ND,https://portercreek.com/,impallari@gmail.com,/contact,True,2121,4.4,restaurant,DoorDash storefront,GoDaddy,True,sent_log 2026-05-16,150.0
+Alma,Saint Paul,MN,https://www.almampls.com/,info@almampls.com,homepage,True,2096,4.6,cafe,Toast ordering; Tock; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+The Gnome Craft Pub,Saint Paul,MN,https://www.thegnomepub.com/,info@thegnomepub.com,homepage,True,3776,4.4,restaurant,Square; Tock; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+5-8 Club,Saint Paul,MN,https://www.5-8club.com/,info@5-8club.com,homepage,True,4119,4.4,bar,Ecwid store,Squarespace,True,sent_log 2026-05-16,150.0
+W.A. Frost & Company,Saint Paul,MN,https://www.wafrost.com/,host@wafrost.com,homepage,True,2224,4.3,bar,gift cards,Webflow,True,sent_log 2026-05-16,150.0
+Midtown Global Market,Saint Paul,MN,https://midtownglobalmarket.org/,info@midtownglobalmarket.org,homepage,True,4327,4.6,cafe,Square,Squarespace,True,sent_log 2026-05-16,150.0
+Hell's Kitchen Inc.,Saint Paul,MN,https://hellskitcheninc.com/,talktous@hellskitcheninc.com,homepage,True,7188,4.4,bar,Square; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Cafe Latte,Saint Paul,MN,https://www.cafelatte.com/,Admin@cafelatte.com,homepage,True,5233,4.6,cafe,Toast ordering; Square; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Jax Cafe,Saint Paul,MN,https://www.jaxcafe.com/,bill@jaxcafe.com,homepage,True,2618,4.6,cafe,Shopify store,Shopify,True,sent_log 2026-05-16,150.0
+El Burrito Mercado,Saint Paul,MN,https://www.elburritomercado.com/,giftcards@neighborhoodhouse.org,homepage,True,5474,4.5,cafe,Toast ordering; online ordering; Resy reservations; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Moscow on the Hill,Saint Paul,MN,https://www.moscowonthehill.com/,info@moscowonthehill.com,homepage,True,3303,4.7,bar,Toast ordering; Square,Squarespace,True,sent_log 2026-05-16,150.0
+Jimmy's Food & Drink,Saint Paul,MN,https://www.visitjimmys.com/,info@visitjimmys.com,homepage,True,2622,4.3,bar,ChowNow ordering,Squarespace,True,sent_log 2026-05-16,150.0
+Sakura Restaurant & Bar,Saint Paul,MN,https://www.sakurastpaul.com/,sakurasaintpaul@gmail.com,homepage,True,1049,4.4,bar,Square; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Turf Club,Saint Paul,MN,https://first-avenue.com/venue/turf-club/,info@first-avenue.com,/contact,True,1690,4.6,bar,Shopify store; WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+Memory Lanes,Saint Paul,MN,https://www.memorylanes.com/,info@memorylanes.com,/contact,True,1682,4.3,bowling_alley,DoorDash storefront; Square; WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+Elsie's,Saint Paul,MN,https://www.elsies.com/,info@elsies.com,/contact,True,1875,4.5,bowling_alley,Square,WordPress,True,sent_log 2026-05-16,150.0
+Neighborhood Cafe,Saint Paul,MN,https://www.neighborhoodcafemn.com/,krismasanz@gmail.com,homepage,True,1087,4.7,cafe,gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Tareen Dermatology Roseville,Saint Paul,MN,https://www.tareendermatology.com/location/roseville/,natalieb@tareendermatology.com,/contact,True,1174,4.7,beauty_salon,Ecwid store,WordPress,True,sent_log 2026-05-16,150.0
+"HAPPY NAILS & HEAD SPA - BEST NAIL SALON SAINT PAUL, Minnesota",Saint Paul,MN,http://www.happynailsmn.com/,Happynailsminnesota@gmail.com,/contact,True,4027,4.7,beauty_salon,gift cards,GoDaddy,False,sent_log 2026-05-16,150.0
+Pianos,New York,NY,https://pianosnyc.com/,u00a0info@pianosnyc.com,/contact,True,2419,3.9,restaurant,gift cards,custom/other,True,sent_log 2026-05-16,150.0
+STK Steakhouse,New York,NY,https://stksteakhouse.com/en-us/location/nyc-chelsea/,info@togrp.com,homepage,True,20246,4.8,restaurant,Olo ordering; OpenTable reservations; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Daniel,New York,NY,https://www.danielnyc.com/,danielinquiry@danielnyc.com,homepage,True,2514,4.6,restaurant,Resy reservations; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Central Park Boathouse,New York,NY,https://centralparkboathouse.com/,info@centralparkboathouse.com,homepage,True,5105,4.3,tourist_attraction,OpenTable reservations,WordPress,True,sent_log 2026-05-16,150.0
+Keens Steakhouse,New York,NY,https://www.keens.com/,info@keens.com,homepage,True,9685,4.6,restaurant,ChowNow ordering; Resy reservations,custom/other,True,sent_log 2026-05-16,150.0
+Marea,New York,NY,https://www.marearestaurant.com/new-york,mareaevents@altamareagroup.com,homepage,True,3032,4.5,restaurant,DoorDash storefront; SevenRooms,Webflow,True,sent_log 2026-05-16,150.0
+Eastside Food Co-op,Saint Paul,MN,https://www.eastsidefood.coop/,info@eastsidefood.coop,/contact-us,True,1573,4.7,grocery_or_supermarket,Square,Squarespace,True,sent_log 2026-05-16,150.0
+The Dutch,New York,NY,https://www.thedutchnyc.com/,pr@nhgnyc.com,/contact,True,2433,4.3,bar,DoorDash storefront; online ordering; Resy reservations,custom/other,True,sent_log 2026-05-16,150.0
+The Smith,New York,NY,https://thesmithrestaurant.com/location/midtown/,info@thesmithrestaurant.com,/contact,True,5725,4.4,restaurant,OpenTable reservations; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Gramercy Tavern,New York,NY,https://www.gramercytavern.com/,donations@ushgnyc.com,/about,True,4867,4.6,restaurant,online ordering; Resy reservations; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Dominique Ansel Bakery,New York,NY,https://www.dominiqueanselny.com/,info@dominiqueansel.com,/contact,True,9116,4.3,bakery,DoorDash storefront; WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+Red Rooster Harlem,New York,NY,https://www.redroosterharlem.com/,info@redroosterharlem.com,homepage,True,7702,4.4,restaurant,Toast ordering; Square; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Brooklyn Bagel & Coffee Company,New York,NY,https://bkbagel.com/,your-email@website.com,homepage,True,3885,4.6,cafe,ChowNow ordering; WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+Cha-An,New York,NY,https://www.chaanteahouse.com/,info@chaanteahouse.com,homepage,True,1309,4.2,cafe,Square,Squarespace,True,sent_log 2026-05-16,150.0
+E.A.T.,New York,NY,https://e-a-t.nyc/,contact@e-a-t.nyc,homepage,True,1147,3,cafe,DoorDash storefront,custom/other,True,sent_log 2026-05-16,150.0
+Tick Tock Diner NY,New York,NY,https://www.ticktockdinerny.com/,info@ticktockdinerny.com,homepage,True,7313,3.9,bar,Square; OpenTable reservations,Squarespace,True,sent_log 2026-05-16,150.0
+"One if by Land, Two if by Sea",New York,NY,https://www.oneifbyland.com/,info@oneifbyland.com,homepage,True,1307,4.2,bar,OpenTable reservations; Resy reservations; gift cards,Webflow,True,sent_log 2026-05-16,150.0
+Scarpetta,New York,NY,https://www.scarpettarestaurants.com/location/scarpetta-new-york-city/,info@scarpettarestaurants.com,homepage,True,3199,4.6,bar,online ordering; OpenTable reservations; Resy reservations; SevenRooms; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+McGee's Pub,New York,NY,https://mcgeespubny.com/,info@mcgeespubny.com,homepage,True,5583,4.1,bar,'reserve' link,custom/other,True,sent_log 2026-05-16,150.0
+Peacefood - Upper West Side,New York,NY,https://www.peacefoodnyc.com/,hello@peacefoodnyc.com,homepage,True,1662,4.4,cafe,ChowNow ordering; Square,Squarespace,True,sent_log 2026-05-16,150.0
+Golden Unicorn,New York,NY,https://www.goldenunicornrestaurant.com/,goldenunicornny@yahoo.com,homepage,True,3535,4,bar,'order online' link,Squarespace,True,sent_log 2026-05-16,150.0
+The Russian Tea Room,New York,NY,https://russiantearoomnyc.com/,info@russiantearoomnyc.com,homepage,True,1868,3.9,bar,OpenTable reservations; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Cafe Select,New York,NY,http://cafeselectnyc.com/,info@cafeselectnyc.com,homepage,True,1117,4.1,restaurant,WooCommerce store,WordPress,False,sent_log 2026-05-16,150.0
+Wyndham Garden Chinatown,New York,NY,https://www.wyndhamgardenchinatownnyc.com/,17720-FrontOffice@wyndham.nyc,homepage,True,1446,3.9,lodging,'book now' link,custom/other,True,sent_log 2026-05-16,150.0
+Think Coffee,New York,NY,https://thinkcoffee.com/,orders@thinkcoffee.com,homepage,True,1087,4.1,cafe,Shopify store,Shopify,True,sent_log 2026-05-16,150.0
+Shampoo Avenue B,New York,NY,https://www.shampooavenueb.com/,info@shampooavenueb.com,homepage,True,1354,4.7,beauty_salon,gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Veniero's Pasticceria & Caffe,New York,NY,https://www.venieros.com/,info@venierospastry.com,/contact,True,5384,4.6,bakery,'order now' link,custom/other,True,sent_log 2026-05-16,150.0
+Becco,New York,NY,https://www.becco-nyc.com/,info@becconyc.com,/contact,True,4580,4.3,bar,online ordering; Resy reservations,custom/other,True,sent_log 2026-05-16,150.0
+Locanda Verde Tribeca,New York,NY,https://www.locandaverdenyc.com/,Jobs@LocandaVerdeNYC.com,/about,True,2333,4.4,restaurant,online ordering; Resy reservations,custom/other,True,sent_log 2026-05-16,150.0
+Water Grill,Los Angeles,CA,https://www.watergrill.com/la,jperaza@kingsseafood.com,homepage,True,2223,4.5,restaurant,OpenTable reservations; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Chateau Marmont,Los Angeles,CA,https://www.chateaumarmont.com/,concierge@chateaumarmont.com,homepage,True,1394,4.4,bar,Resy reservations,custom/other,True,sent_log 2026-05-16,150.0
+Wurstküche,Los Angeles,CA,https://www.wurstkuche.com/,DTLA@wurstkuche.com,homepage,True,5334,4.6,bar,Toast ordering; Square; Resy reservations; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Perch,Los Angeles,CA,https://www.perchla.com/,info@perchla.com,homepage,True,7516,4.4,bar,OpenTable reservations; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Laurel Hardware,Los Angeles,CA,https://www.laurelhardware.com/,info@laurelhardware.com,homepage,True,1729,4.4,bar,Toast ordering; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Eastside Italian Deli,Los Angeles,CA,https://esmdeli.com/,eastsideitaliandeli@gmail.com,homepage,True,2060,4.7,restaurant,'order online' link,custom/other,True,sent_log 2026-05-16,150.0
+Father's Office,Los Angeles,CA,https://fathersoffice.com/,info@fathersoffice.com,homepage,True,1770,4.3,bar,WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Far Bar,Los Angeles,CA,https://www.farbarla.com/,info@farbarla.com,homepage,True,1424,4.4,bar,Square,Squarespace,True,sent_log 2026-05-16,150.0
+Joan’s on Third,Los Angeles,CA,https://joansonthird.com/,info@joansonthird.com,homepage,True,1541,4.4,cafe,Toast ordering; DoorDash storefront; Shopify store; gift cards,Shopify,True,sent_log 2026-05-16,150.0
+Beachwood Cafe Hollywood,Los Angeles,CA,https://www.beachwoodcafe.com/,thebeachwoodla@gmail.com,/contact,True,1604,4.6,restaurant,online ordering; OpenTable reservations; Resy reservations,custom/other,True,sent_log 2026-05-16,150.0
+Walt Disney Concert Hall,Los Angeles,CA,https://www.laphil.com/,information@laphil.org,/contact,True,11013,4.7,tourist_attraction,gift cards,Duda,True,sent_log 2026-05-16,150.0
+The Purple Pig Restaurant,Chicago,IL,https://thepurplepigrestaurantgroup.com/,info@thepurplepigchicago.com,homepage,True,7333,4.6,bar,DoorDash storefront; SevenRooms; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+The Berghoff Restaurant,Chicago,IL,https://www.theberghoff.com/,Jamaal@berghoff.com,homepage,True,5193,4.5,restaurant,Toast ordering; OpenTable reservations; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+The Gage,Chicago,IL,https://thegagechicago.com/,info@thegagechicago.com,homepage,True,5054,4.6,bar,Toast ordering; OpenTable reservations,Squarespace,True,sent_log 2026-05-16,150.0
+360 CHICAGO,Chicago,IL,https://360chicago.com/,info@360chicago.com,homepage,True,20569,4.5,tourist_attraction,WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+Haymarket Pub & Brewery,Chicago,IL,https://www.haymarketbeer.com/,info@haymarketbrewing.com,homepage,True,1124,4.3,bar,Square,Squarespace,True,sent_log 2026-05-16,150.0
+Volare Ristorante Italiano,Chicago,IL,https://www.volarerestaurant.com/,volarerestaurant@aol.com,homepage,True,4048,4.6,meal_delivery,Tock; Yelp reservations; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Firecakes Donuts,Chicago,IL,https://firecakesdonuts.com/,hello@firecakesdonuts.com,homepage,True,2326,4.4,cafe,Toast ordering,WordPress,True,sent_log 2026-05-16,150.0
+Joe's on Weed St.,Chicago,IL,https://www.joesbar.com/,reservations@joesbar.com,homepage,True,1533,4.3,night_club,Tock,Squarespace,True,sent_log 2026-05-16,150.0
+Star of Siam,Chicago,IL,https://starofsiamchicago.com/,ortizedgar2570@yahoo.com,homepage,True,2339,4.1,bar,SevenRooms,custom/other,True,sent_log 2026-05-16,150.0
+Gino's East,Chicago,IL,https://www.ginoseast.com/,media@ginoseast.com,homepage,True,19195,4.7,meal_delivery,Toast ordering,Squarespace,True,sent_log 2026-05-16,150.0
+Frontera Grill,Chicago,IL,https://www.fronteragrill.com/,info@fronteragrill.net,homepage,True,3382,4.4,restaurant,Toast ordering; DoorDash storefront; OpenTable reservations; Resy reservations; Tock; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+WhirlyBall,Chicago,IL,https://www.whirlyball.com/chicago,reservations@whirlyball.com,homepage,True,2801,4.5,restaurant,gift cards,Webflow,True,sent_log 2026-05-16,150.0
+Longman & Eagle,Chicago,IL,https://www.longmanandeagle.com/,info@longmanandeagle.com,homepage,True,2953,4.6,bar,Square; Resy reservations,Squarespace,True,sent_log 2026-05-16,150.0
+Pompei Restaurant,Chicago,IL,https://www.pompeiusa.com/,info@pompeiusa.com,homepage,True,2923,4.4,meal_delivery,OpenTable reservations; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Pequod's Pizza,Chicago,IL,https://pequodspizza.com/chicago/,%20reserve@pequodspizza.com,homepage,True,16263,4.4,meal_delivery,Tock; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+The Publican,Chicago,IL,https://www.thepublicanrestaurant.com/,privateevents@oneoffhospitality.com,/contact,True,2955,4.5,bar,online ordering; OpenTable reservations; Resy reservations; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Lula Cafe,Chicago,IL,https://www.lulacafe.com/,vanessa@monacreative.com,/contact,True,3573,4.7,cafe,Toast ordering; online ordering; OpenTable reservations; Resy reservations,custom/other,True,sent_log 2026-05-16,150.0
+Windy City Massage,Chicago,IL,https://windycitymassage.com/,contact@windycitymassage.com,homepage,True,1402,4.9,beauty_salon,gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Cyclone Anaya's Tex-Mex Kitchen,Houston,TX,https://www.cycloneanaya.com/,info@cycloneanaya.com,homepage,True,5204,4.6,bar,Toast ordering; OpenTable reservations,custom/other,True,sent_log 2026-05-16,150.0
+Truluck's Ocean's Finest Seafood & Crab,Houston,TX,https://trulucks.com/locations/houston-texas/,houstonevents@trulucks.com,homepage,True,2959,4.6,restaurant,OpenTable reservations; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+The Whitehall,Houston,TX,https://www.thewhitehallhouston.com/,frontdesk@thewhitehallhouston.com,/contact,True,4148,4.5,night_club,'book now' link,custom/other,True,sent_log 2026-05-16,150.0
+Benihana - Houston (Downtown),Houston,TX,https://www.benihana.com/locations/houston-i-downtown/,info@benihana.com,/contact,True,4134,4.3,restaurant,OpenTable reservations; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Saint Arnold Brewing Company,Houston,TX,https://www.saintarnold.com/,brewery@saintarnold.com,/contact,True,3985,4.7,bar,WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+RA Sushi - Houston (Highland Village),Houston,TX,https://rasushi.com/,customerservice@rasushi.com,/contact,True,5941,4.6,bar,gift cards,WordPress,True,sent_log 2026-05-16,150.0
+McGonigel's Mucky Duck,Houston,TX,https://www.mcgonigels.com/,TheDuck@McGonigels.com,homepage,True,1100,4.7,bar,Square; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Kiran's,Houston,TX,https://kiranshouston.com/,info@kiranshouston.com,/contact,True,2305,4.3,night_club,gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Rudyard's,Houston,TX,https://www.rudyardshtx.com/,rudzmgmt@Hotmail.com,homepage,True,1996,4.5,bar,'order now' link,custom/other,True,sent_log 2026-05-16,150.0
+Agora,Houston,TX,https://www.agorahouston.com/,info@agorahouston.com,homepage,True,3540,4.4,cafe,Square,Webflow,True,sent_log 2026-05-16,150.0
+Pappas Bros. Steakhouse,Houston,TX,https://pappasbros.com/,realestate@pappas.com,/contact,True,2850,4.7,restaurant,'order online' link,custom/other,True,sent_log 2026-05-16,150.0
+Chama Gaúcha Brazilian Steakhouse - Houston,Houston,TX,https://www.chamagaucha.com/houston/,info@chamagaucha.com,/about,True,8122,4.7,restaurant,OpenTable reservations; WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+Coco Crepes & Coffee,Houston,TX,https://www.cococrepes.com/location/coco-crepes-midtown/,feedback@cococrepes.com,homepage,True,1708,4.5,cafe,Toast ordering; online ordering; Resy reservations; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Boomtown Coffee,Houston,TX,https://boomtowncoffee.com/,info@boomtowncoffee.com,homepage,True,1591,4.5,cafe,Square; Shopify store; gift cards,Shopify,True,sent_log 2026-05-16,150.0
+Beautique Day Spa & Salon,Houston,TX,https://beautiquewestu.com/,hello@beautiquehouston.com,homepage,True,1523,4.9,beauty_salon,Square; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Chelsea’s Kitchen,Phoenix,AZ,https://chelseaskitchenaz.com/,mediainquiries@lgohospitality.com,/contact,True,3773,4.6,restaurant,Toast ordering; OpenTable reservations,WordPress,True,sent_log 2026-05-16,150.0
+The Compass,Phoenix,AZ,https://www.thecompassarizona.com/,phxrp-compass@hyatt.com,homepage,True,1530,4.2,restaurant,online ordering; Resy reservations; Tock,custom/other,True,sent_log 2026-05-16,150.0
+The River Oaks Theatre,Houston,TX,https://www.theriveroakstheatre.com/,guestservices@theriveroakstheatre.com,/about,True,1002,4.5,movie_theater,gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Alexi's Grill,Phoenix,AZ,https://www.alexisgrill.com/,michael@alexisgrillphx.com,homepage,True,1062,4.6,restaurant,OpenTable reservations,WordPress,True,sent_log 2026-05-16,150.0
+Blue Hound Kitchen & Cocktails,Phoenix,AZ,https://www.bluehoundkitchen.com/,hello@bluehoundkitchen.com,/contact-us,True,1138,4.2,restaurant,SevenRooms; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Los Taquitos,Phoenix,AZ,https://www.lostaquitosaz.com/,arthurandarcher@gmail.com,/contact-us,True,2341,4.4,restaurant,Square,custom/other,True,sent_log 2026-05-16,150.0
+HULA'S Modern Tiki Uptown,Phoenix,AZ,https://www.hulasmoderntiki.com/,info@hulasmoderntiki.com,/contact-us,True,2941,4.6,restaurant,Resy reservations,Squarespace,True,sent_log 2026-05-16,150.0
+"Songbird Coffee & Tea House - Phoenix, AZ",Phoenix,AZ,http://www.songbirdcoffeehouse.com/,info@songbirdcoffeehouse.com,homepage,True,1164,4.7,cafe,Square,Squarespace,False,sent_log 2026-05-16,150.0
+Churn,Phoenix,AZ,https://www.churnaz.com/,windsor@upwardprojects.com,homepage,True,1489,4.7,cafe,Olo ordering; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Suddenly Slimmer Med Spa,Phoenix,AZ,https://www.suddenlyslimmer.com/,info@suddenlyslimmer.com,homepage,True,1066,4.7,hair_care,WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+Barbuzzo,Philadelphia,PA,http://barbuzzo.com/,barbuzzorestaurant@yahoo.com,homepage,True,2270,4.5,restaurant,DoorDash storefront; OpenTable reservations; gift cards,custom/other,False,sent_log 2026-05-16,150.0
+Yards Brewing Company,Philadelphia,PA,https://yardsbrewing.com/,info@yardsbrewing.com,homepage,True,4093,4.8,bar,Toast ordering; Shopify store; gift cards,Shopify,True,sent_log 2026-05-16,150.0
+Osteria,Philadelphia,PA,https://www.osteriaphilly.com/,osteriacontact@amicihospitality.com,homepage,True,1476,4.5,restaurant,Toast ordering; Square; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Vedge,Philadelphia,PA,https://www.vedgerestaurant.com/,keren@vedgerestaurant.com,homepage,True,1744,4.8,bar,OpenTable reservations; Resy reservations; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Arizona Capitol Museum,Phoenix,AZ,https://azcapitolmuseum.gov/,museum@azleg.gov,/about,True,1712,4.5,tourist_attraction,Ecwid store,WordPress,True,sent_log 2026-05-16,150.0
+Khyber Pass Pub,Philadelphia,PA,https://www.khyberpasspub.com/,info@khyberpasspub.com,homepage,True,1844,4.6,bar,DoorDash storefront; Square,Squarespace,True,sent_log 2026-05-16,150.0
+South Philadelphia Tap Room,Philadelphia,PA,https://southphiladelphiataproom.com/,info@southphiladelphiataproom.com,homepage,True,1140,4.6,restaurant,Toast ordering; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Spasso Italian Grill,Philadelphia,PA,https://www.spassoitaliangrill.com/,info@spassoitaliangrill.com,homepage,True,1425,4.5,restaurant,DoorDash storefront; OpenTable reservations,Squarespace,True,sent_log 2026-05-16,150.0
+Paesanos Riverwalk,San Antonio,TX,https://www.paesanosriverwalk.com/,prw@joesfood.com,homepage,True,5642,4.5,restaurant,WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+Reading Terminal Market,Philadelphia,PA,https://readingterminalmarket.org/,jenn@dandyreviewaitools.com,/contact,True,45719,4.7,grocery_or_supermarket,Shopify store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Devil's Alley Bar & Grill,Philadelphia,PA,https://devilsalleybarandgrill.com/,devilsalley@gmail.com,/about,True,1194,4.3,restaurant,Toast ordering,custom/other,True,sent_log 2026-05-16,150.0
+Ralph's Italian Restaurant,Philadelphia,PA,https://ralphsrestaurant.com/,admin@ralphsrestaurant.com,/contact,True,1862,4.3,restaurant,OpenTable reservations; Resy reservations; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Blanco Cafe,San Antonio,TX,http://blancocafesa.com/,info@blancocafesa.com,homepage,True,3043,4.4,cafe,WooCommerce store,custom/other,False,sent_log 2026-05-16,150.0
+La Fonda On Main,San Antonio,TX,https://www.lafondaonmain.com/,info@lafondaonmain.com,homepage,True,4233,4.5,bar,Toast ordering,Squarespace,True,sent_log 2026-05-16,150.0
+Sushihana Japanese Restaurant,San Antonio,TX,https://www.sushihanasan.com/,info@sushihanasan.com,homepage,True,1565,4.6,bar,Resy reservations,WordPress,True,sent_log 2026-05-16,150.0
+Mama's Cafe,San Antonio,TX,https://www.mamascafesa.com/,info@mamascafesa.com,homepage,True,3745,4.4,cafe,Toast ordering; OpenTable reservations,Squarespace,True,sent_log 2026-05-16,150.0
+The Friendly Spot Ice House,San Antonio,TX,https://thefriendlyspot.com/,info@thefriendlyspot.com,homepage,True,2785,4.4,bar,'order online' link,custom/other,True,sent_log 2026-05-16,150.0
+Liberty Bar,San Antonio,TX,https://www.liberty-bar.com/,libertybar@mac.com,homepage,True,1747,4.5,bar,'reservations' link,Squarespace,True,sent_log 2026-05-16,150.0
+Lone Star Cafe,San Antonio,TX,https://lonestarcafe.us/,ed@riverrestaurants.com,homepage,True,2694,3.9,restaurant,'reserve' link,custom/other,True,sent_log 2026-05-16,150.0
+Waxy's,San Antonio,TX,https://waxyoconnors.com/,alfredospizza8@gmail.com,homepage,True,1655,4,bar,gift cards,custom/other,True,sent_log 2026-05-16,150.0
+La Villita Cafe,San Antonio,TX,https://lavillitacafe.com/,lavillitacafesa@gmail.com,homepage,True,1912,4.3,cafe,WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+San Antonio / Alamo KOA Holiday,San Antonio,TX,https://koa.com/campgrounds/san-antonio/,info@alamokoa.com,homepage,True,1963,4.6,campground,gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Sushi Ota,San Diego,CA,https://www.sushi-ota.com/,sushiotasd4529@gmail.com,homepage,True,2530,4.6,restaurant,OpenTable reservations; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Mister A's,San Diego,CA,https://www.asrestaurant.com/,info@asrestaurant.com,homepage,True,2376,4.6,restaurant,Toast ordering; OpenTable reservations; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Lou & Mickey's,San Diego,CA,https://www.louandmickeys.com/,ajames@louandmickeys.com,homepage,True,2713,4.5,restaurant,OpenTable reservations; gift cards,Webflow,True,sent_log 2026-05-16,150.0
+The Field Irish Pub,San Diego,CA,https://thefield.com/,stacy@thefield.com,homepage,True,2291,4.6,restaurant,OpenTable reservations,custom/other,True,sent_log 2026-05-16,150.0
+Pappalecco,San Diego,CA,https://pappalecco.com/,fbucci@pappalecco.com,homepage,True,2207,4.6,cafe,Square; gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Blind Lady Ale House,San Diego,CA,https://blindladyalehouse.com/,info@blindladyalehouse.com,homepage,True,1469,4.7,bar,'reservations' link,Squarespace,True,sent_log 2026-05-16,150.0
+Extraordinary Desserts,San Diego,CA,https://www.extraordinarydesserts.com,info@extraordinarydesserts.com,homepage,True,3083,4.5,cafe,Square; gift cards,Weebly,True,sent_log 2026-05-16,150.0
+Hodad's Ocean Beach,San Diego,CA,https://hodadsoceanbeach.com/,hodads1502@gmail.com,homepage,True,6057,4.6,restaurant,Toast ordering; Shopify store; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Il Fornaio Coronado,San Diego,CA,https://www.ilfornaio.com/location/il-fornaio-coronado/,coronado@ilfo.com,homepage,True,2945,4.4,restaurant,online ordering; Resy reservations; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Sally's Waterfront Dining,San Diego,CA,https://www.sallyssandiego.com/,s.Team@hyatt.com,homepage,True,1609,4.3,bar,OpenTable reservations,Squarespace,True,sent_log 2026-05-16,150.0
+Bencotto,San Diego,CA,https://www.lovebencotto.com/,info@lovebencotto.com,homepage,True,2344,4.5,bar,Toast ordering; Square,Squarespace,True,sent_log 2026-05-16,150.0
+Shakespeare Pub,San Diego,CA,https://www.shakespearepub.com/,info@shakespearepub.com,homepage,True,2328,4.6,bar,Toast ordering; Square,Squarespace,True,sent_log 2026-05-16,150.0
+Lestat's on Park,San Diego,CA,https://www.lestats.com/,admin@lestats.com,homepage,True,1326,4.4,cafe,Square,Squarespace,True,sent_log 2026-05-16,150.0
+Rudford's Restaurant,San Diego,CA,https://www.rudfords.com/,nicholas@rudfords.com,homepage,True,4743,4.4,cafe,DoorDash storefront,Squarespace,True,sent_log 2026-05-16,150.0
+Coronado Brewing Company,San Diego,CA,https://coronadobrewing.com/,BaileyT@coronadobrewing.com,homepage,True,1450,4.5,restaurant,Toast ordering; Shopify store; gift cards,Shopify,True,sent_log 2026-05-16,150.0
+Royal India - San Diego,San Diego,CA,https://royalindia.com/,info@royalindia.com,homepage,True,1541,4,restaurant,Square; Yelp reservations,custom/other,True,sent_log 2026-05-16,150.0
+Broken Yolk Cafe,San Diego,CA,https://www.thebrokenyolkcafe.com/location/broken-yolk-cafe-point-loma,pointloma@brokenyolkcafe.com,homepage,True,1840,4.3,cafe,Olo ordering; Shopify store; gift cards,Webflow,True,sent_log 2026-05-16,150.0
+Pluckers Wing Bar,Dallas,TX,https://www.pluckers.com/location/lovers-and-greenville,stishgart@pluckers.net,homepage,True,4982,4.3,restaurant,Shopify store; gift cards,Webflow,True,sent_log 2026-05-16,150.0
+Rj Mexican Cuisine,Dallas,TX,https://rjmexicancuisine.com/,rjmexicancuisine@sbcglobal.net,homepage,True,11312,4.8,bar,OpenTable reservations,Squarespace,True,sent_log 2026-05-16,150.0
+Rosewood Mansion on Turtle Creek,Dallas,TX,https://www.rosewoodhotels.com/en/mansion-on-turtle-creek-dallas,info@rosewoodhotelgroup.com,/contact,True,1078,4.7,bar,OpenTable reservations,custom/other,True,sent_log 2026-05-16,150.0
+barleymash,San Diego,CA,http://www.barleymash.com/,samantha@barleymash.com,/contact,True,4345,4.4,bar,Toast ordering; WooCommerce store; gift cards,WordPress,False,sent_log 2026-05-16,150.0
+Point Loma Seafoods,San Diego,CA,https://pointlomaseafoods.com/,info@pointlomaseafoods.com,/contact,True,6142,4.5,restaurant,WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+Kalachandji's,Dallas,TX,https://kalachandjis.com/,danny@kalachandjis.com,homepage,True,2663,4.7,restaurant,gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Kona Grill,Dallas,TX,https://konagrill.com/locations/,info@togrp.com,homepage,True,7332,4.7,bar,Toast ordering; Olo ordering; OpenTable reservations; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Bryan Street Tavern,Dallas,TX,https://bryanstreettavern.com/,jhinkson@taverncompanies.com,homepage,True,1245,4.4,restaurant,DoorDash storefront; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Bombshells Restaurant & Bar Dallas,Dallas,TX,https://www.4bombshells.com//,webmaster@rciis.com,homepage,True,4771,4,restaurant,DoorDash storefront; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Warwick Melrose - Dallas,Dallas,TX,https://www.warwickhotels.com/warwick-melrose-dallas/,info.dallas@warwickhotels.com,homepage,True,1604,4.4,lodging,OpenTable reservations; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Chocolate Cafe,San Diego,CA,https://www.chocolatesandiego.com/,tEmailinfo@chocolatesandiego.com,/contact,True,1298,4.3,cafe,WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+Harney Sushi,San Diego,CA,https://misoharneysushi.com/,zharneysushi@yahoo.com,/about,True,1437,4.4,restaurant,'reserve' link,custom/other,True,sent_log 2026-05-16,150.0
+The Joule,Dallas,TX,https://www.thejouledallas.com/,info@thejouledallas.com,/about,True,1816,4.5,lodging,'book now' link,custom/other,True,sent_log 2026-05-16,150.0
+Sunrise Coffee,Las Vegas,NV,http://www.sunrisecoffeelv.com/,contact@sunrisecoffeelv.com,homepage,True,1391,4.5,cafe,Square,Squarespace,False,sent_log 2026-05-16,150.0
+Coffee Pub,Las Vegas,NV,http://coffeepubnv.com/,coffeepub@gmail.com,homepage,True,1347,4.7,cafe,DoorDash storefront,custom/other,False,sent_log 2026-05-16,150.0
+Flanagan's Ale House,Louisville,KY,https://flanagansalehouse.com/,drewpb42189@gmail.com,homepage,True,1101,4.3,bar,Toast ordering,custom/other,True,sent_log 2026-05-16,150.0
+Sapporo Japanese Grill & Sushi,Louisville,KY,https://sapporolouisville.com/,mikimsapporo@yahoo.com,/about,True,2179,4.5,restaurant,Toast ordering,custom/other,True,sent_log 2026-05-16,150.0
+Brother Juniper's,Memphis,TN,https://brotherjunipers.com/,info@brotherjunipers.com,homepage,True,3084,4.7,restaurant,'order online' link,custom/other,True,sent_log 2026-05-16,150.0
+Huey's Midtown,Memphis,TN,https://hueyburger.com/,john.apple@seed.com,/contact-us,True,3606,4.5,bar,DoorDash storefront; Shopify store,custom/other,True,sent_log 2026-05-16,150.0
+Feby's Fishery,Wilmington,DE,https://www.febysfishery.com/,tom@febysfishery.com,homepage,True,1533,4.4,bar,Toast ordering; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Timothy's Riverfront Grill,Wilmington,DE,https://riverfrontde.mytimothysrestaurants.com/,Timothysevents@gmail.com,homepage,True,1711,4,bar,Toast ordering; Tock; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Jessop's Tavern & Colonial Restaurant,Wilmington,DE,https://jessops-tavern.com/,jessopscontact@gmail.com,homepage,True,2449,4.6,bar,Tock,WordPress,True,sent_log 2026-05-16,150.0
+TLz Nail Spa,Wilmington,DE,https://luxenailbytlz.com/,Tee_dng@yahoo.com,homepage,True,1785,4.6,beauty_salon,WooCommerce store,WordPress,True,sent_log 2026-05-16,150.0
+Boatyard Bar & Grill,Annapolis,MD,http://www.boatyardbarandgrill.com/,info@atlasrestaurantgroup.com,homepage,True,6242,4.6,bar,gift cards,custom/other,False,sent_log 2026-05-16,150.0
+Federal House Bar & Grille,Annapolis,MD,https://www.federalhouse.com/,jeremy@federalhouse.com,homepage,True,1783,4.3,bar,Toast ordering; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Reynolds Tavern and 1747 Pub,Annapolis,MD,https://reynoldstavern.org/,Events@ReynoldsTavern.com,/contact,True,1303,4.3,restaurant,DoorDash storefront; OpenTable reservations; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Glory Days Grill,Annapolis,MD,https://www.glorydaysgrill.com/,info@glorydaysgrill.com,/contact,True,1170,4.1,bar,gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Frog Hollow Tavern,Augusta,GA,https://froghollowtavern.com/,%20info@froghollowtavern.com,homepage,True,1409,4.7,bar,Toast ordering; OpenTable reservations; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Giuseppe's,Augusta,GA,https://gpizza.net/,lenderman52@comcast.net,homepage,True,2654,4.1,restaurant,ChowNow ordering,custom/other,True,sent_log 2026-05-16,150.0
+"Manuel's Bread Cafe - North Augusta, SC",Augusta,GA,https://manuelsbreadcafe.com/,manuel@manuelsbreadcafe.com,homepage,True,1516,4.5,cafe,ChowNow ordering; Resy reservations,Squarespace,True,sent_log 2026-05-16,150.0
+Farmhaus Burger,Augusta,GA,https://farmhausburger.com/,downtown@farmhausburger.com,/contact-us,True,2874,4.6,restaurant,Toast ordering; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Serenity Day Spa LLC,Augusta,GA,https://www.serenityaugusta.com/,info@serenityaugusta.com,/about,True,1041,4.9,spa,gift cards,Squarespace,True,sent_log 2026-05-16,150.0
+Big City Bread Cafe,Athens,GA,https://www.bigcitybreadcafe.com/,info@bcbcafe.com,homepage,True,1027,4.6,cafe,Toast ordering,Squarespace,True,sent_log 2026-05-16,150.0
+Mama's Boy Restaurant,Athens,GA,https://www.mamasboyathens.com/,catering@mamasboyathens.com,homepage,True,1900,4.6,restaurant,Square,Squarespace,True,sent_log 2026-05-16,150.0
+Agua Linda Mexican Restaurant,Athens,GA,https://agualindarestaurant.com/,info@agualindarestaurant.com,/about,True,1078,4.4,restaurant,Toast ordering; gift cards,custom/other,True,sent_log 2026-05-16,150.0
+Salsa's Mexican Grill,Warner Robins,GA,https://salsas-warnerrobins.com/,salsasmexican@yahoo.com,homepage,True,1081,4.4,bar,'book now' link,custom/other,True,sent_log 2026-05-16,150.0
+The British Bulldog Pub,Columbia,SC,https://thebritishbulldogpub.com/,thebritishbulldogpub@gmail.com,homepage,True,2108,4.3,restaurant,'order online' link,custom/other,True,sent_log 2026-05-16,150.0
+The Original Pancake House - Columbia SC,Columbia,SC,https://ophcolumbiasc.com/,ophcolumbia@gmail.com,/contact-us,True,2094,4.5,store,'order online' link,custom/other,True,sent_log 2026-05-16,150.0
+Maurice's Piggie Park,Columbia,SC,https://www.piggiepark.com/,office@piggiepark.com,/contact,True,2673,4.3,restaurant,DoorDash storefront; ChowNow ordering; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,150.0
+Jack n' Diane's Dueling Pianos,Greenville,SC,https://jackndianes.com,info@jackndianes.com,/reach-us,True,996,4.3,bar,'reserve' link,custom/other,True,sent_log 2026-05-16,149.6
+Mr. Friendly's New Southern Cafe,Columbia,SC,https://mrfriendlys.com/,eatmrfriendlys@gmail.com,homepage,True,995,4.7,restaurant,DoorDash storefront; Resy reservations,WordPress,True,sent_log 2026-05-16,149.5
+Vivid Salon,Baltimore,MD,https://www.wemakeitvivid.com/,info@wemakeitvivid.com,homepage,True,695,4.9,hair_care,salon booking; gift cards,WordPress,True,,149.5
+The Sidecar Bar & Grille,Philadelphia,PA,https://www.thesidecarbar.com/,sidecarbar.v4@gmail.com,homepage,True,994,4.4,restaurant,Toast ordering; Resy reservations; gift cards,Squarespace,True,sent_log 2026-05-16,149.4
+CHICAGO BATH HOUSE,Chicago,IL,https://www.bathhousechicago.com/index.html,ChicagoSauna@gmail.com,homepage,True,990,4.4,beauty_salon,gift cards,custom/other,True,sent_log 2026-05-16,149.0
+YaYa's Euro Bistro,Wichita,KS,https://yayaswichita.com/,banquets@yayaswichita.com,/contact,True,988,4.4,bar,gift cards,WordPress,True,sent_log 2026-05-16,148.8
+Historic Inns of Annapolis,Annapolis,MD,https://www.historicinnsofannapolis.com/,reservations@historicinnsofannapolis.com,homepage,True,982,4.5,lodging,'book now' link,custom/other,True,sent_log 2026-05-16,148.2
+Complexions Spa for Beauty and Wellness,Albany,NY,https://www.complexions.com/,frontdesk@complexions.com,homepage,True,679,4.4,spa,gift cards,WordPress,True,,147.9
+Tyler Mason Salon Spa,Indianapolis,IN,https://tylermason.com/,info@tylermason.com,homepage,True,676,4.7,hair_care,WooCommerce store; gift cards,WordPress,True,,147.6
+The Franklin Mortgage & Investment Company,Philadelphia,PA,https://www.thefranklinbar.com/,19103215-546-9544drinks@thefranklinbar.com,homepage,True,974,4.4,bar,online ordering; Resy reservations,custom/other,True,sent_log 2026-05-16,147.4
+Let's Roll Seneca,Wichita,KS,https://www.letsrollseneca.com,seneca@letsrollbowling.com,homepage,True,962,4.4,bowling_alley,Square; gift cards,Weebly,True,sent_log 2026-05-16,146.2
+NY Hair Company,Las Vegas,NV,https://nyhaircompany.com/,nyhair702@gmail.com,/contact,True,661,4.8,hair_care,Fresha booking; WooCommerce store,WordPress,True,,146.1
+Gold Skin Care Center,Nashville,TN,https://goldskincare.com/,marketingmail@goldskincare.com,/contact-us,True,657,4.7,hair_care,'book an appointment' link,WordPress,True,,145.7
+Echo Coffee,Phoenix,AZ,https://www.echocoffee.shop/,operations@echocoffee.com,homepage,True,956,4.5,cafe,Square,Weebly,True,sent_log 2026-05-16,145.6
+Tiago Coffee Bar + Kitchen,Los Angeles,CA,https://www.tiagocoffee.com/,hello@tiagocoffee.com,homepage,True,954,4.4,cafe,Toast ordering; Square,Squarespace,True,sent_log 2026-05-16,145.4
+Brazilian Wax and Spa by Claudia Augusta,Augusta,GA,https://brazilianwaxandspabyclaudia.com/,corporate@byclaudiaspas.com,/about,True,944,4.6,beauty_salon,salon booking; WooCommerce store,WordPress,True,sent_log 2026-05-16,144.4
+Juut Salonspa,Saint Paul,MN,https://juut.com/locations/roseville-salon-spa/,info@juut.com,homepage,True,942,4.8,beauty_salon,salon booking; gift cards,WordPress,True,sent_log 2026-05-16,144.2
+Bell Tower Salon Spa,Reading,PA,https://belltowersalonspa.com/,info@belltowersalonspa.com,/contact-us,True,642,4.7,beauty_salon,salon booking,custom/other,True,,144.2
+Spicy Pie - Downtown Fargo,Fargo,ND,https://pizzagrindersbeer.com/,lexi@spicynd.com,/contact,True,938,4.3,meal_delivery,gift cards,WordPress,True,sent_log 2026-05-16,143.8
+Olive Cafe,San Diego,CA,https://olivecafe.biz/,info@indiantypefoundry.com,homepage,True,938,4.6,restaurant,Toast ordering; gift cards,GoDaddy,True,sent_log 2026-05-16,143.8
+ModernHaus SoHo,New York,NY,https://www.modernhaushotel.com/,reservations@modernhaussoho.com,homepage,True,932,4.3,lodging,'book now' link,custom/other,True,sent_log 2026-05-16,143.2
+The Restoration Charleston,Charleston,SC,https://therestorationhotel.com/,frontdesk@therestorationhotel.com,/contact-us,True,629,4.5,bar,WooCommerce store,WordPress,True,,142.9
+Bella Salon & Spa,Hagerstown,MD,https://www.bellasalonandspa.net,guestservices@bellasalonandspa.net,/about,True,627,4.8,beauty_salon,salon booking; gift cards,custom/other,True,,142.7
+Under the Volcano,Houston,TX,https://www.underthevolcanohouston.com/,vocanoperformers@gmail.com,/contact,True,925,4.4,bar,Toast ordering; online ordering; Resy reservations; gift cards,custom/other,True,sent_log 2026-05-16,142.5
+Jaguars Phoenix,Phoenix,AZ,https://www.jaguarsphoenix.com/,jaguarsaz@nightlifehospitality.com,/about,True,923,4.4,night_club,'reservations' link,custom/other,True,sent_log 2026-05-16,142.3
+Mexican Post,Wilmington,DE,http://mexicanpostde.com/,info@mexicanpostde.com,homepage,True,923,4.2,restaurant,Toast ordering,custom/other,False,sent_log 2026-05-16,142.3
+Katsuya,Los Angeles,CA,https://www.sbe.com/restaurants/katsuya/,lasvegaevents@sbe.com,homepage,True,917,4.3,bar,OpenTable reservations; gift cards,WordPress,True,sent_log 2026-05-16,141.7
+Augustino's Italian Eatery and Prime Steaks,Augusta,GA,https://www.augustinos.net/,info@augustinos.net,homepage,True,917,4.4,bar,OpenTable reservations,Squarespace,True,sent_log 2026-05-16,141.7
+Numa Spa,Hampton,VA,https://numaspa.com/,drg@numaspa.com,/about,True,614,4.9,beauty_salon,WooCommerce store,WordPress,True,,141.4
+City Tavern | Dallas Soccer Bar,Dallas,TX,https://citytaverndowntown.com/,info@citytaverndowntown.com,homepage,True,911,4.4,bar,gift cards,custom/other,True,sent_log 2026-05-16,141.1
+Huddle House,Warner Robins,GA,https://www.huddlehouse.com/locations/ga/warner-robins/215-russell-parkway/,mediainquiries@huddlehouse.com,/contact,True,910,4.2,restaurant,gift cards,custom/other,True,sent_log 2026-05-16,141.0
+Progressions Salon,Rockville,MD,https://progressions.com/,info@progressions.com,homepage,True,608,4.8,beauty_salon,salon booking; gift cards,WordPress,True,,140.8
+Nobu San Diego,San Diego,CA,https://www.noburestaurants.com/sandiego/home,Groupsandevents@oneandonlycapetown.com,/contact-us,True,905,4.2,restaurant,OpenTable reservations; gift cards,custom/other,True,sent_log 2026-05-16,140.5
+Edgar's Grille,Augusta,GA,https://edgarsgrille.com/,information@edgarshospitality.com,homepage,True,904,4.3,restaurant,OpenTable reservations,WordPress,True,sent_log 2026-05-16,140.4
+3 Little Birds Salon ✂,Denver,CO,https://3littlebirdssalon.com/,hi@powla.com,homepage,True,603,4.7,hair_care,WooCommerce store,WordPress,True,,140.3
+French Market Grille,Augusta,GA,https://www.thefrenchmarketgrille.com/,frenchmarketgrillesurrey@gmail.com,homepage,True,894,4.2,restaurant,OpenTable reservations; gift cards,Squarespace,True,sent_log 2026-05-16,139.4
+Level a Small Plates Lounge,Annapolis,MD,https://levelannapolis.com/,eatanddrink@levelannapolis.com,/contact,True,888,4.5,restaurant,Toast ordering; OpenTable reservations; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,138.8
+Ringpfeil Advanced Dermatology,Philadelphia,PA,https://ringpfeildermatology.com,rad@ringpfeildermatology.com,homepage,True,877,4.8,beauty_salon,'book an appointment' link,custom/other,True,sent_log 2026-05-16,137.7
+JUVENEX SPA,New York,NY,https://juvenexspanyc.com/,info@juvenexspanyc.com,/about,True,572,3.9,spa,gift cards,WordPress,True,,137.2
+Salontra Select Suites,Baltimore,MD,https://salontraselectsuites.com/,info@salontraselectsuites.com,homepage,True,568,4.5,beauty_salon,'book an appointment' link,WordPress,True,,136.8
+Twisted Scissors,Chicago,IL,https://www.twistedscissorschicago.com/,reception@twistedscissorschicago.com,/about,True,860,4.6,hair_care,Square,Squarespace,True,sent_log 2026-05-16,136.0
+Hottie Hair Salon & Extensions Store,Las Vegas,NV,https://hottiehair.com/,info@hottiehair.com,/contact,True,855,4.6,hair_care,'shop now' link,custom/other,True,sent_log 2026-05-16,135.5
+One Shot Coffee,Philadelphia,PA,https://oneshotcoffeecafe.com/,oneshotcoffee@gmail.com,homepage,True,851,4.2,cafe,Square; gift cards,custom/other,True,sent_log 2026-05-16,135.1
+True North Tavern,San Diego,CA,https://truenorthtavern.com/,tavern@truenorthtavern.com,homepage,True,850,4,bar,WooCommerce store,WordPress,True,sent_log 2026-05-16,135.0
+Signature Medical Spa,Charlottesville,VA,https://www.signaturemedspa.com/,info@signaturemedspa.com,/contact,True,545,4.9,beauty_salon,gift cards,WordPress,True,,134.5
+Chesters Chophouse & Wine Bar,Wichita,KS,https://chesterschophouse.com/,eventsbychesters@gmail.com,homepage,True,840,4.4,restaurant,DoorDash storefront; OpenTable reservations,WordPress,True,sent_log 2026-05-16,134.0
+Vetri Cucina,Philadelphia,PA,https://vetricucina.com/,vetri@vetricucina.com,homepage,True,835,4.8,restaurant,OpenTable reservations; Tock,WordPress,True,sent_log 2026-05-16,133.5
+Craft Axe Throwing,Spartanburg,SC,https://craftaxethrowing.com/us/sc/spartanburg,spartanburg@craftaxethrowing.com,homepage,True,535,4.9,bar,gift cards,custom/other,True,,133.5
+Theo's,Fayetteville,AR,https://www.theosfayetteville.com/,admin@theosfayetteville.com,homepage,True,534,4.5,bar,Toast ordering; Resy reservations; gift cards,Squarespace,True,,133.4
+Neroli Med Spa & Beauty Lounge,Charlottesville,VA,https://neroli-spa.com/,info@neroli-spa.com,/contact,True,534,4.8,beauty_salon,Shopify store; gift cards,WordPress,True,,133.4
+Last Tangle In Washington Salon,Washington,DC,https://lasttangle.com/,lasttanglesalon@yahoo.com,homepage,True,529,4.8,beauty_salon,WooCommerce store,WordPress,True,,132.9
+The Lambs Club,New York,NY,https://www.thelambsclub.com/,info@thelambsclub.com,/contact-us,True,827,4.4,bar,online ordering,custom/other,True,sent_log 2026-05-16,132.7
+Caviar & Bananas - Gourmet Market & Cafe,Charleston,SC,https://www.caviarandbananas.com/,ecommerce@caviarandbananas.com,homepage,True,527,4.3,cafe,ChowNow ordering; gift cards,custom/other,True,,132.7
+Ginkgo Coffeehouse,Saint Paul,MN,https://ginkgocoffee.com/,kathy@ginkgocoffee.com,homepage,True,823,4.4,cafe,ChowNow ordering,WordPress,True,sent_log 2026-05-16,132.3
+Chicago Male Salon & Spa,Chicago,IL,https://www.chicagomalesalon.com/,booking@chicagomalesalon.com,homepage,True,507,4.7,beauty_salon,Square,Squarespace,True,,130.7
+KidSnips Lincoln Park,Chicago,IL,https://kidsnips.com/,johanna@kidsnips.com,homepage,True,504,4.5,hair_care,'book now' link,WordPress,True,,130.4
+Sophie's Cuban Cuisine - Midtown West,New York,NY,https://www.sophiescuban.com/,info@sophiescuban.com,homepage,True,801,4.3,restaurant,Square,Squarespace,True,sent_log 2026-05-16,130.1
+BODYBRITE LASER HAIR REMOVAL AND ESTHETIC CENTER,Athens,GA,https://bodybritehairremovalga.zoca.com/,athensbodybrite@gmail.com,homepage,True,788,4.9,beauty_salon,gift cards,custom/other,True,sent_log 2026-05-16,128.8
+The Waxing Studio,Tucson,AZ,https://www.thewaxingstudiotucson.com/,reception@twstucson.com,/about,True,480,5,beauty_salon,Boulevard booking; gift cards,Squarespace,True,,128.0
+Penelope & The Beauty Bar,Seattle,WA,https://www.penelopeandthebeautybar.com/,Bookpenelope@gmail.com,homepage,True,480,4.4,spa,Mindbody booking; Shopify store,Shopify,True,,128.0
+Bread Lounge,Los Angeles,CA,https://breadlounge.com/,office@breadlounge.com,homepage,True,771,4.6,bakery,Square; Clover ordering; gift cards,custom/other,True,sent_log 2026-05-16,127.1
+VIDA Aesthetic Medicine Tigard,Portland,OR,https://vidaskincare.com/,lucia@vidaskincare.com,/contact,True,468,4.9,beauty_salon,WooCommerce store,WordPress,True,,126.8
+Locos Grill & Pub Athens Eastside,Athens,GA,https://locosgrill.com/,office@locosgrill.com,homepage,True,767,4.1,bar,Toast ordering; WooCommerce store,WordPress,True,sent_log 2026-05-16,126.7
+MI CUMBIA⎰ Rittenhouse,Philadelphia,PA,https://www.micumbia.co/,me@micumbia.co,homepage,True,464,4.9,beauty_salon,gift cards,Squarespace,True,,126.4
+Trilogy Salon And Spa,Wilmington,DE,https://trilogysalon.com/,info@trilogysalon.com,homepage,True,760,4.7,beauty_salon,gift cards,WordPress,True,sent_log 2026-05-16,126.0
+Emerald City Day Spa,Saint Paul,MN,https://emeraldcitydayspa.com/,relax@emeraldcitydayspa.com,/contact,True,750,4.9,spa,WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,125.0
+Rumors by Tuscan Sun,Albany,NY,https://rumorsinc.com/,rumors@rumorsinc.com,/contact,True,441,4.4,beauty_salon,salon booking,WordPress,True,,124.1
+Square One Salon & Spa,Columbus,OH,https://www.squareonesalon.com/,sq1dayton@gmail.com,/contact-us,True,440,4.8,hair_care,gift cards,custom/other,True,,124.0
+Marbella Salon,Houston,TX,https://www.marbellasalonhouston.com/,marbellmarbellasalon@gmail.com,homepage,True,738,4.7,beauty_salon,'book an appointment' link,Duda,True,sent_log 2026-05-16,123.8
+Germain Dermatology,Charleston,SC,https://germaindermatology.com/,whitehead@germaindermatology.com,homepage,True,438,4.6,beauty_salon,'book an appointment' link,WordPress,True,,123.8
+The Kava Konnection,Greenville,SC,https://www.thekavakonnection.com/,thekavakonnection@gmail.com,homepage,True,436,4.7,cafe,Square,Squarespace,True,,123.6
+Super 8 by Wyndham Wichita Airport,Wichita,KS,https://www.super8wichitaict.com/,guestservices@americasinn.net,homepage,True,735,3.2,lodging,'reservations' link,custom/other,True,sent_log 2026-05-16,123.5
+About Face Skincare,Philadelphia,PA,https://aboutfaceskincare.com/,careteam@aboutfaceskincare.com,homepage,True,734,4.9,beauty_salon,WooCommerce store,WordPress,True,sent_log 2026-05-16,123.4
+Claddagh Coffee,Saint Paul,MN,https://www.claddagh-coffee.com,claddaghmanagement@gmail.com,homepage,True,725,4.7,cafe,Square,Weebly,True,sent_log 2026-05-16,122.5
+East Village Tavern+Bowl,San Diego,CA,https://evtbowl.com/,events@mobsquadsd.com,/about,True,724,4.2,bowling_alley,OpenTable reservations,custom/other,True,sent_log 2026-05-16,122.4
+GHq Grooming for Men,Norfolk,VA,https://ghqgroomingformen.com/,pembroke@ghqgrooming4men.com,homepage,True,423,4.6,hair_care,'book now' link,custom/other,True,,122.3
+Elevate Lounge,Los Angeles,CA,https://takamisushi.com/elevate-club,takamirestaurant@gmail.com,homepage,True,721,4,bar,DoorDash storefront; OpenTable reservations; gift cards,custom/other,True,sent_log 2026-05-16,122.1
+Wellness District Medical Weight Loss & Aesthetics,Fargo,ND,https://fargowellnessdistrict.com/,staff@fargowellnessdistrict.com,homepage,True,718,5,beauty_salon,WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,121.8
+Brown Fox Coffee,Charleston,SC,https://www.brownfoxcoffee.com,hello@brownfoxcoffee.com,homepage,True,414,4.8,cafe,Square,Weebly,True,,121.4
+ART Spa House,San Antonio,TX,https://artspahouse.com/,info@artspahouse.com,/about,True,709,4.8,beauty_salon,salon booking; WooCommerce store,WordPress,True,sent_log 2026-05-16,120.9
+Tony's,Houston,TX,https://www.tonyshouston.com/,info@tonyshouston.com,/contact,True,707,4.5,bar,Toast ordering; online ordering; Resy reservations,custom/other,True,sent_log 2026-05-16,120.7
+Artisinal Hair Company,Frederick,MD,https://arthairco.com/,salon@arthairco.com,/contact,True,407,4.7,beauty_salon,Boulevard booking; WooCommerce store,WordPress,True,,120.7
+Aroma Spa and Brows,Trenton,NJ,https://www.aromabrows.com/,AromaBrows@gmail.com,homepage,True,407,4.9,spa,Square; appointment booking,WordPress,True,,120.7
+CK Nails,Frederick,MD,https://www.cknailsfrederick.com/,cknailsfrederick@gmail.com,/contact,True,405,4.8,beauty_salon,Square; gift cards,WordPress,True,,120.5
+Green Lettuce USA,Greenville,SC,https://greenlettuce-usa.com/,info@greenlettuce-usa.com,/contact,True,403,4.6,bar,DoorDash storefront; OpenTable reservations,WordPress,True,,120.3
+MV NAILS & SPA- NAIL SALON MT. VERNON BALTIMORE MD,Baltimore,MD,https://mvnailsandspabaltimore.com/,mvnailsandspabaltimore@gmail.com,/contact,True,402,4.2,beauty_salon,gift cards,WordPress,True,,120.2
+West End Grill,Annapolis,MD,https://www.westend.bar/,mraiders087@yahoo.com,homepage,True,699,4.4,bar,'order online' link,custom/other,True,sent_log 2026-05-16,119.9
+Luxury Nails & Spa,Ashland,VA,https://myluxurynails.com/,myluxurynails@aol.com,homepage,True,396,4.5,beauty_salon,'gift card' link,custom/other,True,,119.6
+Dock Street Bar & Grill,Annapolis,MD,https://www.dockstreetbar.net/,dockstreetbarandgrill@gmail.com,/contact,True,695,4.3,bar,'order online' link,Squarespace,True,sent_log 2026-05-16,119.5
+Beau Monde West Spa,Wichita,KS,https://beaumondewestspa.com/,care@beaumondewestspa.com,homepage,True,683,4.9,spa,WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,118.3
+"Rumor Has It Massage, Facial, Nail, Brow & Med Spa",Houston,TX,https://www.rhidayspa.com/spa-treatments/spa-packages/,contact@rhidayspa.com,homepage,True,382,4.2,beauty_salon,Mindbody booking; gift cards,WordPress,True,,118.2
+Bombay Bistro,Rockville,MD,http://www.bombaybistro.com/,bombaybistromd@gmail.com,homepage,True,676,4.3,meal_takeaway,DoorDash storefront; Square; Clover ordering,Squarespace,False,sent_log 2026-05-16,117.6
+Estar MedSpa & Innovative Health Center,Rockville,MD,https://estarmedspa.com/,info@estarmedspa.com,homepage,True,368,4.7,beauty_salon,WooCommerce store,WordPress,True,,116.8
+Bread & Chocolate,Saint Paul,MN,https://www.breadandchocolatebakery.com/,admin@cafelatte.com,homepage,True,666,4.5,bakery,Toast ordering; gift cards,Squarespace,True,sent_log 2026-05-16,116.6
+Designers Edge Hair Studio & Bella Vita Garden Spa,Salisbury,MD,https://www.desalonandspa.com/,teena@desalonandspa.com,/contact,True,363,4.6,hair_care,gift cards,Duda,True,,116.3
+Revel Eight Salon & Spa,Oklahoma City,OK,https://reveleight.com/,claire@reveleight.com,homepage,True,359,4.7,beauty_salon,'buy gift card' link,WordPress,True,,115.9
+Vault & Vator,Greenville,SC,https://www.vaultandvator.com/,joe@vaultandvator.com,/about,True,655,4.6,bar,Square; gift cards,Squarespace,True,sent_log 2026-05-16,115.5
+Engine Co. No. 28,Los Angeles,CA,https://www.engineco.com/,contacts@engineco.com,homepage,True,649,4.1,bar,'reservations' link,Squarespace,True,sent_log 2026-05-16,114.9
+Gaston Brewing Restaurant,Fayetteville,NC,https://gastonbrewing.com/,impallari@gmail.com,homepage,True,648,4.4,restaurant,Toast ordering; gift cards,GoDaddy,True,sent_log 2026-05-16,114.8
+Razor and Shear,Huntington,WV,https://www.therazorandshear.com,therazorandshear@gmail.com,homepage,True,344,4.9,beauty_salon,Square; gift cards,Weebly,True,,114.4
+Pleasant Hill Lanes,Wilmington,DE,https://bowlphl.com/,info@bowlphl.com,homepage,True,641,4.3,bowling_alley,Square,WordPress,True,sent_log 2026-05-16,114.1
+Image Creators Inc,Annapolis,MD,https://imagecreatorssalonandspa.com/,info@imagecreatorssalonandspa.com,/contact,True,339,4.6,beauty_salon,salon booking; WooCommerce store,WordPress,True,,113.9
+Alite Laser - Central Austin,Austin,TX,https://alitelaser.com/,info@alitelaser.com,homepage,True,338,4.9,beauty_salon,salon booking; WooCommerce store; gift cards,WordPress,True,,113.8
+Plant Stand of Arizona,Phoenix,AZ,https://plantstandaz.com/,sales@plantstandaz.com,/about,True,627,4.5,cafe,gift cards,WordPress,True,sent_log 2026-05-16,112.7
+Bar Amá,Los Angeles,CA,http://www.bar-ama.com/,INFO@BAR-AMA.COM,homepage,True,626,4.4,bar,Square; OpenTable reservations; gift cards,Squarespace,False,sent_log 2026-05-16,112.6
+Tria Cafe Rittenhouse,Philadelphia,PA,https://www.triaphilly.com/,info@triaphilly.com,homepage,True,624,4.7,cafe,Toast ordering; Square; OpenTable reservations; gift cards,Squarespace,True,sent_log 2026-05-16,112.4
+Makeup by Roxy,Allentown,PA,https://www.makeupbyroxy.com/,info@makeupbyroxy.com,homepage,True,323,4.9,beauty_salon,Square,Squarespace,True,,112.3
+Seward Cafe,Saint Paul,MN,https://www.sewardcafe.com/,sewardcafe@gmail.com,homepage,True,622,4.5,cafe,WooCommerce store,WordPress,True,sent_log 2026-05-16,112.2
+Hair M Downtown,Portland,OR,https://www.hairmgrooming.com/,info@hairmgrooming.com,/contact-us,True,317,4.7,beauty_salon,salon booking; gift cards,custom/other,True,,111.7
+Oxygen Salon and Day Spa,Rockville,MD,http://www.oxygensalonanddayspa.com/,Oxygenhairsalon@gmail.com,homepage,True,316,4.5,beauty_salon,gift cards,WordPress,False,,111.6
+Central Standard Brewing,Wichita,KS,https://www.centralstandardbrewing.com/,andy@drinkcsb.com,homepage,True,614,4.8,bar,Square,Squarespace,True,sent_log 2026-05-16,111.4
+Maxwells | Restaurant & Bar,Fargo,ND,https://www.maxwellsnd.com/,contact@maxwellsnd.com,/contact,True,613,4.7,restaurant,OpenTable reservations; gift cards,custom/other,True,sent_log 2026-05-16,111.3
+Spa Bliss,Charleston,WV,https://spabliss.com/,websupport@aspwv.com,homepage,True,311,4.5,beauty_salon,gift cards,WordPress,True,,111.1
+Urban Wax | Phoenix Arcadia - Brazilian Wax,Phoenix,AZ,https://urbanwaxing.com/,info@urbanwaxing.com,/contact,True,310,4.6,hair_care,salon booking; WooCommerce store,WordPress,True,,111.0
+Sports Center,Augusta,GA,https://sportscenterrestaurant.com/,sportscenterllc549@outlook.com,/about,True,609,4.5,bar,'order online' link,custom/other,True,sent_log 2026-05-16,110.9
+The Palmetto Cafe,Charleston,SC,https://charlestonplace.com/dining/,Info@CharlestonPlace.com,/contact,True,309,4.5,restaurant,Resy reservations,WordPress,True,,110.9
+The Drawing Room New York,New York,NY,https://thedrawingroomny.com/,info@thedrawingroomny.com,/contact,True,306,4.8,beauty_salon,WooCommerce store,WordPress,True,,110.6
+Blue Duck Hair Salon,Evansville,IN,https://blueduckhairsalon.com/,blueduckhairsalon@hotmail.com,/reach-us,True,303,4.5,beauty_salon,gift cards,custom/other,True,,110.3
+Back Burner Restaurant & Tavern,Wilmington,DE,https://backburner.com/,Generalmanager@backburner.com,homepage,True,602,4.3,bar,OpenTable reservations; gift cards,custom/other,True,sent_log 2026-05-16,110.2
+Great Jones Spa,New York,NY,https://gjspa.com/,info@gjspa.com,homepage,True,601,4.3,beauty_salon,salon booking; gift cards,WordPress,True,sent_log 2026-05-16,110.1
+Freya Salon,Milwaukee,WI,https://www.freyasalon.com/,freyasalondesk@gmail.com,homepage,True,296,4.7,beauty_salon,'book an appointment' link,Squarespace,True,,109.6
+Between Friends Coffee,Warner Robins,GA,https://betweenfriendscoffee.com/,hello@betweenfriendscoffee.com,homepage,True,595,4.7,cafe,Square; WooCommerce store,WordPress,True,sent_log 2026-05-16,109.5
+Canyon Ranch Spa + Fitness Las Vegas,Las Vegas,NV,https://www.canyonranch.com/las-vegas,reservations@canyonranch.com,/contact-us,True,591,3.9,spa,gift cards,custom/other,True,sent_log 2026-05-16,109.1
+Forepaugh's Restaurant,Saint Paul,MN,https://forepaughs.com/,gm@forepaughs.com,homepage,True,588,4.5,restaurant,Toast ordering; Resy reservations; gift cards,WordPress,True,sent_log 2026-05-16,108.8
+O'Learys Seafood Restaurant,Annapolis,MD,https://olearysseafood.com/,olearys@olearysseafood.com,homepage,True,584,4.5,restaurant,Toast ordering; OpenTable reservations; gift cards,custom/other,True,sent_log 2026-05-16,108.4
+PEEBLES SEAFOOD & WINGS ROSEWOOD,Columbia,SC,http://peeblesrestaurants.com/,peeblesrestaurants@aol.com,homepage,True,580,4.3,bar,DoorDash storefront,WordPress,False,sent_log 2026-05-16,108.0
+The French Room,Dallas,TX,https://www.adolphus.com/restaurants-bars/the-french-room,ktorres@adolphus.com,homepage,True,576,4.4,restaurant,OpenTable reservations; Resy reservations; gift cards,custom/other,True,sent_log 2026-05-16,107.6
+Deek's Pizza,Fargo,ND,https://deekspizza.com/,deeks@deekspizza.com,/about,True,567,3.7,meal_takeaway,gift cards,WordPress,True,sent_log 2026-05-16,106.7
+Cassandra Salon & Spa,Nashua,NH,https://www.cassandrasalon.com/,info@cassandrasalon.com,homepage,True,266,4.7,beauty_salon,salon booking,custom/other,True,,106.6
+Tangles Full Service Salon,Fayetteville,NC,http://tanglesnc.com/,shop@tanglesnc.com,homepage,True,264,4.4,beauty_salon,'book online' link,custom/other,False,,106.4
+Wax & Facial Center by Neu Spa,Charleston,WV,https://neuspa.online/,neuspa.online@gmail.com,homepage,True,262,4.9,beauty_salon,WooCommerce store,WordPress,True,,106.2
+BienEstar Massage,El Paso,TX,https://www.bienestarmassage.com,info@bienestarmassage.com,homepage,True,258,4.3,beauty_salon,Square; gift cards,Weebly,True,,105.8
+Houstonian Trellis Spa,Houston,TX,https://www.trellisspa.com/,confirmations@houstonian.com,/about,True,555,4.2,spa,gift cards,custom/other,True,sent_log 2026-05-16,105.5
+The National,Athens,GA,http://www.thenationalrestaurant.com/,erin@thenationalrestaurant.com,homepage,True,555,4.6,cafe,Square; Resy reservations; gift cards,Squarespace,False,sent_log 2026-05-16,105.5
+Thrive Aesthetic & Wellness,Portland,OR,https://www.thriveportland.com/,info@thriveportland.com,/contact,True,254,4.9,beauty_salon,WooCommerce store; gift cards,WordPress,True,,105.4
+"Longevity Wellness Massage, Bodywork and Esthetics",Charleston,SC,https://www.charlestonlongevity.com/,info@charlestonlongevity.com,homepage,True,250,4.9,beauty_salon,Square; gift cards,Squarespace,True,,105.0
+Ray's Cafe & Tea House,Philadelphia,PA,https://www.rayscafephilly.com/,rayscafephilly@gmail.com,/about,True,545,4.4,cafe,DoorDash storefront; Square; gift cards,Squarespace,True,sent_log 2026-05-16,104.5
+The Annapolitan,Augusta,GA,https://theannapolitansc.com/,info@theannapolitansc.com,homepage,True,544,4.3,bar,Toast ordering; OpenTable reservations; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,104.4
+Diamond Nail Lounge – formerly Vegas Nail Spa,Las Vegas,NV,https://diamondnaillsnv.com/,diamondnailsnv@gmail.com,/about,True,541,4.2,beauty_salon,'book now' link,WordPress,True,sent_log 2026-05-16,104.1
+Kelly's Logan House,Wilmington,DE,https://www.loganhouse.com/,dan@loganhouse.com,homepage,True,538,4.2,bar,Square,Squarespace,True,sent_log 2026-05-16,103.8
+Robert Leonard,Seattle,WA,https://www.robertleonard.net/,info@robertleonard.net,/contact,True,237,4.8,beauty_salon,'book online' link,WordPress,True,,103.7
+AO - The Space,Greenville,SC,https://www.theaolifestyle.com/,info.theaolifestyle@yahoo.com,/contact,True,235,4.8,beauty_salon,Square,Squarespace,True,,103.5
+PENZONE Salon + Spa Short North,Columbus,OH,https://www.penzonesalons.com/short-north/,comments@charlespenzone.com,homepage,True,235,4.4,beauty_salon,salon booking; gift cards,WordPress,True,,103.5
+Lavish Scranton,Scranton,PA,https://lavishscranton.com/,info@lavishscranton.com,/contact,True,231,4.7,beauty_salon,Shopify store,WordPress,True,,103.1
+Salon ^ PK,Jacksonville,FL,https://www.salonpk.com/,salonpkweb@gmail.com,homepage,True,230,4.2,beauty_salon,Square,Squarespace,True,,103.0
+The Skin & Body Spa And The Hair Company,Nashua,NH,https://www.theskinandbodyspa.com/,info@theskinandbodyspa.com,/contact,True,224,4.8,beauty_salon,salon booking; gift cards,WordPress,True,,102.4
+Roadmap Brewing Co.,San Antonio,TX,https://www.roadmapbrewing.com/,info@roadmapbrewing.com,homepage,True,516,4.6,bar,Toast ordering,Squarespace,True,sent_log 2026-05-16,101.6
+Wax Nashville,Nashville,TN,http://www.waxnashville.com/,customerservice@waxnashville.com,homepage,True,215,4.8,hair_care,Vagaro booking,Squarespace,False,,101.5
+GENT Cuts and Grooming,Saint Paul,MN,https://gentcg.com/locations/st-paul/,mail@gentcg.com,/contact,True,513,4.5,beauty_salon,salon booking,custom/other,True,sent_log 2026-05-16,101.3
+Moshi Moshi Golden Belt,Durham,NC,https://www.moshimoshimeanshello.com/,durham@moshimoshimeanshello.com,homepage,True,213,4.8,beauty_salon,gift cards,Squarespace,True,,101.3
+Smyth Tribeca,New York,NY,https://www.smythtribeca.com/,reservations@smythtribeca.com,/contact,True,512,4.2,lodging,'book now' link,WordPress,True,sent_log 2026-05-16,101.2
+Vasseur Skin Clinic and Spa,San Diego,CA,https://www.vasseurdayspa.com/,vasseurspa@gmail.com,homepage,True,212,5,spa,'book now' link,Squarespace,True,,101.2
+Moon's Day Spa - Beauty Salon in Eastdale Mall Montgomery,Montgomery,AL,https://moonsdayspa.com/,moon.punjani@yahoo.com,/contact,True,212,4.3,beauty_salon,WooCommerce store,WordPress,True,,101.2
+Ego Hour Hair Designers,Winston-Salem,NC,https://egohour.com/,egohour@aol.com,homepage,True,210,4.3,hair_care,'book an appointment' link,Squarespace,True,,101.0
+Studio 890 Salon Elm Grove,Milwaukee,WI,https://www.studio890.com/Default.asp,info@studio890.com,homepage,True,208,4.6,beauty_salon,'book online' link,custom/other,True,,100.8
+Ultimo Coffee,Philadelphia,PA,https://www.ultimocoffee.com/,info@ultimocoffee.com,homepage,True,507,4.5,cafe,Square,Squarespace,True,sent_log 2026-05-16,100.7
+SALON MILLAN,Trenton,NJ,https://www.salonmillan.com/,info@salonmillan.com,/contact-us,True,205,4.7,beauty_salon,gift cards,Squarespace,True,,100.5
+Whiskey 101,Fayetteville,AR,https://www.whiskey101fayetteville.com/,info@whiskey101fayetteville.com,/contact-us,True,203,3,night_club,WooCommerce store,WordPress,True,,100.3
+Miracles Salon,Washington,DC,https://miraclesinthecity.com/,help@miraclesinthecity.com,homepage,True,203,4.4,beauty_salon,WooCommerce store,WordPress,True,,100.3
+"Stella Nova Spa, Salon & Beauty Boutique | West Ashley",Charleston,SC,https://www.stella-nova.com/,downtown@stella-nova.com,homepage,True,202,4.6,beauty_salon,Square; gift cards,Squarespace,True,,100.2
+The Hair Loft Ltd,Chicago,IL,https://www.thehairloftltd.com/,rivernorth@thehairloftltd.com,homepage,True,202,4.8,beauty_salon,Square; gift cards,Squarespace,True,,100.2
+Gould's Salon Spa - Downtown,Memphis,TN,https://gouldsalonspa.com/,info@gouldsalonspa.com,/contact,True,201,4.5,beauty_salon,salon booking; WooCommerce store; gift cards,WordPress,True,,100.1
+Patriots Point Naval & Maritime Museum,Charleston,SC,https://www.patriotspoint.org/,info@patriotspoint.org,/contact,True,7544,4.8,tourist_attraction,,custom/other,True,,100.0
+Delaney's Irish Pub,Spartanburg,SC,https://delaneyspubsc.com/,delaneys@morgansquarehospitality.com,homepage,True,2628,4.5,restaurant,,custom/other,True,,100.0
+Bon Secours Wellness Arena,Greenville,SC,https://www.bonsecoursarena.com/,info@bswarena.com,/info,True,6350,4.5,stadium,,custom/other,True,,100.0
+Miyako Sushi Group,Spartanburg,SC,https://miyakosushigroup.com/index.html,josh.lee@miyakosushigroup.com,homepage,True,1112,4.5,restaurant,,Weebly,True,,100.0
+Catfish Hole Fayetteville,Fayetteville,AR,http://www.thecatfishhole.com/fayetteville-menu.html,fayetteville@thecatfishhole.com,homepage,True,3492,4.6,restaurant,,Weebly,False,,100.0
+Hammontree's Grilled Cheese,Fayetteville,AR,https://www.htgrilledcheese.com/,hammontreesgrilledcheese@gmail.com,/about,True,2485,4.6,bar,,WordPress,True,,100.0
+Pima Dermatology,Tucson,AZ,https://pimaderm.com/,pimainquiries@gmail.com,/about,True,1764,4.9,doctor,,WordPress,True,,100.0
+New Wave Salon and Spa,Rockville,MD,https://www.newwavesalon.com/,newwavesalonandspa@gmail.com,homepage,True,197,4.5,beauty_salon,'book an appointment' link,Webflow,True,,99.7
+Sage Tryall Salon,Lynchburg,VA,https://www.sagetryallsalon.com/,sage@sagetryallsalon.com,/contact,True,195,4.7,hair_care,salon booking; Shopify store,WordPress,True,,99.5
+French Gourmet Bakery,Houston,TX,https://www.fgbakery.com/,sales@fgbakery.com,homepage,True,492,4.6,bakery,Square,Squarespace,True,sent_log 2026-05-16,99.2
+Pageboy Salon,Athens,GA,https://www.pageboy.co/,pageboyathens@gmail.com,homepage,True,492,4.8,beauty_salon,Boulevard booking; gift cards,Squarespace,True,sent_log 2026-05-16,99.2
+Mystic Mocha,San Diego,CA,http://www.mysticmocha.org/,mysticmochacafe@gmail.com,homepage,True,487,4.7,cafe,Shopify store,Squarespace,False,sent_log 2026-05-16,98.7
+Vida Salon - Highlands,Denver,CO,https://vidasalon.com/,info@vidasalon.net,/contact,True,185,4.6,beauty_salon,Square; salon booking,Squarespace,True,,98.5
+Mojo Hair Bar,Lynchburg,VA,https://www.mojohairbar.com/,info@mojohairbar.com,homepage,True,184,4.8,beauty_salon,salon booking; gift cards,custom/other,True,,98.4
+Luxuria Salon,Rockville,MD,https://www.luxuriahair.com/,frontdesk@luxuriahair.com,/about,True,181,4.8,beauty_salon,Square,Squarespace,True,,98.1
+Diamond Cutz Barber Shop,Lynchburg,VA,https://www.diamondcutzbarber.com/,info@diamondcutzbarber.com,/about,True,181,4.7,hair_care,Square,Squarespace,True,,98.1
+Knick Salon and Spa,Milwaukee,WI,https://knicksalonandspa.com/,info@knicksalonandspa.com,/contact,True,180,4.5,beauty_salon,WooCommerce store,WordPress,True,,98.0
+Solstice Holistic Spa,Greenville,SC,https://solsticeholisticspa.com/,info@solsticeholisticspa.com,homepage,True,178,4.8,beauty_salon,'book an appointment' link,WordPress,True,,97.8
+Viva Brazil,San Diego,CA,http://vivabrazilsd.com/,contacts@vivabrazilsd.com,/contact,True,175,4.8,spa,Boulevard booking,WordPress,False,,97.5
+Stacy's Massage and Spa,York,PA,https://stacysmassageandspa.com/,team@smasyork.com,/contact-us,True,173,5,beauty_salon,Square; Vagaro booking; WooCommerce store,WordPress,True,,97.3
+Unique Brows Threading Studio,Winston-Salem,NC,http://www.unique-brows.com/,hi@unique-brows.com,homepage,True,171,4.5,hair_care,'book now' link,custom/other,False,,97.1
+Lusso Hair Studio and Spa,Winston-Salem,NC,https://lussohairstudio.com/,lussohairstudio@gmail.com,homepage,True,169,4.8,beauty_salon,GlossGenius booking,WordPress,True,,96.9
+ReCreations Salon,New Brunswick,NJ,https://recreationssalon.com/,info@recreationssalon.com,homepage,True,169,4.7,hair_care,salon booking,WordPress,True,,96.9
+Corner Bistro,Wilmington,DE,http://www.mybistro.com/,cornerbistrode@yahoo.com,homepage,True,467,4.5,restaurant,Toast ordering,Squarespace,False,sent_log 2026-05-16,96.7
+SenSpa,San Francisco,CA,https://senspa.com/,reception@senspa.com,homepage,True,167,4.7,beauty_salon,gift cards,WordPress,True,,96.7
+Earthling Day Spa and Pilates Studio,Charleston,SC,https://www.earthlingdayspa.com/,spa@earthlingdayspa.com,homepage,True,166,4.6,gym,gift cards,WordPress,True,,96.6
+Cecy Salon y Barbería,Knoxville,TN,https://www.cecysalon.com/,CecySalon1@gmail.com,homepage,True,166,4.7,hair_care,Square; salon booking,Squarespace,True,,96.6
+Michael Anthony Salon,Washington,DC,https://michaelanthonysalondc.com/,info@michaelanthonysalondc.com,/contact,True,165,4.6,beauty_salon,gift cards,WordPress,True,,96.5
+Expressway Suites,Fargo,ND,https://www.expresswaysuitesfargo.com/,expresswayfargo@gmail.com,/contact-us,True,462,4.2,lodging,'book now' link,Duda,True,sent_log 2026-05-16,96.2
+Knowledge Perk Coffee Company,Spartanburg,SC,https://knowledgeperk.com/,jordan@knowledgeperk.com,homepage,True,161,4.5,cafe,Toast ordering; Shopify store,Shopify,True,,96.1
+The Spa at Spring Ridge,Reading,PA,https://www.spaatspringridge.com/,john@digitalguider.com,/contact-us,True,161,4.5,spa,salon booking; WooCommerce store; gift cards,WordPress,True,,96.1
+AquaSpa Day Spa & Nail Salon,New Brunswick,NJ,https://aquaspasalon.com/,comments@aquaspasalon.com,/contact-us,True,161,4.1,spa,WooCommerce store; gift cards,WordPress,True,,96.1
+Ouley Hair Gallery,Washington,DC,https://ouleyhair.com/,ouleybowie@hotmail.com,/contact,True,158,4.1,beauty_salon,WooCommerce store,WordPress,True,,95.8
+Sugar Sugar Spa,Seattle,WA,https://ilovesugarsugar.com/,kirkland@ilovesugarsugar.com,homepage,True,156,4.8,hair_care,Mindbody booking,WordPress,True,,95.6
+Hair Excel and Spa Excel,Seattle,WA,http://hairexcels.com/,hairexcel2011@gmail.com,/contact,True,154,4.6,beauty_salon,Square; appointment booking; gift cards,custom/other,False,,95.4
+Make Up Artist & Skin Care Pro Group,Frederick,MD,https://skincareprogroup.com/,info@skincareprogroup.com,homepage,True,154,4.9,beauty_salon,Square,WordPress,True,,95.4
+House of RoyalT Beauty Bar & Boutique,San Antonio,TX,https://www.thehouseofroyalt.com/,texast71@ymail.com,homepage,True,153,4.5,beauty_salon,Square,Weebly,True,,95.3
+Fringe Hair & Nail Studio,Harrisburg,PA,https://www.fringehairandnailstudio.com/,fringestudio11@gmail.com,homepage,True,150,4.8,beauty_salon,Square,Squarespace,True,,95.0
+Tanfastic Sun Spa,Scranton,PA,https://tanfasticpa.com/,Contacttanfasticpa@gmail.com,/contact,True,147,4.7,beauty_salon,WooCommerce store; gift cards,WordPress,True,,94.7
+Hair Success Salon & Spa,Fargo,ND,https://www.hairsuccesssalons.com/,info@hairsuccesssalons.com,homepage,True,444,4.6,beauty_salon,gift cards,Duda,True,sent_log 2026-05-16,94.4
+Hava Java,Phoenix,AZ,https://havajavacoffee.com/,team@latofonts.com,homepage,True,443,4.7,cafe,Square,GoDaddy,True,sent_log 2026-05-16,94.3
+VAIN,Seattle,WA,https://www.vain.com/,vain@vain.com,/contact,True,141,4.4,clothing_store,Square,Squarespace,True,,94.1
+Shear Artistry Salon,Louisville,KY,https://shearartistrysalon.mysalononline.com/,shearartistryappointments@gmail.com,/contact,True,141,4.7,beauty_salon,'book online' link,custom/other,True,,94.1
+Rescue Spa,Philadelphia,PA,https://rescuespa.com/,rescuespaphljobs@rescuespa.com,/contact,True,440,4.6,spa,salon booking; Shopify store; gift cards,Shopify,True,sent_log 2026-05-16,94.0
+Wave Plastic Surgery & Aesthetic Laser Center Los Angeles,Los Angeles,CA,https://waveplasticsurgery.com/,ask@waveplasticsurgery.com,/contact-us,True,439,4.8,beauty_salon,WooCommerce store,WordPress,True,sent_log 2026-05-16,93.9
+Joseph's Vintage Barbershop and Salon,Harrisburg,PA,https://josephsvintagehair.com/,josephsvintagehair@gmail.com,homepage,True,138,4.9,spa,salon booking,WordPress,True,,93.8
+"Pigtails & Crewcuts: Haircuts for Kids - Annapolis, MD",Annapolis,MD,https://book.pigtailsandcrewcuts.com/103461/home,annapolis@pigtailsandcrewcuts.com,homepage,True,437,4.6,beauty_salon,gift cards,WordPress,True,sent_log 2026-05-16,93.7
+Silver Lining Day Spa,Charlottesville,VA,https://www.silverliningdayspa.com/home.html,silverliningdayspa@gmail.com,homepage,True,136,4.8,beauty_salon,'book now' link,GoDaddy,True,,93.6
+Brow Arc - Northgate Mall,Seattle,WA,https://www.browarc.com/,browarc@gmail.com,/contact,True,133,4.3,beauty_salon,Square; gift cards,Squarespace,True,,93.3
+Bella Vi Spa & Aesthetics,Evansville,IN,https://bellavimedspa.com/,info@bellavimedspa.com,homepage,True,133,4.6,beauty_salon,WooCommerce store,WordPress,True,,93.3
+From Hair to Eternity,Allentown,PA,https://www.fromhairtoeternity.net/,vmspiritfilled@gmail.com,/contact-us,True,132,4.8,hair_care,'gift cards' link,Duda,True,,93.2
+EYMA Salon and Spa,Rockville,MD,http://www.eymasalonandspa.com/,info@eymasalonandspa.com,homepage,True,132,4.7,beauty_salon,Square; gift cards,Duda,False,,93.2
+One80 Salon,Washington,DC,https://www.one80salon.com/,info@one80salon.com,/contact,True,130,4.6,beauty_salon,WooCommerce store,WordPress,True,,93.0
+The Shop Salon,Rockville,MD,https://www.theshopsalon.com/,info@theshopsalon.com,/contact,True,129,4.6,beauty_salon,Square; Vagaro booking,Squarespace,True,,92.9
+WOW Brows! Threading and Beauty Studio,Winston-Salem,NC,https://wowbrows.me/location/764/Winston-Salem-NC,info@salon.com,homepage,True,129,4.2,beauty_salon,gift cards,custom/other,True,,92.9
+XEX Salon,Chicago,IL,https://xexchicago.com/,info@xexchicago.com,/contact,True,426,4.5,hair_care,'book now' link,WordPress,True,sent_log 2026-05-16,92.6
+European Skincare & Med Spa,Fort Worth,TX,https://www.euroskincare.com/,info@euroskincare.com,homepage,True,126,4.4,beauty_salon,salon booking,WordPress,True,,92.6
+Tangles Salon,Los Angeles,CA,https://www.tanglespasadena.com/,you@gmail.com,/contact,True,123,4.7,hair_care,gift cards,custom/other,True,,92.3
+Salon Artigiano,Trenton,NJ,https://www.salonartigiano.net/,salonartigiano@verizon.net,/contact,True,120,4.8,hair_care,salon booking,WordPress,True,,92.0
+"Beauty by Dolly - Threading & Sugaring in Hillcrest, San Diego",San Diego,CA,https://beautybydolly.com/,info@leomeasure.com,/contact,True,416,4.8,beauty_salon,salon booking; Shopify store; gift cards,Shopify,True,sent_log 2026-05-16,91.6
+Flawless Hair Studios & Hair Boutique,Hampton,VA,https://www.flawlesshairstudiosllc.com/,flawlesshairstudiosllc@gmail.com,homepage,True,116,4.6,beauty_salon,Square,Weebly,True,,91.6
+Valley Springs Spa,Kingsport,TN,http://valleyspringsspa.com/,info@valleyspringsspa.com,/contact,True,116,4.8,spa,WooCommerce store; gift cards,WordPress,False,,91.6
+SpaSpace Chicago,Chicago,IL,https://spaspacechicago.com/,info@spaspace.com,homepage,True,415,4.6,spa,salon booking; gift cards,WordPress,True,sent_log 2026-05-16,91.5
+Fashion Nails,Fargo,ND,https://fashionnailswestfargo.com/,nfashion_nails_2001@yahoo.com,homepage,True,412,4.7,beauty_salon,Square; gift cards,custom/other,True,sent_log 2026-05-16,91.2
+Studio & Co,Baltimore,MD,https://www.studioandcosalon.com/,info@studioandcosalon.com,homepage,True,112,4.8,beauty_salon,Square,Squarespace,True,,91.2
+"Claudia's Nails & Spa, LLC 15 years in Fayetteville. Walk in or by appointment.",Fayetteville,NC,https://claudiasnailsspa.skincaretherapy.net/,claudia8ar@gmail.com,/about,True,112,4.5,beauty_salon,StyleSeat booking,custom/other,True,,91.2
+Bond Street Wines,Spartanburg,SC,https://bondstreetwines.com/,info@bondstreetwines.com,homepage,True,111,4.8,liquor_store,Square,Squarespace,True,,91.1
+Mint Hair Studio,Seattle,WA,https://www.hairbymint.com/,Laurengeorgehair@gmail.com,/contact,True,108,4.7,beauty_salon,Square; GlossGenius booking,Squarespace,True,,90.8
+Revive Med Spa - Mission Valley,San Diego,CA,https://www.revive.md/locations/ca/mission-valley,info@revive.md,homepage,True,407,4.4,beauty_salon,gift cards,custom/other,True,sent_log 2026-05-16,90.7
+"Refine MD, Northwest",Seattle,WA,https://refinemdnw.com/,info@refinemdnw.com,/contact,True,107,4.8,spa,'book online' link,WordPress,True,,90.7
+Lash Envy And Skin Solutions,Oklahoma City,OK,https://lashenvyskinsolutions.com/,info@lashenvyokc.com,homepage,True,107,4.8,beauty_salon,'book now' link,custom/other,True,,90.7
+"Aesthetic Associates Centre- Plastic Surgery- Samuel Shatkin Jr., MD",Buffalo,NY,https://www.drshatkin.com/,aacmedical@gmail.com,homepage,True,907,4.9,spa,,WordPress,True,,90.7
+Castle Hill Fitness,Austin,TX,https://www.castlehillfitness.com/,hello@castlehillfitness.com,homepage,True,105,4.7,gym,Mindbody booking; WooCommerce store; gift cards,WordPress,True,,90.5
+Hair Gallery,Washington,DC,https://hairgalleryrosslyn.com/,info@hairgalleryrosslyn.com,homepage,True,105,4.6,beauty_salon,Square; appointment booking,WordPress,True,,90.5
+Woodlands Coffee Roasters & Cafe,Warner Robins,GA,https://woodlandscoffeeroasters.com/,hey@mandr-group.com,homepage,True,404,4.4,cafe,Toast ordering; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,90.4
+Athens Bagel Company,Athens,GA,https://www.athensbagel.com/,info@athensbagel.com,/contact,True,403,4.3,bakery,'order online' link,WordPress,True,sent_log 2026-05-16,90.3
+Beija's Hair & Nails,San Antonio,TX,https://beijassatx.com/,beijas.satx@gmail.com,homepage,True,103,4.8,beauty_salon,Fresha booking; WooCommerce store,WordPress,True,,90.3
+Jose Luis Salon,Austin,TX,https://joseluissalon.com/,nicole.rivera@joseluissalon.com,homepage,True,100,4.5,beauty_salon,Square; salon booking; gift cards,Squarespace,True,,90.0
+The Brow House,Charlottesville,VA,https://waxcharlottesville.com/,tbhappointments@gmail.com,/about,True,99,4.8,beauty_salon,Square; gift cards,Squarespace,True,,89.9
+Elysian Fields Massage & Spa,Paducah,KY,https://www.paducahspa.com/,info@paducahspa.com,homepage,True,99,4.6,hair_care,gift cards,Duda,True,,89.9
+Waves Salon,Albuquerque,NM,https://www.wavessalon.net/,info@wavessalon.net,/about,True,98,4.6,beauty_salon,'book online' link,WordPress,True,,89.8
+Krazy Kat's,Wilmington,DE,https://krazykatsde.com/,accounting@montchanin.com,homepage,True,397,4.4,restaurant,OpenTable reservations; gift cards,custom/other,True,sent_log 2026-05-16,89.7
+JK Tangles Hair Salon,Dover,DE,https://jktangleshairsalon.mysalononline.com/,jktangles4@gmail.com,/contact,True,97,4.5,hair_care,'book online' link,custom/other,True,,89.7
+Above & Beyond Beauty Salon,Hampton,VA,https://www.aboveandbeyondbeautysalon.com/,wendyplatt665@gmail.com,homepage,True,96,4.8,beauty_salon,StyleSeat booking,Duda,True,,89.6
+Bethesda Nail Salon,Rockville,MD,https://bethesdanailsalon.com/,filler@godaddy.com,/contact-us,True,94,4.2,hair_care,gift cards,GoDaddy,True,,89.4
+Cafe Stella,Los Angeles,CA,https://www.cafestella.com/,info@cafestella.com,homepage,True,393,4.4,bar,Square; OpenTable reservations,Squarespace,True,sent_log 2026-05-16,89.3
+Good Karma Cafe,Philadelphia,PA,https://thegoodkarmacafe.com,info@thegoodkarmacafe.com,homepage,True,393,4.5,cafe,Square; gift cards,custom/other,True,sent_log 2026-05-16,89.3
+THE MUSE SF,San Francisco,CA,https://themusesf.com/,sebastian@aldusleaf.org,/contact-us,True,391,4.6,beauty_salon,gift cards,GoDaddy,True,sent_log 2026-05-16,89.1
+Define Divine Beauty Crowned Salon,York,PA,https://definedivinebeauty.mysalononline.com/,definedivinebeauty@gmail.com,/contact,True,91,4.9,beauty_salon,'book online' link,custom/other,True,,89.1
+Hair411,Allentown,PA,https://www.hair411beautysalon.com,hair411salon@gmail.com,homepage,True,90,4.9,beauty_salon,Square,Weebly,True,,89.0
+William Jean,Trenton,NJ,https://www.williamjeansalon.com/,williamjeansalon@gmail.com,/about,True,89,4.9,beauty_salon,gift cards,custom/other,True,,88.9
+MaxAesthetics,Philadelphia,PA,https://www.maxaesthetics.com/,maxaesthetics@maxaesthetics.com,homepage,True,88,4.7,beauty_salon,Vagaro booking,Duda,True,,88.8
+Charleston Glow blushpro® Studio,Charleston,SC,https://www.charlestonglow.com/,charlestonglow@blushtan.com,homepage,True,86,4.8,beauty_salon,Square; appointment booking,Squarespace,True,,88.6
+Herban Therapies Spa,Seattle,WA,https://www.herbantherapies.com/,info@herbantherapies.com,homepage,True,85,4.6,beauty_salon,gift cards,Wix,True,,88.5
+Olexa Salon & Spa,Morgantown,WV,https://olexasalonandspa.com/,info@olexasalonandspa.com,homepage,True,84,4.7,beauty_salon,salon booking,WordPress,True,,88.4
+Cleise Brazilian Day Spa,Chicago,IL,https://cleisespa.com/,info@cleisespa.com,homepage,True,83,4.7,beauty_salon,gift cards,custom/other,True,,88.3
+All Natural Day Spa,San Jose,CA,https://allnaturaldayspa.net/,Allnaturaldayspa26@gmail.com,/contact,True,83,4.5,beauty_salon,WooCommerce store,WordPress,True,,88.3
+Posh Hair Spa & Waxing,Washington,DC,https://poshsalondc.com/,contacts@poshsalondc.com,/contact,True,81,4.5,beauty_salon,WooCommerce store,WordPress,True,,88.1
+Elite Style Salon,Blacksburg,VA,https://elitestylesalon.com/,tbhodge1182@aol.com,/about,True,80,4.9,beauty_salon,'book an appointment' link,WordPress,True,,88.0
+United Artists Salon & Spa,Reading,PA,https://unitedartistssalon.com/,info@unitedartistssalon.com,/contact,True,77,4.6,beauty_salon,WooCommerce store; gift cards,WordPress,True,,87.7
+Chez Elle Salon & Spa,Denver,CO,https://chezellesalonspa.oursalononline.com/,chez.elle@comcast.net,/contact,True,73,4.8,beauty_salon,'book online' link,custom/other,True,,87.3
+Spa Medique,Nashua,NH,https://www.spamedique.com,www.spamedique@gmail.com,/contact-us,True,71,4.9,hair_care,Square; Vagaro booking,Weebly,True,,87.1
+Lashing Out Studio,Concord,NH,https://www.lashingoutstudionh.com/,lashingoutstudiollc@gmail.com,/contact-us,True,71,4.9,beauty_salon,gift cards,WordPress,True,,87.1
+Republic Salon,Athens,GA,http://republicsalon.com/cms/,RepublicSalon@bellsouth.net,homepage,True,370,4.8,beauty_salon,'book online' link,custom/other,False,sent_log 2026-05-16,87.0
+Spa Radiance,San Francisco,CA,https://www.sparadiance.com/,guestservices@sparadiance.com,homepage,True,70,4.3,beauty_salon,salon booking; WooCommerce store; gift cards,WordPress,True,,87.0
+The Natural Look MedSpa,Nashville,TN,https://thenaturallook.net/,info@thenaturallook.net,homepage,True,68,5,hair_care,Square; WooCommerce store,WordPress,True,,86.8
+Elan Hair,Nashville,TN,https://elannashville.com/hair/,elanhair@elannashville.com,homepage,True,66,4.6,hair_care,WooCommerce store; gift cards,WordPress,True,,86.6
+Luster And Beauty Bar ( The Lab),Durham,NC,https://thelab-bar.com/,info@thelab-bar.com,/contact,True,66,4.7,beauty_salon,WooCommerce store,WordPress,True,,86.6
+Designer Image,Spartanburg,SC,https://www.designerimagestudio.com/,kimwigfall@gmail.com,homepage,True,65,4.7,beauty_salon,'book now' link,Duda,True,,86.5
+Salon Dyjo,Alexandria,VA,https://www.salondyjo.net/,salondyjo@gmail.com,homepage,True,65,4.2,beauty_salon,Square,Squarespace,True,,86.5
+Delmar Laser Spa,Albany,NY,https://www.delmarlaserspa.com/,delmarlaserspa@gmail.com,homepage,True,65,4.9,beauty_salon,Vagaro booking,Webflow,True,,86.5
+Elements Laser Spa,Austin,TX,http://www.elementslaserspa.com/,quality@elementslaserspa.com,/contact,True,64,4.4,hair_care,WooCommerce store,WordPress,False,,86.4
+Bare Bettie's Wax Studio,Fayetteville,NC,https://www.barebettieswaxstudio.com/,Shannon@BareBettiesWaxStudio.com,homepage,True,64,4.9,beauty_salon,'book now' link,GoDaddy,True,,86.4
+sknfit,Frederick,MD,https://www.getsknfit.com,info@getsknfit.com,homepage,True,64,5,beauty_salon,Square; gift cards,Weebly,True,,86.4
+Salon Panache LLC,Bowling Green,KY,https://salonpanacheandspa.com/,salonpanache1945@gmail.com,homepage,True,63,4.7,beauty_salon,Square,WordPress,True,,86.3
+Skin and Wax,Annapolis,MD,https://www.skinandwax.net,catecampbell@skinandwax.net,homepage,True,63,4.9,beauty_salon,Square; gift cards,Weebly,True,,86.3
+Salon Fx,Nashville,TN,https://www.salonfxspa.com/Default.asp,salonfx@salonfxspa.com,homepage,True,61,4.5,beauty_salon,Vagaro booking,custom/other,True,,86.1
+Oleksandra Spa & Salon,Las Vegas,NV,https://treasureisland.com/amenities/spa-salon,TI-Frontservices@treasureisland.com,/contact-us,True,61,3.9,gym,OpenTable reservations; gift cards,custom/other,True,,86.1
+Imaj Hair Company,Indianapolis,IN,https://imajhaircompany.com/,imajhaircompany@gmail.com,/contact,True,59,4.2,beauty_salon,Vagaro booking; WooCommerce store,WordPress,True,,85.9
+Wolf's European Hair Design,Los Angeles,CA,https://www.wolfseurosalon.com/,Lanihair@gmail.com,/contact,True,57,4.4,beauty_salon,'book now' link,WordPress,True,,85.7
+This is Urban Salon,Burlington,VT,https://urbansalonteam.com/,info@urbansalonteam.com,/contact,True,57,4.2,hair_care,Vagaro booking,WordPress,True,,85.7
+A-List,Portland,OR,https://www.alisthairstudio.com/,Alistpearl@gmail.com,/about,True,54,4.9,beauty_salon,Vagaro booking,Squarespace,True,,85.4
+Moxie Java - Orchard Park,Greenville,SC,https://moxiejava.com/,ryans@moxiejava.com,/contact,True,53,4.8,cafe,WooCommerce store; gift cards,WordPress,True,,85.3
+Todd's A Hair Salon,Wilmington,DE,http://toddshairsalon.com/,info@toddshairsalon.com,homepage,True,53,4.7,hair_care,WooCommerce store,WordPress,False,,85.3
+SalonDEWI,Seattle,WA,https://salondewi.com/,appointments@salondewi.com,homepage,True,53,4.7,beauty_salon,'book an appointment' link,WordPress,True,,85.3
+Trendy Hair Gallery & Beauty Supply,San Francisco,CA,https://trendyhairgallery.zoca.com/,info@trendyhairgallery.com,/about,True,52,4.3,beauty_salon,'book an appointment' link,custom/other,True,,85.2
+Eyebrow Plus,San Francisco,CA,https://www.eyebrowplus.com/memberships,marketing@eyebrowplus.com,/contact-us,True,51,4.4,beauty_salon,Square; gift cards,Weebly,True,,85.1
+Confetti Beauty Bar,Greenville,SC,https://confettigvl.com/,confettigvl@gmail.com,homepage,True,50,4.7,beauty_salon,Square,WordPress,True,,85.0
+Halo Salon,Portland,OR,https://www.halosalonportland.com,info@halosalonportland.com,homepage,True,50,4.5,beauty_salon,Square,Weebly,True,,85.0
+Skin Rejuve by Tiffany,Los Angeles,CA,https://www.skinrejuvebytiffany.com/Default.asp,tiffany@skinrejuvebytiffany.com,homepage,True,50,4.8,beauty_salon,appointment booking,custom/other,True,,85.0
+D'Lashes Lash & Wellness Spa,Los Angeles,CA,https://www.dlashes.com/,Info@DLashes.com,/contact,True,50,5,beauty_salon,gift cards,WordPress,True,,85.0
+ALTAIRE CLINIC,Fargo,ND,https://altaireclinic.com/,info@altaireclinic.com,homepage,True,347,4.9,beauty_salon,'book an appointment' link,WordPress,True,sent_log 2026-05-16,84.7
+City Nails Athens,Athens,GA,https://citynailsathens.com/,chauduong2000@yahoo.com,homepage,True,346,4.4,beauty_salon,Fresha booking,WordPress,True,sent_log 2026-05-16,84.6
+Sam Brocato Salon,New York,NY,https://www.sambrocatosalon.com/,info@sambrocatosalon.com,homepage,True,343,4.9,beauty_salon,Square,Squarespace,True,sent_log 2026-05-16,84.3
+Four Cafe,Los Angeles,CA,https://fourcafe.net/,info@fourcafe.net,homepage,True,340,4.4,cafe,Toast ordering; gift cards,custom/other,True,sent_log 2026-05-16,84.0
+Dockum,Wichita,KS,https://www.dockum.com/,docsangers@dockum.com,homepage,True,339,4.4,bar,OpenTable reservations; gift cards,custom/other,True,sent_log 2026-05-16,83.9
+High Maintenance Salon Suites,Warner Robins,GA,https://book.squareup.com/appointments/36htqba0gurhl9/location/EKZW8T61NNACH,highmaintenance31088@yahoo.com,homepage,True,338,4.7,beauty_salon,Square; appointment booking; gift cards,custom/other,True,sent_log 2026-05-16,83.8
+Forage,Los Angeles,CA,http://www.foragela.com/,catering@foragela.com,homepage,True,326,4.5,cafe,Toast ordering; DoorDash storefront; gift cards,custom/other,False,sent_log 2026-05-16,82.6
+Salon Buzz,Chicago,IL,https://salonbuzz.com/,APPLY@SALONBUZZ.COM,/contact-us,True,322,4.9,hair_care,salon booking; gift cards,WordPress,True,sent_log 2026-05-16,82.2
+Cafe de Leche,Los Angeles,CA,https://www.cafedeleche.net/,info@cafedeleche.net,homepage,True,320,4.4,cafe,ChowNow ordering; Square,Squarespace,True,sent_log 2026-05-16,82.0
+Chelsea Piers Fitness,New York,NY,https://www.chelseapiers.com/fitness-chelsea,fitness@chelseapiers.com,homepage,True,319,4.3,cafe,'gift cards' link,custom/other,True,sent_log 2026-05-16,81.9
+FranksWine,Wilmington,DE,https://frankswine.com/,FRANK@FRANKSWINE.COM,homepage,True,319,4.8,storage,WooCommerce store,WordPress,True,sent_log 2026-05-16,81.9
+Joseph's Salon and Spa,Louisville,KY,https://www.josephssalon.com/,kcampbell@josephssalon.com,homepage,True,302,4.7,beauty_salon,Square; gift cards,Squarespace,True,sent_log 2026-05-16,80.2
+Ardmore Station Cafe,Philadelphia,PA,https://www.ardmorecafe.com/,breakfast@ardmorecafe.com,homepage,True,299,4.2,cafe,Square,Weebly,True,sent_log 2026-05-16,79.9
+Home Brew Mart,San Diego,CA,https://www.homebrewmart.com/,info@homebrewmart.com,homepage,True,295,4.7,bar,Toast ordering; Square,Squarespace,True,sent_log 2026-05-16,79.5
+Donderos' Kitchen,Athens,GA,http://donderoskitchen.com/,contact@donderoskitchen.com,homepage,True,289,4.6,cafe,Square,Squarespace,False,sent_log 2026-05-16,78.9
+Rinse Salon,San Diego,CA,https://www.rinsesd.com/,management@rinsesd.com,/contact,True,279,4.6,hair_care,'book an appointment' link,Squarespace,True,sent_log 2026-05-16,77.9
+Old City Coffee,Philadelphia,PA,https://oldcitycoffee.com/,info@stagheaddesigns.com,homepage,True,278,4.3,cafe,Square; Shopify store,Shopify,True,sent_log 2026-05-16,77.8
+Ricci Kapricci Fullerton,Chicago,IL,https://www.riccikapricci.com/,riccikapricci@gmail.com,/contact-us,True,261,4.8,beauty_salon,'book now' link,Webflow,True,sent_log 2026-05-16,76.1
+Ohm Spa,New York,NY,https://ohmspa.com/,admin@ohmspa.com,/contact,True,255,4.8,spa,gift cards,WordPress,True,sent_log 2026-05-16,75.5
+Carolina Cafe & Catering Co,Columbia,SC,https://carolinacafeandcatering.com/,carolinacafeandcatering@gmail.com,homepage,True,251,4.2,bakery,'order online' link,custom/other,True,sent_log 2026-05-16,75.1
+Rosewater Spa and Wellness,Augusta,GA,https://www.rosewaterspaandwellness.com/,rosewaterspaandwellness@gmail.com,/contact-us,True,246,4.8,beauty_salon,'book an appointment' link,custom/other,True,sent_log 2026-05-16,74.6
+Bark 'N' Bean,Annapolis,MD,https://www.barknbean.com/,questions@barknbean.com,homepage,True,239,4.4,cafe,Ecwid store; gift cards,Squarespace,True,sent_log 2026-05-16,73.9
+Gracie's: A Rooftop Bar,Warner Robins,GA,https://graciesrooftopbar.com/,gracie@rigbysworld.com,/contact,True,234,4.1,bar,WooCommerce store,WordPress,True,sent_log 2026-05-16,73.4
+Bellefonte Brewing Company,Wilmington,DE,https://bellefontebrewingcompany.com/,info@bellefontebrewingco.com,homepage,True,233,4.7,bar,Square,Squarespace,True,sent_log 2026-05-16,73.3
+Little Light Coffee Co LLC,Warner Robins,GA,https://littlelightcoffeeco.com/,hi@typemade.mx,homepage,True,220,4.7,cafe,Square,GoDaddy,True,sent_log 2026-05-16,72.0
+Kiss And Makeup Now,San Diego,CA,https://www.kissandmakeupnow.com/,libbey@kissandmakeupnow.com,/contact,True,211,5,beauty_salon,Square; appointment booking,Squarespace,True,sent_log 2026-05-16,71.1
+Oro | Restaurant & Bar,San Antonio,TX,https://www.emilymorganhotel.com/dining/,chris.mendoza@emilymorganhotel.com,homepage,True,204,3.9,bar,OpenTable reservations; WooCommerce store,WordPress,True,sent_log 2026-05-16,70.4
+Newport Grill,Wichita,KS,https://newportgrill.com,noah@bittersweetnpg.com,homepage,True,1409,4.5,bar,,custom/other,True,sent_log 2026-05-16,70.0
+Sedgwick County Zoo,Wichita,KS,https://scz.org/,zooeducation@scz.org,/contact,True,9918,4.7,zoo,,WordPress,True,sent_log 2026-05-16,70.0
+INTRUST Bank Arena,Wichita,KS,https://www.intrustbankarena.com/,info@intrustbankarena.com,/contact-us,True,3721,4.4,point_of_interest,,custom/other,True,sent_log 2026-05-16,70.0
+Meritage,Saint Paul,MN,https://meritage-stpaul.com/,contact@meritage-stpaul.com,homepage,True,1003,4.6,bar,,custom/other,True,sent_log 2026-05-16,70.0
+Amsterdam Bar & Hall,Saint Paul,MN,https://www.amsterdambarandhall.com/,info@amsterdambarandhall.com,homepage,True,1722,4.3,bar,,WordPress,True,sent_log 2026-05-16,70.0
+West Acres Mall,Fargo,ND,https://westacres.com/,westacres@westacres.com,/contact,True,6632,4.3,shopping_mall,,WordPress,True,sent_log 2026-05-16,70.0
+Cipriani Downtown,New York,NY,https://www.cipriani.com/cipriani-downtown,downtown@cipriani.com,homepage,True,1467,4.1,bar,,Wix,True,sent_log 2026-05-16,70.0
+Maria's Cafe,Saint Paul,MN,https://mariascafe.com/,mariascafe@earthlink.net,/contact,True,1505,4.4,cafe,,WordPress,True,sent_log 2026-05-16,70.0
+The Woolworth Building,New York,NY,https://woolworthbuilding.com/,thettler@tlgrealty.com,homepage,True,2424,4.5,tourist_attraction,,WordPress,True,sent_log 2026-05-16,70.0
+Shatto 39 Lanes,Los Angeles,CA,https://shatto39.com/,lemonad@jovanny.ru,homepage,True,2033,4.4,bowling_alley,,GoDaddy,True,sent_log 2026-05-16,70.0
+Whisky a Go Go,Los Angeles,CA,https://www.whiskyagogo.com/,office@whiskyagogo.com,homepage,True,3575,4.6,night_club,,WordPress,True,sent_log 2026-05-16,70.0
+Blu Jam Cafe,Los Angeles,CA,https://www.blujamcafe.com/,franchising@blujamcafe.com,homepage,True,2301,4.4,cafe,,WordPress,True,sent_log 2026-05-16,70.0
+Rick's Cabaret Chicago,Chicago,IL,https://www.rickschicago.com/,rickschicago@nightlifehospitality.com,homepage,True,1148,4.5,night_club,,custom/other,True,sent_log 2026-05-16,70.0
+"HI Chicago, The J. Ira and Nicki Harris Family Hostel",Chicago,IL,https://www.hiusa.org/find-hostels/illinois/chicago-24-e-idabwells-drive,reserve.chicago@hiusa.org,homepage,True,2970,4.4,lodging,,WordPress,True,sent_log 2026-05-16,70.0
+The Chicago Theatre,Chicago,IL,https://www.msg.com/the-chicago-theatre,guestrelations@msg.com,homepage,True,10681,4.7,tourist_attraction,,custom/other,True,sent_log 2026-05-16,70.0
+Millennium Park,Chicago,IL,https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html,dcase@cityofchicago.org,homepage,True,91976,4.8,park,,custom/other,True,sent_log 2026-05-16,70.0
+"Harold Washington Library Center, Chicago Public Library",Chicago,IL,https://www.chipublib.org/locations/34/,hwlc@chipublib.org,homepage,True,1451,4.6,library,,WordPress,True,sent_log 2026-05-16,70.0
+Buddy Guy's Legends,Chicago,IL,https://buddyguy.com/,60605312-427-1190info@buddyguy.com,/contact,True,3632,4.6,night_club,,WordPress,True,sent_log 2026-05-16,70.0
+Auditorium Theatre,Chicago,IL,https://www.auditoriumtheatre.org/,customerservice@broadwayinchicago.com,/contact-us,True,3108,4.7,point_of_interest,,custom/other,True,sent_log 2026-05-16,70.0
+The Menil Collection,Houston,TX,https://www.menil.org/,info@menil.org,/contact,True,4310,4.6,tourist_attraction,,custom/other,True,sent_log 2026-05-16,70.0
+The Duce,Phoenix,AZ,https://www.theducephx.com/,Reservations@theducephx.com,homepage,True,3361,4.3,bar,,Wix,True,sent_log 2026-05-16,70.0
+Old Town Tortilla Factory,Phoenix,AZ,https://oldtowntortillafactory.com/,tortillafactory@aol.com,homepage,True,1579,4.1,restaurant,,custom/other,True,sent_log 2026-05-16,70.0
+Fat Tuesday,Phoenix,AZ,https://www.fattuesdayaz.com/,info@fattuesdaywestgate.com,/about,True,1391,4.2,bar,,custom/other,True,sent_log 2026-05-16,70.0
+Lola Coffee,Phoenix,AZ,https://lolacoffeebarphx.com/,micah@micahrich.com,homepage,True,1013,4.5,cafe,,GoDaddy,True,sent_log 2026-05-16,70.0
+Standard Tap,Philadelphia,PA,https://standardtap.com/,info@standardtap.com,homepage,True,1286,4.5,bar,,Squarespace,True,sent_log 2026-05-16,70.0
+The Bourse Food Hall,Philadelphia,PA,https://theboursephilly.com/,Aking@keystone.us,/contact,True,2606,4.1,tourist_attraction,,WordPress,True,sent_log 2026-05-16,70.0
+Franklin Music Hall,Philadelphia,PA,https://www.franklinmusichall.com/,boxoffice@franklinmusichall.com,homepage,True,2980,4.3,point_of_interest,,custom/other,True,sent_log 2026-05-16,70.0
+The Buckhorn Saloon & Museum,San Antonio,TX,https://www.buckhornmuseum.com/cafe-saloon/,info@BuckhornMuseum.com,homepage,True,3161,4.4,bar,,custom/other,True,sent_log 2026-05-16,70.0
+Filippi's Pizza Grotto Little Italy,San Diego,CA,https://www.realcheesepizza.com/little-italy/,goappr@gmail.com,homepage,True,8724,4.5,bar,,Squarespace,True,sent_log 2026-05-16,70.0
+Medieval Times Dinner & Tournament,Dallas,TX,https://www.medievaltimes.com/,corp@medievaltimes.com,/contact,True,15528,4.7,tourist_attraction,,WordPress,True,sent_log 2026-05-16,70.0
+Phil's BBQ,San Diego,CA,https://philsbbq.com/,EmailUs@PhilsBBQ.com,homepage,True,12091,4.6,restaurant,,custom/other,True,sent_log 2026-05-16,70.0
+Pizzeria Luigi,San Diego,CA,http://www.pizzerialuigi.com/,getaslice@pizzerialuigi.com,homepage,True,2630,4.6,restaurant,,custom/other,False,sent_log 2026-05-16,70.0
+Shogun Restaurant,San Diego,CA,https://restaurantshogun.com/,info@restaurantshogun.com,/contact,True,2163,4.3,bar,,custom/other,True,sent_log 2026-05-16,70.0
+Balboa Park,San Diego,CA,https://balboapark.org/,visitor@balboapark.org,/contact,True,78667,4.8,park,,WordPress,True,sent_log 2026-05-16,70.0
+Dallas Symphony Orchestra at Meyerson Symphony Center,Dallas,TX,https://www.dallassymphony.org/,customerservice@dalsym.com,homepage,True,3642,4.8,point_of_interest,,WordPress,True,sent_log 2026-05-16,70.0
+John F. Kennedy Memorial Plaza,Dallas,TX,https://www.jfk.org/john-f-kennedy-memorial-plaza/,info@jfk.org,homepage,True,4935,4.5,tourist_attraction,,WordPress,True,sent_log 2026-05-16,70.0
+Tomi Sushi & Seafood Buffet,San Jose,CA,https://www.tomibuffet.com/,tomiseafoodbuffet@yahoo.com,homepage,True,2644,3.9,restaurant,,custom/other,True,sent_log 2026-05-16,70.0
+University Medical Center,Las Vegas,NV,https://www.umcsn.com/,feedback@umcsn.com,homepage,True,1155,2.6,hospital,,custom/other,True,sent_log 2026-05-16,70.0
+The Lexi Las Vegas,Las Vegas,NV,https://www.thelexilasvegas.com/,lexi@thelexilasvegas.com,homepage,True,1847,3.9,lodging,,Webflow,True,sent_log 2026-05-16,70.0
+Chapel of the Flowers,Las Vegas,NV,https://www.littlechapel.com/,marryme@littlechapel.com,homepage,True,6322,4.7,point_of_interest,,custom/other,True,sent_log 2026-05-16,70.0
+Valley Hospital Medical Center,Las Vegas,NV,https://www.valleyhospital.net/,NVCBO@uhsinc.com,homepage,True,4916,4.2,hospital,,custom/other,True,sent_log 2026-05-16,70.0
+Annapolis Mall,Annapolis,MD,https://www.shopannapolismall.com/,becca.willcox@macerich.com,/contact,True,10902,4.4,shopping_mall,,custom/other,True,sent_log 2026-05-16,70.0
+Galway Bay Irish Restaurant and Pub,Annapolis,MD,https://www.galwaybaymd.com/,manager@galwaybaymd.com,homepage,True,2039,4.7,bar,,custom/other,True,sent_log 2026-05-16,70.0
+Brian Boru Restaurant and Pub,Annapolis,MD,https://www.brianborupub.com/,manager@brianborupub.com,homepage,True,1061,4.6,bar,,custom/other,True,sent_log 2026-05-16,70.0
+Coconut Joe’s Bar & Grill,Annapolis,MD,https://www.coconutjoesmd.com/,cocojoes@comcast.net,/contact,True,1612,3.9,bar,,WordPress,True,sent_log 2026-05-16,70.0
+Augusta Regional Airport,Augusta,GA,https://flyags.com/,Smith706-849-3641lsmith@augustaga.gov,/contact-us,True,1680,4.2,airport,,WordPress,True,sent_log 2026-05-16,70.0
+The Classic Center,Athens,GA,https://www.classiccenter.com/,Ticketing@AkinsFordArena.com,homepage,True,2830,4.6,point_of_interest,,custom/other,True,sent_log 2026-05-16,70.0
+University 16 Cinemas,Athens,GA,https://www.gtcmovies.com/university,customerservice@gtcmovies.com,/contact,True,2219,4.6,movie_theater,,custom/other,True,sent_log 2026-05-16,70.0
+Columbia Place Mall,Columbia,SC,http://columbiaplacemall.com/,license@php.net,/info,True,3385,3.5,shopping_mall,,custom/other,False,sent_log 2026-05-16,70.0
+Pranee - Thai Massage Spa,New York,NY,http://www.praneethaimassage.com/,praneethaispa@gmail.com,/about,True,186,4.8,beauty_salon,'book an appointment' link,WordPress,False,sent_log 2026-05-16,68.6
+"Intrique Hairsalon 537 Ritchie Highway, Suite 1D Severna Park, MD. 21146",Annapolis,MD,https://www.intriquehairsalon.com/,suzy@intriquehairsalon.com,homepage,True,186,5,beauty_salon,GlossGenius booking,Squarespace,True,sent_log 2026-05-16,68.6
+Coco Grille,Philadelphia,PA,https://cocogrille.com/,cocogrillephilly@gmail.com,homepage,True,185,4.6,cafe,Clover ordering; Ecwid store,WordPress,True,sent_log 2026-05-16,68.5
+Stevie Ray's Blues Bar,Louisville,KY,http://www.stevieraysbluesbar.com/,stevieraysgm@gmail.com,homepage,True,979,4.6,night_club,,Squarespace,False,sent_log 2026-05-16,67.9
+Fancy That Bistro & Catering LLC.,Columbia,SC,https://fancythatbistrocatering.com/,fancythatbistrocatering@gmail.com,homepage,True,177,4.3,bar,'reservations' link,custom/other,True,sent_log 2026-05-16,67.7
+Blo Blow Dry Bar,Wilmington,DE,https://blomedry.com/wilmington-de/,blowilmington@bloblowdrybar.com,homepage,True,173,4.8,hair_care,gift cards,WordPress,True,sent_log 2026-05-16,67.3
+Cheerleaders Philadelphia,Philadelphia,PA,https://cheerleadersphiladelphia.com/,info@CheerleadersPhiladelphia.com,homepage,True,151,3.5,restaurant,WooCommerce store,WordPress,True,sent_log 2026-05-16,65.1
+Nail Society Studio (20% off 1st time clients),San Antonio,TX,https://nailsocietystudio.com/,nailsocietystudio@gmail.com,/contact,True,145,4.2,beauty_salon,'book now' link,WordPress,True,sent_log 2026-05-16,64.5
+Hyde Edwards Salon and Spa,San Diego,CA,https://hyde-edwards.com/,info@hyde-edwards.com,/contact-us,True,142,4.8,beauty_salon,Square; gift cards,Squarespace,True,sent_log 2026-05-16,64.2
+Salon Blu,Wilmington,DE,https://salonblunj.com/,michellecobb@salonblunj.net,/contact,True,141,4.7,beauty_salon,GlossGenius booking,custom/other,True,sent_log 2026-05-16,64.1
+Urban Edge Salon,Fargo,ND,https://urbanedgesln.com/,info.urbanedgesln@gmail.com,homepage,True,138,4.7,beauty_salon,WooCommerce store,WordPress,True,sent_log 2026-05-16,63.8
+Salon Ori,Saint Paul,MN,https://salonori.com/,info@salonori.com,homepage,True,138,4.9,beauty_salon,'book an appointment' link,Squarespace,True,sent_log 2026-05-16,63.8
+Saxbys Liberty Place,Philadelphia,PA,https://www.saxbyscoffee.com/,marketing@saxbyscoffee.com,/contact,True,137,4.1,cafe,online ordering; Resy reservations,custom/other,True,sent_log 2026-05-16,63.7
+Salon Bordeaux,San Diego,CA,https://www.salonbordeauxsd.com/,salonbordeaux@yahoo.com,/contact,True,137,4.7,hair_care,gift cards,Webflow,True,sent_log 2026-05-16,63.7
+Honeycomb Salon,Saint Paul,MN,https://www.honeycombmpls.com/,honeycombmpls@gmail.com,/contact,True,132,4.8,beauty_salon,Vagaro booking,Squarespace,True,sent_log 2026-05-16,63.2
+ISLE PEDISPA,Houston,TX,https://islepedispa.com/,info@islepedispa.com,homepage,True,132,4.2,beauty_salon,gift cards,WordPress,True,sent_log 2026-05-16,63.2
+Salon Blush & Photography studio,Philadelphia,PA,https://salonblush.com/,sudtipos@sudtipos.com,homepage,True,130,4.8,beauty_salon,'book now' link,GoDaddy,True,sent_log 2026-05-16,63.0
+1Aesthetic,New York,NY,https://1aesthetic.com/,Skingoods@yahoo.com,homepage,True,128,4.7,beauty_salon,salon booking; gift cards,WordPress,True,sent_log 2026-05-16,62.8
+Bella Capelli Salon,Augusta,GA,http://www.bellacapelliaugusta.com/,bellacapelliaugusta@yahoo.com,/contact-us,True,120,4.7,beauty_salon,'book now' link,Squarespace,False,sent_log 2026-05-16,62.0
+Drift Massage And Wellness Studio,Athens,GA,https://www.driftwellnessstudio.com/,hello@driftwellnessstudio.com,homepage,True,120,4.9,beauty_salon,Square; appointment booking,Squarespace,True,sent_log 2026-05-16,62.0
+Urban Village SalonSpa,Saint Paul,MN,https://www.urbanvillagesalon.com/,urbanvillagesalonspa@gmail.com,/contact,True,119,4.7,beauty_salon,Vagaro booking,WordPress,True,sent_log 2026-05-16,61.9
+NYC Massage and Spa,New York,NY,https://nycmassageandspa.com/,info@nycmassageandspa.com,/contact-us,True,119,4.6,beauty_salon,Square,WordPress,True,sent_log 2026-05-16,61.9
+Healing Arts Massage & Wellness Center,San Diego,CA,https://healingartswc.com/,info@healingartswc.com,/contact,True,118,4.7,spa,Mindbody booking,WordPress,True,sent_log 2026-05-16,61.8
+Equinox Tribeca,New York,NY,https://www.equinox.com/clubs/new-york/downtown/tribeca,concierge@equinox.com,/contact-us,True,111,3.4,gym,gift cards,custom/other,True,sent_log 2026-05-16,61.1
+Lulu's Nail Spa & Boutique,San Diego,CA,https://www.lulusnailspa.com/,info@lulusnailspa.com,/contact-us,True,110,4.5,beauty_salon,Square,Weebly,True,sent_log 2026-05-16,61.0
+CB 18- Breakers Live,Columbia,SC,https://www.cb18barandgrill.com/,breakersbands@gmail.com,homepage,True,110,3.5,bar,Shopify store,Shopify,True,sent_log 2026-05-16,61.0
+Flawless Salon,Athens,GA,https://www.flawlessfinish.com/,flawlessathens@gmail.com,homepage,True,109,4.9,beauty_salon,GlossGenius booking,WordPress,True,sent_log 2026-05-16,60.9
+YUVA Medical Spa,Athens,GA,https://yuvamedicalspa.com/,appointments@yuvamedicalspa.com,homepage,True,108,4.5,beauty_salon,'book online' link,WordPress,True,sent_log 2026-05-16,60.8
+Chesapeake Pipe & Cigar,Annapolis,MD,http://www.chesapeakepipeandcigar.com/,mike@chesapeakepipeandcigar.com,/contact,True,107,4.4,bar,WooCommerce store,WordPress,False,sent_log 2026-05-16,60.7
+Ethos Of Annapolis,Annapolis,MD,https://www.ethosofannapolis.com/,ethosofannapolis@gmail.com,homepage,True,96,5,beauty_salon,gift cards,custom/other,True,sent_log 2026-05-16,59.6
+Bar 1200,Los Angeles,CA,https://sunsetmarquis.com/west-hollywood-bar-1200/,info@sunsetmarquis.com,/about,True,94,4.5,bar,OpenTable reservations; Resy reservations,WordPress,True,sent_log 2026-05-16,59.4
+Everyday Beaut,Wichita,KS,https://everydaybeaut.com/,info@everydaybeaut.com,homepage,True,93,4.6,spa,Shopify store; gift cards,Shopify,True,sent_log 2026-05-16,59.3
+Vie's Nails,Chicago,IL,https://viesnails.com/,Viesnails@yahoo.com,homepage,True,93,4.4,beauty_salon,'book now' link,WordPress,True,sent_log 2026-05-16,59.3
+Beauty Bar by Saiko,Wilmington,DE,https://beautybarbysaiko.com/,hello@beautybarbysaiko.com,homepage,True,92,4.6,hair_care,Square; gift cards,Squarespace,True,sent_log 2026-05-16,59.2
+Carol Cole Salon,Wilmington,DE,https://www.carolcolesalonandspa.com/,Carolcolesalonandspa@yahoo.com,/contact,True,91,4.7,beauty_salon,GlossGenius booking,Duda,True,sent_log 2026-05-16,59.1
+SoulCycle Tribeca,New York,NY,https://www.soul-cycle.com/studios/ny-newyork-tribeca/,yoursoulmatters@soul-cycle.com,homepage,True,88,4.4,gym,gift cards,custom/other,True,sent_log 2026-05-16,58.8
+Genwa Korean BBQ (Mid Wilshire),Los Angeles,CA,https://genwakoreanbbq.net/,contact@restaurants-world.net,homepage,True,886,4.5,restaurant,,custom/other,True,sent_log 2026-05-16,58.6
+The Hive Los Angeles,Los Angeles,CA,https://www.thehive.la/,info@thehive.la,/about,True,81,4.4,beauty_salon,Square; gift cards,Squarespace,True,sent_log 2026-05-16,58.1
+dr LASER,Los Angeles,CA,https://drlaserla.com/,info@drlaserla.com,/about,True,81,4.4,beauty_salon,WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,58.1
+Verocious Motorsports,Wilmington,DE,https://www.verociousmotorsports.com/,sales@verociousmotorsports.com,/contact-us,True,81,4.8,car_repair,'gift card' link,custom/other,True,sent_log 2026-05-16,58.1
+Diana's Nail and Spa,Chicago,IL,https://diananailspa.com/,jonpinhorn.typedesign@gmail.com,/contact,True,80,4.3,spa,gift cards,GoDaddy,True,sent_log 2026-05-16,58.0
+Beam Laser Spa,New York,NY,https://www.beamlaserspa.com/,info@beamlaserspa.com,homepage,True,79,5,beauty_salon,'book now' link,Webflow,True,sent_log 2026-05-16,57.9
+Salon V,Chicago,IL,https://www.salonvchicago.com/,info@salonvchicago.com,/about,True,78,4.8,beauty_salon,Square; GlossGenius booking,Squarespace,True,sent_log 2026-05-16,57.8
+Andy LeCompte Salon,Los Angeles,CA,https://www.andylecomptesalon.com/,manager@andylecomptesalon.com,/contact-us,True,77,4.3,hair_care,'book now' link,WordPress,True,sent_log 2026-05-16,57.7
+MOKO Organic Hair Studio,Philadelphia,PA,https://mokobeauty.com/,MOKOBEAUTY@GMAIL.COM,homepage,True,76,4.9,beauty_salon,WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,57.6
+Melody Edens Salon,San Antonio,TX,https://www.melodyedenssalon.com/,melody@melodyhair.com,/contact,True,70,4.9,beauty_salon,'book online' link,WordPress,True,sent_log 2026-05-16,57.0
+Salon Sonik Hair Salon Pasadena,Los Angeles,CA,https://www.salonsonik.com/,salonsonik@gmail.com,homepage,True,69,4.8,beauty_salon,Square; gift cards,Squarespace,True,sent_log 2026-05-16,56.9
+Nameless Coffee Co,Wichita,KS,https://namelesscoffee.co/,joel@namelesscoffee.co,/about,True,62,4.9,cafe,Shopify store,custom/other,True,sent_log 2026-05-16,56.2
+Salon Snob,Chicago,IL,https://www.salonsnob.com/,info@salonsnob.com,/about,True,62,4.5,beauty_salon,Square,WordPress,True,sent_log 2026-05-16,56.2
+Aesthetic Therapies,Saint Paul,MN,https://aesthetictherapies.com/,maureen.aesthetictherapies@gmail.com,/contact,True,60,5,beauty_salon,WooCommerce store,WordPress,True,sent_log 2026-05-16,56.0
+Palmetto Pig Bar-B-Q Restaurant,Columbia,SC,https://palmettopigbbq.com/,palmettopig@outlook.com,/contact,True,860,4.4,meal_takeaway,,WordPress,True,sent_log 2026-05-16,56.0
+"Peter Chien MD, PhD, FAAD",New York,NY,https://www.lumosdermatology.com/,info@lumosdermatology.com,homepage,True,58,4.7,beauty_salon,'book online' link,Squarespace,True,sent_log 2026-05-16,55.8
+TigerLily Studio,Athens,GA,https://tigerlilystudioofathens.com/,kfloyd2012@yahoo.com,homepage,True,50,4.8,beauty_salon,Vagaro booking; Schedulicity booking; WooCommerce store; gift cards,WordPress,True,sent_log 2026-05-16,55.0
+"Todd E Perkins, MD",Washington,DC,https://metrodermdc.com/,contactus@mydermgroup.com,/contact,True,549,4.8,beauty_salon,,WordPress,True,,54.9
+"Friedberg Eye Associates, P.A.",Philadelphia,PA,https://www.friedbergeye.com/,contacts@friedbergeye.com,homepage,True,843,4.8,beauty_salon,,custom/other,True,sent_log 2026-05-16,54.3
+"Eyebrows ""R"" Us",Las Vegas,NV,https://www.eyebrowsrus.com/,info@eyebrowrus.com,/contact-us,True,504,4.7,hair_care,,custom/other,True,,50.4
+Gaslamp Plaza Suites,San Diego,CA,https://www.gaslampplaza.com/m/,rest@hotelrest.net,homepage,True,783,4.3,lodging,,custom/other,True,sent_log 2026-05-16,48.3
+Pierrot Gourmet at The Peninsula,Chicago,IL,https://www.peninsula.com/en/chicago/hotel-fine-dining/pierrot-gourmet-french-cafe,ndiningpch@peninsula.com,homepage,True,756,4.6,restaurant,,custom/other,True,sent_log 2026-05-16,45.6
+VK Five Points Nails & Spa,Jacksonville,FL,https://vkfivepointsnailsandspa.com/,vkfivepointsjax@gmail.com,homepage,True,455,4.2,hair_care,,WordPress,True,,45.5
+The Windbreak,Fargo,ND,http://thewindbreak.com/,info@thewindbreak.com,/contact,True,754,4,night_club,,custom/other,False,sent_log 2026-05-16,45.4
+The Beacon Beauty,Charleston,SC,http://thebeaconcharleston.com/,thebeaconcharleston@gmail.com,homepage,True,47,4.8,beauty_salon,Square,Squarespace,False,,44.7
+Bound & Vine,Fayetteville,NC,https://www.boundandvine.com,hello@boundandvine.com,homepage,True,44,4.8,book_store,Square,Weebly,True,,44.4
+Wax Addict,San Francisco,CA,https://www.waxaddictsf.com/,hello@waxaddictsf.com,/contact-us,True,43,4.9,hair_care,Square; Vagaro booking,Squarespace,True,,44.3
+Buffalo Laser Spa,Buffalo,NY,https://buffalolaserspa.com/,info@BuffaloLaserSpa.com,/contact,True,41,4.3,spa,gift cards,WordPress,True,,44.1
+Blink Eyelash Extensions,Charleston,SC,https://blinkcharleston.com/,info@blinkcharleston.com,homepage,True,40,5,beauty_salon,GlossGenius booking,WordPress,True,,44.0
+The Shoppe,Milwaukee,WI,https://www.theshoppemke.com,traecg@gmail.com,homepage,True,40,4.7,beauty_salon,Square,Weebly,True,,44.0
+Serenity Day Spa And Salon,Albany,NY,https://serenitydayspaandsalon.net/,info@serenitydayspaandsalon.com,homepage,True,40,4.6,spa,Mindbody booking; WooCommerce store,WordPress,True,,44.0
+Metamorphose Salon & Spa Inc,Albany,NY,https://metasalonspa.com/,Metasalonspa@gmail.com,homepage,True,38,4.8,beauty_salon,gift cards,WordPress,True,,43.8
+Beyond Appearance,Dallas,TX,https://beyondappearanceskincare.com/,info@beyondappearanceskincare.com,homepage,True,35,5,beauty_salon,WooCommerce store,WordPress,True,,43.5
+Greater Mobile Laser & Aesthetic Center,Mobile,AL,https://greatermobilelac.com/,office@gmlac.com,homepage,True,34,4.8,beauty_salon,'book an appointment' link,WordPress,True,,43.4
+Mink Salon,Buffalo,NY,https://minkbeautysalon.com/,minkbeautysalon@gmail.com,/contact,True,33,4.8,beauty_salon,Square,WordPress,True,,43.3
+Body & Soul Hair Restoration Salon and Spa ✂,Denver,CO,https://www.denversalonandspa.com,sender@omniasystems.net,homepage,True,33,4.5,beauty_salon,'book now' link,custom/other,True,,43.3
+Lavant Salon & Spa,Yonkers,NY,https://lavantbeauty.com/,hi@lavantbeauty.com,homepage,True,31,5,beauty_salon,Square; appointment booking; gift cards,custom/other,True,,43.1
+Stout Public House,San Diego,CA,https://www.stoutsd.com/,dave@stoutsd.com,homepage,True,729,4.5,bar,,Squarespace,True,sent_log 2026-05-16,42.9
+The Art of Chula,Salisbury,MD,https://www.theartofchula.com,booking@theartofchula.com,homepage,True,29,5,beauty_salon,Square,Weebly,True,,42.9
+Hello Studio,Owensboro,KY,https://www.hellostudioky.com/,hellostudioky@gmail.com,homepage,True,28,5,beauty_salon,Square,Weebly,True,,42.8
+Meridian Salon,San Diego,CA,http://www.meridiansalon.com/,frontdesk@meridiansalon.com,homepage,True,26,4.7,beauty_salon,'book an appointment' link,Duda,False,,42.6
+Great Lengths Salon,Reading,PA,https://great-lengths-salon.com/,greatlengthspa@gmail.com,homepage,True,25,5,beauty_salon,Square; appointment booking,WordPress,True,,42.5
+The Glow Room LLC,Morgantown,WV,https://www.theglowroom.vip,theglowroomlaura@gmail.com,homepage,True,24,5,beauty_salon,Square,Weebly,True,,42.4
+Spirit Spa,Owensboro,KY,https://www.spiritspallc.com/,spiritspaowensboro@gmail.com,homepage,True,24,4.8,beauty_salon,Vagaro booking; gift cards,Duda,True,,42.4
+Beauty Spa,Yonkers,NY,https://thebeautyspa.com/,info@thebeautyspa.com,/contact,True,24,4.6,spa,WooCommerce store; gift cards,WordPress,True,,42.4
+Blades & Shears / Lavish by Pvre Image,Jacksonville,FL,https://www.pvreimage.com/,pureimage904@gmail.com,homepage,True,22,4.8,hair_care,Square,Squarespace,True,,42.2
+Sasha's Beauty Salon,San Antonio,TX,https://www.sashasbeautysalonsa.shop,sashasbeautysalonsa@gmail.com,homepage,True,21,5,beauty_salon,Square,Weebly,True,,42.1
+SkynByShai,Huntington,WV,https://book.squareup.com/appointments/czrmh6q83wmsu9/location/LS4VQ8732H3VV/services,skynbyshai.llc@gmail.com,homepage,True,20,5,beauty_salon,Square; appointment booking; gift cards,custom/other,True,,42.0
+Salon Twenty-Two,Harrisburg,PA,https://www.salontwenty-two.com,doreen@salon22.com,/about,True,20,5,hair_care,Square; gift cards,Weebly,True,,42.0
+Irina Organic Skin Care,Seattle,WA,https://www.irinaskincare.com,iraskincare@gmail.com,homepage,True,19,5,spa,Square; gift cards,Weebly,True,,41.9
+Exhale Beauty & Bodywork,Kingsport,TN,https://www.liinks.co/exhale,hello@liinks.co,homepage,True,17,5,beauty_salon,Square; GlossGenius booking,custom/other,True,,41.7
+Ageless Perfection Skin Care Studio,Fort Worth,TX,https://www.agelessperfectionskincarestudio.com/,apskincare@att.net,homepage,True,16,5,hair_care,Square,Duda,True,,41.6
+First Class BR - Biologique Recherche,San Jose,CA,https://www.firstclassbr.com/,kim@firstclassbr.com,/contact,True,15,5,beauty_salon,Square; gift cards,Squarespace,True,,41.5
+Britt Rocks Hair,Kingsport,TN,https://brittrockshair.comb.works/,Brittrockshair13@icloud.com,homepage,True,15,5,beauty_salon,'book now' link,custom/other,True,,41.5
+Primp Daddy,New York,NY,https://primpdaddy.com/,Morgan@PrimpDaddy.com,homepage,True,15,5,beauty_salon,'book now' link,custom/other,True,,41.5
+"Edo, The Fine Art of Hair",Burlington,VT,https://edohair.com/,contact@edohair.com,/contact,True,14,4.4,hair_care,WooCommerce store,WordPress,True,,41.4
+Preen a green salon,Burlington,VT,https://www.preengreensalon.com/,hello@preengreensalon.com,/contact,True,13,5,clothing_store,Square,Squarespace,True,,41.3
+Elegantly Finished Faces,Oklahoma City,OK,https://www.elegantlyfinishedfaces.com,ndeandrea@elegantlyfinishedfaces.com,homepage,True,13,5,beauty_salon,Square,Weebly,True,,41.3
+Soda Bar,San Diego,CA,https://sodabarmusic.com/,info@sodabarpresents.com,/contact,True,712,4.5,bar,,WordPress,True,sent_log 2026-05-16,41.2
+Beverly Hills Laser & Surgical Center,Los Angeles,CA,https://beverlyhillslaserandsurgicalcenter.net/,info@beverlyhillslaserandsurgicalcenter.net,/contact,True,11,4,beauty_salon,WooCommerce store,WordPress,True,,41.1
+Beauty Loft,Montpelier,VT,https://www.beautyloftvt.com,beautyloftvt@gmail.com,homepage,True,11,5,beauty_salon,Square; gift cards,Weebly,True,,41.1
+Andrea's Facials,Portland,OR,https://andreasfacials.com/,info@andreasfacials.com,/contact,True,9,5,spa,WooCommerce store,WordPress,True,,40.9
+The Spa Room,Washington,DC,https://sparoommassage.com/,info@sparoommassage.com,homepage,True,5,3.4,spa,appointment booking,WordPress,True,,40.5
+Hair of the Dog,Spartanburg,SC,https://www.hairofthedogsc.com,hairofthedogbrews@gmail.com,homepage,True,0,,bar,Square,Weebly,True,,40.0
+Visible Changes,Albany,NY,https://visiblechanges.com/,info@visiblechanges.com,/contact,True,0,,beauty_salon,Shopify store,WordPress,True,,40.0
+Beacon Family Dentistry,Jacksonville,FL,https://beaconfamilydentistry.com/,bfdentaljax@gmail.com,homepage,True,399,4.9,beauty_salon,,custom/other,True,,39.9
+"Westgate Dermatology and Laser Center, P.A.",Winston-Salem,NC,https://www.westgatedermatology.com/,westgatederm@gmail.com,homepage,True,394,4.8,spa,,custom/other,True,,39.4
+Frizzles of Alexandria,Alexandria,VA,https://alexandria.frizzlessalon.com/,frizzles.oldtown@gmail.com,homepage,True,388,4.4,beauty_salon,,Wix,True,,38.8
+Gene Siskel Film Center,Chicago,IL,https://www.siskelfilmcenter.org/,filmcenter@saic.edu,homepage,True,673,4.7,movie_theater,,custom/other,True,sent_log 2026-05-16,37.3
+Color Trends Hair Salon,Nashua,NH,https://www.colortrendshairsalon.com/,colortrendshairsalon@gmail.com,/contact,True,356,4.9,hair_care,,WordPress,True,,35.6
+UnderPin Lanes 'N Lounge,Spartanburg,SC,https://www.underpinlanes.com/,info@underpinlanes.com,homepage,True,348,4.4,bowling_alley,,WordPress,True,,34.8
+Le Petit Croissant,Greenville,SC,https://www.lepetitcroissantgreenville.com/,contact@lepetitcroissantgreenville.com,homepage,True,343,4.2,bakery,,Squarespace,True,,34.3
+Gala Cafe & Bakery,Charleston,SC,https://galadesserts.com/,galadesserts@gmail.com,homepage,True,338,4.4,cafe,,custom/other,True,,33.8
+Lox Salon,Knoxville,TN,https://loxsalon.com/,loxsalon@gmail.com,homepage,True,337,4.6,hair_care,,WordPress,True,,33.7
+Pub West,Fargo,ND,https://pubwest.pub/menu/,funtimes@pubwest.pub,/contact,True,622,4.2,casino,,WordPress,True,sent_log 2026-05-16,32.2
+JR's Bar & Grill,Houston,TX,http://jrsbarandgrill.com/,info@jrsbarandgrill.com,homepage,True,620,4.1,night_club,,WordPress,False,sent_log 2026-05-16,32.0
+Nye's Bar,Saint Paul,MN,https://nyesmpls.com/,impallari@gmail.com,homepage,True,616,4.3,bar,,GoDaddy,True,sent_log 2026-05-16,31.6
+Atomic Coffee,Fargo,ND,https://atomiccoffeefm.com/,atomiccoffee701@gmail.com,/contact-us,True,606,4.4,cafe,,Squarespace,True,sent_log 2026-05-16,30.6
+Absolute Wellness Healing Spa,Burlington,VT,https://absolutewellnesshealingspa.com/,contact@awcvt.com,/contact,True,301,4.8,spa,,custom/other,True,,30.1
+The Red Bean,Annapolis,MD,https://www.theredbeancafe.com/,divanmpvs@gmail.com.com,/contact,True,591,4.5,meal_takeaway,,custom/other,True,sent_log 2026-05-16,29.1
+Entourage Vegas Spa and Health Club,Las Vegas,NV,https://vegasgayspa.com/,info@entouragevegas.com,homepage,True,282,3.7,gym,,WordPress,True,,28.2
+SOI Brow Eyebrow Threading Salon - Dallas,Dallas,TX,https://www.soibrow.com/,info@SOIBrow.com,homepage,True,268,4.3,hair_care,,custom/other,True,,26.8
+Suit Factory,Augusta,GA,https://suitfactoryaugusta.com/,impallari@gmail.com,/contact-us,True,566,4.9,clothing_store,,GoDaddy,True,sent_log 2026-05-16,26.6
+Empire Liquors & Tavern,Fargo,ND,http://empireroyal.com/cgi-sys/suspendedpage.cgi,webmaster@empireroyal.com,/contact,True,563,4.2,bar,,custom/other,False,sent_log 2026-05-16,26.3
+Harbour Club at WestEdge,Charleston,SC,https://myharbourclub.com/,david.buganski@myharbourclub.com,/contact-us,True,240,4.6,restaurant,,WordPress,True,,24.0
+Richard Nicholas Hair Studio,Philadelphia,PA,https://richardnicholas.com/,Info@richardnicholas.com,homepage,True,537,4.9,beauty_salon,,Squarespace,True,sent_log 2026-05-16,23.7
+Wavelengths Salon,Durham,NC,https://www.wavelengthsalon.biz/,sherrywave@hotmail.com,homepage,True,236,4.7,beauty_salon,,Squarespace,True,,23.6
+Medical Cosmetic Liposuction Washington,Washington,DC,https://www.medicalcosmetic.org/,Mcelaser@gmail.com,homepage,True,235,4.5,beauty_salon,,WordPress,True,,23.5
+Southport Bar & Grill,Spartanburg,SC,https://southportbar.godaddysites.com/,southportbargrill1077@gmail.com,homepage,True,232,4.1,bar,,GoDaddy,True,,23.2
+New Look Salon,Athens,GA,https://www.newlookathens.com/,bhurani786@gmail.com,homepage,True,530,4.7,beauty_salon,,Duda,True,sent_log 2026-05-16,23.0
+Brunswick Medi Spa -Laser Hair Removal Center,New Brunswick,NJ,https://brunswickmedispa.com/,brunswickmedispa@gmail.com,homepage,True,226,4.7,spa,,WordPress,True,,22.6
+SilkySkin Laser Center: Norma K,Portland,OR,https://www.iwantsilkyskin.com/,norma.khal@gmail.com,/contact,True,226,5,beauty_salon,,WordPress,True,,22.6
+Alliance Bakery — Division,Chicago,IL,https://alliancebakery.com/,info@alliancebakery.com,/contact,True,525,4.2,bakery,,custom/other,True,sent_log 2026-05-16,22.5
+"Us Nail & Spa - Best Nail salon in Johnson City, Tennessee",Johnson City,TN,https://www.lldtek.org/salon/appt/VkU1Zk1URTNNelk9,info@level3tek.com,/contact,True,221,3.9,beauty_salon,,custom/other,True,,22.1
+Sofi's Crepes,Annapolis,MD,https://sofiscrepes.com/,stephlhans@gmail.com,homepage,True,514,4.6,cafe,,custom/other,True,sent_log 2026-05-16,21.4
+Body & Sole Therapy Salon and Spa,Roanoke,VA,https://www.mybodyandsole.com/,tony@mybodyandsole.com,homepage,True,214,4.9,spa,,custom/other,True,,21.4
+Exp nails and spa,Portland,OR,http://www.expnails.com/,info@expnails.com,homepage,True,211,4.5,spa,,GoDaddy,False,,21.1
+Foliage Hair Salon & Day Spa,El Paso,TX,https://foliagesalonspa.com/,FoliageSalonSpa@aol.com,homepage,True,208,4.3,beauty_salon,,GoDaddy,True,,20.8
+Downtown Dermatology,Columbus,OH,https://columbusdowntownderm.com/,info@ddermatology.com,/contact,True,196,4.3,hair_care,,WordPress,True,,19.6
+Savannah River Brewing Co.,Augusta,GA,https://www.savannahriverbrew.com/,info@savannahriverbrew.com,homepage,True,483,4.8,bar,,Squarespace,True,sent_log 2026-05-16,18.3
+St. Mary's Health Care System,Athens,GA,https://www.stmaryshealthcaresystem.org/location/st-marys-hospital,mralston@stmarysathens.org,/contact,True,483,3.3,hospital,,custom/other,True,sent_log 2026-05-16,18.3
+Wilmington Airport,Wilmington,DE,https://www.flyilg.com/,flyilg@drba.net,/contact,True,478,4.3,airport,,custom/other,True,sent_log 2026-05-16,17.8
+Ladies & Gents Salon and Barbershop,Morgantown,WV,https://www.ladiesandgents.style/,ladiesngents17@gmail.com,/contact,True,178,4.6,beauty_salon,,custom/other,True,,17.8
+Cutting Crew Family Hair Care,Knoxville,TN,https://www.cuttingcrewknoxville.com/,cuttingcrew@wowway.com,homepage,True,173,4.2,hair_care,,custom/other,True,,17.3
+Daja Hair Salon,Atlantic City,NJ,https://www.dajasalon.com/,dajahairsalon@gmail.com,homepage,True,173,4.8,hair_care,,custom/other,True,,17.3
+Allure Hair Studio,Denver,CO,https://www.allurehairstudio.com/,allurehairstudio282penn@gmail.com,homepage,True,159,4.6,beauty_salon,,Squarespace,True,,15.9
+Neighborhood barbers,New York,NY,https://neighborhoodbarbers.com/,royal1122@aol.com,homepage,True,146,4.7,beauty_salon,,GoDaddy,True,,14.6
+Cafe Racer,Athens,GA,https://www.caferacer78.com/,Chris@caferacer78.com,homepage,True,45,4.3,restaurant,Toast ordering; Square; gift cards,Squarespace,True,sent_log 2026-05-16,14.5
+Spartanburg Community College - Spartanburg (Giles) Campus,Spartanburg,SC,https://www.sccsc.edu/,francisd@sccsc.edu,homepage,True,145,4.2,university,,custom/other,True,,14.5
+El Haijj Salon & Spa,Huntington,WV,https://www.elhaijj.com/,info@elhaijj.com,homepage,True,143,4.6,hair_care,,custom/other,True,,14.3
+Sugaring with Love East location,Wichita,KS,https://sugaringwithlove.com/,contact@sugaringwithlove.com,homepage,True,42,4.9,hair_care,Vagaro booking,WordPress,True,sent_log 2026-05-16,14.2
+Sente Bella MedSpa,San Diego,CA,https://sentebellaspa.com/,appointments@sentebellaspa.com,/contact,True,42,4.5,beauty_salon,WooCommerce store,WordPress,True,sent_log 2026-05-16,14.2
+Bella DonFranze,Huntington,WV,https://belladonfranze.com/,typesetit@att.net,homepage,True,42,5,hair_care,Square; gift cards,GoDaddy,True,sent_log 2026-05-16,14.2
+Dunn Brothers Coffee Company,Saint Paul,MN,http://www.dunnbrosgrand.com/,info@dunnbrosgrand.com,homepage,True,441,4.6,cafe,,custom/other,False,sent_log 2026-05-16,14.1
+Metro Concrete Scanning,Annapolis,MD,https://www.metroconcretescanning.com/,tim@metroconcretescanning.com,homepage,True,38,5,general_contractor,WooCommerce store,WordPress,True,sent_log 2026-05-16,13.8
+Spa Bleu,Augusta,GA,https://www.spableuaugustaga.com/,wanted-Spableuaugusta@gmail.com,homepage,True,36,4.8,beauty_salon,Square,Squarespace,True,sent_log 2026-05-16,13.6
+Pure Chic Salon,Louisville,KY,https://purechicsalon.com/,purechicsalon4@gmail.com,homepage,True,35,5,beauty_salon,gift cards,GoDaddy,True,sent_log 2026-05-16,13.5
+Geetaz Eclectic Beauty Bar,New Brunswick,NJ,https://www.geetaz.com/,geeta@geetaz.com,homepage,True,135,4.8,hair_care,,Squarespace,True,,13.5
+Brazilian Wax Studios,El Paso,TX,https://bws.fullslate.com/,notifications@email.fullslate.com,homepage,True,134,4,beauty_salon,,custom/other,True,,13.4
+Headliners Unisex Salon Corp,Yonkers,NY,http://www.headlinersunisexsalon.com/,headlinerssalon@optonline.net,/about,True,134,4.4,beauty_salon,,custom/other,False,,13.4
+Designlines,Tucson,AZ,https://designlineshairsalon.com/,klaszy@aol.com,homepage,True,134,4.1,spa,,WordPress,True,,13.4
+Sport Cut,Las Vegas,NV,https://sportcut.info/,sportcut01@yahoo.com,homepage,True,133,4.6,beauty_salon,,GoDaddy,True,,13.3
+Christophe's Macaron et Chocolat,Charleston,SC,https://www.christophechocolatechs.com/,gm@christophechocolatechs.com,homepage,True,131,4.7,cafe,,Squarespace,True,,13.1
+NikNackbeauty Bar Dover,Dover,DE,https://www.niknackbeautybar.com/home,niknackbeautybar@gmail.com,homepage,True,29,5,spa,Square; gift cards,Weebly,True,sent_log 2026-05-16,12.9
+The Hair Experience(THE),Wilmington,DE,https://www.thehrcdsalon.com,thehairexperiencehrc@gmail.com,/contact-us,True,29,4.5,beauty_salon,Square,Weebly,True,sent_log 2026-05-16,12.9
+Juniper Botanical Spa and Nail Artistry,Phoenix,AZ,https://www.azjuniper.com/,azjuniperspa@gmail.com,homepage,True,28,4.8,beauty_salon,Square; Vagaro booking,Squarespace,True,sent_log 2026-05-16,12.8
+North Dakota State University,Fargo,ND,https://www.ndsu.edu/,ndsu.dce@ndsu.edu,/contact-us,True,426,4.5,university,,custom/other,True,sent_log 2026-05-16,12.6
+Cappyccino's,San Antonio,TX,https://www.cappyccinos.com/,info@cappysrestaurant.com,homepage,True,426,4.7,bar,,Squarespace,True,sent_log 2026-05-16,12.6
+UPDAWG ATHENS,Athens,GA,https://whatsupdawg.net/,bar@whatsupdawg.net,homepage,True,26,3.5,bar,Shopify store,Shopify,True,sent_log 2026-05-16,12.6
+Hair and Company Salon,Houston,TX,https://www.hairandcompanysalon.com/,service@hairandcompanysalon.com,homepage,True,25,4.4,beauty_salon,'book now' link,custom/other,True,sent_log 2026-05-16,12.5
+Tuscaloosa MedSpa,Tuscaloosa,AL,https://www.tuscaloosamedspa.com/,info@tuscaloosamedspa.com,homepage,True,121,4.6,hair_care,,WordPress,True,,12.1
+Christina's Skincare,Chicago,IL,https://www.christinaskincare.com/,info@christinaskincare.com,/contact,True,20,5,beauty_salon,gift cards,Wix,True,sent_log 2026-05-16,12.0
+Pyramid Club,Philadelphia,PA,https://www.invitedclubs.com/clubs/pyramid-club,maureen.coyle@invitedclubs.com,homepage,True,419,4.6,restaurant,,custom/other,True,sent_log 2026-05-16,11.9
+Pauley's,Athens,GA,https://pauleyscrepebar.com/,ATHENSPAULEYS@GMAIL.COM,homepage,True,418,4.3,restaurant,,WordPress,True,sent_log 2026-05-16,11.8
+Suite Ashira,Chicago,IL,https://www.suiteashira.com/,brandi@suiteashira.com,homepage,True,17,3.4,beauty_salon,gift cards,Weebly,True,sent_log 2026-05-16,11.7
+ROOTED on Main & The Spa Bar,Concord,NH,https://spa-bar.com/,lemonad@jovanny.ru,homepage,True,17,4.8,spa,Fresha booking; gift cards,GoDaddy,True,sent_log 2026-05-16,11.7
+Meera Salon and Day Spa,Allentown,PA,https://www.meerasalon.com/,infomeerasalonanddayspa@gmail.com,/contact,True,113,4.6,beauty_salon,,WordPress,True,,11.3
+"Dr. Annemarie Uliasz, MD - Dermatologist",New York,NY,https://integrativedermnyc.com/,derm@IntegrativeDermNYC.com,homepage,True,7,2.9,beauty_salon,'book an appointment' link,custom/other,True,sent_log 2026-05-16,10.7
+LV Nails Alps,Athens,GA,https://lvnailsalps.com/,lvnailsathens.ga30606@gmail.com,homepage,True,404,3.9,beauty_salon,,custom/other,True,sent_log 2026-05-16,10.4
+Danny Valles L.L.C,Chicago,IL,http://www.dannyvalles.com/,danny@dannyvalles.com,homepage,True,3,5,beauty_salon,Schedulicity booking,custom/other,False,sent_log 2026-05-16,10.3
+White A Salon,Houston,TX,https://www.whitesalon.com/,appointment@whitesalon.com,/contact-us,True,403,4.7,beauty_salon,,custom/other,True,sent_log 2026-05-16,10.3
+Mint,Austin,TX,https://www.mintforbeauty.com/,mintforbeauty@gmail.com,homepage,True,103,4.8,beauty_salon,,Squarespace,True,,10.3
+Wichita State University,Wichita,KS,https://www.wichita.edu/,operator@wichita.edu,homepage,True,400,4.2,university,,custom/other,True,sent_log 2026-05-16,10.0
+Capelli Salon & Day Spa,Wichita,KS,https://www.capellisalonandspa.com/,CAPELLISALONINFO@GMAIL.COM,homepage,True,0,,hair_care,'gift cards' link,WordPress,True,sent_log 2026-05-16,10.0
+University of South Carolina Upstate,Spartanburg,SC,https://uscupstate.edu/,info@uscupstate.edu,homepage,True,97,4.1,university,,WordPress,True,,9.7
+Belle Ame Salon,Indianapolis,IN,https://belleamesalonindy.com/,belleamesalon@icloud.com,/contact,True,96,4.7,beauty_salon,,custom/other,True,,9.6
+Gypsy Rose Salon,San Jose,CA,https://www.gypsyrosesalonsj.com/,gypsyrosesalonsj@gmail.com,homepage,True,95,4.8,beauty_salon,,Squarespace,True,,9.5
+Peak of Perfection,Tucson,AZ,http://peakofperfectionsalon.com/,gm@peakofperfectionsalon.com,homepage,True,95,4.9,beauty_salon,,WordPress,False,,9.5
+Makeup by Paulina Perez,Jacksonville,FL,https://paulinaperez.com/,info@paulinaperez.com,homepage,True,94,4.7,hair_care,,Squarespace,True,,9.4
+HeadLinerz,Nashville,TN,https://headlinerzshop.com/,info@headlinerzshop.com,homepage,True,94,4.2,beauty_salon,,custom/other,True,,9.4
+PYNK BUTTERFLY SALON,Columbia,SC,https://www.pynkbutterfly.com/,info@pynkbutterfly.com,homepage,True,94,4.7,beauty_salon,,Squarespace,True,,9.4
+"Beauty Within Skin Care,LLC",Baltimore,MD,https://beautywithinskincare.com/,mayumi@beautywithinskincare.com,/contact,True,94,5,beauty_salon,,WordPress,True,,9.4
+Plonk!,Houston,TX,https://plonkbistro.com/,scott@plonkbistro.com,homepage,True,392,4.5,bar,,WordPress,True,sent_log 2026-05-16,9.2
+Head & Shoulders Knees & Toes,Spartanburg,SC,https://headandshoulderssalon.com/,info@headandshoulderssalon.com,homepage,True,87,4.9,hair_care,,custom/other,True,,8.7
+Advanced Skin Fitness Medical Spa and CoolSculpting Center,Dallas,TX,https://advancedskinfitness.com/,consultations@asfdallas.com,/contact,True,86,4.5,hair_care,,WordPress,True,,8.6
+ShortCuts,Morgantown,WV,https://shortcutswv.com/,mikiesmom42@yahoo.com,homepage,True,78,4.5,beauty_salon,,custom/other,True,,7.8
+Carriage House Wines,Spartanburg,SC,https://carriagehousewines.com/,tony@carriagehousewines.com,homepage,True,71,4.9,liquor_store,,custom/other,True,,7.1
+About Face,Lynchburg,VA,https://www.aboutfacesalon.net/,about_face@aol.com,/contact,True,70,4.7,hair_care,,WordPress,True,,7.0
+Signature Styles,Montpelier,VT,https://signaturestylesvt.com/,styles.signature@yahoo.com,/about,True,70,4.1,hair_care,,custom/other,True,,7.0
+Allgood Lounge,Athens,GA,https://www.allgoodlounge.com/,allgoodporter@gmail.com,/contact,True,368,4.4,bar,,Squarespace,True,sent_log 2026-05-16,6.8
+Laura's Head Turners,Reading,PA,https://laurasheadturners.com/,%20lheadturners@aol.com,homepage,True,66,4.8,hair_care,,WordPress,True,,6.6
+Sher Extensions,Johnson City,TN,http://www.sherextensions.com/,sher@sherextensions.com,homepage,True,65,4.7,beauty_salon,,custom/other,False,,6.5
+Secret Oasis Salon Med Spa,Roanoke,VA,https://spasecretoasis.com/,lishau@gmail.com,/contact,True,61,4.9,beauty_salon,,WordPress,True,,6.1
+The Peelz Studio,Albany,NY,https://www.peelzonwheelz.com/,darlene@peelzonwheelz.com,homepage,True,60,4.8,beauty_salon,,WordPress,True,,6.0
+salon metro,Seattle,WA,https://www.salonmetroseattle.com/,cindyfrank@salonmetroseattle.com,/contact,True,58,4.7,beauty_salon,,WordPress,True,,5.8
+Round Up Saloon,Fargo,ND,https://roundupsaloonfargo.com/,roundupfargo@gmail.com,homepage,True,355,4.2,bar,,WordPress,True,sent_log 2026-05-16,5.5
+The Thirsty Crow,Los Angeles,CA,https://www.thirstycrowbar.com/,press@1933group.com,homepage,True,355,4.4,bar,,Squarespace,True,sent_log 2026-05-16,5.5
+Drayton Mills Marketplace,Spartanburg,SC,https://draytonmills.com/,rleasing@draytonlofts.com,homepage,True,54,4.5,shopping_mall,,custom/other,True,,5.4
+"Hope Primary Care, PLLC",Memphis,TN,https://www.hopeprimarycare.com/,hpc@hopeprimarycare.com,/contact-us,True,51,4.3,beauty_salon,,WordPress,True,,5.1
+Terrapin Beer Co.,Athens,GA,https://www.terrapinbeer.com/,tbc@terrapinbeer.com,homepage,True,346,4.5,food,,WordPress,True,sent_log 2026-05-16,4.6
+Delaware Art Museum,Wilmington,DE,https://delart.org/,info@delart.org,homepage,True,306,4.6,tourist_attraction,,WordPress,True,sent_log 2026-05-16,0.6
+Kate's Spalon,Wilmington,DE,https://www.katesspalon.com/,katesspalon@gmail.com,homepage,True,300,4.8,hair_care,,WordPress,True,sent_log 2026-05-16,0.0
+Hollywood Hookah,Los Angeles,CA,https://hollywoodhookah.com/,reservations@hollywoodhookah.com,/contact,True,265,3.9,bar,,custom/other,True,sent_log 2026-05-16,-3.5
+The Desert Hills Motel,Las Vegas,NV,https://www.vegas-motels.com/,reservations@vegas-motels.com,homepage,True,265,3.2,lodging,,WordPress,True,sent_log 2026-05-16,-3.5
+8 Spruce,New York,NY,https://www.live8spruce.com/,8Spruce@beamliving.com,/contact-us,True,246,4.6,point_of_interest,,custom/other,True,sent_log 2026-05-16,-5.4
+Honey From the Rock Cafe,Augusta,GA,https://www.honeyfromtherockcafe.com/,wlm@wholelife.org,/contact,True,240,4.7,cafe,,WordPress,True,sent_log 2026-05-16,-6.0
+Slater Aesthetics & Anti-Aging Warner Robins,Warner Robins,GA,https://slateraesthetics.com/,drslaterclinic@gmail.com,homepage,True,233,4.9,hair_care,,custom/other,True,sent_log 2026-05-16,-6.7
+Blueberry Moon Salon Spa,Chicago,IL,https://blueberrymoon.com/,jillian@blueberrymoon.com,/contact,True,220,4.8,beauty_salon,,custom/other,True,sent_log 2026-05-16,-8.0
+Salon Cheveux,Saint Paul,MN,https://www.saloncheveuxmn.com/,front@saloncheveuxmn.com,homepage,True,207,4.8,beauty_salon,,Squarespace,True,sent_log 2026-05-16,-9.3
+Flint Energies,Warner Robins,GA,https://www.flintenergies.com/,hello@flintemc.com,/contact-us,True,203,2.5,point_of_interest,,custom/other,True,sent_log 2026-05-16,-9.7
+Dover Public Library,Dover,DE,https://dover.lib.de.us/,brian.sylvester@lib.de.us,/contact-us,True,188,4.6,library,,WordPress,True,sent_log 2026-05-16,-11.2
+Delilah's,Philadelphia,PA,https://www.delilahs.com/,info@delilahs.com,homepage,True,183,3,bar,,WordPress,True,sent_log 2026-05-16,-11.7
+Flicker Theatre & Bar,Athens,GA,https://www.flickertheatreandbar.com/,flickerbooking@gmail.com,/contact,True,182,4.6,bar,,custom/other,True,sent_log 2026-05-16,-11.8
+Polished Nail Spa,Fargo,ND,https://polishednailspa.biz/,contact@polishednailspa.biz,/contact,True,165,4.2,beauty_salon,,WordPress,True,sent_log 2026-05-16,-13.5
+Desert Art Supplies,Las Vegas,NV,http://www.desertartsupplies.com/,desertartsupply@aol.com,homepage,True,165,4.8,cafe,,custom/other,False,sent_log 2026-05-16,-13.5
+Kiwa Salon,New York,NY,https://www.kiwasalon.com/,kiwasalonwest@gmail.com,homepage,True,157,4.6,beauty_salon,,custom/other,True,sent_log 2026-05-16,-14.3
+Suki Day Spa,San Diego,CA,https://www.sukidayspa.com/,Contact@SukiDaySpa.com,/contact,True,150,4.5,spa,,custom/other,True,sent_log 2026-05-16,-15.0
+Hector International Airport Parking,Fargo,ND,https://booking.fargoairport.com/parking/dates/,FARparking@spplus.com,homepage,True,143,3.9,parking,,WordPress,True,sent_log 2026-05-16,-15.7
+Delaware Technical Community College - Charles L. Terry Jr. Campus - Dover,Dover,DE,https://www.dtcc.edu/our-campuses/dover/,civilrights@dtcc.edu,/about,True,142,4.1,university,,custom/other,True,sent_log 2026-05-16,-15.8
+Threading Place,New York,NY,https://www.kingsplazaonline.com/Directory/Details/841522,emma.dawson@macerich.com,/contact,True,138,4.6,beauty_salon,,custom/other,True,sent_log 2026-05-16,-16.2
+Magnolias Bar of Athens,Athens,GA,https://www.magnoliasath.com/,magnoliasath@gmail.com,/contact-us,True,132,4.1,bar,,Squarespace,True,sent_log 2026-05-16,-16.8
+Pinnacle Club,Augusta,GA,https://pinnacleclubaugusta.com/,engagement@pinnacleclub.us,homepage,True,124,4.8,restaurant,,WordPress,True,sent_log 2026-05-16,-17.6
+Jason Matthew Salon,Philadelphia,PA,https://www.jasonmatthew.com/,jasonmatthewsalon@gmail.com,homepage,True,119,4.7,beauty_salon,,custom/other,True,sent_log 2026-05-16,-18.1
+Salons of Dallas Suites at Hi Line,Dallas,TX,https://salonsofdallas.com/,tourinfo@salonsofdallas.com,/contact-us,True,116,4.7,beauty_salon,,custom/other,True,sent_log 2026-05-16,-18.4
+Twisted Chics Salon & Boutique,Greenville,SC,https://twistedchics.com/,typesetit@att.net,homepage,True,91,4.9,beauty_salon,,GoDaddy,True,sent_log 2026-05-16,-20.9
+Anthony Cristiano | Top Hair Stylist in Chicago | Hair Salon,Chicago,IL,https://www.anthonycristiano.com/,info@anthonycristiano.com,/contact,True,79,4.6,hair_care,,Squarespace,True,sent_log 2026-05-16,-22.1
+Concordia College,Fargo,ND,https://www.concordiacollege.edu/,info@cord.edu,/contact,True,77,4.2,university,,custom/other,True,sent_log 2026-05-16,-22.3
+Athens-Ben Epps Airport - AHN,Athens,GA,https://www.accgov.com/airport,airport@accgov.com,homepage,True,60,4.6,airport,,custom/other,True,sent_log 2026-05-16,-24.0
+Split Ends Hair Salon,San Diego,CA,https://salonsplitends.com/,sehs1415@gmail.com,/contact,True,56,4.5,beauty_salon,,WordPress,True,sent_log 2026-05-16,-24.4
+Wesley College / DSU,Dover,DE,https://www.desu.edu/about/our-history/history-wesley-college,DelawareStateUniversity5@delawarestateuniversity.onmicrosoft.com,homepage,True,55,3.8,university,,custom/other,True,sent_log 2026-05-16,-24.5
+Salon Rouge,Buffalo,NY,https://salonrouge.style/,info@indiantypefoundry.com,/contact-us,True,55,4.7,beauty_salon,,GoDaddy,True,sent_log 2026-05-16,-24.5
+Neighborhood House,Saint Paul,MN,https://neighborhoodhousemn.org/,WellstoneCtrFoodMarket@neighb.org,/contact,True,51,4.3,school,,WordPress,True,sent_log 2026-05-16,-24.9
+Davidson Dermatology,Charleston,SC,https://www.davidsondermatology.com/,om@dderm.net,homepage,True,47,4.3,beauty_salon,,custom/other,True,,-35.3
+Converse University,Spartanburg,SC,https://www.converse.edu/,admission@converse.edu,/contact,True,46,4.3,university,,WordPress,True,,-35.4
+Kalia Dermatology & Laser,San Jose,CA,https://www.kaliaskincare.com/,jane.larson@gmail.com,/contact,True,45,4.4,beauty_salon,,Webflow,True,,-35.5
+A Better Cut,Altoona,PA,https://abetterutopia.com/,abettercut18@aol.com,homepage,True,45,4.9,beauty_salon,,WordPress,True,,-35.5
+Gro Salon,Chicago,IL,https://gro-salon.com/,info@gro-salon.com,homepage,True,42,4.7,beauty_salon,,custom/other,True,,-35.8
+A Cut Above Salon LLC,Trenton,NJ,https://www.acutabovesalonandspa.net/,contactus@acutabovesalonandspa.net,homepage,True,42,5,spa,,WordPress,True,,-35.8
+Ann's Gentle Touch Electrolysis,Frederick,MD,https://www.annsgentletouchelectrolysismd.com/,annrohrer@gmail.com,/contact,True,41,4.8,beauty_salon,,custom/other,True,,-35.9
+Splash Salon,Washington,DC,http://splash.salon/,splashsalonandphoto@gmail.com,homepage,True,39,4.4,beauty_salon,,Squarespace,False,,-36.1
+Studio 3 Twenty One LLC,Altoona,PA,https://studio3twentyonellcaltoona.com/,jmh092473@gmail.com,homepage,True,38,4.9,beauty_salon,,custom/other,True,,-36.2
+Honeypot,San Francisco,CA,https://www.honeypotsf.com/,honeypotsf@gmail.com,homepage,True,36,5,hair_care,,WordPress,True,,-36.4
+MB,Denver,CO,https://www.mishabelfer.com/,dancesporthair@yahoo.com,homepage,True,35,4.9,hair_care,,custom/other,True,,-36.5
+Clel's Place,Scranton,PA,http://www.clelsplace.com/,clel@clelsplace.com,homepage,True,33,4.7,beauty_salon,,GoDaddy,False,,-36.7
+Sandhills Womancare,Fayetteville,NC,http://sandhillswomancare.com/,swc1367@gmail.com,homepage,True,31,3.4,beauty_salon,,WordPress,False,,-36.9
+Mauldin Massage & Day Spa,Greenville,SC,https://mauldinmassage.abmp.com/,mauldinmassagespa@gmail.com,homepage,True,29,4.9,beauty_salon,,custom/other,True,,-37.1
+Summer Nails & Spa,San Diego,CA,https://go.thryv.com/site/1jckceu8ahuulefy,kellynguyendang@gmail.com,homepage,True,29,3.7,beauty_salon,,custom/other,True,,-37.1
+Skin Help Studio,Charleston,SC,https://www.skinhelpstudio.com/,micki@skinhelpstudio.net,/contact,True,28,5,beauty_salon,,Duda,True,,-37.2
+FYI salon,Portland,OR,http://www.fyisalon.com/index.html,info@fyisalon.com,homepage,True,28,4.9,beauty_salon,,custom/other,False,,-37.2
+Sweet Cheeks Boutique,Denver,CO,https://sweetcheeksboutique.net/,catheren44@hotmail.com,/contact,True,27,4.6,beauty_salon,,WordPress,True,,-37.3
+Tribeca Hair & Nail Studio,Harrisburg,PA,https://www.tribecahairandnailstudio.com/,Office@TribecaHairandNailStudio.com,homepage,True,23,5,beauty_salon,,custom/other,True,,-37.7
+El Paso Varicose Veins Laser Clinic,El Paso,TX,https://www.varicoseveinslaserclinic.com/,epvvlc@sbcglobal.net,homepage,True,20,3.8,doctor,,WordPress,True,,-38.0
+Derek's Salon,Greenville,SC,http://derekssalon.com/,baker.derek79@gmail.com,/contact,True,18,4.9,beauty_salon,,WordPress,False,,-38.2
+Santangelo Salon & Clinic,Buffalo,NY,https://santangelosalon.com/,info@santangelohair.com,/contact,True,17,4.9,hair_care,,WordPress,True,,-38.3
+Center for Dermatology & Skin Care,Charleston,WV,https://www.centerfordermatologywv.com/,thecenter4derm@gmail.com,homepage,True,17,3.1,beauty_salon,,custom/other,True,,-38.3
+Styles By Paul,Altoona,PA,https://www.stylesbypaul.com/,paularabish@aol.com,homepage,True,17,4.8,beauty_salon,,Duda,True,,-38.3
+Glo Medical Aesthetics,Memphis,TN,https://www.glomedmemphis.com/,info@glomedmemphis.com,/contact,True,17,4.6,beauty_salon,,WordPress,True,,-38.3
+The Club House,Spartanburg,SC,https://122clubhouse.com/,122Clubhouse@gmail.com,/contact,True,15,4.9,bar,,GoDaddy,True,,-38.5
+Shear Harmony,Salisbury,MD,http://shearharmony.net/,shearharmony@comcast.net,homepage,True,14,4.9,beauty_salon,,custom/other,False,,-38.6
+The Salon Studios Inc.,Fresno,CA,http://www.thesalonstudios.com/suites/,Hairbymichael98@aol.com,homepage,True,13,4.9,beauty_salon,,WordPress,False,,-38.7
+Mirror Images Spa & Salon,Albany,NY,https://www.mildred-elley.edu/guest-services/massage/,admissions-albany@mildred-elley.edu,homepage,True,11,4.8,spa,,WordPress,True,,-38.9
+Streaking Birdies,Spartanburg,SC,https://streakingbirdies.com/,%20streakingbirdies@gmail.com,homepage,True,10,4.4,bar,,WordPress,True,,-39.0
+Studio Blush,Blacksburg,VA,https://www.studioblushblacksburg.com/,studioblushblacksburg@gmail.com,/contact,True,10,5,hair_care,,Duda,True,,-39.0
+"Nadiv Shapira, MD | First State Lipedema",Wilmington,DE,https://www.lipedematreatment.org/,martina@lipedematreatment.org,/contact,True,10,4.2,hair_care,,WordPress,True,,-39.0
+Cyndi's Hair Studio,Durham,NC,http://cyndishairstudio.com/,cyndi@cyndishairstudio.com,homepage,True,7,5,beauty_salon,,custom/other,False,,-39.3
+Absolutely Electrolysis & Skin Care,Bangor,ME,https://www.absolutelyelectrolysisandskincare.com/,teftelec@gmail.com,homepage,True,2,5,beauty_salon,,WordPress,True,,-39.8
+Great Lengths Hair Extension Salon & Stylist DC - Get Great Lengths Hair Salon,Baltimore,MD,http://www.getgreatlengthshair.com/,info@getgreatlengthshair.com,/contact,True,1,5,beauty_salon,,custom/other,False,,-39.9
+"Deeann C. Southern Skin Care Specialist, LLC",Tuscaloosa,AL,http://www.deeanncsouthernskincare.com/,deeann@deeanncsouthernskincare.com,/contact,True,1,5,hair_care,,Weebly,False,,-39.9
+Center For Beautiful Bodies,Houston,TX,http://www.houstoncosmeticlaser.com/,info@houstoncosmeticlaser.com,homepage,True,0,,beauty_salon,,custom/other,False,,-40.0
+Avance Aesthetics Skin Care Center,New Brunswick,NJ,http://www.avanceaesthetics.com/,avanceaesthetics@yahoo.com,homepage,True,0,,beauty_salon,,custom/other,False,,-40.0
+Bella Faccia Skincare & Beauty Studio,Augusta,GA,http://bellafacciallc.com/,confirmbellafaccia@gmail.com,homepage,True,44,4.8,spa,,Squarespace,False,sent_log 2026-05-16,-65.6
+First State Heritage Park,Dover,DE,https://www.destateparks.com/park/first-state-heritage/,Philip.Wojcik@delaware.gov,/contact,True,43,4.6,park,,WordPress,True,sent_log 2026-05-16,-65.7
+Digital Smoke - Karaoke & Hookah,Warner Robins,GA,https://www.digitalsmokellc.com/,mymail@mailservice.com,homepage,True,40,4.3,bar,,Duda,True,sent_log 2026-05-16,-66.0
+Office of the Attorney General of California,Los Angeles,CA,https://oag.ca.gov/,EERROffice@doj.ca.gov,homepage,True,38,2.1,local_government_office,,custom/other,True,sent_log 2026-05-16,-66.2
+EMPIRE FACES STUDIOS HOUSTON,Houston,TX,https://www.empirefaces.com/,help@smugmug.com,homepage,True,36,4.6,beauty_salon,,custom/other,True,sent_log 2026-05-16,-66.4
+Gallery Restaurant,Fargo,ND,https://www.fargohi.com/the-gallery/,mprekel@fargohi.com,/contact,True,34,3.7,restaurant,,WordPress,True,sent_log 2026-05-16,-66.6
+"Dr. John C. Blankenship, MD",Athens,GA,https://www.urologygroupofathens.com/,admin@urologygroupofathens.com,homepage,True,33,3.9,doctor,,Squarespace,True,sent_log 2026-05-16,-66.7
+Uncorked by Georgia Bob's,Warner Robins,GA,https://gbuncorked.com/,typesetit@att.net,homepage,True,30,4.6,bar,,GoDaddy,True,sent_log 2026-05-16,-67.0
+Beauty Health NY Inc,New York,NY,https://beautyhealthny.com/,beautyhealthnyinc@gmail.com,/contact,True,29,4.7,beauty_salon,,WordPress,True,sent_log 2026-05-16,-67.1
+GlamHypnosis,Philadelphia,PA,https://glamhypnosis.com/,micah@micahrich.com,homepage,True,29,4.8,beauty_salon,,GoDaddy,True,sent_log 2026-05-16,-67.1
+Empire Beauty Supply & Salon,San Diego,CA,https://empirebeautysupply.com/,impallari@gmail.com,/contact-us,True,22,3.9,beauty_salon,,GoDaddy,True,sent_log 2026-05-16,-67.8
+Metallic Recovery Group Inc,Philadelphia,PA,https://www.mrgcopper.com/,info@mrgcopper.com,/contact,True,17,4.7,beauty_salon,,WordPress,True,sent_log 2026-05-16,-68.3
+Laura The Brow Queen,Dallas,TX,https://laurathebrowqueen.com/,impallari@gmail.com,homepage,True,17,3.6,beauty_salon,,GoDaddy,True,sent_log 2026-05-16,-68.3
+Earthshinekids,Fayetteville,NC,https://earthshinekids.com/,impallari@gmail.com,homepage,True,16,4.6,cafe,,GoDaddy,True,sent_log 2026-05-16,-68.4
+Twist Bartending,Columbia,SC,https://www.twistbartendingsc.com/,Sales@TwistBartendingSC.com,homepage,True,14,5,bar,,custom/other,True,sent_log 2026-05-16,-68.6
+Middle Georgia State University - Warner Robins Campus,Warner Robins,GA,https://www.mga.edu/about/campuses/warner-robins.php,legalaffairs@mga.edu,/about,True,11,3.3,university,,custom/other,True,sent_log 2026-05-16,-68.9
+Newark Union Church & Cemetery,Wilmington,DE,https://newarkunion.com/,NewarkUnion8@gmail.com,/contact-us,True,9,4.8,cemetery,,WordPress,True,sent_log 2026-05-16,-69.1
+Sassoon Academy,Chicago,IL,https://www.sassoon.com/,edservices@sassoonglobal.com,/contact-us,True,7,3.3,beauty_salon,,custom/other,True,sent_log 2026-05-16,-69.3
+Our Lady of Mount Carmel and Saint Therese Church,San Antonio,TX,https://discovermass.com/church/our-lady-of-mt-carmelst-therese-san-antonio-tx/,rross@diocesan.com,/contact-us,True,5,4.6,church,,WordPress,True,sent_log 2026-05-16,-69.5
+DF Hair Salon,Chicago,IL,https://www.dfhairsalon.com/,deb@dfhairsalon.com,/contact-us,True,4,5,beauty_salon,,Weebly,True,sent_log 2026-05-16,-69.6
+Brows By Alison,Annapolis,MD,http://www.browsbyalison.com/,browsbyalison@gmail.com,homepage,True,4,5,pharmacy,,WordPress,False,sent_log 2026-05-16,-69.6
+Bar's Open,Wichita,KS,http://www.thebarsopen.com/,info@thebarsopen.com,homepage,True,3,5,bar,,Squarespace,False,sent_log 2026-05-16,-69.7
+The Oasis Massage,Saint Paul,MN,https://www.theoasismassage.com/,jean@theoasismassage.com,/contact,True,3,3.7,beauty_salon,,Squarespace,True,sent_log 2026-05-16,-69.7
+Code,New York,NY,http://www.codenyc.com/,info@codenyc.com,homepage,True,3,5,point_of_interest,,Squarespace,False,sent_log 2026-05-16,-69.7
+"Georgia Cancer Specialists: Ali El Sayed, MD",Athens,GA,https://www.gacancer.com/,Debra.keen@gacancer.com,homepage,True,2,5,doctor,,WordPress,True,sent_log 2026-05-16,-69.8
+ATM (Bank of America),Warner Robins,GA,https://www.bankofamerica.com/,wealthmanagement@bankofamerica.com,homepage,True,2,5,atm,,custom/other,True,sent_log 2026-05-16,-69.8
+Total Image Hair & Airbrush,Chicago,IL,https://totalimagebridal.com/,fabfaces@att.net,/contact-us,True,1,5,beauty_salon,,WordPress,True,sent_log 2026-05-16,-69.9
+"Dr. Kanak R. Patel, MD",Annapolis,MD,https://www.luminishealth.org/en/find-a-provider/kanak-patel,aamcpr@aahs.org,homepage,True,1,1,doctor,,custom/other,True,sent_log 2026-05-16,-69.9
+Hair With Care,Fargo,ND,https://hairwithcare.mysalononline.com/,hairwithcare@hotmail.com,/contact,True,0,,beauty_salon,,custom/other,True,sent_log 2026-05-16,-70.0
+Mount Pleasant High School,Wilmington,DE,https://mphs.brandywineschools.org,info@bsd.k12.de.us,/contact,True,0,,secondary_school,,custom/other,True,sent_log 2026-05-16,-70.0
+Holy Cross School,Dover,DE,https://holycrossdover.org/school,secretary@holycrossdover.org,/contact,True,0,,school,,custom/other,True,sent_log 2026-05-16,-70.0
+MD MRO Services,Annapolis,MD,http://www.mdmroservices.com/,info@mdmroservices.com,/contact,True,0,,health,,Squarespace,False,sent_log 2026-05-16,-70.0
+Emory Heart & Vascular Center at Athens,Athens,GA,https://www.emoryhealthcare.org/services/heart-vascular,patient.relations@emoryhealthcare.org,/contact,True,0,,hospital,,custom/other,True,sent_log 2026-05-16,-70.0

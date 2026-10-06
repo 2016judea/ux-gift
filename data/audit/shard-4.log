@@ -1,0 +1,384 @@
+FAIL iphone  https://highcottoncharleston.com/
+WARN android https://highcottoncharleston.com/
+FAIL iphone  https://highcottoncharleston.com/charleston-french-quarter-high-cotton-food-menu
+WARN android https://highcottoncharleston.com/charleston-french-quarter-high-cotton-food-menu
+WARN iphone  http://www.threelittlebirdscafe.com/
+WARN android http://www.threelittlebirdscafe.com/
+WARN iphone  http://www.threelittlebirdscafe.com/menu-2
+WARN android http://www.threelittlebirdscafe.com/menu-2
+FAIL iphone  https://www.stonetheatres.com/millstone14cinemas
+FAIL android https://www.stonetheatres.com/millstone14cinemas
+WARN iphone  https://www.stonetheatres.com/Gift-Cards
+WARN android https://www.stonetheatres.com/Gift-Cards
+WARN iphone  https://reddrumrestaurant.com/
+FAIL android https://reddrumrestaurant.com/
+WARN iphone  https://reddrumrestaurant.com/-party?source=pop_up&spot_id=113061&destination=private_parties&promotion=private_parties
+WARN android https://reddrumrestaurant.com/-party?source=pop_up&spot_id=113061&destination=private_parties&promotion=private_parties
+FAIL iphone  https://latavernaitaliancuisine.org/
+WARN android https://latavernaitaliancuisine.org/
+WARN iphone  https://latavernaitaliancuisine.org/food-menu
+WARN android https://latavernaitaliancuisine.org/food-menu
+WARN iphone  https://knollas-pizza.com/
+FAIL android https://knollas-pizza.com/
+FAIL iphone  https://knollas-pizza.com/-food-menu?source=header&spot_id=377982&destination=food_menu&promotion=taco_day
+WARN android https://knollas-pizza.com/-food-menu?source=header&spot_id=377982&destination=food_menu&promotion=taco_day
+WARN iphone  https://www.wafrost.com/
+WARN android https://www.wafrost.com/
+WARN iphone  https://www.wafrost.com/menus
+WARN android https://www.wafrost.com/menus
+WARN iphone  https://www.memorylanes.com/
+WARN android https://www.memorylanes.com/
+WARN iphone  https://www.memorylanes.com/open-bowling-schedule/
+WARN android https://www.memorylanes.com/open-bowling-schedule/
+FAIL iphone  https://www.marearestaurant.com/new-york
+FAIL android https://www.marearestaurant.com/new-york
+FAIL iphone  https://www.marearestaurant.com/new-york/menu
+FAIL android https://www.marearestaurant.com/new-york/menu
+WARN iphone  https://www.ticktockdinerny.com/
+WARN android https://www.ticktockdinerny.com/
+WARN iphone  https://www.ticktockdinerny.com/welcome
+WARN android https://www.ticktockdinerny.com/welcome
+WARN iphone  https://www.shampooavenueb.com/
+WARN android https://www.shampooavenueb.com/
+WARN iphone  https://www.shampooavenueb.com/booking/
+WARN android https://www.shampooavenueb.com/booking/
+FAIL iphone  https://fathersoffice.com/
+WARN android https://fathersoffice.com/
+FAIL iphone  https://fathersoffice.com/menus/culver-city/
+FAIL android https://fathersoffice.com/menus/culver-city/
+FAIL iphone  https://www.volarerestaurant.com/
+WARN android https://www.volarerestaurant.com/
+FAIL iphone  https://www.volarerestaurant.com/gift-card
+FAIL android https://www.volarerestaurant.com/gift-card
+FAIL iphone  https://www.thepublicanrestaurant.com/
+WARN android https://www.thepublicanrestaurant.com/
+FAIL iphone  https://www.thepublicanrestaurant.com/menus/
+WARN android https://www.thepublicanrestaurant.com/menus/
+WARN iphone  https://kiranshouston.com/
+WARN android https://kiranshouston.com/
+WARN iphone  https://kiranshouston.com/menu
+WARN android https://kiranshouston.com/menu
+
+== findings (FAIL and WARN) ==
+
+https://highcottoncharleston.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://www.hallmanagementgroup.com/halls-catch-nashville/ answers 404
+  WARN  21 of 73 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://highcottoncharleston.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  21 of 73 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://highcottoncharleston.com/charleston-french-quarter-high-cotton-food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://highcottoncharleston.com/560938 answers 404
+  FAIL  dead link: https://highcottoncharleston.com/560939 answers 404
+  FAIL  dead link: https://highcottoncharleston.com/560937 answers 404
+  FAIL  dead link: https://highcottoncharleston.com/560936 answers 404
+  FAIL  dead link: https://highcottoncharleston.com/560943 answers 404
+  FAIL  dead link: https://highcottoncharleston.com/560941 answers 404
+  FAIL  dead link: https://highcottoncharleston.com/560944 answers 404
+  FAIL  dead link: https://www.hallmanagementgroup.com/store/gift-cards/ answers 404
+
+https://highcottoncharleston.com/charleston-french-quarter-high-cotton-food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+http://www.threelittlebirdscafe.com/  [iphone]
+  WARN  2 of 4 tap targets under 24px: a 240x19, a 91x18
+
+http://www.threelittlebirdscafe.com/  [android]
+  WARN  2 of 4 tap targets under 24px: a 240x19, a 91x17
+
+http://www.threelittlebirdscafe.com/menu-2  [iphone]
+  WARN  2 of 4 tap targets under 24px: a 240x19, a 91x18
+
+http://www.threelittlebirdscafe.com/menu-2  [android]
+  WARN  2 of 4 tap targets under 24px: a 240x19, a 91x17
+
+https://www.stonetheatres.com/millstone14cinemas  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.osano-cm-info-dialog__info right=710, div.osano-cm-info__info-dialog-header right=710, p#bd341bee-965f-43c0-9cca-da3f15b02a35__label.osano-cm-info-dialog-header__header right=670, button.osano-cm-info-dialog-header__close right=702, div.osano-cm-info__info-views right=710
+  FAIL  document locked (overflow hidden) with 5516px of content and no inner scroller
+  WARN  fixed layer div#site_popup_modal.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  8 of 70 tap targets under 24px: a.osano-cm-storage-policy 100x20, a.fs-6 319x16, a.mb-2 319x16, svg 22x25, svg 22x25
+  WARN  2 text elements under 12px: a.footer-nav-link 9.6px, a.footer-nav-link 9.6px
+
+https://www.stonetheatres.com/millstone14cinemas  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.osano-cm-info-dialog__info right=713, div.osano-cm-info__info-dialog-header right=713, p#c68334ea-359f-41db-bfa5-b5ed6bc81203__label.osano-cm-info-dialog-header__header right=673, button.osano-cm-info-dialog-header__close right=705, div.osano-cm-info__info-views right=713
+  FAIL  document locked (overflow hidden) with 5578px of content and no inner scroller
+  WARN  fixed layer div#site_popup_modal.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  8 of 71 tap targets under 24px: a.osano-cm-storage-policy 100x20, a.fs-6 322x16, a.mb-2 322x16, svg 22x25, svg 22x25
+  WARN  2 text elements under 12px: a.footer-nav-link 9.6px, a.footer-nav-link 9.6px
+
+https://www.stonetheatres.com/Gift-Cards  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.osano-cm-info-dialog__info right=710, div.osano-cm-info__info-dialog-header right=710, p#f54b34e2-3af5-45dc-8c6c-9c37ce6dc526__label.osano-cm-info-dialog-header__header right=670, button.osano-cm-info-dialog-header__close right=702, div.osano-cm-info__info-views right=710
+  WARN  fixed layer div#site_popup_modal.modal covers 100% of the screen
+  WARN  fixed layer div#location_modal.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  19 of 73 tap targets under 24px: a.osano-cm-storage-policy 100x20, svg 20x20, input#sendtofriend.form-check-input 16x16, svg 22x25, svg 22x25
+  WARN  2 text elements under 12px: a.footer-nav-link 9.6px, a.footer-nav-link 9.6px
+
+https://www.stonetheatres.com/Gift-Cards  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.osano-cm-info-dialog__info right=713, div.osano-cm-info__info-dialog-header right=713, p#b0e738eb-17ea-44e5-a0fc-f9aa489ae793__label.osano-cm-info-dialog-header__header right=673, button.osano-cm-info-dialog-header__close right=705, div.osano-cm-info__info-views right=713
+  WARN  fixed layer div#site_popup_modal.modal covers 100% of the screen
+  WARN  fixed layer div#location_modal.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  19 of 73 tap targets under 24px: a.osano-cm-storage-policy 100x20, svg 20x20, input#sendtofriend.form-check-input 16x16, svg 22x25, svg 22x25
+  WARN  2 text elements under 12px: a.footer-nav-link 9.6px, a.footer-nav-link 9.6px
+
+https://reddrumrestaurant.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  15 of 74 tap targets under 24px: button 15x15, button 15x15, button 15x15, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://reddrumrestaurant.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 8162px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  16 of 76 tap targets under 24px: button.close 22x34, button 15x15, button 15x15, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://reddrumrestaurant.com/-party?source=pop_up&spot_id=113061&destination=private_parties&promotion=private_parties  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://reddrumrestaurant.com/-party?source=pop_up&spot_id=113061&destination=private_parties&promotion=private_parties  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://latavernaitaliancuisine.org/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  document locked (overflow hidden) with 12860px of content and no inner scroller
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  13 of 98 tap targets under 24px: button.close 19x34, a 22x22, a 22x22, a 22x22, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://latavernaitaliancuisine.org/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  12 of 96 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://latavernaitaliancuisine.org/food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+
+https://latavernaitaliancuisine.org/food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://knollas-pizza.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  15 of 91 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://knollas-pizza.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 8328px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  16 of 93 tap targets under 24px: button.close 24x34, a 22x22, a 22x22, a 22x22, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://knollas-pizza.com/-food-menu?source=header&spot_id=377982&destination=food_menu&promotion=taco_day  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://knollas-pizza.com/730060 answers 404
+
+https://knollas-pizza.com/-food-menu?source=header&spot_id=377982&destination=food_menu&promotion=taco_day  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://www.wafrost.com/  [iphone]
+  WARN  10 of 34 tap targets under 24px: a 148x21, a 218x21, a.text-style-link 111x20, a.text-style-link 73x20, a.footer_bottom_nav-item 167x20
+
+https://www.wafrost.com/  [android]
+  WARN  10 of 34 tap targets under 24px: a 148x20, a 218x20, a.text-style-link 111x21, a.text-style-link 73x21, a.footer_bottom_nav-item 167x20
+
+https://www.wafrost.com/menus  [iphone]
+  WARN  10 of 28 tap targets under 24px: a 148x21, a 218x21, a.text-style-link 111x20, a.text-style-link 73x20, a.footer_bottom_nav-item 167x20
+  WARN  1 text elements under 12px: div.menu_updated-tag 10.4px
+
+https://www.wafrost.com/menus  [android]
+  WARN  10 of 28 tap targets under 24px: a 148x20, a 218x20, a.text-style-link 111x21, a.text-style-link 73x21, a.footer_bottom_nav-item 167x20
+  WARN  1 text elements under 12px: div.menu_updated-tag 10.4px
+
+https://www.memorylanes.com/  [iphone]
+  WARN  13 of 25 tap targets under 24px: a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14
+  WARN  1 text elements under 12px: span.copyright 11px
+
+https://www.memorylanes.com/  [android]
+  WARN  13 of 25 tap targets under 24px: a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14
+  WARN  1 text elements under 12px: span.copyright 11px
+
+https://www.memorylanes.com/open-bowling-schedule/  [iphone]
+  WARN  4 of 6 tap targets under 24px: a 148x18, a 300x18, a 300x18, a 300x18
+  WARN  1 text elements under 12px: span.copyright 11px
+
+https://www.memorylanes.com/open-bowling-schedule/  [android]
+  WARN  4 of 6 tap targets under 24px: a 148x18, a 300x18, a 300x18, a 300x18
+  WARN  1 text elements under 12px: span.copyright 11px
+
+https://www.marearestaurant.com/new-york  [iphone]
+  FAIL  pageerror: Can't find variable: txnId
+  WARN  fixed layer div#16caPTSAIPbuEgZp2usmo.popup covers 100% of the screen
+  WARN  72 of 91 tap targets under 24px: a.navbar_menu-button 30x22, div.w-slider-dot 17x17, div.w-slider-dot 4x4, div.w-slider-dot 4x4, div.w-slider-dot 4x4
+
+https://www.marearestaurant.com/new-york  [android]
+  FAIL  pageerror: txnId is not defined
+  WARN  71 of 81 tap targets under 24px: div.w-slider-dot 17x17, div.w-slider-dot 4x4, div.w-slider-dot 4x4, div.w-slider-dot 4x4, div.w-slider-dot 4x4
+
+https://www.marearestaurant.com/new-york/menu  [iphone]
+  FAIL  pageerror: Can't find variable: txnId
+  WARN  74 of 84 tap targets under 24px: a.navbar_menu-button 30x22, div.w-slider-dot 17x17, div.w-slider-dot 4x4, div.w-slider-dot 4x4, div.w-slider-dot 4x4
+
+https://www.marearestaurant.com/new-york/menu  [android]
+  FAIL  pageerror: txnId is not defined
+  WARN  74 of 85 tap targets under 24px: a.navbar_menu-button 30x22, div.w-slider-dot 17x17, div.w-slider-dot 4x4, div.w-slider-dot 4x4, div.w-slider-dot 4x4
+
+https://www.ticktockdinerny.com/  [iphone]
+  WARN  broken image: https://www.ticktockdinerny.com/
+  WARN  broken image: https://www.ticktockdinerny.com/
+  WARN  13 of 39 tap targets under 24px: a 233x21, button#yui_3_17_2_1_1791322100670_940 14x14, button 43x14, button#yui_3_17_2_1_1791322100670_930.gm-style-cc 96x14, a 30x12
+  WARN  8 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.ticktockdinerny.com/  [android]
+  WARN  broken image: https://www.ticktockdinerny.com/
+  WARN  broken image: https://www.ticktockdinerny.com/
+  WARN  13 of 39 tap targets under 24px: a 233x21, button#yui_3_17_2_1_1791322113344_962 14x14, button 43x14, button#yui_3_17_2_1_1791322113344_952.gm-style-cc 96x14, a 30x11
+  WARN  8 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.ticktockdinerny.com/welcome  [iphone]
+  WARN  broken image: https://www.ticktockdinerny.com/welcome
+  WARN  broken image: https://www.ticktockdinerny.com/welcome
+  WARN  13 of 39 tap targets under 24px: a 233x21, button#yui_3_17_2_1_1791322133215_916 14x14, button 43x14, button#yui_3_17_2_1_1791322133215_906.gm-style-cc 96x14, a 30x12
+  WARN  8 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.ticktockdinerny.com/welcome  [android]
+  WARN  broken image: https://www.ticktockdinerny.com/welcome
+  WARN  broken image: https://www.ticktockdinerny.com/welcome
+  WARN  13 of 39 tap targets under 24px: a 233x21, button#yui_3_17_2_1_1791322140719_928 14x14, button 43x14, button#yui_3_17_2_1_1791322140719_918.gm-style-cc 96x14, a 30x11
+  WARN  8 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.shampooavenueb.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650
+  WARN  fixed layer div.cky-consent-container covers 57% of the screen
+  WARN  29 of 52 tap targets under 24px: a.cky-policy 87x18, a 78x13, a 222x22, a 220x20, a 200x20
+
+https://www.shampooavenueb.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  28 of 52 tap targets under 24px: a.cky-policy 87x18, a 78x13, a 222x22, a 220x20, a 200x20
+
+https://www.shampooavenueb.com/booking/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=650
+  WARN  fixed layer div.cky-consent-container covers 57% of the screen
+  WARN  27 of 42 tap targets under 24px: a.cky-policy 87x18, a 78x13, a 222x22, a 220x20, a.tel-link 82x14
+
+https://www.shampooavenueb.com/booking/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div#ckyPreferenceCenter.cky-preference-center right=649
+  WARN  fixed layer div.cky-consent-container covers 52% of the screen
+  WARN  26 of 42 tap targets under 24px: a.cky-policy 87x18, a 78x13, a 222x22, a 220x20, a.tel-link 82x14
+
+https://fathersoffice.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): p right=396, div.grecaptcha-badge right=576
+  FAIL  dead link: https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/father%E2%80%99s-office answers 404
+  FAIL  dead link: http://draftmag.com/10-burger-and-beer-beacons/ answers 404
+  FAIL  dead link: https://www.usatoday.com/story/travel/destinations/10greatplaces/2015/09/03/hamburgers/71642846/ answers 402
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 29 tap targets under 24px: a 163x18, button.c-toggle-menu 18x63, a 89x21, a 81x21, a 112x22
+  WARN  10 text elements under 12px: p 11.9px, p.o-p 11.9px, p 11.9px, a 11.9px
+
+https://fathersoffice.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): p right=399, div.grecaptcha-badge right=579
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 29 tap targets under 24px: a 163x18, button.c-toggle-menu 18x63, a 89x21, a 81x21, a 112x22
+  WARN  10 text elements under 12px: p 11.9px, p.o-p 11.9px, p 11.9px, a 11.9px
+
+https://fathersoffice.com/menus/culver-city/  [iphone]
+  FAIL  iOS zoom trap: select#fo_menu_select at 11px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): p right=396, div.grecaptcha-badge right=576
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  8 of 15 tap targets under 24px: a 163x18, button.c-toggle-menu 18x63, a.o-h2 80x20, a.o-h2 93x20, select#fo_menu_select 236x18
+  WARN  266 text elements under 12px: p 11.9px, p 11.9px, p.c-dish__info 11.9px, p.c-dish__info 11.9px
+
+https://fathersoffice.com/menus/culver-city/  [android]
+  FAIL  iOS zoom trap: select#fo_menu_select at 12.6px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): p right=399, div.grecaptcha-badge right=579
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  7 of 15 tap targets under 24px: a 163x18, button.c-toggle-menu 18x63, a.o-h2 80x20, a.o-h2 93x20, a 112x22
+  WARN  266 text elements under 12px: p 11.9px, p 11.9px, p.c-dish__info 11.9px, p.c-dish__info 11.9px
+
+https://www.volarerestaurant.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  8 of 22 tap targets under 24px: a 31x18, button 14x14, button.gm-style-cc 75x14, a 31x12, a 98x17
+  WARN  6 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span 10px
+
+https://www.volarerestaurant.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786
+  WARN  8 of 22 tap targets under 24px: a 31x19, button 14x14, button.gm-style-cc 75x14, a 31x11, a 97x17
+  WARN  6 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span 10px
+
+https://www.volarerestaurant.com/gift-card  [iphone]
+  FAIL  iOS zoom trap: select#select-yui_3_17_2_1_1607013655653_43051-field.WRQLXcvkXgAPo369 at 14.4064px (needs 16px on touch)
+  FAIL  iOS zoom trap: select#address-yui_3_17_2_1_1607013655653_44137-country-field.WRQLXcvkXgAPo369 at 14.4064px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780
+  WARN  wrong phone keyboard: email field 'Please let us know if you should contact' (textarea#textarea-yui_3_17_2_1_1607013799971_8321-field.qj2U4ppWTRohr5rP) is type=textarea, needs type=email
+  WARN  autofill disabled: email field 'Email(required)' (input#email-yui_3_17_2_1_1607013799971_8319-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  autofill disabled: card field 'GIFT CARD INQUIRY' (input#text-yui_3_17_2_1_1607013799971_8320-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  8 of 32 tap targets under 24px: a 31x18, input.wIoTXuBC0lMFtpfY 16x16, input.wIoTXuBC0lMFtpfY 16x16, input#message-field.ngonnDl0lqs7ZArA 22x43, a 98x17
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.volarerestaurant.com/gift-card  [android]
+  FAIL  iOS zoom trap: select#select-yui_3_17_2_1_1607013655653_43051-field.WRQLXcvkXgAPo369 at 14.2552px (needs 16px on touch)
+  FAIL  iOS zoom trap: select#address-yui_3_17_2_1_1607013655653_44137-country-field.WRQLXcvkXgAPo369 at 14.2552px (needs 16px on touch)
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786
+  WARN  wrong phone keyboard: email field 'Please let us know if you should contact' (textarea#textarea-yui_3_17_2_1_1607013799971_8321-field.qj2U4ppWTRohr5rP) is type=textarea, needs type=email
+  WARN  autofill disabled: email field 'Email(required)' (input#email-yui_3_17_2_1_1607013799971_8319-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  autofill disabled: card field 'GIFT CARD INQUIRY' (input#text-yui_3_17_2_1_1607013799971_8320-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  8 of 32 tap targets under 24px: a 31x19, input.wIoTXuBC0lMFtpfY 16x16, input.wIoTXuBC0lMFtpfY 16x16, input#message-field.ngonnDl0lqs7ZArA 22x42, a 97x17
+  WARN  3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.thepublicanrestaurant.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  1 of 21 tap targets under 24px: a.site-location__address 356x22
+
+https://www.thepublicanrestaurant.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  1 of 21 tap targets under 24px: a.site-location__address 359x22
+
+https://www.thepublicanrestaurant.com/menus/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  1 of 23 tap targets under 24px: a.site-location__address 356x22
+
+https://www.thepublicanrestaurant.com/menus/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  1 of 23 tap targets under 24px: a.site-location__address 359x22
+
+https://kiranshouston.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.mobileFullNav right=780, div.navContent right=780, a.navClose right=760, span.navIcon right=760, svg right=753, ul#navTopLevel right=780
+  WARN  wrong phone keyboard: email field 'Email address' (input) is type=text, needs type=email
+  WARN  fixed layer div.jt-dimmer covers 100% of the screen
+  WARN  4 of 17 tap targets under 24px: a.feed-powered-by-es 319x20, a 137x24, a 133x24, a 116x17
+
+https://kiranshouston.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.mobileFullNav right=786, div.navContent right=786, a.navClose right=766, span.navIcon right=766, svg right=759, ul#navTopLevel right=786
+  WARN  wrong phone keyboard: email field 'Email address' (input) is type=text, needs type=email
+  WARN  fixed layer div.jt-dimmer covers 100% of the screen
+  WARN  2 of 17 tap targets under 24px: a.feed-powered-by-es 322x20, a 117x17
+
+https://kiranshouston.com/menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.mobileFullNav right=780, div.navContent right=780, a.navClose right=760, span.navIcon right=760, svg right=753, ul#navTopLevel right=780
+  WARN  wrong phone keyboard: email field 'Email address' (input) is type=text, needs type=email
+  WARN  3 of 19 tap targets under 24px: a 137x24, a 133x24, a 116x17
+
+https://kiranshouston.com/menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.mobileFullNav right=786, div.navContent right=786, a.navClose right=766, span.navIcon right=766, svg right=759, ul#navTopLevel right=786
+  WARN  wrong phone keyboard: email field 'Email address' (input) is type=text, needs type=email
+  WARN  1 of 19 tap targets under 24px: a 117x17
+
+60 page-device rows, 32 FAIL findings

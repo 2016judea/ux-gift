@@ -1,0 +1,9 @@
+2026-10-06T21:47:42Z 404 https://www.cafelatte.com/gift-cards
+2026-10-06T21:47:42Z 404 https://www.cafelatte.com/new-page
+2026-10-06T21:47:42Z 404 https://www.cafelatte.com/services
+2026-10-06T21:47:43Z 404 https://www.cafelatte.com/cafe-events
+2026-10-06T21:47:43Z 404 https://www.cafelatte.com/about
+2026-10-06T21:47:43Z 404 https://www.cafelatte.com/contact
+2026-10-06T21:47:44Z 200 https://www.cafelatte.com/orderonline
+2026-10-06T21:47:44Z 200 https://www.cafelatte.com/dailymenu
+2026-10-06T21:47:44Z 200 https://www.cafelatte.com/contact-hours

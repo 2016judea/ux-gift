@@ -1,0 +1,20 @@
+To: info@oneifbyland.com
+Subject: TODO
+Attach: drafts/one-if-by-land/1-menus-page-slides-sideways.png
+
+I ran UX testing on your website.
+
+#1) On your Menus page there is a bug on iPhone where the page slides sideways. The menu cards hang off the right edge of the screen and the ones on the left get cut off.
+The menu card grid (div.collection-item-2) lays out about 560px wide on a 390px-wide phone screen, and nothing clips it.
+Recommend to your developer that they constrain the width of the menu card grid on mobile.
+
+Forward this email to your website/developer to have them fix the above. 
+
+This was free of charge. No catch. But if interested we do also offer:
+ 
+  - More thorough testing -- $100
+  - Brand / website re-designs -- $500
+  - Anything else you can think of -- Ask me for a quote
+
+Thank you,
+Aidan.

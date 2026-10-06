@@ -1,0 +1,762 @@
+[
+ {
+  "url": "https://hellskitcheninc.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 5957,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=780",
+   "div.header-menu-nav-folder right=780",
+   "div.header-menu-nav-folder right=780",
+   "div.header-menu-nav-folder right=780",
+   "div.grecaptcha-badge right=576"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791321973825_571.yui3-widget",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 37,
+  "small": 20,
+  "smallList": [
+   "a 301x19",
+   "a 253x22",
+   "a 142x22",
+   "a 112x22",
+   "a 105x19"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.black-bold",
+  "textLen": 2331,
+  "fields": [
+   {
+    "el": "input#email-yui_3_17_2_1_1786128448129_13799-field.newsletter-form-field-element",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": "email",
+    "inputmode": null,
+    "hint": "Email Address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Day Menu",
+    "href": "https://hellskitcheninc.com/day"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://hellskitcheninc.com/dinner"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://hellskitcheninc.com/dessert"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://hellskitcheninc.com/gift-cards"
+   },
+   {
+    "text": "Day Menu",
+    "href": "https://hellskitcheninc.com/day"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://hellskitcheninc.com/dinner"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://hellskitcheninc.com/dessert"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://hellskitcheninc.com/gift-cards"
+   },
+   {
+    "text": "Folder: MENUS",
+    "href": "https://hellskitcheninc.com/menus"
+   },
+   {
+    "text": "Folder: ORDER",
+    "href": "https://hellskitcheninc.com/new-dropdown"
+   },
+   {
+    "text": "Folder: SHOP",
+    "href": "https://hellskitcheninc.com/shop"
+   },
+   {
+    "text": "Folder: RESERVATIONS",
+    "href": "https://hellskitcheninc.com/reservations"
+   }
+  ],
+  "allLinks": [
+   "https://hellskitcheninc.com/cart",
+   "https://hellskitcheninc.com/shop-hk-retail",
+   "https://hellskitcheninc.com/#page",
+   "https://hellskitcheninc.com/",
+   "https://hellskitcheninc.com/brunch",
+   "https://hellskitcheninc.com/day",
+   "https://hellskitcheninc.com/dinner",
+   "https://hellskitcheninc.com/dessert",
+   "https://hellskitcheninc.com/drinks",
+   "https://hellskitcheninc.com/happy-hour",
+   "https://hellskitcheninc.com/delivery",
+   "https://hellskitcheninc.com/catering-information",
+   "https://hellskitcheninc.com/gift-cards",
+   "https://hellskitcheninc.com/1-8-guests",
+   "https://hellskitcheninc.com/9-20-guests",
+   "https://hellskitcheninc.com/21-or-more-guests",
+   "https://hellskitcheninc.com/private-event-info",
+   "https://hellskitcheninc.com/new-events",
+   "https://hellskitcheninc.com/#",
+   "https://hellskitcheninc.com/menus",
+   "https://hellskitcheninc.com/new-dropdown",
+   "https://hellskitcheninc.com/shop",
+   "https://hellskitcheninc.com/reservations",
+   "https://hellskitcheninc.com/bloody-mary-bar",
+   "https://maps.app.goo.gl/aCRXjCZMiZes7wEr5",
+   "https://www.facebook.com/HellsKitchenMpls/",
+   "http://instagram.com/HellsKitchenMN",
+   "https://www.tiktok.com/@hellskitchenmn",
+   "https://hellskitcheninc.cardfoundry.com/giftcards/card_balance",
+   "https://hellskitcheninc.com/jobs-work-with-us",
+   "https://hellskitcheninc.com/faqs",
+   "https://hellskitcheninc.com/awards",
+   "https://hellskitcheninc.com/accessibility",
+   "https://hellskitcheninc.com/privacy",
+   "https://hellskitcheninc.com/terms-of-use",
+   "https://www.google.com/maps/place/Hell's+Kitchen+Inc./@44.97479,-93.2756008,17z/data=!3m1!5s0x52b33297034c9397:0xc014f19134310052!4m8!3m7!1s0x52b332970f3ac4a5:0x483914bd7d198918!8m2!3d44.9747862!4d-93.2730205!9m1!1b1!16s%2Fg%2F1thhk4jr?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D",
+   "https://drive.google.com/drive/folders/1PXsFZoGVArDvhQFxoo1hMoi1rSH5ajS9",
+   "https://hellskitcheninc.com/return-policy",
+   "https://hellskitcheninc.com/stories-from-hell"
+  ],
+  "weight": 55580,
+  "title": "Hell's Kitchen Minneapolis",
+  "roundtrip": {
+   "atBottom": {
+    "y": 5279,
+    "inner": 5
+   },
+   "backY": 5273,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-hellskitcheninc-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "console: Credentials flag is true, but Access-Control-Allow-Credentials is not \"true\".",
+   "console: Beacon API cannot load https://www.opentable.com/dapi/fe/log. Credentials flag is true, but Access-Control-Allow-Credentials is not \"true\".",
+   "console: Failed to load resource: Credentials flag is true, but Access-Control-Allow-Credentials is not \"true\".",
+   "pageerror: ResizeObserver loop completed with undelivered notifications."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.grecaptcha-badge right=576"
+   ],
+   [
+    "FAIL",
+    "pageerror: ResizeObserver loop completed with undelivered notifications."
+   ],
+   [
+    "WARN",
+    "20 of 37 tap targets under 24px: a 301x19, a 253x22, a 142x22, a 112x22, a 105x19"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5957px tall"
+   ]
+  ],
+  "site": "https://hellskitcheninc.com/",
+  "hop": "https://hellskitcheninc.com/day"
+ },
+ {
+  "url": "https://hellskitcheninc.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.2,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 5864,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=786",
+   "div.header-menu-nav-folder right=786",
+   "div.header-menu-nav-folder right=786",
+   "div.header-menu-nav-folder right=786",
+   "div.grecaptcha-badge right=579"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791321984358_568.yui3-widget",
+    "pos": "fixed",
+    "cover": 9
+   }
+  ],
+  "targets": 36,
+  "small": 20,
+  "smallList": [
+   "a 301x19",
+   "a 256x22",
+   "a 143x22",
+   "a 113x22",
+   "a 105x19"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.black-bold",
+  "textLen": 2279,
+  "fields": [
+   {
+    "el": "input#email-yui_3_17_2_1_1786128448129_13799-field.newsletter-form-field-element",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": "email",
+    "inputmode": null,
+    "hint": "Email Address"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Day Menu",
+    "href": "https://hellskitcheninc.com/day"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://hellskitcheninc.com/dinner"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://hellskitcheninc.com/dessert"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://hellskitcheninc.com/gift-cards"
+   },
+   {
+    "text": "Day Menu",
+    "href": "https://hellskitcheninc.com/day"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://hellskitcheninc.com/dinner"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://hellskitcheninc.com/dessert"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://hellskitcheninc.com/gift-cards"
+   },
+   {
+    "text": "Folder: MENUS",
+    "href": "https://hellskitcheninc.com/menus"
+   },
+   {
+    "text": "Folder: ORDER",
+    "href": "https://hellskitcheninc.com/new-dropdown"
+   },
+   {
+    "text": "Folder: SHOP",
+    "href": "https://hellskitcheninc.com/shop"
+   },
+   {
+    "text": "Folder: RESERVATIONS",
+    "href": "https://hellskitcheninc.com/reservations"
+   }
+  ],
+  "allLinks": [
+   "https://hellskitcheninc.com/cart",
+   "https://hellskitcheninc.com/shop-hk-retail",
+   "https://hellskitcheninc.com/#page",
+   "https://hellskitcheninc.com/",
+   "https://hellskitcheninc.com/brunch",
+   "https://hellskitcheninc.com/day",
+   "https://hellskitcheninc.com/dinner",
+   "https://hellskitcheninc.com/dessert",
+   "https://hellskitcheninc.com/drinks",
+   "https://hellskitcheninc.com/happy-hour",
+   "https://hellskitcheninc.com/delivery",
+   "https://hellskitcheninc.com/catering-information",
+   "https://hellskitcheninc.com/gift-cards",
+   "https://hellskitcheninc.com/1-8-guests",
+   "https://hellskitcheninc.com/9-20-guests",
+   "https://hellskitcheninc.com/21-or-more-guests",
+   "https://hellskitcheninc.com/private-event-info",
+   "https://hellskitcheninc.com/new-events",
+   "https://hellskitcheninc.com/#",
+   "https://hellskitcheninc.com/menus",
+   "https://hellskitcheninc.com/new-dropdown",
+   "https://hellskitcheninc.com/shop",
+   "https://hellskitcheninc.com/reservations",
+   "https://hellskitcheninc.com/bloody-mary-bar",
+   "https://maps.app.goo.gl/aCRXjCZMiZes7wEr5",
+   "https://www.facebook.com/HellsKitchenMpls/",
+   "http://instagram.com/HellsKitchenMN",
+   "https://www.tiktok.com/@hellskitchenmn",
+   "https://hellskitcheninc.cardfoundry.com/giftcards/card_balance",
+   "https://hellskitcheninc.com/jobs-work-with-us",
+   "https://hellskitcheninc.com/faqs",
+   "https://hellskitcheninc.com/awards",
+   "https://hellskitcheninc.com/accessibility",
+   "https://hellskitcheninc.com/privacy",
+   "https://hellskitcheninc.com/terms-of-use",
+   "https://www.google.com/maps/place/Hell's+Kitchen+Inc./@44.97479,-93.2756008,17z/data=!3m1!5s0x52b33297034c9397:0xc014f19134310052!4m8!3m7!1s0x52b332970f3ac4a5:0x483914bd7d198918!8m2!3d44.9747862!4d-93.2730205!9m1!1b1!16s%2Fg%2F1thhk4jr?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D",
+   "https://drive.google.com/drive/folders/1PXsFZoGVArDvhQFxoo1hMoi1rSH5ajS9",
+   "https://hellskitcheninc.com/return-policy",
+   "https://hellskitcheninc.com/stories-from-hell"
+  ],
+  "weight": 55526,
+  "title": "Hell's Kitchen Minneapolis",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1221,
+    "inner": null
+   },
+   "backY": 364,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+   "console: requestStorageAccess: Permission denied."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.grecaptcha-badge right=579"
+   ],
+   [
+    "WARN",
+    "20 of 36 tap targets under 24px: a 301x19, a 256x22, a 143x22, a 113x22, a 105x19"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "console: Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR"
+   ],
+   [
+    "INFO",
+    "document scrolls, 5864px tall"
+   ]
+  ],
+  "site": "https://hellskitcheninc.com/"
+ },
+ {
+  "url": "https://hellskitcheninc.com/day",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.3,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 12364,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=780",
+   "div.header-menu-nav-folder right=780",
+   "div.header-menu-nav-folder right=780",
+   "div.header-menu-nav-folder right=780"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791321988067_380.yui3-widget",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 31,
+  "small": 16,
+  "smallList": [
+   "a 211x19",
+   "a 164x22",
+   "a 78x22",
+   "a 31x22",
+   "a 97x22"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.black",
+  "textLen": 11954,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Day Menu",
+    "href": "https://hellskitcheninc.com/day"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://hellskitcheninc.com/dinner"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://hellskitcheninc.com/dessert"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://hellskitcheninc.com/gift-cards"
+   },
+   {
+    "text": "Day Menu",
+    "href": "https://hellskitcheninc.com/day"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://hellskitcheninc.com/dinner"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://hellskitcheninc.com/dessert"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://hellskitcheninc.com/gift-cards"
+   },
+   {
+    "text": "Folder: MENUS",
+    "href": "https://hellskitcheninc.com/menus"
+   },
+   {
+    "text": "Folder: ORDER",
+    "href": "https://hellskitcheninc.com/new-dropdown"
+   },
+   {
+    "text": "Folder: SHOP",
+    "href": "https://hellskitcheninc.com/shop"
+   },
+   {
+    "text": "Folder: RESERVATIONS",
+    "href": "https://hellskitcheninc.com/reservations"
+   }
+  ],
+  "allLinks": [
+   "https://hellskitcheninc.com/cart",
+   "https://hellskitcheninc.com/shop-hk-retail",
+   "https://hellskitcheninc.com/day#page",
+   "https://hellskitcheninc.com/",
+   "https://hellskitcheninc.com/brunch",
+   "https://hellskitcheninc.com/day",
+   "https://hellskitcheninc.com/dinner",
+   "https://hellskitcheninc.com/dessert",
+   "https://hellskitcheninc.com/drinks",
+   "https://hellskitcheninc.com/happy-hour",
+   "https://hellskitcheninc.com/delivery",
+   "https://hellskitcheninc.com/catering-information",
+   "https://hellskitcheninc.com/gift-cards",
+   "https://hellskitcheninc.com/1-8-guests",
+   "https://hellskitcheninc.com/9-20-guests",
+   "https://hellskitcheninc.com/21-or-more-guests",
+   "https://hellskitcheninc.com/private-event-info",
+   "https://hellskitcheninc.com/new-events",
+   "https://hellskitcheninc.com/day#",
+   "https://hellskitcheninc.com/menus",
+   "https://hellskitcheninc.com/new-dropdown",
+   "https://hellskitcheninc.com/shop",
+   "https://hellskitcheninc.com/reservations",
+   "https://hellskitcheninc.com/s/2026-Midway-Menu-AM-1-s5td.pdf",
+   "https://hellskitcheninc.com/day#top",
+   "https://www.facebook.com/HellsKitchenMpls/",
+   "http://instagram.com/HellsKitchenMN",
+   "https://www.tiktok.com/@hellskitchenmn",
+   "https://hellskitcheninc.cardfoundry.com/giftcards/card_balance",
+   "https://hellskitcheninc.com/jobs-work-with-us",
+   "https://hellskitcheninc.com/faqs",
+   "https://hellskitcheninc.com/awards",
+   "https://hellskitcheninc.com/accessibility",
+   "https://hellskitcheninc.com/privacy",
+   "https://hellskitcheninc.com/terms-of-use",
+   "https://www.google.com/maps/place/Hell's+Kitchen+Inc./@44.97479,-93.2756008,17z/data=!3m1!5s0x52b33297034c9397:0xc014f19134310052!4m8!3m7!1s0x52b332970f3ac4a5:0x483914bd7d198918!8m2!3d44.9747862!4d-93.2730205!9m1!1b1!16s%2Fg%2F1thhk4jr?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D",
+   "https://drive.google.com/drive/folders/1PXsFZoGVArDvhQFxoo1hMoi1rSH5ajS9",
+   "https://hellskitcheninc.com/return-policy",
+   "https://hellskitcheninc.com/stories-from-hell"
+  ],
+  "weight": 54397,
+  "title": "Hell's Kitchen Minneapolis \u2014 Breakfast and Lunch Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 11700,
+    "inner": 10
+   },
+   "backY": 50,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://hellskitcheninc.com/s/2026-Midway-Menu-AM-1-s5td.pdf",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-hellskitcheninc-com-day.png",
+  "errors": [
+   "pageerror: ResizeObserver loop completed with undelivered notifications.",
+   "pageerror: ResizeObserver loop completed with undelivered notifications."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780"
+   ],
+   [
+    "FAIL",
+    "dead link: https://hellskitcheninc.com/s/2026-Midway-Menu-AM-1-s5td.pdf answers 404"
+   ],
+   [
+    "FAIL",
+    "pageerror: ResizeObserver loop completed with undelivered notifications."
+   ],
+   [
+    "WARN",
+    "16 of 31 tap targets under 24px: a 211x19, a 164x22, a 78x22, a 31x22, a 97x22"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 12364px tall"
+   ]
+  ],
+  "site": "https://hellskitcheninc.com/"
+ },
+ {
+  "url": "https://hellskitcheninc.com/day",
+  "device": "android",
+  "status": 200,
+  "load_s": 2.1,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 12482,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=786",
+   "div.header-menu-nav-folder right=786",
+   "div.header-menu-nav-folder right=786",
+   "div.header-menu-nav-folder right=786"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791321997701_417.yui3-widget",
+    "pos": "fixed",
+    "cover": 9
+   }
+  ],
+  "targets": 30,
+  "small": 16,
+  "smallList": [
+   "a 211x19",
+   "a 163x21",
+   "a 77x21",
+   "a 31x21",
+   "a 95x21"
+  ],
+  "tiny": 4,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.black",
+  "textLen": 11970,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "Day Menu",
+    "href": "https://hellskitcheninc.com/day"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://hellskitcheninc.com/dinner"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://hellskitcheninc.com/dessert"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://hellskitcheninc.com/gift-cards"
+   },
+   {
+    "text": "Day Menu",
+    "href": "https://hellskitcheninc.com/day"
+   },
+   {
+    "text": "Dinner Menu",
+    "href": "https://hellskitcheninc.com/dinner"
+   },
+   {
+    "text": "Dessert Menu",
+    "href": "https://hellskitcheninc.com/dessert"
+   },
+   {
+    "text": "Gift Cards",
+    "href": "https://hellskitcheninc.com/gift-cards"
+   },
+   {
+    "text": "Folder: MENUS",
+    "href": "https://hellskitcheninc.com/menus"
+   },
+   {
+    "text": "Folder: ORDER",
+    "href": "https://hellskitcheninc.com/new-dropdown"
+   },
+   {
+    "text": "Folder: SHOP",
+    "href": "https://hellskitcheninc.com/shop"
+   },
+   {
+    "text": "Folder: RESERVATIONS",
+    "href": "https://hellskitcheninc.com/reservations"
+   }
+  ],
+  "allLinks": [
+   "https://hellskitcheninc.com/cart",
+   "https://hellskitcheninc.com/shop-hk-retail",
+   "https://hellskitcheninc.com/day#page",
+   "https://hellskitcheninc.com/",
+   "https://hellskitcheninc.com/brunch",
+   "https://hellskitcheninc.com/day",
+   "https://hellskitcheninc.com/dinner",
+   "https://hellskitcheninc.com/dessert",
+   "https://hellskitcheninc.com/drinks",
+   "https://hellskitcheninc.com/happy-hour",
+   "https://hellskitcheninc.com/delivery",
+   "https://hellskitcheninc.com/catering-information",
+   "https://hellskitcheninc.com/gift-cards",
+   "https://hellskitcheninc.com/1-8-guests",
+   "https://hellskitcheninc.com/9-20-guests",
+   "https://hellskitcheninc.com/21-or-more-guests",
+   "https://hellskitcheninc.com/private-event-info",
+   "https://hellskitcheninc.com/new-events",
+   "https://hellskitcheninc.com/day#",
+   "https://hellskitcheninc.com/menus",
+   "https://hellskitcheninc.com/new-dropdown",
+   "https://hellskitcheninc.com/shop",
+   "https://hellskitcheninc.com/reservations",
+   "https://hellskitcheninc.com/s/2026-Midway-Menu-AM-1-s5td.pdf",
+   "https://hellskitcheninc.com/day#top",
+   "https://www.facebook.com/HellsKitchenMpls/",
+   "http://instagram.com/HellsKitchenMN",
+   "https://www.tiktok.com/@hellskitchenmn",
+   "https://hellskitcheninc.cardfoundry.com/giftcards/card_balance",
+   "https://hellskitcheninc.com/jobs-work-with-us",
+   "https://hellskitcheninc.com/faqs",
+   "https://hellskitcheninc.com/awards",
+   "https://hellskitcheninc.com/accessibility",
+   "https://hellskitcheninc.com/privacy",
+   "https://hellskitcheninc.com/terms-of-use",
+   "https://www.google.com/maps/place/Hell's+Kitchen+Inc./@44.97479,-93.2756008,17z/data=!3m1!5s0x52b33297034c9397:0xc014f19134310052!4m8!3m7!1s0x52b332970f3ac4a5:0x483914bd7d198918!8m2!3d44.9747862!4d-93.2730205!9m1!1b1!16s%2Fg%2F1thhk4jr?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D",
+   "https://drive.google.com/drive/folders/1PXsFZoGVArDvhQFxoo1hMoi1rSH5ajS9",
+   "https://hellskitcheninc.com/return-policy",
+   "https://hellskitcheninc.com/stories-from-hell"
+  ],
+  "weight": 54343,
+  "title": "Hell's Kitchen Minneapolis \u2014 Breakfast and Lunch Menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1341,
+    "inner": null
+   },
+   "backY": 403,
+   "backInner": null,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786"
+   ],
+   [
+    "WARN",
+    "16 of 30 tap targets under 24px: a 211x19, a 163x21, a 77x21, a 31x21, a 95x21"
+   ],
+   [
+    "WARN",
+    "4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 12482px tall"
+   ]
+  ],
+  "site": "https://hellskitcheninc.com/"
+ }
+]

@@ -1,0 +1,323 @@
+WARN iphone  https://snobcharleston.com/
+WARN android https://snobcharleston.com/
+FAIL iphone  https://snobcharleston.com/charleston-french-quarter-slightly-north-of-broad-menus
+WARN android https://snobcharleston.com/charleston-french-quarter-slightly-north-of-broad-menus
+WARN iphone  https://www.prohibitioncharleston.com/
+WARN android https://www.prohibitioncharleston.com/
+FAIL iphone  https://www.prohibitioncharleston.com/bottle-service
+FAIL android https://www.prohibitioncharleston.com/bottle-service
+FAIL iphone  https://therapyhairsalons.com/
+FAIL android https://therapyhairsalons.com/
+FAIL iphone  https://therapyhairsalons.com/book-online/
+FAIL android https://therapyhairsalons.com/book-online/
+WARN iphone  https://ansonrestaurant.com/
+WARN android https://ansonrestaurant.com/
+WARN iphone  https://ansonrestaurant.com/reservations-1
+WARN android https://ansonrestaurant.com/reservations-1
+FAIL iphone  https://www.gratefulbrewgvl.com/
+WARN android https://www.gratefulbrewgvl.com/
+ok   iphone  https://www.gratefulbrewgvl.com/shop
+WARN android https://www.gratefulbrewgvl.com/shop
+WARN iphone  https://www.milkfloat.com/
+WARN android https://www.milkfloat.com/
+WARN iphone  https://www.milkfloat.com/cart
+WARN android https://www.milkfloat.com/cart
+WARN iphone  https://midtownglobalmarket.org/
+WARN android https://midtownglobalmarket.org/
+WARN iphone  https://midtownglobalmarket.org/meeting-space
+WARN android https://midtownglobalmarket.org/meeting-space
+WARN iphone  https://www.elsies.com/
+WARN android https://www.elsies.com/
+WARN iphone  https://www.elsies.com/open-bowling-schedule/
+WARN android https://www.elsies.com/open-bowling-schedule/
+FAIL iphone  https://www.eastsidefood.coop/
+WARN android https://www.eastsidefood.coop/
+WARN iphone  https://www.eastsidefood.coop/deli
+WARN android https://www.eastsidefood.coop/deli
+WARN iphone  https://www.oneifbyland.com/
+WARN android https://www.oneifbyland.com/
+FAIL iphone  https://www.oneifbyland.com/menus
+WARN android https://www.oneifbyland.com/menus
+WARN iphone  https://www.venieros.com/
+WARN android https://www.venieros.com/
+WARN iphone  https://www.venieros.com/menus
+WARN android https://www.venieros.com/menus
+WARN iphone  https://www.farbarla.com/
+WARN android https://www.farbarla.com/
+FAIL iphone  https://firecakesdonuts.com/
+FAIL android https://firecakesdonuts.com/
+FAIL iphone  https://www.lulacafe.com/
+WARN android https://www.lulacafe.com/
+FAIL iphone  https://www.lulacafe.com/menus/
+WARN android https://www.lulacafe.com/menus/
+WARN iphone  https://www.rudyardshtx.com/
+WARN android https://www.rudyardshtx.com/
+WARN iphone  https://www.rudyardshtx.com/menu
+WARN android https://www.rudyardshtx.com/menu
+
+== findings (FAIL and WARN) ==
+
+https://snobcharleston.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  14 of 66 tap targets under 24px: a 22x22, a 22x22, button 15x15, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://snobcharleston.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  14 of 66 tap targets under 24px: a 22x22, a 22x22, button 15x15, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://snobcharleston.com/charleston-french-quarter-slightly-north-of-broad-menus  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://snobcharleston.com/991408 answers 404
+  FAIL  dead link: https://snobcharleston.com/842571 answers 404
+  FAIL  dead link: https://snobcharleston.com/842570 answers 404
+  FAIL  dead link: https://snobcharleston.com/842569 answers 404
+
+https://snobcharleston.com/charleston-french-quarter-slightly-north-of-broad-menus  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://www.prohibitioncharleston.com/  [iphone]
+  WARN  1 of 15 tap targets under 24px: a.link-2 157x16
+
+https://www.prohibitioncharleston.com/  [android]
+  WARN  1 of 14 tap targets under 24px: a.link-2 157x16
+
+https://www.prohibitioncharleston.com/bottle-service  [iphone]
+  FAIL  iOS zoom trap: input#name.input-field at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#email.input-field at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#Phone-Number.input-field at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#Date-of-Event.input-field at 14px (needs 16px on touch)
+  WARN  1 of 13 tap targets under 24px: a.link-2 157x16
+
+https://www.prohibitioncharleston.com/bottle-service  [android]
+  FAIL  iOS zoom trap: input#name.input-field at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#email.input-field at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#Phone-Number.input-field at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#Date-of-Event.input-field at 14px (needs 16px on touch)
+  WARN  1 of 13 tap targets under 24px: a.link-2 157x16
+
+https://therapyhairsalons.com/  [iphone]
+  FAIL  pageerror: Can't find variable: jQuery
+  WARN  44 of 86 tap targets under 24px: a 262x17, a 80x18, a 80x18, a 80x18, a 80x18
+  WARN  3 text elements under 12px: a 0px, a 0px, a 0px
+
+https://therapyhairsalons.com/  [android]
+  FAIL  pageerror: jQuery is not defined
+  WARN  44 of 86 tap targets under 24px: a 262x17, a 80x18, a 80x18, a 80x18, a 80x18
+  WARN  3 text elements under 12px: a 0px, a 0px, a 0px
+
+https://therapyhairsalons.com/book-online/  [iphone]
+  FAIL  pageerror: Can't find variable: jQuery
+  WARN  9 of 23 tap targets under 24px: a 262x17, a 55x18, a 146x18, a 149x18, a 73x18
+  WARN  3 text elements under 12px: a 0px, a 0px, a 0px
+
+https://therapyhairsalons.com/book-online/  [android]
+  FAIL  pageerror: jQuery is not defined
+  WARN  9 of 23 tap targets under 24px: a 262x17, a 55x18, a 146x18, a 149x18, a 73x18
+  WARN  3 text elements under 12px: a 0px, a 0px, a 0px
+
+https://ansonrestaurant.com/  [iphone]
+  WARN  viewport meta: initial-scale=1
+  WARN  2 of 24 tap targets under 24px: a.sqs-svg-icon--wrapper 20x20, a.sqs-svg-icon--wrapper 20x20
+  WARN  2 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://ansonrestaurant.com/  [android]
+  WARN  viewport meta: initial-scale=1
+  WARN  2 of 23 tap targets under 24px: a.sqs-svg-icon--wrapper 20x20, a.sqs-svg-icon--wrapper 20x20
+  WARN  2 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://ansonrestaurant.com/reservations-1  [iphone]
+  WARN  viewport meta: initial-scale=1
+  WARN  2 of 29 tap targets under 24px: a.sqs-svg-icon--wrapper 20x20, a.sqs-svg-icon--wrapper 20x20
+  WARN  2 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://ansonrestaurant.com/reservations-1  [android]
+  WARN  viewport meta: initial-scale=1
+  WARN  2 of 28 tap targets under 24px: a.sqs-svg-icon--wrapper 20x20, a.sqs-svg-icon--wrapper 20x20
+  WARN  2 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.gratefulbrewgvl.com/  [iphone]
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  5 of 33 tap targets under 24px: a 30x19, button 14x14, button 43x14, button.gm-style-cc 111x14, a 28x12
+  WARN  3 text elements under 12px: button 10px, span 10px, a 10px
+
+https://www.gratefulbrewgvl.com/  [android]
+  WARN  header at y=-397 after scrolling down and back up
+  WARN  5 of 33 tap targets under 24px: a 30x19, button 14x14, button 43x14, button.gm-style-cc 111x14, a 28x11
+  WARN  3 text elements under 12px: button 10px, span 10px, a 10px
+
+https://www.gratefulbrewgvl.com/shop  [android]
+  WARN  header at y=-78 after scrolling down and back up
+
+https://www.milkfloat.com/  [iphone]
+  WARN  broken image: https://static1.squarespace.com/static/583a704c37c581cc453590a5/t/61771fc032394f0474d9fab6/1635196864232/our-story.svg
+  WARN  broken image: https://static1.squarespace.com/static/583a704c37c581cc453590a5/t/61771fbaf816072883e9184c/1635196858908/gift-cards.svg
+  WARN  viewport meta: initial-scale=1
+  WARN  12 of 39 tap targets under 24px: a 78x20, a 111x20, a 50x21, a 99x21, a 99x21
+
+https://www.milkfloat.com/  [android]
+  WARN  broken image: https://static1.squarespace.com/static/583a704c37c581cc453590a5/t/61771fc032394f0474d9fab6/1635196864232/our-story.svg
+  WARN  broken image: https://static1.squarespace.com/static/583a704c37c581cc453590a5/t/61771fbaf816072883e9184c/1635196858908/gift-cards.svg
+  WARN  viewport meta: initial-scale=1
+  WARN  12 of 39 tap targets under 24px: a 78x20, a 111x20, a 50x21, a 99x21, a 99x21
+
+https://www.milkfloat.com/cart  [iphone]
+  WARN  viewport meta: initial-scale=1
+  WARN  10 of 20 tap targets under 24px: a 50x21, a 99x21, a 99x21, a 104x21, a 137x21
+
+https://www.milkfloat.com/cart  [android]
+  WARN  viewport meta: initial-scale=1
+  WARN  10 of 20 tap targets under 24px: a 50x21, a 99x21, a 99x21, a 104x21, a 137x21
+
+https://midtownglobalmarket.org/  [iphone]
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div#yui_3_17_2_1_1791321807390_785.yui3-widget covers 50% of the screen
+  WARN  16 of 58 tap targets under 24px: button.Mobile-bar-menu 61x16, a 91x21, a 83x21, a 99x21, a 82x21
+
+https://midtownglobalmarket.org/  [android]
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div#yui_3_17_2_1_1791321817478_845.yui3-widget covers 50% of the screen
+  WARN  16 of 58 tap targets under 24px: button.Mobile-bar-menu 61x16, a 91x21, a 83x21, a 99x21, a 82x21
+
+https://midtownglobalmarket.org/meeting-space  [iphone]
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div#yui_3_17_2_1_1791321820834_685.yui3-widget covers 50% of the screen
+  WARN  21 of 72 tap targets under 24px: button.Mobile-bar-menu 61x16, a 136x21, a.sqs-svg-icon--wrapper 20x20, a.sqs-svg-icon--wrapper 20x20, a.sqs-svg-icon--wrapper 20x20
+
+https://midtownglobalmarket.org/meeting-space  [android]
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div#yui_3_17_2_1_1791321837713_713.yui3-widget covers 50% of the screen
+  WARN  21 of 72 tap targets under 24px: button.Mobile-bar-menu 61x16, a 136x21, a.sqs-svg-icon--wrapper 20x20, a.sqs-svg-icon--wrapper 20x20, a.sqs-svg-icon--wrapper 20x20
+
+https://www.elsies.com/  [iphone]
+  WARN  17 of 30 tap targets under 24px: a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14
+  WARN  1 text elements under 12px: span.copyright 11px
+
+https://www.elsies.com/  [android]
+  WARN  17 of 30 tap targets under 24px: a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14, a.goto-slide 14x14
+  WARN  1 text elements under 12px: span.copyright 11px
+
+https://www.elsies.com/open-bowling-schedule/  [iphone]
+  WARN  4 of 6 tap targets under 24px: a 95x15, a 300x15, a 300x15, a 300x15
+  WARN  1 text elements under 12px: span.copyright 11px
+
+https://www.elsies.com/open-bowling-schedule/  [android]
+  WARN  4 of 6 tap targets under 24px: a 95x16, a 300x16, a 300x16, a 300x16
+  WARN  1 text elements under 12px: span.copyright 11px
+
+https://www.eastsidefood.coop/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div#multilingual-language-picker-mobile.header-menu-nav-folder right=780, div.grecaptcha-badge right=576
+  WARN  autofill disabled: email field 'Email(required)' (input#email-yui_3_17_2_1_1553888888520_3745-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  FAIL  pageerror: ResizeObserver loop completed with undelivered notifications.
+  WARN  header at y=-92 after scrolling down and back up
+  WARN  10 of 39 tap targets under 24px: input#plyr-seek-1834 323x14, a 177x22, a 177x22, span.summary-carousel-pager-prev 16x18, span.summary-carousel-pager-next 16x18
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.eastsidefood.coop/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div#multilingual-language-picker-mobile.header-menu-nav-folder right=786, div.grecaptcha-badge right=579
+  WARN  autofill disabled: email field 'Email(required)' (input#email-yui_3_17_2_1_1553888888520_3745-field.ngonnDl0lqs7ZArA) has autocomplete=false
+  WARN  header at y=-94 after scrolling down and back up
+  WARN  10 of 39 tap targets under 24px: input#plyr-seek-9857 326x14, a 171x23, a 171x23, span.summary-carousel-pager-prev 16x18, span.summary-carousel-pager-next 16x18
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.eastsidefood.coop/deli  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div#multilingual-language-picker-mobile.header-menu-nav-folder right=780, div.grecaptcha-badge right=576
+  WARN  header at y=-92 after scrolling down and back up
+  WARN  2 of 16 tap targets under 24px: a 71x22, a 64x22
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.eastsidefood.coop/deli  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div#multilingual-language-picker-mobile.header-menu-nav-folder right=786, div.grecaptcha-badge right=579
+  WARN  header at y=-94 after scrolling down and back up
+  WARN  3 of 16 tap targets under 24px: a 71x23, a 113x23, a 61x23
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.oneifbyland.com/  [iphone]
+  WARN  broken image: https://www.oneifbyland.com/
+  WARN  6 of 33 tap targets under 24px: div.w-slider-dot 15x15, div.w-slider-dot 15x15, div.w-slider-dot 15x15, div.w-slider-dot 15x15, a 115x15
+  WARN  11 text elements under 12px: div.info-review 11.25px, div.info-review 11.25px, div.info-review 11.25px, div.text-footer 11.25px
+
+https://www.oneifbyland.com/  [android]
+  WARN  broken image: https://www.oneifbyland.com/
+  WARN  6 of 33 tap targets under 24px: div.w-slider-dot 15x15, div.w-slider-dot 15x15, div.w-slider-dot 15x15, div.w-slider-dot 15x15, a 115x15
+  WARN  11 text elements under 12px: div.info-review 11.25px, div.info-review 11.25px, div.info-review 11.25px, div.text-footer 11.25px
+
+https://www.oneifbyland.com/menus  [iphone]
+  FAIL  sideways overflow (page pans 172px sideways): div.collection-item-2 right=562, a.link-banner right=562, div.collection-item-2 right=562, a.link-banner right=562, div.collection-item-2 right=562, a.link-banner right=562
+  WARN  broken image: https://www.oneifbyland.com/menus
+  WARN  8 text elements under 12px: div.text-footer 11.25px, p.text-footer 11.25px, div.text-footer 11.25px, a.link-bottom-footer 9.45px
+
+https://www.oneifbyland.com/menus  [android]
+  WARN  broken image: https://www.oneifbyland.com/menus
+  WARN  8 text elements under 12px: div.text-footer 11.25px, p.text-footer 11.25px, div.text-footer 11.25px, a.link-bottom-footer 9.45px
+
+https://www.venieros.com/  [iphone]
+  WARN  6 of 20 tap targets under 24px: a 49x12, a 67x12, a 63x12, a 64x12, a 108x18
+  WARN  4 text elements under 12px: a 11px, a 11px, a 11px, a 11px
+
+https://www.venieros.com/  [android]
+  WARN  fixed layer div.fixed covers 100% of the screen
+  WARN  15 of 60 tap targets under 24px: button.h-3 12x12, button.h-3 12x12, button.h-3 12x12, button.h-3 12x12, button.h-3 12x12
+
+https://www.venieros.com/menus  [iphone]
+  WARN  6 of 12 tap targets under 24px: a 49x12, a 67x12, a 63x12, a 64x12, a 108x18
+  WARN  4 text elements under 12px: a 11px, a 11px, a 11px, a 11px
+
+https://www.venieros.com/menus  [android]
+  WARN  fixed layer div.fixed covers 100% of the screen
+  WARN  10 of 45 tap targets under 24px: a.text-[#4a342c] 40x19, a.text-[#4a342c] 63x19, a.text-[#4a342c] 55x19, a.text-[#4a342c] 30x19, a.text-[#4a342c] 51x19
+
+https://www.farbarla.com/  [iphone]
+  WARN  1 of 9 tap targets under 24px: a 148x12
+  WARN  7 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span 10.4px
+
+https://www.farbarla.com/  [android]
+  WARN  1 of 9 tap targets under 24px: a 148x12
+  WARN  7 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span 10.4px
+
+https://firecakesdonuts.com/  [iphone]
+  FAIL  pageerror: Can't find variable: $
+  WARN  18 of 26 tap targets under 24px: a 54x18, a 43x18, a 68x20, a 56x20, a 100x20
+  WARN  10 text elements under 12px: a 10.8px, a 10.8px, a 10.8px, a 10.8px
+
+https://firecakesdonuts.com/  [android]
+  FAIL  pageerror: $ is not defined
+  WARN  18 of 26 tap targets under 24px: a 54x18, a 43x18, a 68x20, a 56x20, a 100x20
+  WARN  10 text elements under 12px: a 10.8px, a 10.8px, a 10.8px, a 10.8px
+
+https://www.lulacafe.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  3 of 16 tap targets under 24px: button.close 12x23, a.site-location__address 362x23, a 113x18
+
+https://www.lulacafe.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  3 of 16 tap targets under 24px: button.close 12x23, a.site-location__address 365x23, a 113x18
+
+https://www.lulacafe.com/menus/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  2 of 11 tap targets under 24px: button.close 12x23, a.site-location__address 362x23
+
+https://www.lulacafe.com/menus/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  2 of 11 tap targets under 24px: button.close 12x23, a.site-location__address 365x23
+
+https://www.rudyardshtx.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  33 of 53 tap targets under 24px: a 66x16, a.text-[var(--brand-primary)] 53x14, a.text-[var(--brand-primary)] 53x14, a.text-[var(--brand-primary)] 53x14, a.text-[var(--brand-primary)] 53x14
+
+https://www.rudyardshtx.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  35 of 53 tap targets under 24px: a 66x17, a.text-[var(--brand-primary)] 53x15, a.text-[var(--brand-primary)] 53x15, a.text-[var(--brand-primary)] 53x15, a.text-[var(--brand-primary)] 53x15
+
+https://www.rudyardshtx.com/menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  24 of 34 tap targets under 24px: a 66x16, a.text-[var(--brand-primary)] 53x14, a.text-[var(--brand-primary)] 53x14, a.text-[var(--brand-primary)] 53x14, a.text-[var(--brand-primary)] 53x14
+
+https://www.rudyardshtx.com/menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  24 of 34 tap targets under 24px: a 66x17, a.text-[var(--brand-primary)] 53x15, a.text-[var(--brand-primary)] 53x15, a.text-[var(--brand-primary)] 53x15, a.text-[var(--brand-primary)] 53x15
+
+56 page-device rows, 23 FAIL findings

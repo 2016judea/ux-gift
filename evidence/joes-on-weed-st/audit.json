@@ -1,0 +1,1041 @@
+[
+ {
+  "url": "https://www.joesbar.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 5.1,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 7721,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=780",
+   "div.header-menu-nav-folder right=780",
+   "div.grecaptcha-badge right=576"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791322151687_164.yui3-widget",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 49,
+  "small": 2,
+  "smallList": [
+   "input#plyr-seek-576 323x14",
+   "input#message-field.ngonnDl0lqs7ZArA 22x46"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.black-bold",
+  "textLen": 2424,
+  "fields": [
+   {
+    "el": "input#email-yui_3_17_2_1_1769034104426_12715-field.newsletter-form-field-element",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": "email",
+    "inputmode": null,
+    "hint": "Email Address"
+   },
+   {
+    "el": "input#name-yui_3_17_2_1_1679346524828_51496-fname-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "fname",
+    "kind": "name",
+    "autocomplete": "given-name",
+    "inputmode": null,
+    "hint": "First Name(required)"
+   },
+   {
+    "el": "input#name-yui_3_17_2_1_1679346524828_51496-lname-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "lname",
+    "kind": "name",
+    "autocomplete": "family-name",
+    "inputmode": null,
+    "hint": "Last Name(required)"
+   },
+   {
+    "el": "input#email-yui_3_17_2_1_1679348080814_63349-field.ngonnDl0lqs7ZArA",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Email(required)"
+   },
+   {
+    "el": "textarea#textarea-yui_3_17_2_1_1679348080814_63351-field.qj2U4ppWTRohr5rP",
+    "type": "textarea",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Message(required)"
+   },
+   {
+    "el": "input#message-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "message-yui_8fa9cd6a-9fec-461c-9461-a5788d6d3680-field",
+    "kind": "other",
+    "autocomplete": "new-password",
+    "inputmode": null,
+    "hint": "message-yui_8fa9cd6a-9fec-461c-9461-a578"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [
+   {
+    "el": "input#email-yui_3_17_2_1_1679348080814_63349-field.ngonnDl0lqs7ZArA",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Email(required)"
+   }
+  ],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   },
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   },
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   }
+  ],
+  "allLinks": [
+   "https://www.joesbar.com/cart",
+   "https://www.joesbar.com/#page",
+   "https://www.joesbar.com/",
+   "https://www.joesbar.com/livemusic-events",
+   "https://www.joesbar.com/sports",
+   "https://www.joesbar.com/whaddayaknowtrivia",
+   "https://www.joesbar.com/bookyourparty",
+   "https://www.joesbar.com/rooftop",
+   "https://www.joesbar.com/menu",
+   "https://www.joesbar.com/home-1",
+   "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav",
+   "https://www.joesbar.com/staff-signup",
+   "https://www.joesbar.com/aboutjoesonweed",
+   "https://www.joesbar.com/faqs",
+   "https://www.joesbar.com/news",
+   "https://www.joesbar.com/show-eventgallery",
+   "https://www.joesbar.com/#",
+   "https://x.com/joesonweedst",
+   "https://www.facebook.com/joesonweedst/",
+   "https://www.instagram.com/joesonweedst/",
+   "https://www.tiktok.com/tag/joesonweed",
+   "https://www.youtube.com/user/JoesBarChicago/featured",
+   "https://www.joesbar.com/contact-dropdown",
+   "https://www.joesbar.com/about-us",
+   "https://www.ticketweb.com/event/giovannie-the-hired-guns-joes-on-weed-street-tickets/14226194?pl=joesbar",
+   "https://www.ticketweb.com/event/blake-whiten-something-joes-on-weed-street-tickets/14876903?pl=joesbar",
+   "https://www.joesbar.com/https://www.ticketweb.com/event/austin-snell-colors-joes-on-weed-street-tickets/15020883?pl=joesbar",
+   "https://www.joesconcerts.com/",
+   "https://carolspub.com/",
+   "https://www.joesliverosemont.com/",
+   "https://www.bub-city.com/rosemont",
+   "https://www.bub-city.com/chicago",
+   "https://www.windycitysmokeout.com/",
+   "https://www.lonestarsmokeout.com/",
+   "https://www.ticketweb.com/venue/joe-s-on-weed-street-chicago-il/11879",
+   "https://windycitysmokeout.com/"
+  ],
+  "weight": 84898,
+  "title": "Joe's Bar on Weed St. | Live Entertainment, Music, Sports",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7057,
+    "inner": 225
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.joesbar.com/home-1",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.joesbar.com/contact-dropdown",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.joesbar.com/https://www.ticketweb.com/event/austin-snell-colors-joes-on-weed-street-tickets/15020883?pl=joesbar",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-joesbar-com.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+   "pageerror: ResizeObserver loop completed with undelivered notifications.",
+   "pageerror: ResizeObserver loop completed with undelivered notifications."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.grecaptcha-badge right=576"
+   ],
+   [
+    "WARN",
+    "autofill disabled: email field 'Email(required)' (input#email-yui_3_17_2_1_1679348080814_63349-field.ngonnDl0lqs7ZArA) has autocomplete=false"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.joesbar.com/home-1 answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.joesbar.com/contact-dropdown answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.joesbar.com/https://www.ticketweb.com/event/austin-snell-colors-joes-on-weed-street-tickets/15020883?pl=joesbar answers 404"
+   ],
+   [
+    "FAIL",
+    "pageerror: ResizeObserver loop completed with undelivered notifications."
+   ],
+   [
+    "WARN",
+    "2 of 49 tap targets under 24px: input#plyr-seek-576 323x14, input#message-field.ngonnDl0lqs7ZArA 22x46"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 7721px tall"
+   ]
+  ],
+  "site": "https://www.joesbar.com/",
+  "hop": "https://www.joesbar.com/bookyourparty"
+ },
+ {
+  "url": "https://www.joesbar.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 4.2,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 7700,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=786",
+   "div.header-menu-nav-folder right=786",
+   "div.grecaptcha-badge right=579"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791322165502_116.yui3-widget",
+    "pos": "fixed",
+    "cover": 9
+   }
+  ],
+  "targets": 49,
+  "small": 2,
+  "smallList": [
+   "input#plyr-seek-3877 326x14",
+   "input#message-field.ngonnDl0lqs7ZArA 22x46"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.black-bold",
+  "textLen": 2414,
+  "fields": [
+   {
+    "el": "input#email-yui_3_17_2_1_1769034104426_12715-field.newsletter-form-field-element",
+    "type": "email",
+    "name": "email",
+    "kind": "email",
+    "autocomplete": "email",
+    "inputmode": null,
+    "hint": "Email Address"
+   },
+   {
+    "el": "input#name-yui_3_17_2_1_1679346524828_51496-fname-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "fname",
+    "kind": "name",
+    "autocomplete": "given-name",
+    "inputmode": null,
+    "hint": "First Name(required)"
+   },
+   {
+    "el": "input#name-yui_3_17_2_1_1679346524828_51496-lname-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "lname",
+    "kind": "name",
+    "autocomplete": "family-name",
+    "inputmode": null,
+    "hint": "Last Name(required)"
+   },
+   {
+    "el": "input#email-yui_3_17_2_1_1679348080814_63349-field.ngonnDl0lqs7ZArA",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Email(required)"
+   },
+   {
+    "el": "textarea#textarea-yui_3_17_2_1_1679348080814_63351-field.qj2U4ppWTRohr5rP",
+    "type": "textarea",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Message(required)"
+   },
+   {
+    "el": "input#message-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "message-yui_fbf2cd30-73da-439c-ada2-b1530fae1375-field",
+    "kind": "other",
+    "autocomplete": "new-password",
+    "inputmode": null,
+    "hint": "message-yui_fbf2cd30-73da-439c-ada2-b153"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [
+   {
+    "el": "input#email-yui_3_17_2_1_1679348080814_63349-field.ngonnDl0lqs7ZArA",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Email(required)"
+   }
+  ],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   },
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   },
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   }
+  ],
+  "allLinks": [
+   "https://www.joesbar.com/cart",
+   "https://www.joesbar.com/#page",
+   "https://www.joesbar.com/",
+   "https://www.joesbar.com/livemusic-events",
+   "https://www.joesbar.com/sports",
+   "https://www.joesbar.com/whaddayaknowtrivia",
+   "https://www.joesbar.com/bookyourparty",
+   "https://www.joesbar.com/rooftop",
+   "https://www.joesbar.com/menu",
+   "https://www.joesbar.com/home-1",
+   "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav",
+   "https://www.joesbar.com/staff-signup",
+   "https://www.joesbar.com/aboutjoesonweed",
+   "https://www.joesbar.com/faqs",
+   "https://www.joesbar.com/news",
+   "https://www.joesbar.com/show-eventgallery",
+   "https://www.joesbar.com/#",
+   "https://x.com/joesonweedst",
+   "https://www.facebook.com/joesonweedst/",
+   "https://www.instagram.com/joesonweedst/",
+   "https://www.tiktok.com/tag/joesonweed",
+   "https://www.youtube.com/user/JoesBarChicago/featured",
+   "https://www.joesbar.com/contact-dropdown",
+   "https://www.joesbar.com/about-us",
+   "https://www.ticketweb.com/event/giovannie-the-hired-guns-joes-on-weed-street-tickets/14226194?pl=joesbar",
+   "https://www.ticketweb.com/event/blake-whiten-something-joes-on-weed-street-tickets/14876903?pl=joesbar",
+   "https://www.joesbar.com/https://www.ticketweb.com/event/austin-snell-colors-joes-on-weed-street-tickets/15020883?pl=joesbar",
+   "https://www.joesconcerts.com/",
+   "https://carolspub.com/",
+   "https://www.joesliverosemont.com/",
+   "https://www.bub-city.com/rosemont",
+   "https://www.bub-city.com/chicago",
+   "https://www.windycitysmokeout.com/",
+   "https://www.lonestarsmokeout.com/",
+   "https://www.ticketweb.com/venue/joe-s-on-weed-street-chicago-il/11879",
+   "https://windycitysmokeout.com/"
+  ],
+  "weight": 84826,
+  "title": "Joe's Bar on Weed St. | Live Entertainment, Music, Sports",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1003,
+    "inner": 141
+   },
+   "backY": 220,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: requestStorageAccess: Permission denied."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.grecaptcha-badge right=579"
+   ],
+   [
+    "WARN",
+    "autofill disabled: email field 'Email(required)' (input#email-yui_3_17_2_1_1679348080814_63349-field.ngonnDl0lqs7ZArA) has autocomplete=false"
+   ],
+   [
+    "WARN",
+    "2 of 49 tap targets under 24px: input#plyr-seek-3877 326x14, input#message-field.ngonnDl0lqs7ZArA 22x46"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "console: requestStorageAccess: Permission denied."
+   ],
+   [
+    "INFO",
+    "document scrolls, 7700px tall"
+   ]
+  ],
+  "site": "https://www.joesbar.com/"
+ },
+ {
+  "url": "https://www.joesbar.com/bookyourparty",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 4.2,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 8229,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=780",
+   "div.header-menu-nav-folder right=780",
+   "div.grecaptcha-badge right=576"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791322170753_123.yui3-widget",
+    "pos": "fixed",
+    "cover": 10
+   }
+  ],
+  "targets": 31,
+  "small": 9,
+  "smallList": [
+   "input.wIoTXuBC0lMFtpfY 15x15",
+   "input#message-field.ngonnDl0lqs7ZArA 22x46",
+   "input#plyr-seek-298 370x14",
+   "input#plyr-seek-7134 370x14",
+   "input#plyr-seek-908 370x14"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.black-bold",
+  "textLen": 4163,
+  "fields": [
+   {
+    "el": "input#name-yui_3_17_2_1_1762314266173_11396-fname-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "fname",
+    "kind": "name",
+    "autocomplete": "given-name",
+    "inputmode": null,
+    "hint": "First Name(required)"
+   },
+   {
+    "el": "input#name-yui_3_17_2_1_1762314266173_11396-lname-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "lname",
+    "kind": "name",
+    "autocomplete": "family-name",
+    "inputmode": null,
+    "hint": "Last Name(required)"
+   },
+   {
+    "el": "input#email-yui_3_17_2_1_1762314266173_11397-field.ngonnDl0lqs7ZArA",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": "email",
+    "inputmode": null,
+    "hint": "Email(required)"
+   },
+   {
+    "el": "input#phone-139aa0f7-c2d6-485d-8649-5feb49cd206f-input-field.v_0IUsD4COI2tjj9",
+    "type": "text",
+    "name": "",
+    "kind": "tel",
+    "autocomplete": "tel-national",
+    "inputmode": "numeric",
+    "hint": ""
+   },
+   {
+    "el": "input#date-583d6912-97b1-4e88-ab73-180d75560877-field.ngonnDl0lqs7ZArA",
+    "type": "date",
+    "name": "",
+    "kind": "other",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Date(required)"
+   },
+   {
+    "el": "input#time-f537ffd0-86d8-4f0b-b086-73c2c9d6f189-field.ngonnDl0lqs7ZArA",
+    "type": "time",
+    "name": "",
+    "kind": "other",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Time"
+   },
+   {
+    "el": "input#6b82e06e-60d1-4e6d-a703-ebeba36774bf-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Birthday, Game Watch, Corporate Event, W"
+   },
+   {
+    "el": "input#text-yui_3_17_2_1_1762314266173_11398-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Number of Guests(required)"
+   },
+   {
+    "el": "textarea#textarea-yui_3_17_2_1_1762314266173_11399-field.qj2U4ppWTRohr5rP",
+    "type": "textarea",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Additional Details"
+   },
+   {
+    "el": "input#message-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "message-yui_a5567033-e532-468e-8bfc-170627cb517b-field",
+    "kind": "other",
+    "autocomplete": "new-password",
+    "inputmode": null,
+    "hint": "message-yui_a5567033-e532-468e-8bfc-1706"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   },
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   },
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   }
+  ],
+  "allLinks": [
+   "https://www.joesbar.com/cart",
+   "https://www.joesbar.com/bookyourparty#page",
+   "https://www.joesbar.com/",
+   "https://www.joesbar.com/livemusic-events",
+   "https://www.joesbar.com/sports",
+   "https://www.joesbar.com/whaddayaknowtrivia",
+   "https://www.joesbar.com/bookyourparty",
+   "https://www.joesbar.com/rooftop",
+   "https://www.joesbar.com/menu",
+   "https://www.joesbar.com/home-1",
+   "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav",
+   "https://www.joesbar.com/staff-signup",
+   "https://www.joesbar.com/aboutjoesonweed",
+   "https://www.joesbar.com/faqs",
+   "https://www.joesbar.com/news",
+   "https://www.joesbar.com/show-eventgallery",
+   "https://www.joesbar.com/bookyourparty#",
+   "https://x.com/joesonweedst",
+   "https://www.facebook.com/joesonweedst/",
+   "https://www.instagram.com/joesonweedst/",
+   "https://www.tiktok.com/tag/joesonweed",
+   "https://www.youtube.com/user/JoesBarChicago/featured",
+   "https://www.joesbar.com/contact-dropdown",
+   "https://www.joesbar.com/about-us",
+   "https://www.joesliverosemont.com/",
+   "https://www.joesconcerts.com/",
+   "https://carolspub.com/",
+   "https://www.lonestarsmokeout.com/",
+   "https://windycitysmokeout.com/"
+  ],
+  "weight": 44922,
+  "title": "BOOK YOUR PARTY | Book Your Perfect Event \u2014 Joe's Bar on Weed St.",
+  "roundtrip": {
+   "atBottom": {
+    "y": 7565,
+    "inner": 225
+   },
+   "backY": 7545,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav",
+    "codes": [
+     403,
+     403
+    ],
+    "verdict": "blocked"
+   },
+   {
+    "href": "https://www.joesbar.com/home-1",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   },
+   {
+    "href": "https://www.joesbar.com/contact-dropdown",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-joesbar-com-bookyourparty.png",
+  "errors": [
+   "console: Failed to load resource: the server responded with a status of 401 ()",
+   "pageerror: ResizeObserver loop completed with undelivered notifications.",
+   "pageerror: ResizeObserver loop completed with undelivered notifications."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780, div.header-menu-nav-folder right=780, div.grecaptcha-badge right=576"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.joesbar.com/home-1 answers 404"
+   ],
+   [
+    "FAIL",
+    "dead link: https://www.joesbar.com/contact-dropdown answers 404"
+   ],
+   [
+    "FAIL",
+    "pageerror: ResizeObserver loop completed with undelivered notifications."
+   ],
+   [
+    "WARN",
+    "9 of 31 tap targets under 24px: input.wIoTXuBC0lMFtpfY 15x15, input#message-field.ngonnDl0lqs7ZArA 22x46, input#plyr-seek-298 370x14, input#plyr-seek-7134 370x14, input#plyr-seek-908 370x14"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "document scrolls, 8229px tall"
+   ]
+  ],
+  "site": "https://www.joesbar.com/"
+ },
+ {
+  "url": "https://www.joesbar.com/bookyourparty",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.2,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 8275,
+  "zoomTrap": [],
+  "leaks": [
+   "div.header-menu-nav-folder right=786",
+   "div.header-menu-nav-folder right=786",
+   "div.grecaptcha-badge right=579"
+  ],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [
+   {
+    "el": "div#yui_3_17_2_1_1791322179083_88.yui3-widget",
+    "pos": "fixed",
+    "cover": 9
+   }
+  ],
+  "targets": 31,
+  "small": 9,
+  "smallList": [
+   "input.wIoTXuBC0lMFtpfY 15x15",
+   "input#message-field.ngonnDl0lqs7ZArA 22x46",
+   "input#plyr-seek-839 373x14",
+   "input#plyr-seek-2731 373x14",
+   "input#plyr-seek-5514 373x14"
+  ],
+  "tiny": 3,
+  "tinyList": [
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px",
+   "span.sqs-mobile-info-bar-trigger-label 10px"
+  ],
+  "headTop": 0,
+  "headTag": "header#header.black-bold",
+  "textLen": 4155,
+  "fields": [
+   {
+    "el": "input#name-yui_3_17_2_1_1762314266173_11396-fname-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "fname",
+    "kind": "name",
+    "autocomplete": "given-name",
+    "inputmode": null,
+    "hint": "First Name(required)"
+   },
+   {
+    "el": "input#name-yui_3_17_2_1_1762314266173_11396-lname-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "lname",
+    "kind": "name",
+    "autocomplete": "family-name",
+    "inputmode": null,
+    "hint": "Last Name(required)"
+   },
+   {
+    "el": "input#email-yui_3_17_2_1_1762314266173_11397-field.ngonnDl0lqs7ZArA",
+    "type": "email",
+    "name": "",
+    "kind": "email",
+    "autocomplete": "email",
+    "inputmode": null,
+    "hint": "Email(required)"
+   },
+   {
+    "el": "input#phone-139aa0f7-c2d6-485d-8649-5feb49cd206f-input-field.v_0IUsD4COI2tjj9",
+    "type": "text",
+    "name": "",
+    "kind": "tel",
+    "autocomplete": "tel-national",
+    "inputmode": "numeric",
+    "hint": ""
+   },
+   {
+    "el": "input#date-583d6912-97b1-4e88-ab73-180d75560877-field.ngonnDl0lqs7ZArA",
+    "type": "date",
+    "name": "",
+    "kind": "other",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Date(required)"
+   },
+   {
+    "el": "input#time-f537ffd0-86d8-4f0b-b086-73c2c9d6f189-field.ngonnDl0lqs7ZArA",
+    "type": "time",
+    "name": "",
+    "kind": "other",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Time"
+   },
+   {
+    "el": "input#6b82e06e-60d1-4e6d-a703-ebeba36774bf-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Birthday, Game Watch, Corporate Event, W"
+   },
+   {
+    "el": "input#text-yui_3_17_2_1_1762314266173_11398-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "",
+    "kind": "other",
+    "autocomplete": "false",
+    "inputmode": null,
+    "hint": "Number of Guests(required)"
+   },
+   {
+    "el": "textarea#textarea-yui_3_17_2_1_1762314266173_11399-field.qj2U4ppWTRohr5rP",
+    "type": "textarea",
+    "name": "",
+    "kind": "other",
+    "autocomplete": null,
+    "inputmode": null,
+    "hint": "Additional Details"
+   },
+   {
+    "el": "input#message-field.ngonnDl0lqs7ZArA",
+    "type": "text",
+    "name": "message-yui_504cf97a-84e2-44aa-a07f-646eccba0b50-field",
+    "kind": "other",
+    "autocomplete": "new-password",
+    "inputmode": null,
+    "hint": "message-yui_504cf97a-84e2-44aa-a07f-646e"
+   }
+  ],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   },
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   },
+   {
+    "text": "BOOK YOUR PARTY",
+    "href": "https://www.joesbar.com/bookyourparty"
+   },
+   {
+    "text": "MENU & DELIVERY",
+    "href": "https://www.joesbar.com/menu"
+   },
+   {
+    "text": "MAKE A RESERVATION",
+    "href": "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav"
+   }
+  ],
+  "allLinks": [
+   "https://www.joesbar.com/cart",
+   "https://www.joesbar.com/bookyourparty#page",
+   "https://www.joesbar.com/",
+   "https://www.joesbar.com/livemusic-events",
+   "https://www.joesbar.com/sports",
+   "https://www.joesbar.com/whaddayaknowtrivia",
+   "https://www.joesbar.com/bookyourparty",
+   "https://www.joesbar.com/rooftop",
+   "https://www.joesbar.com/menu",
+   "https://www.joesbar.com/home-1",
+   "https://www.exploretock.com/joesbar?tock_source=tock&tock_medium=search_nav",
+   "https://www.joesbar.com/staff-signup",
+   "https://www.joesbar.com/aboutjoesonweed",
+   "https://www.joesbar.com/faqs",
+   "https://www.joesbar.com/news",
+   "https://www.joesbar.com/show-eventgallery",
+   "https://www.joesbar.com/bookyourparty#",
+   "https://x.com/joesonweedst",
+   "https://www.facebook.com/joesonweedst/",
+   "https://www.instagram.com/joesonweedst/",
+   "https://www.tiktok.com/tag/joesonweed",
+   "https://www.youtube.com/user/JoesBarChicago/featured",
+   "https://www.joesbar.com/contact-dropdown",
+   "https://www.joesbar.com/about-us",
+   "https://www.joesliverosemont.com/",
+   "https://www.joesconcerts.com/",
+   "https://carolspub.com/",
+   "https://www.lonestarsmokeout.com/",
+   "https://windycitysmokeout.com/"
+  ],
+  "weight": 44877,
+  "title": "BOOK YOUR PARTY | Book Your Perfect Event \u2014 Joe's Bar on Weed St.",
+  "roundtrip": {
+   "atBottom": {
+    "y": 864,
+    "inner": 141
+   },
+   "backY": 157,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "errors": [
+   "console: requestStorageAccess: Permission denied."
+  ],
+  "findings": [
+   [
+    "WARN",
+    "sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786, div.header-menu-nav-folder right=786, div.grecaptcha-badge right=579"
+   ],
+   [
+    "WARN",
+    "9 of 31 tap targets under 24px: input.wIoTXuBC0lMFtpfY 15x15, input#message-field.ngonnDl0lqs7ZArA 22x46, input#plyr-seek-839 373x14, input#plyr-seek-2731 373x14, input#plyr-seek-5514 373x14"
+   ],
+   [
+    "WARN",
+    "3 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px"
+   ],
+   [
+    "INFO",
+    "console: requestStorageAccess: Permission denied."
+   ],
+   [
+    "INFO",
+    "document scrolls, 8275px tall"
+   ]
+  ],
+  "site": "https://www.joesbar.com/"
+ }
+]

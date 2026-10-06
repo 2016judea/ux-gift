@@ -1,0 +1,338 @@
+WARN iphone  https://www.theginjoint.com/
+WARN android https://www.theginjoint.com/
+WARN iphone  https://www.theginjoint.com/shop
+WARN android https://www.theginjoint.com/shop
+WARN iphone  https://bubbasbbqandbash.com/
+FAIL android https://bubbasbbqandbash.com/
+FAIL iphone  https://bubbasbbqandbash.com/spartanburg-westside-of-spartanburg-bubba-s-bbq-and-bash-food-menu
+WARN android https://bubbasbbqandbash.com/spartanburg-westside-of-spartanburg-bubba-s-bbq-and-bash-food-menu
+WARN iphone  https://www.blza.com/locations/bearden/
+WARN android https://www.blza.com/locations/bearden/
+WARN iphone  https://dosha.org/
+WARN android https://dosha.org/
+WARN iphone  https://dosha.org/gift-cards
+WARN android https://dosha.org/gift-cards
+FAIL iphone  https://diamondnailsouthlamar.com/
+FAIL android https://diamondnailsouthlamar.com/
+WARN iphone  https://poundsfargo.com/
+WARN android https://poundsfargo.com/
+WARN iphone  https://poundsfargo.com/menu
+WARN android https://poundsfargo.com/menu
+FAIL iphone  https://www.jaxcafe.com/
+WARN android https://www.jaxcafe.com/
+FAIL iphone  https://www.jaxcafe.com/pages/make-a-reservation
+WARN android https://www.jaxcafe.com/pages/make-a-reservation
+WARN iphone  http://www.happynailsmn.com/
+WARN android http://www.happynailsmn.com/
+WARN iphone  http://www.happynailsmn.com/client
+WARN android http://www.happynailsmn.com/client
+FAIL iphone  https://www.gramercytavern.com/
+WARN android https://www.gramercytavern.com/
+FAIL iphone  https://www.gramercytavern.com/tavern-menu/
+WARN android https://www.gramercytavern.com/tavern-menu/
+FAIL iphone  https://www.peacefoodnyc.com/
+WARN android https://www.peacefoodnyc.com/
+ok   iphone  https://www.peacefoodnyc.com/peacefood-menu
+WARN android https://www.peacefoodnyc.com/peacefood-menu
+FAIL iphone  https://www.watergrill.com/la
+WARN android https://www.watergrill.com/la
+FAIL iphone  https://www.watergrill.com/giftcards
+WARN android https://www.watergrill.com/giftcards
+FAIL iphone  https://www.laphil.com/
+FAIL android https://www.laphil.com/
+FAIL iphone  https://www.laphil.com/tickets-and-events/season-packages
+FAIL android https://www.laphil.com/tickets-and-events/season-packages
+WARN iphone  https://www.ginoseast.com/
+WARN android https://www.ginoseast.com/
+WARN iphone  https://www.ginoseast.com/loyalty/
+WARN android https://www.ginoseast.com/loyalty/
+FAIL iphone  https://trulucks.com/locations/houston-texas/
+FAIL android https://trulucks.com/locations/houston-texas/
+FAIL iphone  https://trulucks.com/reserve
+FAIL android https://trulucks.com/reserve
+FAIL iphone  https://www.chamagaucha.com/houston/
+FAIL android https://www.chamagaucha.com/houston/
+FAIL iphone  https://www.chamagaucha.com/menu/
+FAIL android https://www.chamagaucha.com/menu/
+
+== findings (FAIL and WARN) ==
+
+https://www.theginjoint.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav#mainNavigation.main-navigation right=549, div.nav-item right=470, a right=449, span right=449, div#id-68ac5cf3f010c644a9aaae9c.nav-item right=518, a right=497
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div.collection-images covers 100% of the screen
+  WARN  fixed layer div.overlay covers 100% of the screen
+  WARN  6 of 12 tap targets under 24px: a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23
+
+https://www.theginjoint.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav#mainNavigation.main-navigation right=463, div#id-68ac5cf3f010c644a9aaae9c.nav-item right=432, a right=410, span right=410, div#id-5c7c35d9e2c4834c1a35b18b.nav-item right=463, a right=463
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div.collection-images covers 100% of the screen
+  WARN  fixed layer div.overlay covers 100% of the screen
+  WARN  6 of 12 tap targets under 24px: a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23
+
+https://www.theginjoint.com/shop  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): nav#mainNavigation.main-navigation right=549, div.nav-item right=470, a right=449, span right=449, div#id-68ac5cf3f010c644a9aaae9c.nav-item right=518, a right=497
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div.overlay covers 100% of the screen
+  WARN  fixed layer div.title-card covers 100% of the screen
+  WARN  8 of 19 tap targets under 24px: a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23
+
+https://www.theginjoint.com/shop  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): a#navToggle.nav-toggle right=411, div right=411, svg right=411, nav#mainNavigation.main-navigation right=462, div#id-68ac5cf3f010c644a9aaae9c.nav-item right=430, a right=409
+  WARN  viewport meta: initial-scale=1
+  WARN  fixed layer div.overlay covers 100% of the screen
+  WARN  fixed layer div.title-card covers 100% of the screen
+  WARN  8 of 19 tap targets under 24px: a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23, a.SocialLinks-link 23x23
+
+https://bubbasbbqandbash.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  14 of 57 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://bubbasbbqandbash.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  FAIL  document locked (overflow hidden) with 7332px of content and no inner scroller
+  WARN  fixed layer div#promotion-pop-up.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  14 of 59 tap targets under 24px: a 22x22, a 22x22, a 22x22, button 15x15, button 15x15
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://bubbasbbqandbash.com/spartanburg-westside-of-spartanburg-bubba-s-bbq-and-bash-food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://bubbasbbqandbash.com/129246 answers 404
+  FAIL  dead link: https://bubbasbbqandbash.com/129247 answers 404
+
+https://bubbasbbqandbash.com/spartanburg-westside-of-spartanburg-bubba-s-bbq-and-bash-food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://www.blza.com/locations/bearden/  [iphone]
+  WARN  broken image: https://www.blza.com/locations/bearden/
+  WARN  87 of 170 tap targets under 24px: a 251x17, div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, span.swiper-pagination-bullet 8x8, span.swiper-pagination-bullet 8x8
+
+https://www.blza.com/locations/bearden/  [android]
+  WARN  broken image: https://www.blza.com/locations/bearden/
+  WARN  header at y=-221 after scrolling down and back up
+  WARN  87 of 170 tap targets under 24px: a 251x17, div.elementor-swiper-button 20x20, div.elementor-swiper-button 20x20, span.swiper-pagination-bullet 8x8, span.swiper-pagination-bullet 8x8
+
+https://dosha.org/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div._none right=460, div.content right=460, div.clearfix right=460, div.field__item right=460, p right=460, article.media right=460
+  WARN  27 of 41 tap targets under 24px: a 157x18, a 61x11, a 20x14, a 20x14, a 20x14
+
+https://dosha.org/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div._none right=463, div.content right=463, div.clearfix right=463, div.field__item right=463, p right=463, article.media right=463
+  WARN  27 of 41 tap targets under 24px: a 156x17, a 61x10, a 20x15, a 20x15, a 20x15
+
+https://dosha.org/gift-cards  [iphone]
+  WARN  27 of 35 tap targets under 24px: a 223x18, a 142x18, a 20x14, a 20x14, a 20x14
+
+https://dosha.org/gift-cards  [android]
+  WARN  27 of 35 tap targets under 24px: a 223x17, a 142x17, a 20x15, a 20x15, a 20x15
+
+https://diamondnailsouthlamar.com/  [iphone]
+  FAIL  document locked (overflow hidden) with 3010px of content and no inner scroller
+  WARN  fixed layer div#exampleModalCenter.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  8 of 24 tap targets under 24px: button.owl-dot 10x10, button.owl-dot 10x10, button.owl-dot 10x10, a.text-red 116x20, a.text-red 257x20
+
+https://diamondnailsouthlamar.com/  [android]
+  FAIL  document locked (overflow hidden) with 3013px of content and no inner scroller
+  WARN  fixed layer div#exampleModalCenter.modal covers 100% of the screen
+  WARN  fixed layer div.modal-backdrop covers 100% of the screen
+  WARN  8 of 24 tap targets under 24px: button.owl-dot 10x10, button.owl-dot 10x10, button.owl-dot 10x10, a.text-red 116x20, a.text-red 257x20
+
+https://poundsfargo.com/  [iphone]
+  WARN  1 of 19 tap targets under 24px: a.hover:text-[var(--hot-orange)] 96x20
+
+https://poundsfargo.com/  [android]
+  WARN  1 of 19 tap targets under 24px: a.hover:text-[var(--hot-orange)] 97x20
+
+https://poundsfargo.com/menu  [iphone]
+  WARN  1 of 29 tap targets under 24px: a.hover:text-[var(--hot-orange)] 96x20
+  WARN  6 text elements under 12px: sup.relative 11.04px, sup.relative 11.04px, sup.relative 11.04px, sup.relative 11.04px
+
+https://poundsfargo.com/menu  [android]
+  WARN  1 of 29 tap targets under 24px: a.hover:text-[var(--hot-orange)] 97x20
+  WARN  6 text elements under 12px: sup.relative 11.04px, sup.relative 11.04px, sup.relative 11.04px, sup.relative 11.04px
+
+https://www.jaxcafe.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): input#Search-In-Modal.search__input right=392
+  FAIL  dead link: https://www.jaxcafe.com/customer_authentication/redirect?locale=en&region_country=US answers 406
+  WARN  6 of 96 tap targets under 24px: a 102x17, a 117x17, a 120x17, a 142x17, a 70x12
+  WARN  6 text elements under 12px: small.copyright__content 11px, a 11px, a 11px, a 11px
+
+https://www.jaxcafe.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): input#Search-In-Modal.search__input right=395
+  WARN  6 of 96 tap targets under 24px: a 102x17, a 117x17, a 120x17, a 142x17, a 70x12
+  WARN  6 text elements under 12px: small.copyright__content 11px, a 11px, a 11px, a 11px
+
+https://www.jaxcafe.com/pages/make-a-reservation  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): input#Search-In-Modal.search__input right=392
+  FAIL  dead link: https://www.jaxcafe.com/customer_authentication/redirect?locale=en&region_country=US answers 406
+  WARN  2 of 25 tap targets under 24px: a 70x12, a 108x12
+  WARN  6 text elements under 12px: small.copyright__content 11px, a 11px, a 11px, a 11px
+
+https://www.jaxcafe.com/pages/make-a-reservation  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): input#Search-In-Modal.search__input right=395
+  WARN  2 of 25 tap targets under 24px: a 70x12, a 108x12
+  WARN  6 text elements under 12px: small.copyright__content 11px, a 11px, a 11px, a 11px
+
+http://www.happynailsmn.com/  [iphone]
+  WARN  fixed layer div#info-modal.modal covers 100% of the screen
+  WARN  9 of 16 tap targets under 24px: a 217x16, a 98x16, a 137x16, a 89x16, a.level-item 21x21
+
+http://www.happynailsmn.com/  [android]
+  WARN  fixed layer div#info-modal.modal covers 100% of the screen
+  WARN  9 of 16 tap targets under 24px: a 217x17, a 98x17, a 137x17, a 89x17, a.level-item 21x21
+
+http://www.happynailsmn.com/client  [iphone]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+
+http://www.happynailsmn.com/client  [android]
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+
+https://www.gramercytavern.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  fixed layer div.MuiModal-root covers 100% of the screen
+  WARN  fixed layer div.MuiBackdrop-root covers 100% of the screen
+
+https://www.gramercytavern.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  fixed layer div.MuiModal-root covers 100% of the screen
+  WARN  fixed layer div.MuiBackdrop-root covers 100% of the screen
+
+https://www.gramercytavern.com/tavern-menu/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  6 of 14 tap targets under 24px: button#slick-slide-control10 20x20, button#slick-slide-control11 20x20, button#slick-slide-control12 20x20, button#slick-slide-control13 20x20, button#slick-slide-control14 20x20
+
+https://www.gramercytavern.com/tavern-menu/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  6 of 14 tap targets under 24px: button#slick-slide-control10 20x20, button#slick-slide-control11 20x20, button#slick-slide-control12 20x20, button#slick-slide-control13 20x20, button#slick-slide-control14 20x20
+
+https://www.peacefoodnyc.com/  [iphone]
+  FAIL  dead link: https://www.peacefoodnyc.com/customed-bakery-orders answers 404
+  WARN  1 of 9 tap targets under 24px: a 241x16
+
+https://www.peacefoodnyc.com/  [android]
+  WARN  header at y=-433 after scrolling down and back up
+  WARN  1 of 9 tap targets under 24px: a 241x16
+
+https://www.peacefoodnyc.com/peacefood-menu  [android]
+  WARN  header at y=-50 after scrolling down and back up
+
+https://www.watergrill.com/la  [iphone]
+  FAIL  sideways overflow (page pans 10px sideways): div.w-layout-blockcontainer right=400, h2.heading-44 right=400, div#first-of-season-slider.slider-2 right=400, div#w-slider-mask-0.mask-2 right=400, div.slide-nav-2 right=400, div.w-embed right=400
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  13 of 40 tap targets under 24px: a.skip-link 145x20, div.w-slider-dot 65x5, div.w-slider-dot 30x5, div.w-slider-dot 30x5, a.link-47 221x20
+  WARN  1 text elements under 12px: a.btn-nl-new 11px
+
+https://www.watergrill.com/la  [android]
+  WARN  13 of 40 tap targets under 24px: a.skip-link 145x20, div.w-slider-dot 65x5, div.w-slider-dot 30x5, div.w-slider-dot 30x5, a.link-47 221x20
+  WARN  1 text elements under 12px: a.btn-nl-new 11px
+
+https://www.watergrill.com/giftcards  [iphone]
+  FAIL  pageerror: /www.opentable.com'.
+  WARN  8 of 16 tap targets under 24px: a.skip-link 145x20, a.cardlink 370x20, a.footer-links 50x20, a.footer-links 89x20, a.footer-links 174x20
+  WARN  3 text elements under 12px: div.text-block-12 10px, div.text-block-12 10px, a.cardlink 11px
+
+https://www.watergrill.com/giftcards  [android]
+  WARN  8 of 16 tap targets under 24px: a.skip-link 145x20, a.cardlink 373x20, a.footer-links 50x20, a.footer-links 89x20, a.footer-links 174x20
+  WARN  3 text elements under 12px: div.text-block-12 10px, div.text-block-12 10px, a.cardlink 11px
+
+https://www.laphil.com/  [iphone]
+  FAIL  iOS zoom trap: input#field-search.global-nav-mobile__search-input at 14px (needs 16px on touch)
+  WARN  71 of 345 tap targets under 24px: a 62x11, a 3x11, a#CybotCookiebotDialogBodyButtonAccept.close-banner 34x17, button.global-nav__back 52x16, button.global-nav__back 52x16
+  WARN  3 text elements under 12px: span 11.25px, span 11.25px, a#CybotCookiebotDialogBodyButtonAccept.close-banner 11.25px
+
+https://www.laphil.com/  [android]
+  FAIL  iOS zoom trap: input#field-search.global-nav-mobile__search-input at 14px (needs 16px on touch)
+  WARN  header at y=-163 after scrolling down and back up
+  WARN  71 of 345 tap targets under 24px: a 62x11, a 3x11, a#CybotCookiebotDialogBodyButtonAccept.close-banner 34x17, button.global-nav__back 52x16, button.global-nav__back 52x16
+  WARN  3 text elements under 12px: span 11.25px, span 11.25px, a#CybotCookiebotDialogBodyButtonAccept.close-banner 11.25px
+
+https://www.laphil.com/tickets-and-events/season-packages  [iphone]
+  FAIL  iOS zoom trap: input#field-search.global-nav-mobile__search-input at 14px (needs 16px on touch)
+  WARN  23 of 168 tap targets under 24px: a 62x11, a 3x11, a#CybotCookiebotDialogBodyButtonAccept.close-banner 34x17, button.global-nav__back 52x16, button.global-nav__back 52x16
+  WARN  3 text elements under 12px: span 11.25px, span 11.25px, a#CybotCookiebotDialogBodyButtonAccept.close-banner 11.25px
+
+https://www.laphil.com/tickets-and-events/season-packages  [android]
+  FAIL  iOS zoom trap: input#field-search.global-nav-mobile__search-input at 14px (needs 16px on touch)
+  WARN  header at y=-199 after scrolling down and back up
+  WARN  23 of 168 tap targets under 24px: a 62x11, a 3x11, a#CybotCookiebotDialogBodyButtonAccept.close-banner 34x17, button.global-nav__back 52x16, button.global-nav__back 52x16
+  WARN  3 text elements under 12px: span 11.25px, span 11.25px, a#CybotCookiebotDialogBodyButtonAccept.close-banner 11.25px
+
+https://www.ginoseast.com/  [iphone]
+  WARN  1 of 48 tap targets under 24px: a 162x20
+
+https://www.ginoseast.com/  [android]
+  WARN  header at y=-235 after scrolling down and back up
+  WARN  1 of 48 tap targets under 24px: a 162x20
+
+https://www.ginoseast.com/loyalty/  [iphone]
+  WARN  2 of 37 tap targets under 24px: a 38x22, a 162x20
+
+https://www.ginoseast.com/loyalty/  [android]
+  WARN  header at y=-471 after scrolling down and back up
+  WARN  2 of 37 tap targets under 24px: a 38x22, a 162x20
+
+https://trulucks.com/locations/houston-texas/  [iphone]
+  WARN  broken image: https://trulucks.com/locations/houston-texas/
+  WARN  broken image: https://trulucks.com/locations/houston-texas/
+  FAIL  pageerror: Module build failed: ModuleBuildError: Module build failed: Error: Node Sass does not yet support your current environment: Linux 64-bit wit
+  WARN  16 of 47 tap targets under 24px: a 118x21, a 76x21, a 96x21, a 101x21, a 100x21
+  WARN  1 text elements under 12px: strong 9px
+
+https://trulucks.com/locations/houston-texas/  [android]
+  WARN  broken image: https://trulucks.com/locations/houston-texas/
+  WARN  broken image: https://trulucks.com/locations/houston-texas/
+  FAIL  pageerror: Module build failed: ModuleBuildError: Module build failed: Error: Node Sass does not yet support your current environment: Linux 64-bit wit
+  WARN  16 of 47 tap targets under 24px: a 118x21, a 76x21, a 96x21, a 101x21, a 100x21
+  WARN  1 text elements under 12px: strong 9px
+
+https://trulucks.com/reserve  [iphone]
+  FAIL  pageerror: Module build failed: ModuleBuildError: Module build failed: Error: Node Sass does not yet support your current environment: Linux 64-bit wit
+  WARN  11 of 31 tap targets under 24px: a 133x22, a 96x21, a 88x21, a 117x21, a 120x21
+  WARN  1 text elements under 12px: strong 9px
+
+https://trulucks.com/reserve  [android]
+  FAIL  pageerror: Module build failed: ModuleBuildError: Module build failed: Error: Node Sass does not yet support your current environment: Linux 64-bit wit
+  WARN  11 of 31 tap targets under 24px: a 133x22, a 96x21, a 88x21, a 117x21, a 120x21
+  WARN  1 text elements under 12px: strong 9px
+
+https://www.chamagaucha.com/houston/  [iphone]
+  FAIL  iOS zoom trap: input#ekit-mc-field-0-94ca41e.ekit_form_control at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ekit-mc-field-1-94ca41e.ekit_form_control at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ekit-mc-field-2-94ca41e.ekit_form_control at 14px (needs 16px on touch)
+  FAIL  sideways overflow (page pans 287px sideways): div.elementskit_input_wraper right=405, div.elementskit_form_group right=405, div.elementskit_input_element_container right=405, input#ekit-mc-field-0-94ca41e.ekit_form_control right=405, div.elementskit_input_wraper right=405, div.elementskit_form_group right=405
+  FAIL  pageerror: $ is not a function. (In '$(mutation.target)', '$' is undefined)
+  WARN  header at y=-82 after scrolling down and back up
+  WARN  8 of 39 tap targets under 24px: a 106x17, a.underline 61x17, a.underline 86x17, a.underline 164x17, a.underline 81x17
+
+https://www.chamagaucha.com/houston/  [android]
+  FAIL  iOS zoom trap: input#ekit-mc-field-0-94ca41e.ekit_form_control at 13.3333px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ekit-mc-field-1-94ca41e.ekit_form_control at 13.3333px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ekit-mc-field-2-94ca41e.ekit_form_control at 13.3333px (needs 16px on touch)
+  FAIL  iOS zoom trap: select.gt_selector at 13.3333px (needs 16px on touch)
+  FAIL  sideways overflow (page pans 400px sideways): img.attachment-full right=2560, img.attachment-full right=2560
+  WARN  broken image: https://www.chamagaucha.com/wp-content/uploads/2025/07/Horizontal-logo-01-e1761756156286-1536x307.png
+  WARN  73 of 76 tap targets under 24px: a.skip-link 97x18, div.hfe-nav-menu__toggle 393x18, div.hfe-has-submenu-container 353x18, a.hfe-menu-item 63x18, div.hfe-has-submenu-container 313x18
+
+https://www.chamagaucha.com/menu/  [iphone]
+  FAIL  iOS zoom trap: input#ekit-mc-field-0-94ca41e.ekit_form_control at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ekit-mc-field-1-94ca41e.ekit_form_control at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ekit-mc-field-2-94ca41e.ekit_form_control at 14px (needs 16px on touch)
+  FAIL  sideways overflow (page pans 15px sideways): div.elementskit_input_wraper right=405, div.elementskit_form_group right=405, div.elementskit_input_element_container right=405, input#ekit-mc-field-0-94ca41e.ekit_form_control right=405, div.elementskit_input_wraper right=405, div.elementskit_form_group right=405
+  FAIL  pageerror: $ is not a function. (In '$(mutation.target)', '$' is undefined)
+  WARN  3 of 25 tap targets under 24px: a 91x17, a.underline 81x17, a 87x17
+
+https://www.chamagaucha.com/menu/  [android]
+  FAIL  iOS zoom trap: input#ekit-mc-field-0-94ca41e.ekit_form_control at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ekit-mc-field-1-94ca41e.ekit_form_control at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#ekit-mc-field-2-94ca41e.ekit_form_control at 14px (needs 16px on touch)
+  FAIL  pageerror: $ is not a function
+  WARN  header at y=-363 after scrolling down and back up
+  WARN  3 of 25 tap targets under 24px: a 91x17, a.underline 81x17, a 87x17
+
+56 page-device rows, 40 FAIL findings

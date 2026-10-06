@@ -1,0 +1,342 @@
+WARN iphone  https://waters-edge-restaurant.com/
+WARN android https://waters-edge-restaurant.com/
+FAIL iphone  https://waters-edge-restaurant.com/mount-pleasant-shem-creek-water-s-edge-food-menu
+WARN android https://waters-edge-restaurant.com/mount-pleasant-shem-creek-water-s-edge-food-menu
+WARN iphone  https://lapazmexicanrestaurantgrill.com/
+WARN android https://lapazmexicanrestaurantgrill.com/
+WARN iphone  https://lapazmexicanrestaurantgrill.com/-party?source=pop_up&spot_id=513117&destination=private_parties&promotion=private_parties
+WARN android https://lapazmexicanrestaurantgrill.com/-party?source=pop_up&spot_id=513117&destination=private_parties&promotion=private_parties
+FAIL iphone  https://aesthetic-solutions.com/
+WARN android https://aesthetic-solutions.com/
+WARN iphone  https://aesthetic-solutions.com/book-online
+WARN android https://aesthetic-solutions.com/book-online
+WARN iphone  https://houseofdearhairsalon.com/
+WARN android https://houseofdearhairsalon.com/
+WARN iphone  https://houseofdearhairsalon.com/where-to-buy/
+WARN android https://houseofdearhairsalon.com/where-to-buy/
+WARN iphone  https://limonsalon.com/
+WARN android https://limonsalon.com/
+WARN iphone  https://limonsalon.com/bookonline
+WARN android https://limonsalon.com/bookonline
+WARN iphone  https://doolittles.com/
+WARN android https://doolittles.com/
+WARN iphone  https://doolittles.com/menu
+WARN android https://doolittles.com/menu
+FAIL iphone  https://www.elburritomercado.com/
+WARN android https://www.elburritomercado.com/
+FAIL iphone  https://www.elburritomercado.com/menus/
+WARN android https://www.elburritomercado.com/menus/
+WARN iphone  https://pianosnyc.com/
+WARN android https://pianosnyc.com/
+WARN iphone  https://pianosnyc.com/Menu
+WARN android https://pianosnyc.com/Menu
+FAIL iphone  https://www.dominiqueanselny.com/
+WARN android https://www.dominiqueanselny.com/
+WARN iphone  https://www.dominiqueanselny.com/corporate-gifting/
+WARN android https://www.dominiqueanselny.com/corporate-gifting/
+FAIL iphone  https://www.goldenunicornrestaurant.com/
+WARN android https://www.goldenunicornrestaurant.com/
+FAIL iphone  https://www.goldenunicornrestaurant.com/menu-1
+WARN android https://www.goldenunicornrestaurant.com/menu-1
+WARN iphone  https://www.chateaumarmont.com/
+WARN android https://www.chateaumarmont.com/
+WARN iphone  https://www.chateaumarmont.com/terms
+WARN android https://www.chateaumarmont.com/terms
+WARN iphone  https://thepurplepigrestaurantgroup.com/
+WARN android https://thepurplepigrestaurantgroup.com/
+FAIL iphone  https://www.fronteragrill.com/
+FAIL android https://www.fronteragrill.com/
+FAIL iphone  https://www.fronteragrill.com/reservations
+FAIL android https://www.fronteragrill.com/reservations
+FAIL iphone  https://www.thewhitehallhouston.com/
+WARN android https://www.thewhitehallhouston.com/
+FAIL iphone  https://www.cococrepes.com/location/coco-crepes-midtown/
+WARN android https://www.cococrepes.com/location/coco-crepes-midtown/
+FAIL iphone  https://www.cococrepes.com/gift-cards/
+WARN android https://www.cococrepes.com/gift-cards/
+
+== findings (FAIL and WARN) ==
+
+https://waters-edge-restaurant.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  20 of 101 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://waters-edge-restaurant.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  20 of 101 tap targets under 24px: a 22x22, a 22x22, a 22x22, a 22x22, a 22x22
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://waters-edge-restaurant.com/mount-pleasant-shem-creek-water-s-edge-food-menu  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  FAIL  dead link: https://waters-edge-restaurant.com/417847 answers 404
+  FAIL  dead link: https://waters-edge-restaurant.com/440561 answers 404
+  FAIL  dead link: https://waters-edge-restaurant.com/417822 answers 404
+  FAIL  dead link: https://waters-edge-restaurant.com/417823 answers 404
+  FAIL  dead link: https://waters-edge-restaurant.com/417821 answers 404
+  FAIL  dead link: https://waters-edge-restaurant.com/417848 answers 404
+
+https://waters-edge-restaurant.com/mount-pleasant-shem-creek-water-s-edge-food-menu  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+
+https://lapazmexicanrestaurantgrill.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  14 of 142 tap targets under 24px: button 15x15, button 15x15, button 15x15, button 15x15, a 33x13
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://lapazmexicanrestaurantgrill.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  14 of 142 tap targets under 24px: button 15x15, button 15x15, button 15x15, button 15x15, a 33x12
+  WARN  3 text elements under 12px: div.leaflet-control-attribution 11px, a 11px, a 11px
+
+https://lapazmexicanrestaurantgrill.com/-party?source=pop_up&spot_id=513117&destination=private_parties&promotion=private_parties  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=405
+  WARN  2 of 12 tap targets under 24px: a#contact_us_v4_section_phone_link 117x19, a 233x19
+
+https://lapazmexicanrestaurantgrill.com/-party?source=pop_up&spot_id=513117&destination=private_parties&promotion=private_parties  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.navbar-header right=408
+  WARN  2 of 12 tap targets under 24px: a#contact_us_v4_section_phone_link 116x19, a 233x19
+
+https://aesthetic-solutions.com/  [iphone]
+  FAIL  sideways overflow (page pans 196px sideways): div.wcc-preference-center right=650, div.elementor-swiper-button right=396, svg right=391, nav.onetap-accessibility right=970, div#hs-interactives-modal-overlay.go1632949049 right=394
+  WARN  fixed layer div.wcc-consent-container covers 48% of the screen
+  WARN  11 of 77 tap targets under 24px: a#vos-bar__logo 34x17, a 103x21, a 222x21, a 208x21, a 103x21
+  WARN  4 text elements under 12px: span#vos-bar__text 11px, a#vos-bar__cta 11px, a#vos-footer__cta 11px, p#vos-footer__legal 11px
+
+https://aesthetic-solutions.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.wcc-preference-center right=646, nav.onetap-accessibility right=979
+  WARN  fixed layer div.wcc-consent-container covers 43% of the screen
+  WARN  11 of 77 tap targets under 24px: a#vos-bar__logo 34x17, a 103x21, a 222x21, a 208x21, a 103x21
+  WARN  4 text elements under 12px: span#vos-bar__text 11px, a#vos-bar__cta 11px, a#vos-footer__cta 11px, p#vos-footer__legal 11px
+
+https://aesthetic-solutions.com/book-online  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.wcc-preference-center right=650, nav.onetap-accessibility right=970, div#hs-interactives-modal-overlay.go1632949049 right=394
+  WARN  fixed layer div.wcc-consent-container covers 48% of the screen
+  WARN  14 of 79 tap targets under 24px: a#vos-bar__logo 34x17, a 120x19, a 231x19, a 234x19, a 103x21
+  WARN  4 text elements under 12px: span#vos-bar__text 11px, a#vos-bar__cta 11px, a#vos-footer__cta 11px, p#vos-footer__legal 11px
+
+https://aesthetic-solutions.com/book-online  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.wcc-preference-center right=649, nav.onetap-accessibility right=973, div#hs-interactives-modal-overlay.go1632949049 right=397
+  WARN  fixed layer div.wcc-consent-container covers 44% of the screen
+  WARN  14 of 79 tap targets under 24px: a#vos-bar__logo 34x17, a 120x19, a 231x19, a 234x19, a 103x21
+  WARN  4 text elements under 12px: span#vos-bar__text 11px, a#vos-bar__cta 11px, a#vos-footer__cta 11px, p#vos-footer__legal 11px
+
+https://houseofdearhairsalon.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  broken image: https://houseofdearhairsalon.com/
+  WARN  20 of 115 tap targets under 24px: span.swiper-pagination-bullet 5x5, span.swiper-pagination-bullet 5x5, span.swiper-pagination-bullet 5x5, span.swiper-pagination-bullet 5x5, span.swiper-pagination-bullet 5x5
+  WARN  8 text elements under 12px: a 11px, a 11px, a 11px, a 11px
+
+https://houseofdearhairsalon.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  broken image: https://houseofdearhairsalon.com/
+  WARN  header at y=-135 after scrolling down and back up
+  WARN  20 of 115 tap targets under 24px: span.swiper-pagination-bullet 5x5, span.swiper-pagination-bullet 5x5, span.swiper-pagination-bullet 5x5, span.swiper-pagination-bullet 5x5, span.swiper-pagination-bullet 5x5
+  WARN  8 text elements under 12px: a 11px, a 11px, a 11px, a 11px
+
+https://houseofdearhairsalon.com/where-to-buy/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  WARN  62 of 82 tap targets under 24px: a.elementor-icon 15x15, a 224x23, a.elementor-icon 15x15, a 238x23, a.elementor-icon 15x15
+
+https://houseofdearhairsalon.com/where-to-buy/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  header at y=-271 after scrolling down and back up
+  WARN  62 of 82 tap targets under 24px: a.elementor-icon 15x15, a 224x23, a.elementor-icon 15x15, a 238x23, a.elementor-icon 15x15
+
+https://limonsalon.com/  [iphone]
+  WARN  fixed layer div#yui_3_17_2_1_1791321821488_596.image-container covers 100% of the screen
+  WARN  7 of 44 tap targets under 24px: a#top 203x16, a 76x18, a 120x18, a 102x18, a 133x18
+
+https://limonsalon.com/  [android]
+  WARN  fixed layer div#yui_3_17_2_1_1791321835892_590.image-container covers 100% of the screen
+  WARN  7 of 44 tap targets under 24px: a#top 203x15, a 76x18, a 120x18, a 102x18, a 133x18
+
+https://limonsalon.com/bookonline  [iphone]
+  WARN  3 of 23 tap targets under 24px: a#top 203x16, a 68x18, a 108x18
+
+https://limonsalon.com/bookonline  [android]
+  WARN  3 of 23 tap targets under 24px: a#top 203x15, a 68x18, a 108x18
+
+https://doolittles.com/  [iphone]
+  WARN  wrong phone keyboard: email field 'Email*' (input#input3324.x-el) is type=text, needs type=email
+  WARN  wrong phone keyboard: tel field 'Phone' (input#input3325.x-el) is type=text, needs type=tel
+  WARN  12 of 28 tap targets under 24px: div.x-el 10x10, div.x-el 10x10, div.x-el 10x10, div.x-el 10x10, div.x-el 10x10
+
+https://doolittles.com/  [android]
+  WARN  wrong phone keyboard: email field 'Email*' (input#input3324.x-el) is type=text, needs type=email
+  WARN  wrong phone keyboard: tel field 'Phone' (input#input3325.x-el) is type=text, needs type=tel
+  WARN  11 of 28 tap targets under 24px: div.x-el 10x10, div.x-el 10x10, div.x-el 10x10, div.x-el 10x10, div.x-el 10x10
+
+https://doolittles.com/menu  [iphone]
+  WARN  4 of 16 tap targets under 24px: a.x-el 342x19, a.x-el 342x19, a.x-el 342x19, a.x-el 100x21
+
+https://doolittles.com/menu  [android]
+  WARN  4 of 16 tap targets under 24px: a.x-el 345x19, a.x-el 345x19, a.x-el 345x19, a.x-el 100x21
+
+https://www.elburritomercado.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  1 of 9 tap targets under 24px: a.site-location__address 360x19
+
+https://www.elburritomercado.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  1 of 9 tap targets under 24px: a.site-location__address 363x19
+
+https://www.elburritomercado.com/menus/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  1 of 13 tap targets under 24px: a.site-location__address 360x19
+
+https://www.elburritomercado.com/menus/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  1 of 13 tap targets under 24px: a.site-location__address 363x19
+
+https://pianosnyc.com/  [iphone]
+  WARN  viewport meta: initial-scale=1.0, maximum-scale=1.0, user-scalable=no
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div covers 100% of the screen
+
+https://pianosnyc.com/  [android]
+  WARN  viewport meta: initial-scale=1.0, maximum-scale=1.0, user-scalable=no
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div covers 100% of the screen
+
+https://pianosnyc.com/Menu  [iphone]
+  WARN  viewport meta: initial-scale=1.0, maximum-scale=1.0, user-scalable=no
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div covers 100% of the screen
+
+https://pianosnyc.com/Menu  [android]
+  WARN  viewport meta: initial-scale=1.0, maximum-scale=1.0, user-scalable=no
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  fixed layer div covers 100% of the screen
+
+https://www.dominiqueanselny.com/  [iphone]
+  FAIL  dead link: https://www.dominiqueanselny.com/wp-content/uploads/2025/10/DAB-Menu-103125-combined.pdf answers 404
+  WARN  20 of 71 tap targets under 24px: a 174x17, a 172x17, a 164x17, a 130x17, a 174x17
+
+https://www.dominiqueanselny.com/  [android]
+  WARN  20 of 71 tap targets under 24px: a 174x17, a 172x17, a 164x17, a 130x17, a 174x17
+
+https://www.dominiqueanselny.com/corporate-gifting/  [iphone]
+  WARN  wrong phone keyboard: tel field 'Phone Number *' (input.wpcf7-form-control) is type=text, needs type=tel
+  WARN  15 of 40 tap targets under 24px: input 12x12, input 12x12, input 12x12, a 209x19, a 106x19
+
+https://www.dominiqueanselny.com/corporate-gifting/  [android]
+  WARN  wrong phone keyboard: tel field 'Phone Number *' (input.wpcf7-form-control) is type=text, needs type=tel
+  WARN  15 of 40 tap targets under 24px: input 13x13, input 13x13, input 13x13, a 209x20, a 106x20
+
+https://www.goldenunicornrestaurant.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780
+  FAIL  dead link: https://www.order.store/store/golden-unicorn-restaurant/aS2ZUJ_URmKjuZRCXl0wWw answers 404
+  FAIL  dead link: https://www.order.store/store/golden-unicorn-restaurant/aS2ZUJ_URmKjuZRCXl0wWw?diningMode=PICKUP answers 404
+  FAIL  dead link: https://www.order.store/store/golden-unicorn-restaurant/aS2ZUJ_URmKjuZRCXl0wWw?diningMode=DELIVERY answers 404
+  WARN  fixed layer div#yui_3_17_2_1_1791322186651_236.yui3-widget covers 50% of the screen
+  WARN  20 of 45 tap targets under 24px: button.gallery-fullscreen-slideshow-bullet 10x10, button.gallery-fullscreen-slideshow-bullet 10x10, button.gallery-fullscreen-slideshow-bullet 10x10, button.gallery-fullscreen-slideshow-bullet 10x10, button.gallery-fullscreen-slideshow-bullet 10x10
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.goldenunicornrestaurant.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786
+  WARN  fixed layer div#yui_3_17_2_1_1791322195766_236.yui3-widget covers 50% of the screen
+  WARN  header at y=-928 after scrolling down and back up
+  WARN  20 of 45 tap targets under 24px: button.gallery-fullscreen-slideshow-bullet 10x10, button.gallery-fullscreen-slideshow-bullet 10x10, button.gallery-fullscreen-slideshow-bullet 10x10, button.gallery-fullscreen-slideshow-bullet 10x10, button.gallery-fullscreen-slideshow-bullet 10x10
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.goldenunicornrestaurant.com/menu-1  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=780
+  FAIL  dead link: https://www.order.store/store/golden-unicorn-restaurant/aS2ZUJ_URmKjuZRCXl0wWw answers 404
+  FAIL  dead link: https://www.order.store/store/golden-unicorn-restaurant/aS2ZUJ_URmKjuZRCXl0wWw?diningMode=PICKUP answers 404
+  FAIL  dead link: https://www.order.store/store/golden-unicorn-restaurant/aS2ZUJ_URmKjuZRCXl0wWw?diningMode=DELIVERY answers 404
+  WARN  fixed layer div#yui_3_17_2_1_1791322198740_187.yui3-widget covers 50% of the screen
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.goldenunicornrestaurant.com/menu-1  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-menu-nav-folder right=786
+  WARN  fixed layer div#yui_3_17_2_1_1791322206775_187.yui3-widget covers 50% of the screen
+  WARN  header at y=-554 after scrolling down and back up
+  WARN  4 text elements under 12px: span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px, span.sqs-mobile-info-bar-trigger-label 10px
+
+https://www.chateaumarmont.com/  [iphone]
+  WARN  fixed layer div.tru_overlay covers 100% of the screen
+  WARN  fixed layer div.tru_cookie-dialog_2_3 covers 58% of the screen
+  WARN  8 of 11 tap targets under 24px: a.underline 99x16, a.underline 116x16, a.underline 105x16, a.underline 48x16, a#ig 20x20
+
+https://www.chateaumarmont.com/  [android]
+  WARN  fixed layer div.tru_overlay covers 100% of the screen
+  WARN  fixed layer div.tru_cookie-dialog_2_3 covers 50% of the screen
+  WARN  8 of 11 tap targets under 24px: a.underline 99x16, a.underline 116x16, a.underline 105x16, a.underline 48x16, a#ig 20x20
+
+https://www.chateaumarmont.com/terms  [iphone]
+  WARN  viewport meta: missing
+
+https://www.chateaumarmont.com/terms  [android]
+  WARN  viewport meta: missing
+
+https://thepurplepigrestaurantgroup.com/  [iphone]
+  WARN  1 text elements under 12px: p#choose-label.eyebrow 11.52px
+
+https://thepurplepigrestaurantgroup.com/  [android]
+  WARN  1 text elements under 12px: p#choose-label.eyebrow 11.52px
+
+https://www.fronteragrill.com/  [iphone]
+  FAIL  iOS zoom trap: input.mc_text at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#mc4wp_email.mc_text at 14px (needs 16px on touch)
+  WARN  broken image: https://d.adroll.com/cm/b_s/out?af0=3dcece8e&adroll_fpc=3edbb954293cc79b99e360c952491095-1791322231343&pv=41192276851.96338&arrfrr=https%3A%2F%2Fwww.fronteragri
+  WARN  broken image: https://d.adroll.com/cm/eyeota/out?af0=3dcece8e&adroll_fpc=3edbb954293cc79b99e360c952491095-1791322231343&pv=41192276851.96338&arrfrr=https%3A%2F%2Fwww.frontera
+  WARN  broken image: https://d.adroll.com/cm/outbrain/out?af0=3dcece8e&adroll_fpc=3edbb954293cc79b99e360c952491095-1791322231343&pv=41192276851.96338&arrfrr=https%3A%2F%2Fwww.fronte
+  WARN  16 of 54 tap targets under 24px: a 36x17, a 77x17, a 88x17, a 29x17, a 41x18
+
+https://www.fronteragrill.com/  [android]
+  FAIL  iOS zoom trap: input.mc_text at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#mc4wp_email.mc_text at 14px (needs 16px on touch)
+  WARN  broken image: https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=a2cc7b9293761cb894aba34e5cb099eb-1791322251028&pv=37967055743.52233&arrfrr=https%3A%2F%2Fwww.fronteragri
+  WARN  broken image: https://d.adroll.com/cm/l/out?af0=af47dabf&adroll_fpc=a2cc7b9293761cb894aba34e5cb099eb-1791322251028&pv=37967055743.52233&arrfrr=https%3A%2F%2Fwww.fronteragrill
+  WARN  broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=a2cc7b9293761cb894aba34e5cb099eb-1791322251028&pv=37967055743.52233&arrfrr=https%3A%2F%2Fwww.fronte
+  WARN  16 of 55 tap targets under 24px: a 36x17, a 77x17, a 88x17, a 29x17, a 41x19
+
+https://www.fronteragrill.com/reservations  [iphone]
+  FAIL  iOS zoom trap: input.mc_text at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#mc4wp_email.mc_text at 14px (needs 16px on touch)
+  WARN  broken image: https://d.adroll.com/cm/b_s/out?af0=3dcece8e&adroll_fpc=608fb09923c68ca1333512ed213e4077-1791322257605&pv=41478492936.89696&arrfrr=https%3A%2F%2Fwww.fronteragri
+  WARN  broken image: https://d.adroll.com/cm/eyeota/out?af0=3dcece8e&adroll_fpc=608fb09923c68ca1333512ed213e4077-1791322257605&pv=41478492936.89696&arrfrr=https%3A%2F%2Fwww.frontera
+  WARN  broken image: https://d.adroll.com/cm/outbrain/out?af0=3dcece8e&adroll_fpc=608fb09923c68ca1333512ed213e4077-1791322257605&pv=41478492936.89696&arrfrr=https%3A%2F%2Fwww.fronte
+  WARN  16 of 54 tap targets under 24px: a 36x17, a 77x17, a 88x17, a 29x17, a 41x18
+
+https://www.fronteragrill.com/reservations  [android]
+  FAIL  iOS zoom trap: input.mc_text at 14px (needs 16px on touch)
+  FAIL  iOS zoom trap: input#mc4wp_email.mc_text at 14px (needs 16px on touch)
+  WARN  broken image: https://d.adroll.com/cm/b_s/out?af0=af47dabf&adroll_fpc=c568edf7a91671adef745898196bf23a-1791322275056&pv=66484922241.14536&arrfrr=https%3A%2F%2Fwww.fronteragri
+  WARN  broken image: https://d.adroll.com/cm/l/out?af0=af47dabf&adroll_fpc=c568edf7a91671adef745898196bf23a-1791322275056&pv=66484922241.14536&arrfrr=https%3A%2F%2Fwww.fronteragrill
+  WARN  broken image: https://d.adroll.com/cm/outbrain/out?af0=af47dabf&adroll_fpc=c568edf7a91671adef745898196bf23a-1791322275056&pv=66484922241.14536&arrfrr=https%3A%2F%2Fwww.fronte
+  WARN  16 of 55 tap targets under 24px: a 36x17, a 77x17, a 88x17, a 29x17, a 41x19
+
+https://www.thewhitehallhouston.com/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-sidenav right=780
+  FAIL  dead link: https://be.synxis.com/?Hotel=67132&Chain=26905&promo=DISSSA&nights=3&_gl=1*1pfftpp* answers 400
+  FAIL  pageerror: undefined is not an object (evaluating 'b[c].last_event')
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  20 of 46 tap targets under 24px: button#slick-slide-control40 10x10, button#slick-slide-control41 8x8, button#slick-slide-control42 8x8, button#slick-slide-control43 8x8, button#slick-slide-control44 8x8
+
+https://www.thewhitehallhouston.com/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.header-sidenav right=786
+  WARN  viewport meta caps zoom (Android honours it; pinch-zoom dies)
+  WARN  header at y=-207 after scrolling down and back up
+  WARN  20 of 46 tap targets under 24px: button#slick-slide-control40 10x10, button#slick-slide-control41 8x8, button#slick-slide-control42 8x8, button#slick-slide-control43 8x8, button#slick-slide-control44 8x8
+
+https://www.cococrepes.com/location/coco-crepes-midtown/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+  WARN  2 of 9 tap targets under 24px: a 110x20, a 221x20
+
+https://www.cococrepes.com/location/coco-crepes-midtown/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+  WARN  2 of 9 tap targets under 24px: a 110x19, a 221x19
+
+https://www.cococrepes.com/gift-cards/  [iphone]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=576
+  FAIL  pageerror: Unexpected token ':'
+
+https://www.cococrepes.com/gift-cards/  [android]
+  WARN  sideways overflow (element leaks, but the page did not pan in this engine): div.grecaptcha-badge right=579
+
+56 page-device rows, 28 FAIL findings

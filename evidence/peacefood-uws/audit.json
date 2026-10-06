@@ -1,0 +1,386 @@
+[
+ {
+  "url": "https://www.peacefoodnyc.com/",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.7,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 3421,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 9,
+  "small": 1,
+  "smallList": [
+   "a 241x16"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.bright",
+  "textLen": 840,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   }
+  ],
+  "allLinks": [
+   "https://www.peacefoodnyc.com/#page",
+   "https://www.peacefoodnyc.com/",
+   "https://www.peacefoodnyc.com/peacefood-menu",
+   "https://www.peacefoodnyc.com/about-us",
+   "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3",
+   "https://www.peacefoodnyc.com/bakery",
+   "http://instagram.com/peacefoodnyc",
+   "https://www.facebook.com/peacefoodnyc",
+   "https://www.peacefoodnyc.com/cart",
+   "https://www.peacefoodnyc.com/customed-bakery-orders"
+  ],
+  "weight": 29827,
+  "title": "peacefood Vegan Restaurant Washington Square Park | Vegan Desserts",
+  "roundtrip": {
+   "atBottom": {
+    "y": 2757,
+    "inner": 58
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [
+   {
+    "href": "https://www.peacefoodnyc.com/customed-bakery-orders",
+    "codes": [
+     404,
+     404
+    ],
+    "verdict": "dead"
+   }
+  ],
+  "shot": "data/shots/https-www-peacefoodnyc-com.png",
+  "errors": [],
+  "findings": [
+   [
+    "FAIL",
+    "dead link: https://www.peacefoodnyc.com/customed-bakery-orders answers 404"
+   ],
+   [
+    "WARN",
+    "1 of 9 tap targets under 24px: a 241x16"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3421px tall"
+   ]
+  ],
+  "site": "https://www.peacefoodnyc.com/",
+  "hop": "https://www.peacefoodnyc.com/peacefood-menu"
+ },
+ {
+  "url": "https://www.peacefoodnyc.com/",
+  "device": "android",
+  "status": 200,
+  "load_s": 1.9,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 3487,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 9,
+  "small": 1,
+  "smallList": [
+   "a 241x16"
+  ],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.bright",
+  "textLen": 839,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   }
+  ],
+  "allLinks": [
+   "https://www.peacefoodnyc.com/#page",
+   "https://www.peacefoodnyc.com/",
+   "https://www.peacefoodnyc.com/peacefood-menu",
+   "https://www.peacefoodnyc.com/about-us",
+   "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3",
+   "https://www.peacefoodnyc.com/bakery",
+   "http://instagram.com/peacefoodnyc",
+   "https://www.facebook.com/peacefoodnyc",
+   "https://www.peacefoodnyc.com/cart",
+   "https://www.peacefoodnyc.com/customed-bakery-orders"
+  ],
+  "weight": 29791,
+  "title": "peacefood Vegan Restaurant Washington Square Park | Vegan Desserts",
+  "roundtrip": {
+   "atBottom": {
+    "y": 1464,
+    "inner": 57
+   },
+   "backY": 433,
+   "backInner": 0,
+   "headTop": -433
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-433 after scrolling down and back up"
+   ],
+   [
+    "WARN",
+    "1 of 9 tap targets under 24px: a 241x16"
+   ],
+   [
+    "INFO",
+    "document scrolls, 3487px tall"
+   ]
+  ],
+  "site": "https://www.peacefoodnyc.com/"
+ },
+ {
+  "url": "https://www.peacefoodnyc.com/peacefood-menu",
+  "device": "iphone",
+  "status": 200,
+  "load_s": 2.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 390,
+  "vh": 664,
+  "docH": 1335,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 9,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.bright",
+  "textLen": 147,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   }
+  ],
+  "allLinks": [
+   "https://www.peacefoodnyc.com/peacefood-menu#page",
+   "https://www.peacefoodnyc.com/",
+   "https://www.peacefoodnyc.com/peacefood-menu",
+   "https://www.peacefoodnyc.com/about-us",
+   "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3",
+   "https://www.peacefoodnyc.com/bakery",
+   "http://instagram.com/peacefoodnyc",
+   "https://www.facebook.com/peacefoodnyc",
+   "https://www.peacefoodnyc.com/cart"
+  ],
+  "weight": 25039,
+  "title": "menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 671,
+    "inner": 58
+   },
+   "backY": 0,
+   "backInner": 0,
+   "headTop": 0
+  },
+  "panX": 0,
+  "deadLinks": [],
+  "shot": "data/shots/https-www-peacefoodnyc-com-peacefood-menu.png",
+  "errors": [],
+  "findings": [
+   [
+    "INFO",
+    "document scrolls, 1335px tall"
+   ]
+  ],
+  "site": "https://www.peacefoodnyc.com/"
+ },
+ {
+  "url": "https://www.peacefoodnyc.com/peacefood-menu",
+  "device": "android",
+  "status": 200,
+  "load_s": 3.6,
+  "meta": "width=device-width, initial-scale=1",
+  "vw": 393,
+  "vh": 727,
+  "docH": 1384,
+  "zoomTrap": [],
+  "leaks": [],
+  "docWider": false,
+  "docLocked": false,
+  "scrollers": [],
+  "unreachable": false,
+  "layers": [],
+  "targets": 9,
+  "small": 0,
+  "smallList": [],
+  "tiny": 0,
+  "tinyList": [],
+  "headTop": 0,
+  "headTag": "header#header.bright",
+  "textLen": 143,
+  "fields": [],
+  "wrongKeyboard": [],
+  "autofillOff": [],
+  "brokenImgs": [],
+  "moneyLinks": [
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   },
+   {
+    "text": "menu",
+    "href": "https://www.peacefoodnyc.com/peacefood-menu"
+   },
+   {
+    "text": "Virtual Gift Cards",
+    "href": "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3"
+   }
+  ],
+  "allLinks": [
+   "https://www.peacefoodnyc.com/peacefood-menu#page",
+   "https://www.peacefoodnyc.com/",
+   "https://www.peacefoodnyc.com/peacefood-menu",
+   "https://www.peacefoodnyc.com/about-us",
+   "https://app.yiftee.com/gifts/egift_and_gift_cards/peacefood-cafe-new-york-3",
+   "https://www.peacefoodnyc.com/bakery",
+   "http://instagram.com/peacefoodnyc",
+   "https://www.facebook.com/peacefoodnyc",
+   "https://www.peacefoodnyc.com/cart"
+  ],
+  "weight": 25003,
+  "title": "menu",
+  "roundtrip": {
+   "atBottom": {
+    "y": 601,
+    "inner": 57
+   },
+   "backY": 50,
+   "backInner": 0,
+   "headTop": -50
+  },
+  "panX": 0,
+  "errors": [],
+  "findings": [
+   [
+    "WARN",
+    "header at y=-50 after scrolling down and back up"
+   ],
+   [
+    "INFO",
+    "document scrolls, 1384px tall"
+   ]
+  ],
+  "site": "https://www.peacefoodnyc.com/"
+ }
+]
