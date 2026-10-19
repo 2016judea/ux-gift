@@ -20,10 +20,17 @@ import sys
 UA = "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
 
 
+BODY = "/tmp/presend.body"
+
+
 def curl(url):
-    out = subprocess.run(["curl", "-sL", "-A", UA, "-o", "/tmp/presend.body", "-w", "%{http_code}", "--max-time", "20", url],
+    # Remove the last check's body first: a curl that times out writes nothing, and the
+    # previous page's HTML would otherwise be read as this one's (a dead bug "still there").
+    if os.path.exists(BODY):
+        os.remove(BODY)
+    out = subprocess.run(["curl", "-sL", "-A", UA, "-o", BODY, "-w", "%{http_code}", "--max-time", "20", url],
                          capture_output=True, text=True).stdout
-    body = open("/tmp/presend.body", errors="ignore").read() if os.path.exists("/tmp/presend.body") else ""
+    body = open(BODY, errors="ignore").read() if os.path.exists(BODY) else ""
     return out, body
 
 
