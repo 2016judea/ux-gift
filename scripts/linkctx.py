@@ -2,7 +2,7 @@
 """Where a link sits and what it says, on a phone: linkctx.py URL HREF_SUBSTRING [...]"""
 import sys
 from pathlib import Path
-sys.path.insert(0, str(Path.home() / "Desktop/bricks/.venv/lib/python3.11/site-packages"))
+sys.path.insert(0, str(Path.home() / "Desktop/workspace/bricks/.venv/lib/python3.11/site-packages"))
 from playwright.sync_api import sync_playwright
 url, subs = sys.argv[1], sys.argv[2:]
 with sync_playwright() as p:

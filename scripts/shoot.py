@@ -18,7 +18,7 @@ import io
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path.home() / "Desktop/bricks/.venv/lib/python3.11/site-packages"))
+sys.path.insert(0, str(Path.home() / "Desktop/workspace/bricks/.venv/lib/python3.11/site-packages"))
 from PIL import Image, ImageDraw  # noqa: E402
 from playwright.sync_api import sync_playwright  # noqa: E402
 

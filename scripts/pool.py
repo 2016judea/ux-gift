@@ -20,7 +20,7 @@ from urllib.parse import urlparse
 
 import requests
 
-BRICKS = Path.home() / "Desktop/bricks/data"
+BRICKS = Path.home() / "Desktop/workspace/bricks/data"
 OUT = Path(__file__).resolve().parent.parent / "data"
 
 SOURCES = ["leads.csv", "leads_hair_validated.csv", "leads_spa_validated.csv"]

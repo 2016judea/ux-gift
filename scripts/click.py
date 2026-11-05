@@ -15,7 +15,7 @@ import argparse
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path.home() / "Desktop/bricks/.venv/lib/python3.11/site-packages"))
+sys.path.insert(0, str(Path.home() / "Desktop/workspace/bricks/.venv/lib/python3.11/site-packages"))
 from playwright.sync_api import sync_playwright  # noqa: E402
 
 OVER = r"""() => { const vw = innerWidth, vh = innerHeight; const out = [];

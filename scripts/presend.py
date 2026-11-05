@@ -6,7 +6,7 @@
   2. the recipient's domain has an MX record
   3. the address is not on Mailgun's bounces / complaints / unsubscribes lists for the domain
 
-    set -a; source ~/Desktop/bricks/.env; set +a
+    set -a; source ~/Desktop/workspace/bricks/.env; set +a
     python3 scripts/presend.py drafts/<slug>.txt [...]     -> PASS/FAIL per draft, exit 1 on any FAIL
 
 Writes nothing and sends nothing.
